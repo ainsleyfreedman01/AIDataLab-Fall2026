@@ -1,0 +1,8 @@
+{
+    // Some CSV rows contain a full policy document as a single very long line
+    // (100k+ characters). VS Code disables syntax highlighting on any line
+    // past this length for performance, which made those rows render as
+    // plain white text. Raise the limit so long rows still get colored.
+    "editor.maxTokenizationLineLength": 300000,
+    "rainbow_csv.enable_auto_csv_lint": true
+}
