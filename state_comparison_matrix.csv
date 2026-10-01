@@ -1,8 +1,0 @@
-﻿"state","ai_development_tier","total_policy_rows","state_level_rows","district_level_rows","policy_type_mix","maturity_mix","comparison_role"
-"California","highest","3","2","1","guidance: 1; policy: 2","adopted_or_formal_policy: 1; model_policy_nonbinding: 1; state_guidance: 1","Benchmark for a mature AI industry state with formal state-level K-12 guidance and district implementation pressure."
-"Washington","highest","3","1","2","guidance: 1; guidebook_or_handbook: 2","implementation_handbook: 2; state_guidance: 1","Cloud/platform AI state with comparatively advanced statewide K-12 AI guidance and multiple district handbooks."
-"Texas","high","3","1","2","guidebook_or_handbook: 1; other: 1; task_force_or_report: 1","implementation_handbook: 1; needs_review: 1; research_or_recommendation_report: 1","Fast-growth AI ecosystem with policy experimentation at task-force and district levels."
-"New York","high","2","1","1","guidance: 1; other: 1","needs_review: 2","Large applied-AI economy and large urban school district policy response."
-"Massachusetts","high","2","1","1","guidance: 1; policy: 1","adopted_or_formal_policy: 1; state_guidance: 1","Research-intensive AI state with detailed state education guidance and district policy from Boston."
-"Georgia","emerging-high","3","1","2","other: 2; position_statement: 1","needs_review: 2; position_statement: 1","Primary focal case: emerging AI hub with state guidance and early district-level positioning."
-"Pennsylvania","high-specialized","3","1","2","other: 1; policy: 1; resource_page: 1","adopted_or_formal_policy: 1; needs_review: 1; resource_or_support_page: 1","AI research/autonomy state with mixed state and district policy signals."

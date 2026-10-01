@@ -9,7 +9,6 @@ Output: k12_ai_policies.xlsx
 """
 
 import csv
-import os
 import sys
 
 from openpyxl import Workbook
@@ -26,6 +25,13 @@ STATE_COLORS = {
     "Pennsylvania": "E4DFEC",
     "Massachusetts": "FFF2CC",
     "Georgia": "D9E1F2",
+    "Mississippi": "EDEDED",
+    "Alabama": "F8CBAD",
+    "West Virginia": "C6E0B4",
+    "Kentucky": "BDD7EE",
+    "Oklahoma": "FFE699",
+    "Wyoming": "D5C4E0",
+    "Louisiana": "B4E5E0",
 }
 
 HEADER_FILL = PatternFill("solid", fgColor="305496")
@@ -59,46 +65,12 @@ def main() -> None:
         for cell in row:
             cell.alignment = Alignment(vertical="top", wrap_text=False)
 
-    widths = {"state": 14, "level": 10, "title": 45, "source_url": 40,
+    widths = {"state": 14, "comparison_group": 22, "level": 10, "doc_type": 20, "title": 45, "source_url": 40,
               "date_retrieved": 14, "status": 10, "char_count": 11, "full_text": 60}
     for idx, field in enumerate(fieldnames, start=1):
         ws.column_dimensions[get_column_letter(idx)].width = widths.get(field, 20)
 
     ws.freeze_panes = "A2"
-
-    companion_files = [
-        ("State Comparison", "state_comparison_matrix.csv"),
-        ("AI Ecosystems", "ai_ecosystem_metadata.csv"),
-        ("Coding Template", "policy_coding_template.csv"),
-        ("Analysis Ready", "policy_analysis_ready.csv"),
-        ("Text Chunks", "policy_text_chunks.csv"),
-        ("Sentiment Scores", "policy_sentiment_lexicon_scores.csv"),
-        ("State Summary", "state_policy_summary.csv"),
-    ]
-    for sheet_name, csv_path in companion_files:
-        if not os.path.exists(csv_path):
-            continue
-        with open(csv_path, newline="", encoding="utf-8-sig") as f:
-            companion_reader = csv.DictReader(f)
-            companion_fields = companion_reader.fieldnames
-            companion_rows = list(companion_reader)
-
-        companion_ws = wb.create_sheet(sheet_name)
-        companion_ws.append(companion_fields)
-        for cell in companion_ws[1]:
-            cell.fill = HEADER_FILL
-            cell.font = HEADER_FONT
-
-        for row in companion_rows:
-            companion_ws.append([row[field] for field in companion_fields])
-
-        for row in companion_ws.iter_rows(min_row=2):
-            for cell in row:
-                cell.alignment = Alignment(vertical="top", wrap_text=True)
-
-        for idx, field in enumerate(companion_fields, start=1):
-            companion_ws.column_dimensions[get_column_letter(idx)].width = min(max(len(field) + 4, 14), 55)
-        companion_ws.freeze_panes = "A2"
 
     out_path = "k12_ai_policies.xlsx"
     wb.save(out_path)
