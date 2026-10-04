@@ -10513,7 +10513,7 @@ Explanation:
 This scenario aligns well with the Clayton County Public Schools AI Position Statement， which supports the use of AI tools to enhance educational accessibility and deepen understanding for students. The AI-powered learning platform aids the student in mastering challenging concepts through guided instruction， enabling independent problem-solving. This responsible application of AI leverages technology to support individual learning without replacing the educational role of teachers， adhering to the district's vision of using AI to enhance， rather than replace， human elements of education.
 CCPS AI Position Statement Bullet:
 ”AI tools will support personalized instruction by adapting content to students’ needs. Equitable and Inclusive Access – AI tools will be accessible to all students and designed to bridge technological disparities.”"
-"Massachusetts","$5B","ai_development_hub","state","guidance","Massachusetts Guidance for Artificial Intelligence in K-12 Education (DESE)","https://www.doe.mass.edu/edtech/ai/ai-guidance.pdf","2026-09-26","ok_cached_previous_retrieval","135104","Massachusetts
+"Massachusetts","$5B","ai_development_hub","state","guidance","Massachusetts Guidance for Artificial Intelligence in K-12 Education (DESE)","https://www.doe.mass.edu/edtech/ai/ai-guidance.pdf","2026-10-01","ok","135104","Massachusetts
 Guidance for Artificial
 Intelligence in K–12
 Education
@@ -17514,7 +17514,7 @@ Teachers use a combination of clear expectations， thoughtful assignment design
 Artificial Intelligence (AI) use is always determined by what is developmentally appropriate. Teachers adjust how AI is used based on student maturity， skill level， and the learning goals of the lesson. AI can be appropriate at all grade levels when used thoughtfully， starting with strong teacher guidance in early grades and gradually building toward responsible， independent use as students develop.
 All guardians must agree annually to the Celina ISD Acceptable Use Policy (AUP) as defined in CQ(Local). The following Artificial Intelligence clarification is included in the AUP:
 The use of AI technology in the PK-12 school district must comply with the district's Acceptable Use Policy (AUP). AI technology can be an excellent resource for enhancing learning and teaching experiences， but it must be used responsibly and ethically. Students， teachers， and staff members must ensure that any AI systems they use are age-appropriate and that they do not violate the privacy of other individuals. The use of AI for academic purposes should align with the district's curriculum and instruction goals. Additionally， students， teachers， and staff must use AI tools responsibly， avoiding any form of plagiarism or cheating. Failure to follow these guidelines may result in disciplinary action， including suspension or revocation of access to AI technology. By following these guidelines， we can ensure that AI technology is used appropriately and safely within the PK-12 school district."
-"Texas","$5B","ai_development_hub","district","resource_page","Generative AI in Education (Plano Independent School District)","https://www.pisd.edu/departments-66/instructional-technology/technology-resources/generative-ai-in-education","2026-10-01","ok_cached_previous_retrieval","5919","Artificial Intelligence (AI)
+"Texas","$5B","ai_development_hub","district","resource_page","Generative AI in Education (Plano Independent School District)","https://www.pisd.edu/departments-66/instructional-technology/technology-resources/generative-ai-in-education","2026-10-01","ok","5919","Artificial Intelligence (AI)
 Plano ISD is committed to helping students， teachers， and staff use AI tools responsibly and effectively to support learning and growth. Our guidance provides clear policies， approved tools， and practical strategies to ensure AI enhances education while maintaining academic integrity and protecting student privacy.
 Plano ISD's Generative Artificial Intelligence Position and Guidance
 AI Tools
@@ -66813,6 +66813,82 @@ https://url.gadoe.org/bl775 is licensed under CC BY-NC 4.0.
 SA 4.0.
 Last update: July 6， 2026.
 19"
+"South Dakota","no data","limited_ai_development","district","guidance","Artificial Intelligence Guidance， May 2026 (Sioux Falls School District)","https://docs.google.com/document/d/13MuS7a5x0-85pPCGAhKsYQ-amOzIiEs6AYjbbXWj96I/export?format=txt","2026-10-01","ok","4367","Artificial Intelligence  Artificial Intelligence， Begin and End with a Human
+Guidance
+Sioux Falls School District  𐩒𐩒𐩒 May 2026
+Overview
+________________
+The Sioux Falls School District (SFSD) is dedicated to fostering innovation and providing a world-class education. Developed collaboratively with input from administrators， educators， and students， this framework aims to support ethical and meaningful AI integration while keeping educators and students at the heart of the learning process.
+Ethical Principles 🔗
+Roles & Responsibilities 🔗
+Integration 🔗
+Guidelines 🔗
+Review Process 🔗
+Ethical Principles
+________________
+SFSD’s AI guidance is built on the following ethical principles:
+* Fairness and Inclusivity: Ensuring equitable access and application of AI tools for all students
+* Transparency and Accountability: Clearly communicating AI practices while maintaining human oversight
+* Privacy and Legal Protection: Adhering to stringent data protection standards and federal law (FERPA， CIPA， COPPA， GDPR， DMCA)
+* Ongoing Evaluation: Monitoring AI tools to mitigate bias， prevent harm， and assess educational value
+Guidelines for Responsible AI Use
+________________
+To ensure ethical AI adoption， SFSD emphasizes the following:
+Artificial Intelligence， Begin and End with a Human
+* Human Oversight: Begin and end AI use with a human to maintain accuracy
+* Verify， Then Trust: Critically evaluate AI outputs to avoid misinformation
+* Protect Student Information: Personally Identifiable Information should not be shared with AI tools
+Roles & Responsibilities
+________________
+District and School Commitment
+Books and a Computer
+Building and district leaders will:
+* Provide ongoing professional development for staff to enhance AI literacy
+* On the use and best practice of generative AI tools
+* On AI’s ethical implications to promote informed decision-making
+* Establish ethical frameworks to ensure responsible， fair， and transparent access to education
+* Monitor AI use to promote responsible implementation， protect privacy， and ensure compliance with district AI guidance
+Teacher & Staff Commitment
+Hand holding a phone
+Teachers & Staff will:
+* Maintain awareness of the potential benefits and risks of using generative AI
+* Ensure privacy by removing all personally identifiable information before using AI (names， Individualized Education Programs [IEPs]， birthdays， assessments， etc.)
+* Prepare students by working toward effective， responsible， and ethical AI use through a growth mindset， including communicating expectations for AI use
+* Avoid using AI detectors as the sole justification for giving a failing grade
+* Integrate AI into their classroom to enhance learning through age-appropriate applications while maintaining transparency and clear expectations
+Student Commitment
+Students will:
+* Retain rigorous critical thinking standards regardless of whether AI is used
+* Follow the teacher’s guidelines when leveraging AI tools to support learning
+* Develop skills to use AI responsibly， recognizing that all inputs into generative AI may be retained by the AI platform
+* Evaluate the accuracy of AI-generated material， understanding that not all content is credible or ethical
+Puzzle Pieces
+Community Involvement
+The SFSD invites the community to model ethical AI use and engage in open dialogue around the use of AI. Additionally， the community is invited to deepen their understanding by attending expert-led trainings and workshops.
+Buildings
+Student Integration
+________________
+To support students in AI literacy， teachers may consider the following:
+K-5
+6-8
+9-12
+SD Content Standards: South Dakota K-12 Educational Technology Standards
+AI Literacy
+Learn about AI in grades 2-5
+After learning about AI， students may begin learning with AI chatbots， following teacher guidance.
+After learning about AI， students may begin using AI chatbots with more independence， following classroom expectations.
+Acceptable Use
+Direct interaction with chatbots is not recommended for this level
+Guide & Monitor Use
+Guide & Monitor Use
+Review & Implementation Process
+________________
+All AI tools undergo a multitiered AWE (Apps， Websites， Extensions) review process， which includes:
+* Instructional use and curriculum alignment
+* Determine need for the additional tool
+* Privacy considerations and age restrictions
+* Technical aspects
+🠉Return to Top"
 "Vermont","$40M","limited_ai_development","state","guidance","AI Guidance for Education (Vermont Agency of Education)","https://education.vermont.gov/sites/aoe/files/documents/edu-aoe-ai-guidance-for-education.pdf","2026-10-01","ok","112262","LEADERSHIP | SUPPORT | OVERSIGHT
 (802) 828-1130 | education.vermont.gov
 Issue Date: January 23， 2026

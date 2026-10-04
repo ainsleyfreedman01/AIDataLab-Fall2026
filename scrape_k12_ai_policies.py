@@ -1509,6 +1509,14 @@ SOURCES = [
         "title": "AI K-12 Guidelines (Appleton Area School District)",
         "url": "https://www.aasd.k12.wi.us/families/education-resources/ai-k-12-guidelines",
     },
+    {
+        # Google Docs plain-text export; the /edit link only returns a JS app shell.
+        "state": "South Dakota",
+        "level": "district",
+        "doc_type": "guidance",
+        "title": "Artificial Intelligence Guidance, May 2026 (Sioux Falls School District)",
+        "url": "https://docs.google.com/document/d/13MuS7a5x0-85pPCGAhKsYQ-amOzIiEs6AYjbbXWj96I/export?format=txt",
+    },
 ]
 
 HEADERS = {
