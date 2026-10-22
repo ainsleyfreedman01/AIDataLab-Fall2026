@@ -1,0 +1,111 @@
+﻿rank,district,state,pii_terms,uses_term_PII,terms
+1,Charlotte-Mecklenburg Schools,North Carolina,21,yes,Names; Home address; Phone number / contact info; Email address; Date / place of birth; Social Security number; Student / staff ID numbers; Driver's license number; Grades / test scores / performance data; Attendance; Discipline / behavior records; Health / medical information; Biometric data; Race / ethnicity / demographics; Religion; Sex / gender / sexual orientation; Citizenship / immigration / national origin; Family members' / others' information; Financial information; Education records (general); Indirect / combinable identifiers
+2,Spartanburg School District Four,South Carolina,14,yes,Names; Home address; Phone number / contact info; Date / place of birth; Social Security number; Grades / test scores / performance data; Discipline / behavior records; IEP / 504 / disability information; Health / medical information; Photos / images / likeness; Audio / video / voice recordings; Family members' / others' information; Financial information; Education records (general)
+3,Manchester School District,New Hampshire,11,yes,Names; Home address; Phone number / contact info; Social Security number; Student / staff ID numbers; Driver's license number; Grades / test scores / performance data; Discipline / behavior records; IEP / 504 / disability information; Health / medical information; Family members' / others' information
+3,School District of Philadelphia,Pennsylvania,11,yes,Names; Home address; Phone number / contact info; Date / place of birth; Social Security number; Student / staff ID numbers; Biometric data; Family members' / others' information; Student work; Education records (general); Indirect / combinable identifiers
+3,Springfield Public Schools,Missouri,11,yes,Names; Home address; Phone number / contact info; Student / staff ID numbers; Grades / test scores / performance data; Health / medical information; Family members' / others' information; Financial information; Passwords / credentials / device & online identifiers; Employee / personnel records & evaluations; Education records (general)
+6,Bellevue School District,Washington,10,yes,Names; Student / staff ID numbers; Grades / test scores / performance data; Attendance; Discipline / behavior records; IEP / 504 / disability information; Photos / images / likeness; Employee / personnel records & evaluations; Education records (general); Indirect / combinable identifiers
+6,Pharr-San Juan-Alamo Independent School District,Texas,10,yes,Names; Home address; Social Security number; Student / staff ID numbers; Grades / test scores / performance data; Discipline / behavior records; IEP / 504 / disability information; Health / medical information; Family members' / others' information; Passwords / credentials / device & online identifiers
+8,Fairfax County Public Schools,Virginia,9,yes,Names; Home address; Student / staff ID numbers; Grades / test scores / performance data; IEP / 504 / disability information; Photos / images / likeness; Audio / video / voice recordings; Student work; Employee / personnel records & evaluations
+8,Los Angeles Unified School District,California,9,no,Social Security number; Grades / test scores / performance data; Attendance; Discipline / behavior records; Health / medical information; Photos / images / likeness; Audio / video / voice recordings; Employee / personnel records & evaluations; Education records (general)
+8,Richland School District One,South Carolina,9,yes,Names; Home address; Phone number / contact info; Email address; Social Security number; Grades / test scores / performance data; IEP / 504 / disability information; Passwords / credentials / device & online identifiers; Education records (general)
+11,Cherokee County School District,Georgia,8,yes,Names; Student / staff ID numbers; Grades / test scores / performance data; IEP / 504 / disability information; Health / medical information; Photos / images / likeness; Audio / video / voice recordings; English learner (ESOL/ELL) status
+11,Plano Independent School District,Texas,8,yes,Names; Home address; Date / place of birth; IEP / 504 / disability information; Health / medical information; Photos / images / likeness; Passwords / credentials / device & online identifiers; Education records (general)
+13,York School District One,South Carolina,7,yes,Names; Phone number / contact info; Email address; Social Security number; IEP / 504 / disability information; Health / medical information; Education records (general)
+14,Boston Public Schools,Massachusetts,6,yes,Names; Home address; Date / place of birth; Student / staff ID numbers; IEP / 504 / disability information; Health / medical information
+14,Campbell County School District 1,Wyoming,6,no,Names; Home address; Phone number / contact info; Email address; Photos / images / likeness; Audio / video / voice recordings
+14,Newton Public Schools,Massachusetts,6,yes,Names; Social Security number; Student / staff ID numbers; Grades / test scores / performance data; Discipline / behavior records; Health / medical information
+14,Portland Public Schools,Oregon,6,yes,Names; Grades / test scores / performance data; Discipline / behavior records; Health / medical information; Photos / images / likeness; Student work
+14,Seattle Public Schools,Washington,6,yes,Names; Home address; Phone number / contact info; Date / place of birth; Social Security number; Financial information
+19,Collier County Public Schools,Florida,5,yes,Names; Home address; Student / staff ID numbers; Grades / test scores / performance data; IEP / 504 / disability information
+19,Grant Parish School Board,Louisiana,5,yes,Discipline / behavior records; IEP / 504 / disability information; Health / medical information; Passwords / credentials / device & online identifiers; Employee / personnel records & evaluations
+19,Richmond Public Schools,Virginia,5,yes,Names; Student / staff ID numbers; Health / medical information; Photos / images / likeness; Passwords / credentials / device & online identifiers
+22,Dallas Independent School District,Texas,4,yes,Health / medical information; Financial information; Employee / personnel records & evaluations; Education records (general)
+22,Houston Independent School District,Texas,4,yes,Names; Home address; Phone number / contact info; Student / staff ID numbers
+22,Ouachita Parish School Board,Louisiana,4,yes,Names; Date / place of birth; IEP / 504 / disability information; Health / medical information
+22,Seminole County Public Schools,Florida,4,yes,Names; Home address; Passwords / credentials / device & online identifiers; Education records (general)
+22,Sioux Falls School District,South Dakota,4,yes,Names; Date / place of birth; Grades / test scores / performance data; IEP / 504 / disability information
+27,Cambridge Public Schools,Massachusetts,3,yes,Names; Email address; Student / staff ID numbers
+27,Chicago Public Schools,Illinois,3,yes,Health / medical information; Employee / personnel records & evaluations; Education records (general)
+27,Fort Bend Independent School District,Texas,3,yes,Names; Home address; Education records (general)
+27,Holliston Public Schools,Massachusetts,3,no,Names; Home address; Grades / test scores / performance data
+27,Jeffco Public Schools,Colorado,3,no,Names; Email address; Date / place of birth
+27,Moore Public Schools,Oklahoma,3,yes,Names; Home address; Phone number / contact info
+33,Bixby Public Schools,Oklahoma,2,yes,Names; Student / staff ID numbers
+33,Falls Church City Public Schools,Virginia,2,yes,IEP / 504 / disability information; Health / medical information
+33,San Mateo Union High School District,California,2,yes,Phone number / contact info; Race / ethnicity / demographics
+36,27J Schools,Colorado,1,yes,Health / medical information
+36,Allentown School District,Pennsylvania,1,yes,Education records (general)
+36,Bentonville Schools,Arkansas,1,yes,Health / medical information
+36,Broward County Public Schools,Florida,1,no,Education records (general)
+36,Celina Independent School District,Texas,1,no,Education records (general)
+36,Cherry Creek School District,Colorado,1,yes,Names
+36,Elwood Union Free School District,New York,1,yes,Employee / personnel records & evaluations
+36,Guilderland Central School District,New York,1,yes,Employee / personnel records & evaluations
+36,Hempfield School District,Pennsylvania,1,yes,Education records (general)
+36,Hingham Public Schools,Massachusetts,1,yes,Education records (general)
+36,Hudson City School District,New York,1,yes,Employee / personnel records & evaluations
+36,Hyde Park Central School District,New York,1,yes,Employee / personnel records & evaluations
+36,New York City Public Schools,New York,1,no,Education records (general)
+36,Orange County Public Schools,Florida,1,yes,Education records (general)
+36,Oxnard Union High School District,California,1,yes,Education records (general)
+36,Pottsgrove School District,Pennsylvania,1,yes,Education records (general)
+36,Quaker Valley School District,Pennsylvania,1,yes,Employee / personnel records & evaluations
+36,Stillwater Public Schools,Oklahoma,1,yes,Grades / test scores / performance data
+36,Valley Central School District,New York,1,yes,Employee / personnel records & evaluations
+55,ABC Unified School District,California,0,no,
+55,Academy District 20,Colorado,0,no,
+55,Ann Arbor Public Schools,Michigan,0,no,
+55,Argyle Independent School District,Texas,0,yes,
+55,Ascension Parish School Board,Louisiana,0,yes,
+55,Atlanta Public Schools,Georgia,0,no,
+55,Austin Independent School District,Texas,0,no,
+55,Baldwin County Public Schools,Alabama,0,yes,
+55,Barrington Public Schools,Rhode Island,0,no,
+55,Ben Hill County Schools,Georgia,0,yes,
+55,Berkeley County Schools,West Virginia,0,no,
+55,Brevard Public Schools,Florida,0,no,
+55,Canyons School District,Utah,0,no,
+55,Carlsbad Unified School District,California,0,no,
+55,Carmel Clay Schools,Indiana,0,yes,
+55,Charleston County School District,South Carolina,0,no,
+55,Cherry Hill Public Schools,New Jersey,0,yes,
+55,Christina School District,Delaware,0,no,
+55,Clayton County Public Schools,Georgia,0,no,
+55,Cutter Morning Star School District,Arkansas,0,no,
+55,Daviess County Public Schools,Kentucky,0,no,
+55,Dinuba Unified School District,California,0,no,
+55,Dothan City Schools,Alabama,0,no,
+55,East Baton Rouge Parish School System,Louisiana,0,no,
+55,Edgemont Union Free School District,New York,0,yes,
+55,Fargo Public Schools,North Dakota,0,no,
+55,Fayette County Public Schools,Kentucky,0,no,
+55,Forsyth County Schools,Georgia,0,no,
+55,Greenville County Schools,South Carolina,0,no,
+55,Gwinnett County Public Schools,Georgia,0,yes,
+55,Highline Public Schools,Washington,0,no,
+55,Hilliard City Schools,Ohio,0,yes,
+55,IDEA Public Schools,Texas,0,no,
+55,Iowa City Community School District,Iowa,0,yes,
+55,Jackson County Schools,West Virginia,0,yes,
+55,Jefferson School District,California,0,no,
+55,Lodi Unified School District,California,0,no,
+55,Long Beach Unified School District,California,0,no,
+55,Loudoun County Public Schools,Virginia,0,yes,
+55,Metro Nashville Public Schools,Tennessee,0,yes,
+55,Minneapolis Public Schools,Minnesota,0,yes,
+55,Mustang Public Schools,Oklahoma,0,no,
+55,Naperville Community Unit School District 203,Illinois,0,no,
+55,Nemo Vista School District,Arkansas,0,no,
+55,Owasso Public Schools,Oklahoma,0,no,
+55,Palo Alto Unified School District,California,0,no,
+55,Peninsula School District,Washington,0,no,
+55,Quincy School District,Washington,0,no,
+55,Rapides Parish School Board,Louisiana,0,yes,
+55,Rochester City School District,New York,0,yes,
+55,School District of Lee County,Florida,0,no,
+55,Sheridan County School District 2,Wyoming,0,no,
+55,Tacoma Public Schools,Washington,0,no,
+55,Taliaferro County School District,Georgia,0,no,
+55,Union County Public Schools,Kentucky,0,no,
+55,Washoe County School District,Nevada,0,yes,

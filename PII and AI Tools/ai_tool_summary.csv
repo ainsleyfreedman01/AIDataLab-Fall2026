@@ -1,0 +1,35 @@
+﻿tool,district_approved,district_conditional,district_not_approved,district_mentioned,state_approved,state_conditional,state_not_approved,state_mentioned,districts_approving,districts_conditional,districts_not_approving,states_any_status
+Google Gemini,14,1,1,2,1,1,1,4,ABC Unified School District; Academy District 20; Ben Hill County Schools; Cambridge Public Schools; Cherry Creek School District; Chicago Public Schools; Daviess County Public Schools; Houston Independent School District; Mustang Public Schools; Orange County Public Schools; Owasso Public Schools; Portland Public Schools; School District of Philadelphia; Stillwater Public Schools,Pharr-San Juan-Alamo Independent School District,Broward County Public Schools,Delaware; Illinois; Maryland; Missouri; North Carolina; Vermont
+Microsoft Copilot,8,0,2,2,1,1,0,2,Bellevue School District; Broward County Public Schools; Charlotte-Mecklenburg Schools; Cherry Creek School District; Chicago Public Schools; Collier County Public Schools; Houston Independent School District; Tacoma Public Schools,,Academy District 20; Cambridge Public Schools,Illinois; Maryland; Missouri; North Carolina
+MagicSchool,7,0,0,0,0,1,0,1,Academy District 20; Bellevue School District; Broward County Public Schools; Cambridge Public Schools; Christina School District; Daviess County Public Schools; Spartanburg School District Four,,,Illinois; North Carolina
+Adobe Express / Firefly,3,0,0,1,0,0,0,0,Portland Public Schools; School District of Philadelphia; Stillwater Public Schools,,,
+Canva,3,0,0,1,0,0,0,0,Ben Hill County Schools; Cambridge Public Schools; Portland Public Schools,,,
+Brisk,2,0,0,0,0,0,0,1,Daviess County Public Schools; Newton Public Schools,,,North Carolina
+Colleague AI,2,0,0,0,0,0,0,0,Bellevue School District; Tacoma Public Schools,,,
+NotebookLM,2,0,0,0,0,0,0,0,Chicago Public Schools; Stillwater Public Schools,,,
+SchoolAI,2,0,0,0,0,0,0,1,Cambridge Public Schools; Daviess County Public Schools,,,North Carolina
+Amira Learning,1,0,0,0,0,0,0,0,Houston Independent School District,,,
+Canvas (embedded AI),1,0,0,0,0,0,0,0,Stillwater Public Schools,,,
+ChatGPT,1,2,8,5,0,0,1,8,Houston Independent School District,Newton Public Schools; Pharr-San Juan-Alamo Independent School District,Academy District 20; Bixby Public Schools; Broward County Public Schools; Cambridge Public Schools; Charlotte-Mecklenburg Schools; Houston Independent School District; Minneapolis Public Schools; Springfield Public Schools,Delaware; Illinois; Louisiana; Missouri; North Carolina; Oregon; Rhode Island; West Virginia
+Google Classroom (embedded AI),1,0,0,0,0,0,0,0,Stillwater Public Schools,,,
+Kami,1,0,0,0,0,0,0,0,Portland Public Schools,,,
+Lexia Core5,1,0,0,0,0,0,0,0,Mustang Public Schools,,,
+Microsoft Reading Coach,1,0,0,0,0,0,0,0,Houston Independent School District,,,
+Screencastify,1,0,0,0,0,0,0,0,Portland Public Schools,,,
+Co:Writer Universal,0,0,0,0,1,0,0,0,,,,Illinois
+Microsoft Teams live captions,0,0,0,0,1,0,0,0,,,,Illinois
+Read&Write (Texthelp),0,0,0,0,1,0,0,0,,,,Illinois
+Snap&Read Universal,0,0,0,0,1,0,0,0,,,,Illinois
+TalkingPoints,0,0,0,0,1,0,0,0,,,,Illinois
+Apple Intelligence,0,0,0,1,0,0,0,0,,,,
+Claude,0,0,1,2,0,0,0,0,,,Charlotte-Mecklenburg Schools,
+DreamBox Learning,0,0,0,0,0,0,0,1,,,,Rhode Island
+Fathom,0,0,0,0,0,0,1,0,,,,Maryland
+Fireflies.ai,0,0,0,0,0,0,1,0,,,,Maryland
+Khanmigo,0,0,0,0,0,1,0,2,,,,Illinois; North Carolina; Rhode Island
+Notion AI,0,0,0,0,0,0,1,0,,,,Maryland
+Otter.ai,0,0,0,0,0,0,2,0,,,,Illinois; Maryland
+Perplexity,0,0,0,1,0,0,0,1,,,,North Carolina
+Skillstruck,0,0,0,0,0,0,0,1,,,,North Carolina
+Wayground (Quizizz),0,0,0,0,0,0,0,1,,,,Illinois
+tl;dv,0,0,0,0,0,0,1,0,,,,Maryland
