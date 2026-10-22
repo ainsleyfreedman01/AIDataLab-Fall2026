@@ -1,0 +1,40 @@
+PDF EXCERPT PAGE 1
+      Cambridge Public Schools GenAI Guidance:
+         Data and Student Privacy Passages
+Excerpted verbatim from Generative AI (GenAI) Guidance (Cambridge Public Schools, Educational Technology
+Department web page). The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text.
+The source is a web page without page numbers; link text (e.g., the CPS list of approved tools) is not reproduced as links.
+
+
+Introduction (excerpt)
+Source: web page, introduction
+
+By establishing guidelines for data security, privacy, and proper citation, and by encouraging critical
+thinking around AI, we can create learning environments where GenAI supports—not
+supplants—the creative and intellectual work of students and educators.
+
+Data Security, Approval, Equity & Access
+Source: web page, section 'Data Security, Approval, Equity & Access'
+
+Student Data Privacy: Safeguarding CPS students' personal information is a top priority.
+Generative AI collects data to inform its algorithms, so its use should be intentional and mindful of
+privacy.
+
+Adherence to Guidelines: Follow the guidelines of the Student Data Privacy Consortium (SDPC)
+to ensure tools used comply with student data privacy agreements. Please refer to this CPS list of
+approved tools.
+
+Approved vs. Not Approved Tools: CPS-approved Generative AI tools include SchoolAI for all
+students, Canva and MagicSchool for students 13 and older, and Gemini for CRLS students. Tools
+like ChatGPT and Microsoft Copilot are not approved for student use.
+
+Confidential Data: Do not input student or staff personally identifiable information (ex. name, email,
+ID, etc.) into open or public Gen AI models, even if using paid subscriptions like ChatGPT Plus or
+MagicSchool.
+
+Related Links (excerpt)
+Source: web page, sidebar links
+
+• Student Data Privacy
+• Data Governance Plan
+

@@ -1,0 +1,70 @@
+PDF EXCERPT PAGE 1
+ Ouachita Parish AI Acceptable Use Policy: Data
+         and Student Privacy Passages
+Excerpted verbatim from Policy EFAB – Employee and Student Acceptable Use Policy for Artificial Intelligence (Ouachita
+Parish School Board, Louisiana; new policy October 21, 2025). Page numbers match the document's own page numbering.
+Ellipses (…) mark omitted text. Bullet symbols are shown as bullets. The source sometimes prints "AI" as "Al" (a lowercase
+L); that spelling is kept.
+
+
+Definitions (excerpt)
+Source: page 1
+
+• Non-Consensual Intimate Imagery (NCII): Sexual content, including photographs or videos, that
+  is distributed without the consent of the person depicted. This includes manipulated imagery to
+  misrepresent an individual, imagery captured without the victim’s knowledge and the
+  nonconsensual sharing of consensual imagery.
+
+Access and Permissions (excerpt)
+Source: pages 1–2
+
+• Access to approved Al tools is granted to students, faculty, and staff for educational and
+  administrative purposes only. Ouachita Parish Schools maintains up-to-date PII agreements
+  which can be found through THIS LINK.
+• A list of district-approved Al tools will be maintained by the Information Technology Department
+  and reviewed biannually.
+
+Privacy, Security, and Data Protection
+Source: pages 2–3
+
+• Users must be aware of data privacy concerns with Al tools, especially regarding the handling of
+  personal and sensitive information.
+• Personally identifiable information, confidential information and/or sensitive information should
+  never be shared with an Al tool unless such sharing is explicitly approved by the School Board.
+• All Al tools must comply with the Family Educational Rights and Privacy Act (FERPA), the
+  Children's Online Privacy Protection Act (COPPA) and other relevant privacy laws.
+• Students in fifth grade or below may only use Al tools compliant with COPPA and explicitly
+  approved by the School Board.
+• The Information Technology Department ensures that Al tools employed have robust security
+  measures to protect user data from unauthorized access.
+• Users are expected to be aware of and comply with the terms and conditions of all Al tools,
+  specifically with respect to age requirements.
+• The Information Technology Department conducts regular security assessments of Al
+  technologies to safeguard against vulnerabilities.
+
+PDF EXCERPT PAGE 2
+Deepfake and Non-Consensual Intimate Imagery
+Source: page 3
+
+• The use of AI technology to create Deepfake or Non-Consensual Intimate Imagery (NCII) are
+  subject to Policy JCDAF on bullying and Policy GAEAA on sexual harassment or other forms of
+  harassment.
+
+Monitoring and Enforcement
+Source: page 5
+
+• The School Board reserves the right to monitor the use of Al tools to ensure compliance with this
+  policy.
+• This may include real-time monitoring of network activity and/or maintaining a log of Internet
+  activity for later review.
+• Users should have no expectation of privacy when using School Board technology or networks.
+  All activity may be monitored to ensure compliance with this policy.
+
+Examples of Unacceptable Use (excerpt)
+Source: page 6
+
+• Data Privacy and Sensitive Special Education Information: Users are prohibited from inputting
+  Personally Identifiable Information (PII) or sensitive diagnostic data from an IEP, 504 Plan, or
+  evaluation report into any AI tool not explicitly cleared by the district for ‘High-Sensitivity’ data.
+  This includes student names, date of birth, specific disability diagnosis, or medical histories.
+

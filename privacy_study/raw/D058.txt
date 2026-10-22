@@ -1,0 +1,49 @@
+PDF EXCERPT PAGE 1
+Elwood UFSD Policy 8636, Artificial Intelligence:
+     Data and Student Privacy Passages
+Excerpted verbatim from Policy 8636, Artificial Intelligence (Elwood Union Free School District, New York; adopted
+November 13, 2025). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text.
+
+
+Guidelines: Education Law 2-d Compliance
+Source: page 2
+
+Any use of GenAI in schools, on school networks/computers, or for school purposes must be
+compliant with Education Law 2-d and its regulations, particularly whenever student and staff
+Personally Identifiable Information is disclosed, including third-party agreements where applicable.
+Staff must consult with the district’s Data Protection Officer to determine compliance with Education
+Law 2-d. Staff must also be mindful that some GenAI tools are free and others are not, that some
+GenAI tools are not permitted to be used by those under certain ages, or require parent permission,
+and that some students and/or parents may not wish to use GenAI tools or input their work into
+them.
+
+Requirements
+Source: page 2
+
+Because any information used as input in a GenAI may be used by that system and potentially
+made available to other users of the system, district users must not input any sensitive, copyrighted,
+proprietary, or confidential district information, consistent with applicable state and federal laws and
+district policies, including but not limited to the following:
+
+• Student information: anything that would be protected by FERPA (see policy 5500) or
+  Education Law 2-d (see policy 8635).
+• Staff information: anything that would be protected by Education Law 2-d or Labor Law 203-d
+  (see policy 8635), or other confidential personnel information.
+• School district information: anything that would be withheld from a Freedom of Information
+  Law (FOIL) request (see policy 1120), or private information under State Technology Law §208
+  which would require notification in the event of a breach.
+Additionally, users of GenAI must exercise caution before inputting any work created by district
+students or employees.
+
+Cross-References and Legal References (excerpt)
+Source: page 3
+
+5500, Student Records
+
+8630, Computer Resources and Data Management
+
+8635, Information and Data Privacy, Security, Breach and Notification
+
+Ref: Family Educational Rights and Privacy Act, as amended, 20 USC 1232g; 34 CFR Part 99 …
+Education Law §2-d Labor Law §203-d State Technology Law §208 8 NYCRR Part 121
+

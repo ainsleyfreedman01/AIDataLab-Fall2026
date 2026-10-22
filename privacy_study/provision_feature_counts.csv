@@ -1,0 +1,19 @@
+"feature","category","label","kind","documents","mandatory_wording_documents","all_context_documents","reviewed_topic_documents","corpus_documents","documents_excluding_templates_curricula_resources","reviewed_topic_documents_excluding_templates_curricula_resources"
+"training_restriction","model_training","Restriction; no exception in quoted clause","direction",8,7,11,52,184,7,46
+"training_district","model_training","Exception: district authorization","direction",4,4,5,52,184,4,46
+"training_parent_guardian","model_training","Exception: parent/guardian consent","direction",0,0,0,52,184,0,46
+"training_student","model_training","Exception: student consent","direction",0,0,0,52,184,0,46
+"training_consent_unspecified","model_training","Exception: consent, actor unspecified","direction",1,1,1,52,184,1,46
+"training_authorization_unspecified","model_training","Exception: authorization, actor unspecified","direction",5,5,5,52,184,4,46
+"training_other_condition","model_training","Other conditional use","direction",3,3,3,52,184,3,46
+"training_permission","model_training","Permission without consent condition","direction",0,0,0,52,184,0,46
+"training_review","model_training","Review instruction or warning","review",26,4,28,52,184,26,46
+"retention_limit","retention_deletion","Actual retention limit stated","direction",11,5,12,37,184,10,33
+"deletion_direction","retention_deletion","Deletion/return direction stated","direction",6,3,9,37,184,6,33
+"deletion_request","retention_deletion","Deletion-request mechanism stated","direction",2,0,5,37,184,2,33
+"purpose_end","retention_deletion","Deletion tied to end of purpose/use","direction",3,0,3,37,184,3,33
+"contract_end","retention_deletion","Deletion/return tied to contract end","direction",0,0,2,37,184,0,33
+"numeric_deadline","retention_deletion","Numerical retention/deletion time limit","direction",0,0,3,37,184,0,33
+"backups","retention_deletion","Deletion explicitly includes backups","direction",0,0,0,37,184,0,33
+"confirmation","retention_deletion","Explicit deletion confirmation","direction",0,0,1,37,184,0,33
+"retention_review","retention_deletion","Review/transparency rather than deletion rule","review",24,7,26,37,184,23,33

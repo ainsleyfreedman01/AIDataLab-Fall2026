@@ -1,0 +1,69 @@
+PDF EXCERPT PAGE 1
+     Dinuba USD AI Guidelines: Data and Student
+                Privacy Passages
+Excerpted verbatim from DUSD AI Guidelines, 2024 - 2025 (Dinuba Unified School District, California). Page numbers
+match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Section 1: Aligned to Our Vision for Learning (excerpt)
+Source: page 2
+
+Additionally, a comprehensive policy ensures the ethical and fair implementation of AI. A good
+policy can address concerns such as privacy, bias in decision-making, and inappropriate content
+filtering.
+
+Section 3: Data Privacy, Safety, & Security
+Source: page 3
+
+Ensuring data privacy and security is a top priority when implementing AI technologies within our
+district. We are committed to upholding the highest data privacy and security standards to safeguard
+student data and ensure the ethical and transparent deployment of AI tools.
+
+Data Privacy & Compliance
+Our district adheres to all relevant federal, state, and local laws and regulations governing student
+data privacy, including the Family Educational Rights and Privacy Act (FERPA), the Children’s
+Online Privacy Protection Act (COPPA), and any additional state or local regulations. We have
+established robust protocols for collecting, storing, and managing student data, minimizing the
+collection of personal information to only what is necessary for educational purposes.
+
+AI Data Security
+In addition to complying with legal requirements, we will implement stringent data security measures
+to protect student data from unauthorized access or breaches. These measures include
+implementing strict access controls and encryption, regular auditing and monitoring of data
+practices, and providing comprehensive training to all staff with access to student data on privacy
+and legal requirements.
+
+Furthermore, any AI tools employed by our district undergo security assessments before
+deployment to identify and mitigate potential vulnerabilities. We implement robust access controls,
+encryption, and logging measures to prevent unauthorized access to AI systems and data.
+Regularly monitoring AI systems for security breaches or anomalies is conducted, and clear
+protocols for securely decommissioning or deleting AI systems and associated data are established
+when no longer needed.
+
+Ethical AI Use (excerpt)
+We have established clear criteria and guidelines for determining when and how AI systems should
+be employed, ensuring student privacy and autonomy are respected.
+
+Governance & Accountability (excerpt)
+
+PDF EXCERPT PAGE 2
+These departments also serve as the point of contact for addressing ethical concerns or breaches
+related to AI use and are responsible for investigating and resolving such issues.
+
+Section 5: Transparent, Accountable, and Responsible Use (excerpt)
+Source: page 5
+
+Accountability Mechanisms
+Vendors and service providers using AI technologies must regularly report their AI systems'
+performance, data sources, and decision-making processes.
+
+Responsible Use
+We are dedicated to aligning AI tools with student safety, privacy, and inclusivity principles,
+implementing measures to mitigate potential negative impacts on student well-being.
+
+Section 6: Education and Training on Ethical Principles (excerpt)
+Source: page 6
+
+Topics such as fairness, transparency, privacy, and bias are covered to help educators make
+informed decisions about the selection, implementation, and use of AI tools in the classroom.
+

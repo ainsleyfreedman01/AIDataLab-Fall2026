@@ -1,0 +1,112 @@
+PDF EXCERPT PAGE 1
+CCPS Artificial Intelligence Handbook: Data and
+          Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence Handbook (Collier County Public Schools, Florida). Page numbers match the
+document's own page numbering. Ellipses (…) mark omitted text. Passages from the two-column Grade-Level AI Student
+Access Guidelines page are marked [graphic].
+
+
+Welcome to the CCPS Artificial Intelligence Handbook (excerpt)
+Source: page 2
+
+Over the course of our work, the committee examined critical topics including data privacy and
+security, responsible use expectations for staff and students, and the importance of age-appropriate
+AI access.
+
+GenAI Use Guidelines for Students and All Staff
+Source: page 6
+
+CCPS is committed to providing clear, consistent guidance that promotes the safe, intentional, and
+effective use of GenAI to enhance learning and support innovation across our schools, while
+protecting the privacy of student and staff data.
+
+Through these guidelines, CCPS reinforces the importance of using AI responsibly, safeguarding
+data privacy, maintaining human judgment and oversight in all AI-assisted work, and ensuring
+transparency in how AI tools are used to support teaching, learning, communication, and
+organizational effectiveness.
+
+CCPS GenAI Platform
+CCPS has selected Microsoft Copilot as the district’s standard GenAI platform creating a
+connected, secure, and consistent AI experience for staff and students. … Copilot provides strong
+data privacy protections and education-focused AI features designed to support safe and
+responsible use.
+
+Ways Copilot Can Support Administrators (excerpt)
+• Summarizing reports, articles, or non-confidential data
+
+Employee Expectations for AI Use
+Source: page 10
+
+Pursuant to School Board policy and administrative procedures, the District’s network and
+applications are the property of the School District of Collier County and to be used for official
+business only. In addition, all users are cautioned that any queries made in Microsoft Copilot or any
+generative AI system used on the District’s network is subject to the Public Records Law of the
+State of Florida and also to review by the school system. This also includes any information
+generated or retrieved from these systems. There should be no expectation of privacy.
+
+Privacy, Data Protection, and Cybersecurity
+• Adhere to all applicable privacy regulations - Family Educational Rights and Privacy Act
+  (FERPA), Children's Online Privacy Protection Act (COPPA), Student Online Personal
+
+PDF EXCERPT PAGE 2
+   Information Protection Act (SOPIPA) and CCPS data policy procedures in every AI-assisted
+   workflow.
+• Never enter confidential or sensitive information into AI tools.
+• Do not input personally identifiable information (PII) of any kind into AI tools, including student
+  names, ID numbers, addresses, test scores, IEPs, 504 plans, or internal district documents.
+
+Teacher Expectations for AI Use (excerpt)
+Source: page 11
+
+It provides clear expectations for teachers to support meaningful instruction, protect student privacy,
+and uphold the professional standards and values that guide our work with students and families.
+
+Ensure Ethical, Developmentally Appropriate, and Approved AI Use
+• Use only CCPS-approved AI tools for instructional purposes and student assignments in
+  approved grade levels.
+Professional Judgment and Human Oversight
+• Protect student data privacy by adhering to all applicable regulations - Family Educational Rights
+  and Privacy Act (FERPA), Children's Online Privacy Protection Act (COPPA), Student Online
+  Personal Information Protection Act (SOPIPA), and district data privacy requirements when using
+  AI tools.
+
+Student Expectations for AI Use (Copilot Grades 9-12)
+Source: page 13
+
+These practices protect data privacy, uphold academic integrity, and align with district policies and
+acceptable use guidelines.
+
+Follow Teacher Guidance and Assignment Expectations
+• Use only district-approved, age-appropriate AI tools.
+Protect Privacy and Personal Information
+• Never enter personal data, sensitive information, or identifying details about yourself or others
+  into AI tools.
+
+Successful AI Implementation in Schools: Student Age
+Source: page 14
+
+Not all AI tools are designed for all students. When using AI tools in the classroom, educators must
+carefully consider and follow age requirements associated with each tool. Many AI platforms have
+minimum age restrictions, often requiring users to be at least 13 years old, with some tools limited to
+individuals 18 and older. As a result, expectations and guidelines for AI use in elementary and
+middle school differ from those in high school, with younger students using only approved,
+age-appropriate curriculum enhanced AI tools under clear guidance. Educators should ensure all
+use aligns with these requirements to support safe and appropriate implementation.
+
+PDF EXCERPT PAGE 3
+Grade-Level AI Student Access Guidelines (excerpt)
+Source: page 15 [graphic]
+
+Pre-Kindergarten through 8th Grade
+[graphic] I CANNOT: Access or use GenAI chat tools such as Microsoft Copilot or non-vetted district
+AI-powered educational tools.
+
+9th Grade and Above
+[graphic] I CANNOT: Use GenAI in any ways that compromise privacy, violate academic integrity, or
+conflict with district digital citizenship expectations.
+
+AI Literacy Skills for Students (excerpt)
+Source: page 16
+
+They are developing skills to protect privacy, make informed decisions, and apply critical thinking.
+

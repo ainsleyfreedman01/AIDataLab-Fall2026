@@ -1,0 +1,222 @@
+PDF EXCERPT PAGE 1
+      DC OSSE LEA AI Model Policy for Staff Use:
+         Data and Student Privacy Passages
+Excerpted verbatim from LEA AI Model Policy for Staff Use, 2026-27 School Year, September 2026 (Office of the State
+Superintendent of Education, District of Columbia). Page numbers match the document's own page numbering. Ellipses
+(…) mark omitted text. Passages marked [graphic] were transcribed from two-column layouts that the text extraction
+interleaved. The model policy covers staff use only. Bracketed text such as [replace with LEA name] is the document's own
+template placeholder.
+
+
+Introduction: Executive Summary (excerpt)
+Source: page 3
+
+While new technologies have contributed to innovations in education, they can create additional
+risks, especially in the areas of student safety and privacy. Intentional policies and guidance can
+help mitigate the risks of AI use.
+
+Guiding Principles for Developing AI Policy (excerpt)
+Source: page 4
+
+• Provide training and opportunities to practice for LEA staff. … Effective training for staff
+  includes methods for using AI effectively and securely, as well as approaches for critically
+  assessing AI outputs for accuracy and equity.
+
+Legal Considerations
+Source: page 5 [graphic]
+
+[graphic] The adoption of any LEA AI Policy for Staff Use should be implemented after careful
+consideration and review of the following, but not limited to:
+
+• [graphic] Family Educational Rights and Privacy Act (FERPA)
+• [graphic] Children’s Online Privacy Protection Act (COPPA)
+• [graphic] Children’s Internet Protection Act (CIPA)
+• [graphic] Individuals with Disabilities Education Act (IDEA)
+• [graphic] Protecting Students Digital Privacy Act of 2016
+• [graphic] Health Insurance Portability and Accountability Act (HIPAA)
+
+Considerations for Secure Use: Procurement
+Source: page 5 [graphic]
+
+[graphic] When evaluating AI tools for procurement, OSSE recommends that LEAs ensure that
+enterprise tools meet rigorous benchmarks prior to adoption.
+
+[graphic] The following is a representative list of considerations prior to procurement:
+
+[graphic] Training Protocols and Data Policy:
+• [graphic] Protection of user generated data, including ensuring that vendors are not leveraging
+  student data for model training, product improvement or purposes outside of the contracted
+  service.
+
+PDF EXCERPT PAGE 2
+• [graphic] Protocols for data persistence and retrieval, including a technical understanding of how
+  data is stored and deleted.
+[graphic] Online Safety:
+• [graphic] Inclusion of robust online safety features that are compliant with all District and federal
+  laws.
+[graphic] Cybersecurity:
+• [graphic] AI systems that have verified compliance with recognized cybersecurity and privacy
+  frameworks, such as the National Institute of Standards and Technology (NIST), COPPA, and
+  FERPA.
+• [graphic] Systems featuring robust access controls, including multi-factor authentication, and
+  encrypt sensitive data both in transit and at rest.
+• [graphic] Vendors providing clear procedures for vulnerability and incident reporting, supporting
+  secure configuration and regular updates, and demonstrating compliance with security and
+  liability requirements – with special attention given to protecting personally identifiable
+  information (PII) and ensuring that AI tools are only used in approved, secure environments.
+• [graphic] The presence of ongoing monitoring, and documented incident response plans, and
+  prohibition of unauthorized or consumer-grade AI tools.
+
+Professional Learning (excerpt)
+Source: page 6
+
+• Staff must demonstrate understanding of best practices for protecting student data, as required
+  by all District and federal laws.
+Effective AI training may include the following concepts:
+
+• Best practices for protecting student information and PII.
+• Mandatory cybersecurity training for staff that is renewed annually.
+
+PDF EXCERPT PAGE 3
+Model Policy: Ethical Principles and Definitions (excerpt)
+Source: page 7 [graphic]
+
+• [graphic] Adopting emerging technologies requires an intentional approach to safeguard
+  stakeholder safety and privacy: While technology can improve staff efficiency and
+  effectiveness, all staff within [replace with LEA name] are ultimately accountable for student
+  safety, development, and outcomes. Decision-making related to implementing AI will be made
+  with staff, student, and community safety and privacy at the forefront, and with careful
+  consideration safeguarding student and staff PII.
+• [graphic] Enterprise tools: Software products for which the LEA has a specific license that
+  provides features and protections not available in free versions.
+• [graphic] Personally Identifiable Information (PII): PII is information that, alone or in
+  combination with other data, can be linked to a specific employee including but not limited to:
+• [graphic] Name of employee or other family members.
+• [graphic] Address of employee or other family members.
+• [graphic] Personal identifier, such as a Social Security Number, unique student or staff identifier
+  (such as the Office of the State Superintendent of Education’s Unique Faculty and Staff
+  Identifier), or biometric record; and indirect identifiers, such as date of birth, place of birth, or
+  mother’s maiden name.
+
+Requirements for Staff Use (excerpt)
+Source: page 8
+
+Further, staff must demonstrate understanding of best practices for protecting student data, as
+required by all District and federal laws. All staff are required to renew this training annually.
+
+[graphic] Staff members must: Use only approved AI tools. Protect confidential information.
+
+Nothing detailed herein shall be construed as superseding local and federal laws related to staff or
+student privacy, procurement processes, or professional conduct.
+
+No staff member should interpret this policy to allow use of non-approved enterprise tools for the
+purposes below.
+
+Summary of Staff AI Use Allowances (excerpt)
+Source: page 9
+
+STAFF AI USE NOT PERMITTED
+AI cannot be used for final decision-making regarding staff and students, or in situations that require
+special considerations for privacy or present risks to student well-being.
+
+• Monitoring Students’ Physical Presence
+LIMITED STAFF AI USE PERMITTED: PROCEED WITH ENHANCED OVERSIGHT
+For any use case involving PII, only enterprise tools that comply with all local and federal laws and
+regulations about student information can be used.
+
+• Monitoring or Surveilling Students’ Digital Activity
+
+PDF EXCERPT PAGE 4
+STAFF AI USE PERMITTED: PROCEED WITH AWARENESS
+For any use case involving PII, only enterprise tools that comply with all regulations and best
+practices about student information can be used.
+
+Red: Monitoring or Surveilling Staffs’ and Students’ Physical
+Presence and Behavior
+Source: page 10
+
+The use of AI for the purpose of monitoring or surveilling staffs’ and students’ physical presence and
+behavior includes tracking staffs’ and students’ physical presence within [replace with LEA name],
+allowing AI to access CCTV footage captured by [replace with LEA name] security systems, and
+use of biometric data for any monitoring purposes. This includes the use of personal AI-enabled
+recording tools such as wearables while on [replace with LEA name] premises.
+
+STAFF AI USE NOT PERMITTED
+No AI tools may be used for this purpose. Unauthorized AI features of existing enterprise tools are
+prohibited.
+
+Rationale: Tools that monitor or surveil staff and students raise significant privacy concerns and AI
+tools may cause discriminatory outcomes. There is insufficient evidence about if and how AI tools
+can be used safely for this purpose.
+
+Yellow: Limited Staff AI Use Permitted (excerpt)
+Source: page 12
+
+For any use case involving PII, only enterprise tools that comply with all local and federal laws and
+regulations about student information can be used.
+
+Monitoring or Surveilling Staffs’ and Students’ Digital Presence
+The use of AI for the purpose of monitoring or surveilling staffs’ and students’ digital presence
+includes monitoring or surveilling online activity of staff and students while on [replace with LEA
+name] premises or utilizing devices provided by [replace with LEA name].
+
+LIMITED USE REQUIREMENTS:
+• [Designated Staff Member] may utilize approved AI tools to assist with monitoring staffs’ and
+  students’ digital activity while on LEA premises and during operating hours.
+• AI surveillance is not a substitute for educator monitoring of student use of classroom devices or
+  staff judgement about student wellbeing.
+• Discipline decisions should never rely on data gathered by AI alone; all detected risks and
+  misuse reports will be elevated to [Designated Staff Member] who will then follow [replace with
+  LEA names] established discipline, safety, and mental health policies.
+• Staff must keep data on AI surveillance use and continually monitor for equity and efficacy of
+  use.
+• Staff, students, and families will be notified about the tools and purposes for AI use in virtual
+  surveillance, including which tools are being deployed, why they are being utilized, and what data
+  is collected while monitoring a student’s virtual activity.
+
+PDF EXCERPT PAGE 5
+Rationale: Schools already monitor student online activity to remain in compliance with CIPA, and
+acceptable use policies preclude the expectation of privacy on [replace with LEA name] issued
+devices. Tools that scan for signs of cyberbullying and mental health crises can supplement
+systems already in place to alert staff and families to risks students face in digital spaces. However,
+these tools may carry significant privacy risks. All virtual surveillance uses must comply with existing
+regulations around staff and student privacy, discipline and legal requirements for surveillance and
+data collection.
+
+Drafting Individualized Education Programs (IEPs) (excerpt)
+Source: page 13
+
+• For any use case involving PII, only enterprise tools that comply with all regulations and best
+  practices about student information can be used.
+• Use of AI may never violate student protections provided under IDEA.
+
+Reviewing and Grading Student Work; Supplemental Coaching
+(excerpts)
+Source: page 14
+
+• Staff must ensure student identifying data including race and ethnicity are not disclosed to the AI
+  tool, and all outputs must be evaluated to ensure equity in feedback, rigor, and expectations for
+  all students.
+• For any use case involving PII, only enterprise tools that comply with all regulations and best
+  practices about student information may be used.
+
+Green: Staff AI Use Permitted (excerpt)
+Source: pages 15 (lesson plans), 16 (customizing materials), 17 (data sets)
+
+For any use case involving PII, only enterprise tools that comply with all regulations and best
+practices about student information can be used.
+
+Drafting Lesson Plans
+• Lesson plans should always be developed without utilizing prompts that invite an AI tool to
+  consider student demographic information.
+Rationale: Educators can use AI to improve lesson plans without sharing PII or relying on AI for final
+decision-making.
+
+Customizing Student-Facing Lesson Materials
+• AI may support educators in developing differentiated and customized student-facing materials if
+  it does not make recommendations for individual students or if it does not utilize PII and the
+  educator reviews and refine the AI-generated suggestions.
+Analyzing Data Sets
+• For any use case involving PII, only enterprise tools that comply with all regulations and best
+  practices about student information may be used.
+

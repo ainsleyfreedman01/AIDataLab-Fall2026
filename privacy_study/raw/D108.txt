@@ -1,0 +1,181 @@
+PDF EXCERPT PAGE 1
+   Maryland’s Framework for Responsible AI in
+  Education: Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence in K-12 Public Schools: Maryland’s Framework for Responsible AI in
+Education (Maryland State Department of Education, Office of Teaching and Learning, Division of College and Career
+Pathways; last updated June 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted
+text. One passage from a multi-column layout is transcribed from the extracted text and marked [graphic].
+
+
+Purpose and Executive Summary (excerpt)
+Source: page 2
+
+At the same time, AI introduces risks related to privacy, bias, equity, academic integrity, and
+over-reliance on automated systems.
+
+Vision for Artificial Intelligence in Maryland Schools (excerpt)
+Source: page 2
+
+Equity, transparency, privacy, and accountability are foundational. Maryland is committed to
+ensuring equitable access to AI-supported learning opportunities and to protecting student data
+through clear communication, human oversight, and compliance with all state and federal privacy,
+cybersecurity, and ethical standards.
+
+Scope and Definitions: Scope (excerpt)
+Source: page 3
+
+The scope of this guidance includes AI use for teaching and learning, student AI literacy and
+curricular integration, professional learning and educator practice, data privacy and ethical
+safeguards, procurement and evaluation, operational uses, and governance, monitoring, and
+accountability. It applies to all AI tools that interact with Maryland students, staff, or data, regardless
+of how they are accessed or provided.
+
+Roles and Responsibilities (excerpt)
+Source: page 4
+
+MSDE provides statewide leadership by establishing AI policy expectations and guardrails related to
+equity, privacy, security, accessibility, instructional quality, and civil rights compliance.
+
+Local education agencies implement statewide expectations by adopting district AI policies, vetting,
+and approving tools, ensuring legal and privacy compliance, providing professional learning,
+monitoring systems for bias or unintended impacts, maintaining cybersecurity, communicating with
+families, and reporting concerns to MSDE.
+
+Educators are the primary decision makers for instructional AI use. They are responsible for ethical
+and critical use, protecting academic integrity and student privacy, modeling responsible practices,
+and reporting concerns.
+
+Students are responsible for following AI-use expectations, maintaining academic integrity,
+acknowledging permitted AI assistance, evaluating outputs critically, protecting their privacy, and
+reporting misuse.
+
+PDF EXCERPT PAGE 2
+Vendors must meet Maryland’s standards for transparency, privacy, accessibility, equity, and
+security, including accurate disclosures, legal compliance, fairness testing, notification of system
+changes, and participation in audits. Tools that fail to meet these standards must not be used.
+
+Data Privacy and Security
+Source: page 5
+
+Artificial intelligence increases the complexity of data privacy and security in Maryland schools
+because these systems rely on large volumes of data and often operate in opaque ways. Research
+shows that AI amplifies existing risks related to data collection, surveillance, re-identification, and
+cybersecurity, particularly for minors (Crawford, 2021; Reddy et al., 2020). Maryland’s expectation is
+clear: AI use must never compromise student privacy or weaken data protections.
+
+AI-related privacy risks include the collection of sensitive information through user inputs, the
+possibility of re-identifying anonymized data, expanded cybersecurity vulnerabilities, and limited
+transparency about how vendors store, use, or share data. These risks require proactive
+governance, strong safeguards, and continuous oversight.
+
+PRIVACY & CIVIL RIGHTS LAWS
+All AI use in Maryland schools must comply with federal and state privacy and civil rights laws,
+including FERPA, COPPA, PPRA, and applicable Maryland regulations. Algorithm-assisted
+decisions remain subject to nondiscrimination requirements, and districts retain full responsibility for
+protecting student rights (U.S. Department of Education, 2024). Schools must be transparent with
+families about how AI tools handle student data.
+
+DISTRICT EXPECTATIONS
+Maryland expects districts to minimize data collection by limiting student data shared with AI
+systems, avoiding entry of personally identifiable information into generative tools unless explicitly
+approved, restricting unnecessary data access, and providing alternatives when AI use is
+inappropriate. Collection of biometric, behavioral, or location data is prohibited unless legally
+required and educationally justified.
+
+AI adoption increases cybersecurity risk. Districts must implement robust system protections,
+including secure authentication, encryption, vendor security requirements, staff training, and tested
+incident response plans. Privacy protections cannot be upheld without robust cybersecurity.
+
+AI systems must operate with documented human oversight. Any AI-supported decision affecting
+students requires human review, clear procedures for addressing errors or harm, and regular audits
+for bias, accuracy, and unintended data collection.
+
+Transparency with families is essential. Districts must clearly communicate what AI tools are used,
+what data are collected, how long data are retained, and when opt-out options apply, using
+accessible and culturally responsive formats.
+
+Maryland will support districts through statewide guidance, templates, training, and reporting
+structures. The State’s priority is to ensure that all AI used in public schools protects student
+privacy, strengthens security, and maintains public trust.
+
+VENDOR EXPECTATIONS
+
+PDF EXCERPT PAGE 3
+AI vendors must meet strict privacy, security, and transparency standards. Districts must ensure
+contractual limits on data use, retention, and deletion; prohibit advertising, profiling, or unrelated
+model training; require disclosure of data practices; and ensure compliance with breach notification
+laws. Vendors that cannot demonstrate secure, education-focused data practices must not be used.
+
+Professional Learning (excerpt)
+Source: page 8
+
+Core expectations include understanding foundational AI concepts, evaluating outputs for accuracy
+and bias, designing assignments that preserve academic integrity, communicating transparently
+with students and families, protecting student data, and recognizing when AI use is inappropriate.
+
+Educators are expected to understand what AI can and cannot do, evaluate outputs critically,
+integrate AI in ways that strengthen student thinking, teach responsible student use, protect privacy,
+monitor impacts on equity and learning, and report concerns related to bias or misuse.
+
+Student-Centered Learning with AI: LEA Expectations (excerpt)
+Source: page 9 [graphic]
+
+[graphic] Student use of AI must also support safe and ethical learning environments. Schools
+should set clear expectations related to data privacy, bias awareness, digital citizenship, and
+reporting concerns. These practices help students develop responsible habits for engaging with
+intelligent technologies beyond school.
+
+Student AI Literacy and Curriculum Integration: Curriculum
+Integration (excerpt)
+Source: page 10
+
+Ethical use is foundational. Students must learn to protect privacy, recognize harmful or misleading
+outputs, understand the limits of machine reasoning, and use AI responsibly (Floridi & Cowls, 2019).
+
+Operational and Administrative Uses (excerpt)
+Source: page 11
+
+Because these systems operate at scale and can affect student access to services and
+opportunities, they present heightened risks related to privacy, equity, transparency, and
+accountability.
+
+Procurement and Vendor Governance
+Source: page 12
+
+Artificial intelligence tools used in Maryland schools must meet high standards for safety,
+transparency, privacy, equity, and educational value. Because AI products vary widely in data
+practices, accuracy, and risk, procurement processes must ensure that tools support learning and
+operations without compromising student rights or causing harm (Kumar et al., 2022).
+
+Maryland requires rigorous vendor vetting, strong contractual protections, documented risk
+assessments, and ongoing monitoring. Procurement decisions must align with state goals, legal
+requirements, equity priorities, and responsible data stewardship, consistent with federal guidance
+
+PDF EXCERPT PAGE 4
+on ethical AI adoption in education (U.S. Department of Education, 2023).
+
+Districts must prioritize tools with clear educational or operational value, transparent data practices,
+compliance with FERPA, COPPA, state privacy laws, and civil rights protections, and demonstrated
+attention to bias, fairness, and accessibility. Approval is an ongoing process, not a one-time
+decision. To support consistent practice, Maryland will provide vendor vetting rubrics, model
+contract language, a centralized list of vetted tools, professional learning, technical assistance, and
+reporting mechanisms to ensure statewide AI procurement protects students and upholds equity,
+transparency, and legal compliance.
+
+Vendors must provide clear documentation on AI techniques, data collection and retention, use of
+data for model training, known limitations, accessibility and nondiscrimination measures, and
+evaluation populations. Tools that lack sufficient transparency must not be adopted. Contracts must
+include data minimization, limits on data use and sharing, security and breach response
+requirements, bias mitigation, audit rights, and clear termination and data deletion provisions.
+
+[graphic] Before approval, districts must conduct documented risk assessments addressing data
+sensitivity, potential bias or inaccuracy, appropriateness for minors, transparency, and potential
+impacts on student placement, grading, discipline, or access to opportunity. Higher-risk tools require
+additional review and may be restricted or prohibited.
+
+Conclusion (excerpt)
+Source: page 13
+
+This guidance establishes a statewide foundation for responsible AI use grounded in transparency,
+privacy, equity, and continuous improvement.
+

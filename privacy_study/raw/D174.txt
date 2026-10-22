@@ -1,0 +1,35 @@
+PDF EXCERPT PAGE 1
+       Virginia AI Education Guidelines: Data and
+                Student Privacy Passages
+Excerpted verbatim from Guidelines for AI Integration Throughout Education in the Commonwealth of Virginia (Office of the
+Secretary of Education, Commonwealth of Virginia). Page numbers refer to the PDF pages of the source file. Ellipses (…)
+mark omitted text.
+
+
+Guiding Principles: Do No Harm (excerpt)
+Source: PDF page 1
+
+• Do no harm: All integration of AI in education must be in accordance with the policy and IT
+  standards that are set forth in the Executive Order and in other state and federal policies. This
+  includes ensuring the safeguarding of the privacy, security, and confidentiality of personally
+  identifiable information, ensuring that algorithms are not based on inherent biases that lead to
+  discriminatory outcomes, and that AI is only allowed when its use has the potential to contribute
+  positive good/improvement to the status quo.
+
+Strategies for Successful Integration: Set The Right Conditions
+Source: PDF page 3
+
+Set The Right Conditions — When it comes to using AI or any other technologies in school, it is
+important to establish conditions for effective use. Clearly outline the school or system’s policies and
+protocols around data privacy, honor code, student code of conduct, acceptable use, and ethical
+considerations when using AI, including those related to plagiarism and proper use of secondary
+sources.
+
+Roles & Responsibilities: Ongoing Roles and Responsibilities
+(excerpt)
+Source: PDF page 4
+
+Ongoing Roles and Responsibilities:
+
+• Safeguarding privacy, security, and confidentiality of data.
+

@@ -1,0 +1,81 @@
+PDF EXCERPT PAGE 1
+   Georgia PSC AI Ethical Considerations for
+ Educators: Data and Student Privacy Passages
+Excerpted verbatim from Ethical Considerations in the Appropriate Use of AI for Educators (Georgia Professional Standards
+Commission, 6/16/25). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Implementation (excerpt)
+Source: page 3
+
+Effective implementation requires clear reporting lines for misuse of AI, particularly with respect to
+data privacy breaches and malicious misuse.
+
+Ethical Principle #1 (excerpt)
+Source: page 4
+
+Applicable Standards:
+
+• Educators should only use district-approved AI tools.
+
+Ethical Principle #2 (excerpt)
+Source: page 5
+
+Educators should not direct students to use AI tools that are age-restricted without verifying district
+approval and obtaining necessary parental consent where required by federal or state law.
+
+Ethical Principle #3: Protecting Personally Identifiable Information
+Source: pages 5–6
+
+When using AI, educators, administrators, and staff have a responsibility to proactively protect the
+personally identifiable information entrusted to them.
+
+Applicable Standards:
+• Only district-approved AI applications should be used.
+• Promptly and effectively notify appropriate personnel and any affected members of the school
+  community of any unauthorized access or loss of staff and student data, in accordance with local
+  district and educator preparation provider (EPP) policies, guidance, practices, and training.
+• [For Administrators] Proactively evaluate the use of staff and student data by third-party
+  software, determining what data are being collected and for what purpose.
+• Verify AI tools comply with federal and state laws and regulations, as well as district policies,
+  regarding the handling of student personally identifiable information.
+• Implement parental consent procedures when required by federal or state law for the use of AI
+  tools by students under the age of 18, or when student data may be used or generated.
+• Avoid AI platforms that lack clear data use, storage, and ownership policies.
+• Establish clear and understandable policies, regulations, rules, and other guidance regarding the
+  collection and use of student data by third-party software, and effectively communicate those
+  policies to the school community.
+
+PDF EXCERPT PAGE 2
+Guiding Questions:
+• Is the application or software approved for use by the district?
+• Does the AI tool I am using transmit, store, or generate any personally identifiable student
+  information?
+• Have I or my students included any personally identifiable data in uploads or prompts?
+• Am I adhering to applicable legal requirements regarding student privacy (FERPA, COPPA,
+  HIPAA, etc.) when using AI tools?
+• What data is the AI tool collecting, and how is it stored?
+• Do we have policies and procedures for responding to breaches of student privacy or misuse of
+  student data?
+
+Ethical Principle #4 (excerpt)
+Source: page 6
+
+Building leaders and educators should follow acceptable use policies and agreements to mitigate
+harm and protect students from potential harm arising from the use of AI while under the school’s
+supervision.
+
+Ethical Principle #6 (excerpt)
+Source: page 7
+
+Only approved AI tools should be used.
+
+Principle #7 (excerpt)
+Source: page 8
+
+Do I know where to find reliable resources and district-approved guidance to continue learning
+about AI?
+
+[For educators and administrators] Have I provided adequate guidance to students to use AI
+ethically and safely?
+

@@ -1,0 +1,27 @@
+DRAFT ABSTRACT
+
+Student-facing artificial intelligence raises questions about downstream uses
+and retention of educational data. This exploratory study examines how explicitly
+a supplied collection of K-12 AI privacy excerpts addresses model training,
+sharing/secondary use, and retention/deletion.
+We locally extracted 184 PDF excerpt documents and 2355 text paragraphs.
+Frozen lexical searches were evaluated on six fresh documents against provisional
+AI full-read labels. Because the fresh test contained few relevant cases, all
+extracted document bodies were also AI-reviewed without retrieval flags.
+Coding retained conditions, source functions, and uncertain interpretations.
+Supporting quotations were checked against their named extracted paragraphs.
+A targeted second AI pass split 206 previously positive training/retention paragraphs into 200 atomic provisions,
+separating stated directions from vendor-review questions and recording named
+authorizers, deletion triggers, timing, backup scope, and deletion confirmation.
+This refinement was not independent validation or a new exhaustive search.
+Model training / improvement: 52/184 (28.3%)
+Sharing / secondary use: 78/184 (42.4%)
+Retention / deletion: 37/184 (20.1%)
+The most frequently located topic was sharing / secondary use; the least was retention / deletion.
+Coverage includes warnings and review questions as well as restrictions;
+it is not a measure of protection strength. Sensitivity analyses examine source
+mix, shared text, and excerpt length. Results describe this convenience collection
+of excerpts, not representative US policy or implementation. Original-source
+authenticity, currentness, and completeness remain unverified; no independent
+human annotation or inter-rater reliability is claimed. The study provides a
+traceable evidence base for further comparison rather than a legal ranking.

@@ -1,0 +1,13 @@
+"subset","category","documents","content_found","percentage"
+"all_documents","model_training",184,52,28.2608695652174
+"all_documents","sharing_secondary_use",184,78,42.3913043478261
+"all_documents","retention_deletion",184,37,20.1086956521739
+"excluding_template_curriculum_resource_documents","model_training",152,46,30.2631578947368
+"excluding_template_curriculum_resource_documents","sharing_secondary_use",152,64,42.1052631578947
+"excluding_template_curriculum_resource_documents","retention_deletion",152,33,21.7105263157895
+"one_document_per_high_similarity_group","model_training",183,52,28.4153005464481
+"one_document_per_high_similarity_group","sharing_secondary_use",183,77,42.0765027322404
+"one_document_per_high_similarity_group","retention_deletion",183,37,20.2185792349727
+"excerpts_at_least_1000_body_characters","model_training",132,50,37.8787878787879
+"excerpts_at_least_1000_body_characters","sharing_secondary_use",132,71,53.7878787878788
+"excerpts_at_least_1000_body_characters","retention_deletion",132,36,27.2727272727273

@@ -1,0 +1,201 @@
+PDF EXCERPT PAGE 1
+Colorado Department of Education AI Web Page
+  (AI-Competent Profiles): Data and Student
+             Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) (Colorado Department of Education web page, including the Profiles of
+an AI-Competent Student, Educator, Administrator and Special Service Provider, the Examples in Practice, and the
+Glossary of Terms). The source has no page numbers; locations are given by section. This is a web page with several
+tabbed sections, not a paginated document. Ellipses (…) mark omitted text. Passing mentions are labelled "(excerpt)".
+
+
+AI-Competent Student Profile: Human-Centered Learning, Social and
+Environmental Awareness (excerpt)
+Source: web page, Profile of an AI-Competent Student
+
+Students' understanding of AI includes its broader effects on individuals, communities, the
+workforce, and the environment. They are attentive to the implications of data collection, energy and
+resource use, automation, and unequal access to technology.
+
+AI-Competent Student Profile: Tool Judgment (excerpt)
+Source: web page, Profile of an AI-Competent Student
+
+Students understand that different tools serve different purposes. Their choices reflect the learning
+goal, the capabilities and limitations of the technology, expectations for its use, and considerations
+of privacy, safety, and appropriateness.
+
+AI-Competent Student Profile: Privacy, Safety, and Fairness
+Source: web page, Profile of an AI-Competent Student
+
+Students consider the rights, dignity, and well-being of others when using AI. Their choices reflect
+awareness of personal and sensitive information, consent, intellectual property, attribution, digital
+footprints, fairness, and the broader consequences of AI-assisted content, actions, and decisions.
+
+AI-Competent Educator Profile: Tool Selection and Appropriate Use
+(excerpt)
+Source: web page, Profile of an AI-Competent Educator
+
+Educators select tools based on the learning goal, student age and developmental readiness,
+accessibility, privacy and security protections, approved uses, and the tool’s capabilities and
+limitations.
+
+AI-Competent Educator Profile: Ethical Stewardship
+Source: web page, Profile of an AI-Competent Educator
+
+Educators use AI transparently and protect personally identifiable, confidential, and sensitive
+information. Their practice reflects requirements related to privacy, security, consent, copyright,
+licensing, attribution, and ownership, as well as consideration of AI’s effects on fairness, access,
+student identity, communities, human labor, and the environment.
+
+PDF EXCERPT PAGE 2
+AI-Competent Administrator Profile: Ethical Governance and Data
+Stewardship
+Source: web page, Profile of an AI-Competent Administrator
+
+An AI-competent administrator establishes safeguards that protect privacy, clarify expectations, and
+maintain accountability for how AI is selected and used.
+
+Privacy and Data Stewardship: Administrators protect student and staff information by ensuring
+that AI tools align with FERPA, COPPA, district policy, and applicable privacy and security
+requirements. They understand how tools collect, retain, share, and use data and promote practices
+that limit data collection to what is necessary for the intended purpose.
+
+Policy and Accountability: Administrators establish clear expectations for approved tools,
+appropriate uses, transparency, consent, and human oversight. They help students, staff, and
+families understand how AI may be used, what information may be collected, and who remains
+responsible for decisions supported by the technology.
+
+Incident Readiness: Administrators prepare their communities to respond when deepfakes,
+misinformation, harmful AI-generated content, privacy breaches, or other AI-related incidents arise.
+Their response reflects a commitment to safety, accurate information, timely communication,
+appropriate investigation, and the restoration of trust.
+
+AI-Competent Administrator Profile: Vendor and Tool Evaluation
+(excerpt)
+Source: web page, Profile of an AI-Competent Administrator
+
+Administrators look beyond features and marketing claims when evaluating AI products. They
+consider the evidence supporting a tool, how data is used, what protections are in place, and how
+the system addresses cultural, racial, gender, linguistic, socioeconomic, disability-related, and other
+forms of bias.
+
+AI-Competent Special Service Provider Profile: Data Synthesis and
+Visualization (excerpt)
+Source: web page, Profile of an AI-Competent Special Service Provider
+
+SSPs may use approved AI tools to organize, summarize, and visualize aggregated or de-identified
+data.
+
+AI-Competent Special Service Provider Profile: Purposeful Tool Use
+(excerpt)
+Source: web page, Profile of an AI-Competent Special Service Provider
+
+SSPs select approved tools based on the professional goal, intended audience, accessibility,
+privacy protections, and the tool’s capabilities and limitations.
+
+PDF EXCERPT PAGE 3
+AI-Competent Special Service Provider Profile: Privacy and Ongoing
+Learning
+Source: web page, Profile of an AI-Competent Special Service Provider
+
+SSPs protect confidential, personally identifiable, and sensitive information and favor aggregated or
+de-identified data when using AI. They follow applicable legal, professional, ethical, and district
+requirements and continue developing their understanding of AI capabilities, limitations, risks, and
+evidence-informed applications as technologies and practices evolve.
+
+Examples in Practice, AI-Competent Learner (excerpt)
+Source: web page, An AI-Competent Learner: Examples in Practice
+
+• Examines how AI data collection, resource use, and automation may affect people, communities,
+  workers, and the environment.
+• Considers whether a tool is approved and whether information is private, sensitive, or
+  copyrighted before uploading it.
+• Does not enter personal, confidential, or sensitive information into an AI system.
+• Does not upload or imitate another person’s writing, image, voice, or personal information
+  without permission.
+
+Examples in Practice, AI-Competent Educator (excerpt)
+Source: web page, An AI-Competent Educator: Examples in Practice
+
+• Selects tools based on instructional value, student age and readiness, accessibility, privacy and
+  security protections, approved uses, and known limitations.
+• Avoids entering student records, personally identifiable information, or other sensitive information
+  into an AI system.
+• Uses AI transparently and follows applicable requirements for privacy, security, consent,
+  copyright, licensing, attribution, and ownership.
+
+PDF EXCERPT PAGE 4
+Examples in Practice, AI-Competent Administrator: Ethical
+Governance and Data Stewardship
+Source: web page, An AI-Competent Administrator: Examples in Practice
+
+• Uses only AI tools and systems that comply with applicable federal and state requirements,
+  district policies, privacy protections, security standards, and approved-use expectations.
+• Understands what information an AI system collects, how long data is retained, whether
+  information is used to train models, who may access the data, and whether information may be
+  shared with third parties.
+• Avoids entering student records, personally identifiable information, personnel information,
+  confidential communications, or other sensitive data into AI systems unless the use is explicitly
+  authorized and appropriately protected.
+• Establishes clear expectations for which AI tools are approved, which uses are appropriate, and
+  when disclosure, documentation, consent, or human review is required.
+• Communicates with staff, students, and families about how AI is being used, what safeguards
+  are in place, and who remains accountable for decisions.
+• Develops procedures for responding to deepfakes, misinformation, impersonation, harmful
+  AI-generated content, privacy breaches, inappropriate AI use, or other emerging incidents.
+• Coordinates with technology, legal, communications, student services, human resources, and
+  other appropriate personnel when responding to AI-related concerns.
+• Reviews policies and safeguards periodically as technology, law, guidance, risks, and
+  organizational practices evolve.
+
+Examples in Practice, AI-Competent Administrator: Critical
+Evaluation and Professional Capacity (excerpt)
+Source: web page, An AI-Competent Administrator: Examples in Practice
+
+• Examines vendor claims, privacy practices, security protections, accessibility, interoperability,
+  implementation requirements, costs, and available evidence before approving or purchasing a
+  tool.
+• Evaluates total cost of ownership, professional learning needs, technical support, vendor
+  dependence, data portability, system interoperability, environmental considerations, and
+  long-term sustainability before making commitments.
+• Provides ongoing professional learning that helps staff understand AI capabilities, limitations,
+  appropriate uses, privacy expectations, bias, verification, and human oversight.
+
+PDF EXCERPT PAGE 5
+Examples in Practice, AI-Competent Special Service Provider
+(excerpt)
+Source: web page, An AI-Competent Special Service Provider: Examples in Practice
+
+• Uses aggregated, de-identified, or synthetic information when possible and selects platforms
+  approved for the type of information being used.
+• Identifies a clear professional purpose before selecting an AI tool and uses platforms approved
+  for the intended task and type of information involved.
+• Provides relevant context, criteria, examples, audience information, and constraints when
+  prompting AI while minimizing identifiable or confidential student information and using approved
+  platforms when protected information is involved.
+
+Glossary of Terms: Data Privacy and Protection
+Source: web page, Glossary of Terms
+
+Personally Identifiable Information (PII): Information that directly identifies an individual or could
+reasonably be combined with other information to identify them.
+
+Sensitive Information: Information that requires heightened protection because its exposure could
+create risk or harm, such as health, disability, disciplinary, financial, family, legal, or confidential
+personnel information.
+
+De-Identified Data: Data that has been modified to remove or obscure information that could
+reasonably identify an individual.
+
+Data Minimization: The practice of collecting, using, and sharing only the information necessary for
+a specific educational or operational purpose.
+
+Glossary of Terms: Legal Requirements
+Source: web page, Glossary of Terms
+
+FERPA: The Family Educational Rights and Privacy Act, a federal law that protects the privacy of
+student education records and gives eligible students and parents certain rights regarding those
+records.
+
+COPPA: The Children’s Online Privacy Protection Act, a federal law that regulates the online
+collection of personal information from children under age 13.
+

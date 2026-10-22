@@ -1,0 +1,64 @@
+PDF EXCERPT PAGE 1
+Seminole County Public Schools Policy 7540.08:
+     Data and Student Privacy Passages
+Excerpted verbatim from Policy 7540.08 – Responsible Use of Artificial Intelligence and Emerging Technologies (Seminole
+County Public Schools, Florida; BoardDocs print dated 9/17/25, proposed revision of policy adopted January 21, 2025).
+Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text. Page numbers are PDF page
+numbers of the BoardDocs printout.
+
+
+1. Guiding Principles (excerpt)
+Source: PDF pages 1–2
+
+A. The use of AI and emerging technologies must support SCPS’s educational mission and
+operational integrity, and must comply with all applicable federal and state laws, including:
+
+• Florida Information Protection Act (FIPA)
+• Family Educational Rights and Privacy Act (FERPA)
+• Children’s Online Privacy Protection Act (COPPA)
+B. All technology use must prioritize:
+
+• Protection of personally identifiable information (PII)
+
+2. Acceptable Use (excerpt)
+Source: PDF page 2
+
+C. No confidential, proprietary, or sensitive data may be input into AI systems unless the system has
+been reviewed and approved by the District’s Information Services Department.
+
+3. Oversight and Compliance (excerpt)
+Source: PDF page 2
+
+A. The Superintendent or designee shall establish administrative procedures for:
+
+• Evaluating and approving AI tools
+
+Student Use of Artificial Intelligence and Natural Language
+Processing Tools (excerpt)
+Source: PDF pages 2–3
+
+Teachers have the discretion to authorize students to use AI/NLP tools after providing explicit
+instruction of the following:
+
+A. When using AI/NLP tools students need to be aware that they are potentially sharing personal
+data for possible inclusion in AI datasets.
+
+G. Student access to certain websites/tools using AI may be granted. However, privacy guidelines
+and age restrictions may be considered prior to allowing student access.
+
+PDF EXCERPT PAGE 2
+Use of AI by Teachers and Staff (excerpt)
+Source: PDF page 3
+
+C. AI/NLP use requires scrutiny to protect against the compromise of personally identifiable
+information and/or violation of District policies/procedures.
+
+E. Teachers/Staff should share neither passwords nor any other confidential, proprietary, or
+sensitive District/student information with AI/NLP tools.
+
+F. Student records, names, addresses, or other personally identifiable information shall not to be
+uploaded to AI/NLP tools by teachers/staff.
+
+G. AI/NLP tools may not be integrated with District software without the authorization of the District's
+Information Services.
+

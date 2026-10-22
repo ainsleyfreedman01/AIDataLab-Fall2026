@@ -1,0 +1,35 @@
+PDF EXCERPT PAGE 1
+         Carmel Clay Schools: AI in CCS: Data and
+                Student Privacy Passages
+Excerpted verbatim from AI in CCS (Carmel Clay Schools, Technology and Data Solutions web page). The source has no
+page numbers; locations are given by section. Web page; ellipses (…) mark omitted text.
+
+
+Precautions and Limitations of AI (excerpt)
+Source: web page, section 'What are some precautions and limitations of AI?'
+
+• Avoid including personally identifiable information (PII) when using AI tools.
+The Indiana Department of Education provides the following resource for Indiana families regarding
+AI security.
+
+AI Tools Available for CCS Students (excerpt)
+Source: web page, section 'What AI tools are available for CCS Students?'
+
+Currently, there are no AI tools approved in the CCS Trusted Learning Environment (TLE) for
+student use. Our primary focus is on comprehensive staff training and ethical review to ensure that
+when we introduce AI to students, it is integrated effectively, safely, and in alignment with our
+educational goals.
+
+Ethical and Appropriate Use of AI for Staff
+Source: web page, section 'What does ethical and appropriate use of AI look like for our staff?'
+
+Ethical and appropriate AI use enhances instruction, streamlines operations, and maintains privacy
+while keeping the educator at the center of the learning environment.
+
+Ethical uses include:
+• Maintaining data privacy
+• Using CCS approved AI tools
+• Avoiding use of Personally Identifiable Information (PII)
+Appropriate uses include (excerpt):
+• Analyzing data, including no personal identifiable information
+

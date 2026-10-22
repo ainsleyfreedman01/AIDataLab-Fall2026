@@ -1,0 +1,39 @@
+PDF EXCERPT PAGE 1
+ Mustang Public Schools AI Web Page: Data and
+          Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence (Mustang Public Schools, Oklahoma, technology department web page). The
+source has no page numbers; locations are given by section. This is a short district web page rather than a policy
+document. The approved AI tool table is quoted row by row, as one passage per tool.
+
+
+Artificial Intelligence in Mustang Public Schools (excerpt)
+Source: web page
+
+Mustang Public Schools is committed to the responsible, transparent, and secure use of artificial
+intelligence (AI) in support of teaching and learning.
+
+Annual & Ongoing Review
+Source: web page
+
+The district annually reviews AI tools used in our schools and provides information regarding their
+educational purpose, data privacy practices, and student protections. Parents and guardians may
+review the current list of approved AI tools below.
+
+Approved AI Tool List: Gemini
+Source: web page, table row
+
+Gemini Google Writing assistance, brainstorming, research support Name, school account, prompts
+Shared only as necessary under Google Workspace for Education agreement Yes
+
+Approved AI Tool List: Lexia Core5
+Source: web page, table row
+
+Lexia Core5 Lexia Learning Reading intervention Student ID, progress data, assessment results
+Shared under district agreement Yes
+
+Opt-out (excerpt)
+Source: web page
+
+Families also have the right to opt their student out of participating in student-facing AI tools as
+provided by Oklahoma law.
+

@@ -1,0 +1,51 @@
+PDF EXCERPT PAGE 1
+   Seattle Public Schools AI Handbook: Data and
+             Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence Handbook for Seattle Public Schools (Seattle Public Schools, Washington).
+Page numbers refer to the PDF pages of the source file. The handbook has no printed page numbers, so PDF page
+numbers are used. Ellipses (…) mark omitted text.
+
+
+Handbook Summary (excerpt)
+Source: page 2
+
+It also includes guidelines for responsible AI use, protecting student privacy, and addressing AI
+misuse.
+
+4. Create a Safe AI Environment
+Source: pages 3–4
+
+Keep data private
+When using AI protect personally identifiable information (PII). Do not share any PII, including
+name, birth date, address, phone number, social security number, or other financial or confidential
+information. When asked to provide information think about whether that information is really
+needed by the requester. Always make sure there's a written agreement in place about how that
+information can be used.
+
+Choose Trustworthy AI Tools
+We carefully select AI tools that protect our students' privacy. Any outside companies we work with
+must follow strict data protection rules and comply with FERPA (a law that protects student
+information).
+
+Think Before You Share
+Before giving any student information to an AI tool, ask yourself, "Does it really need to know this?"
+Don't share anything that's not necessary – it's like keeping secrets safe with a good friend.
+
+"Free" AI Tools Might Not Be Free
+Be careful with AI tools that are free to use. They might collect information about your students, like
+their messages, files, and feedback. It's like talking to a stranger on the bus – you don't know where
+your words might end up.
+
+Protect Student Privacy
+When using any AI tool, especially free ones, consider turning off the chat history. This way, your
+students' conversations won't be saved or used to train the AI. It's like having a private conversation
+that stays between you and the AI.
+
+PDF EXCERPT PAGE 2
+8. Contact Information for Ethical Concerns: Reporting AI Ethical
+Issues (excerpt)
+Source: page 5
+
+Whether it's about privacy, fairness, or anything else, don't be afraid to ask questions or share your
+concerns.
+

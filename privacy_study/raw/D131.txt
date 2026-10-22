@@ -1,0 +1,42 @@
+PDF EXCERPT PAGE 1
+North Dakota K-12 AI Guidance Framework: Data
+        and Student Privacy Passages
+Excerpted verbatim from North Dakota K-12 AI Guidance Framework (North Dakota Department of Public Instruction, web
+page). The source has no page numbers; locations are given by section. This is a web page with tabbed sections, so there
+are no page numbers. Ellipses (…) mark omitted text. Only a small amount of the page text touches on privacy.
+
+
+Introduction (excerpt)
+Source: web page, introduction
+
+AI cannot exist on its own. It requires human input (in the form of data, questions or prompts, and
+preprogrammed algorithms or mathematical instructions). This technology can process large
+volumes of data with incredible speed, efficiency, and precision to produce an output.
+
+Glossary: Large Language Model (excerpt)
+Source: web page, glossary
+
+Sometimes, companies include data sets of text without the creator’s consent.
+
+Implementation Roadmap: Evaluate Technology Infrastructure
+Source: web page, roadmap
+
+Review current EdTech providers supplying AI to vet their safety, privacy, reliability, and efficacy to
+determine if they are appropriate for your school and which users they will support based on their
+terms of service
+
+Age-Appropriate Use: Middle School (excerpt)
+Source: web page, developmental stages
+
+You should also note any age-level restrictions on some AI products. Some tools are prohibited for
+children under age 13 or require parental/guardian permission.
+
+Special Education: Data Collection and Analysis (excerpt)
+Source: web page, special education
+
+AI can also assist in data collection and analysis, helping educators understand student
+performance and devise effective teaching strategies. AI-powered predictive analytics can help
+educators to identify potential learning obstacles and provide timely intervention. By analyzing data
+on student performance and behavior, AI can predict which students might be at risk of falling
+behind and suggest strategies to help them catch up.
+

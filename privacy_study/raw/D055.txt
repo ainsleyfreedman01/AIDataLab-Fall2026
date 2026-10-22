@@ -1,0 +1,206 @@
+PDF EXCERPT PAGE 1
+     Dothan City Schools AI Guidelines: Data and
+             Student Privacy Passages
+Excerpted verbatim from AI (Artificial Intelligence) Guidelines (Dothan City Schools, Alabama; created 04.24.2025, revised
+03.31.2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+3. Purpose (excerpt)
+Source: page 2
+
+This document ensures that AI use supports educational goals, protects student data privacy,
+complies with applicable laws (including FERPA and COPPA), and safeguards against
+inappropriate or unsafe AI use.
+
+However, unregulated use may introduce risks including exposure to harmful content, bias, privacy
+violations, and misinformation.
+
+The district will focus on:
+
+• Data privacy, security, and quality
+
+4. AI Strategy (excerpt)
+Source: page 2
+
+• Publish guidelines and approved tools list on the district website.
+• Annually review approved AI tools for performance, compliance, and emerging risks.
+• The District Technology Review Committee (TRC) will publish and maintain the Approved AI
+  Tools List, review it annually, and archive prior versions for audit and transparency.
+
+5. AI Governance
+Source: page 3
+
+The governance of all Artificial Intelligence (AI) platforms, tools, and services within the District shall
+be the responsibility of the District Technology Review Committee (TRC). This committee serves as
+the sole body authorized to review, evaluate, approve, and monitor AI technologies for use by
+students, staff, or on district-owned accounts, networks, and devices.
+
+All AI systems—whether instructional, administrative, or operational—must undergo the district’s
+established technology vetting process before deployment. Approval will be granted only if the AI
+system:
+
+• Meets Children’s Internet Protection Act (CIPA), Children’s Online Privacy Protection Act
+  (COPPA), Family Educational Rights and Privacy Act (FERPA), Health Insurance Portability and
+  Accountability Act (HIPAA), Protection of Pupil Rights Amendment (PPRA), The Alabama Data
+  Breach Notification Act of 2018, Alabama data-governance requirements, and district policy.
+• Demonstrates appropriateness for K-12 educational use.
+• Aligns with district instructional goals and security standards.
+Approvals must be documented and reviewed annually. Vendors seeking to provide AI solutions to
+the district must supply clear evidence of compliance with these standards prior to consideration.
+
+PDF EXCERPT PAGE 2
+All AI platforms, tools, and services—instructional, administrative, or operational—must be vetted
+and approved by the District Technology Review Committee prior to any use by students or staff
+and prior to connection to district accounts, networks, or devices. The use of any AI platform not
+reviewed and approved by the District Technology Review Committee is strictly prohibited.
+Unauthorized use may result in access restrictions, reporting to administration, and disciplinary
+action in accordance with district policy.
+
+The District Technology Review Committee will conduct periodic audits to ensure only approved AI
+platforms are in use and will provide regular updates to district leadership on emerging AI
+technologies and any recommended guideline changes. Approval is documented, time-limited, and
+reviewed annually for compliance, performance, and risk.
+
+Vendors must provide model/system cards or equivalent documentation describing intended use,
+limitations, data flows, content safeguards for minors, and human-in-the-loop controls to support
+educator oversight.
+
+6. Data Privacy and Security
+Source: pages 3–4
+
+The Dothan City School District is committed to complying with federal, state, and local laws, rules,
+and regulations, and other entities that provide standards for compliance to ensure data privacy and
+security are maintained for data used in AI systems. Compliance includes FERPA, COPPA (for
+students under 13), IDEA/Section 504 confidentiality, applicable Alabama data-governance
+requirements, and district policy. We will ensure that the Contractor’s AI systems comply with all
+applicable federal, state, and local laws, rules, and regulations, and other entities that provide
+standards for compliance.
+
+The Dothan City School District is dedicated to ensuring data to be used in the AI systems will meet
+the data quality standards established by our Data Governance Policy.
+
+The Dothan City School District will conduct compliance audits that will be done by our Technology
+Department and/or the Data Governance Committee (DGC). The Technology Department and/or
+the Data Governance Committee will submit a copy of the audit to our leadership and the respective
+Contractor(s). We will also ensure that the Contractor(s) provide a Corrective Action Plan (CAP)
+based on the findings in the audit report that will include the steps the Contractor(s) plan to take to
+mitigate the findings, and the timeline by which they will be mitigated. Vendors must attest to
+reasonable administrative, technical, and physical safeguards aligned to recognized frameworks
+(e.g., NIST) and provide breach notification within 72 hours of discovery to the district’s designated
+contact.
+
+The Dothan City School District will include in our procurement and contract document(s) verbiage
+(Appendix A), which the Contractor shall attest when submitting their proposals and any contract
+executed to perform the work. There shall be no use of district data for training new products without
+prior written DCS approval and documented scope. No AI vendor may access district data without
+an executed DCS Data Processing & Security Agreement and adherence to district data
+minimization and deletion schedules.
+
+PDF EXCERPT PAGE 3
+7. AI Procurement (excerpt)
+Source: page 4
+
+In the procurement process, the following will be considered: cost, data privacy, security,
+human-in-the-loop development, algorithm bias, model cards, system cards, interoperability,
+service-level agreements, key performance indicators, customizability, configurability, scalability,
+legal compliance, and contractor support.
+
+The Dothan City School District will obtain a written statement from the contractor that:
+
+• The AI model(s) have been pretrained, and no data is being used to train a model to be used in
+  the development of a new product;
+
+9. AI Competency Development (excerpt)
+Source: page 5
+
+The Dothan City School District will develop an education and training program that is focused on
+approved tools, data privacy for minors, disclosure of AI assistance, and how to identify/report
+unapproved AI use.
+
+12. Use of AI Systems (excerpt)
+Source: page 6
+
+In alignment with Dothan City Schools’ commitment to student safety, data privacy, and instructional
+quality, the use of AI systems by students, staff, and all other district users shall be limited to those
+platforms that:
+
+• Are purpose-built for K-12 and minors, with age-appropriate safeguards and educator controls.
+• Have successfully completed the District Technology Review Committee’s vetting and approval
+  process, including compliance with all applicable laws, district policies, and data privacy
+  standards.
+• Have completed and returned the DCS Data Processing & Security Agreement
+
+13. AI Review and Approval Process (excerpt)
+Source: pages 6–7
+
+• The TRC will evaluate the proposed platform’s privacy policy, data security practices, and
+  compliance with applicable laws and district policies before approval.
+• Approved tools will be added to the District Approved AI/Online Tools List, published and
+  maintained annually.
+Privacy and Compliance Review
+• The TRC shall assess each proposed AI tool for compliance with FERPA, COPPA, CIPA,
+  HIPAA, PPRA, the Alabama Data Breach Notification Act, and all applicable district
+  data-governance standards.
+• Any AI tool that does not meet district privacy or security requirements shall not be approved for
+  use until deficiencies are remediated and verified.
+
+PDF EXCERPT PAGE 4
+• The Technology Department will assist with the implementation, integration, and technical
+  configuration of approved AI systems, ensuring alignment with district networks, security
+  protocols, and access controls.
+Use of Unapproved AI Systems
+• No AI platform, tool, or service may be used on district accounts, devices, or networks unless it
+  has been reviewed and approved through the process above.
+
+Appendix A: Data Usage Restriction Clause
+Source: page 8
+
+The Contractor hereby attests and agrees that it is expressly prohibited from using any data
+provided to it by the data providers—either in its raw form or after undergoing any form of
+processing, aggregation, or transformation—for the purpose of training a new AI System to be used
+in a new product, model, service, or offering (collectively referred to as the "Product") of the
+Contractor. The Contractor further attests and agrees that any violation of this clause will be
+considered a material breach of this RFP and/or Contract to be entered into by the Contractor, and
+may result in termination of the Contract, legal action, or both, at the sole discretion of the Dothan
+City School District.
+
+Notwithstanding the restrictions set forth in Section 1(a) of this Contract, the Contractor may use the
+data provided by the data providers to:
+
+• Customize the AI System currently in use, which may result in the development of a new AI
+  System.
+• Develop a new AI System.
+The customization and development of the AI System is expressly required by the Dothan City
+School District to meet the specific needs of the School District (the "District-Specific Needs"). Any
+such use of the data for the district-specific needs shall be subject to prior written approval by the
+Dothan City School District and shall be carried out in accordance with all applicable laws,
+regulations, and the terms and conditions of this contract.
+
+Appendix A: Request for Data Use and Model Training Completion
+Source: page 9
+
+Details of Data Use: The RFA shall include a comprehensive written explanation that outlines the
+following, but is not limited to:
+
+• Purpose of data usage.
+• Data elements that will be used for the AI System training.
+• Duration of data usage.
+• The manner the data providers’ data will be stored, processed, and secured.
+• Name(s) of the individual(s) who will have access to the data.
+• The controls in place to prevent unauthorized use.
+• Specific types of data that will be used for model training.
+• Risks associated with using the data for model training and how these risks will be mitigated.
+
+PDF EXCERPT PAGE 5
+Statement of Model Training Completion: The statement shall include a comprehensive written
+explanation that outlines the following, but is not limited to:
+
+• Deletion of training data or training data will be returned by a certain date. If retention is required
+  by law or contract, the vendor must segregate and protect retained data and provide a deletion
+  certificate by the agreed date.
+• A statement that no training data has been stored.
+Pretrained AI System: The AI System used in the performance of this Procurement Solicitation
+and/or Contracts has been pretrained. No data provided under this Procurement Solicitation and/or
+Contracts are being used to train an AI System to be used in a new product of the Contractor or any
+of its partners or affiliates.
+

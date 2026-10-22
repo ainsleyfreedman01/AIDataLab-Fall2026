@@ -1,0 +1,32 @@
+PDF EXCERPT PAGE 1
+Michigan Virtual AI Integration Framework: Data
+        and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) Integration Framework for School Districts (Michigan Virtual). Page
+numbers refer to the PDF pages of the source file. This is a one-page rubric table with three levels (Investigating,
+Implementing, Innovating). Passages marked [graphic] were transcribed from the rendered page. Only table cells that
+mention privacy or data protection are quoted.
+
+
+Policy, Ethical, & Legal Considerations: Implementing
+Source: PDF page 1 (table cell) [graphic]
+
+[graphic] The district is establishing policies, reviewing ethical guidelines, and strengthening a legal
+framework to address the challenges associated with AI technologies, including student privacy,
+data protection, and responsible AI practices. There is consideration of how AI can be used to
+support all student populations, aiming to address equity gaps.
+
+Policy, Ethical, & Legal Considerations: Innovating
+Source: PDF page 1 (table cell) [graphic]
+
+[graphic] The district has adopted Board-approved policies, robust ethical guidelines, and a strong
+legal framework, demonstrating a commitment to accountability, data privacy, compliance, and
+continuous improvement in AI. The district has a plan to evaluate the impact of AI, including efforts
+to narrow educational equity gaps.
+
+Student Use: Innovating (excerpt)
+Source: PDF page 1 (table cell) [graphic]
+
+[graphic] Most students utilize AI to support their learning goals, critically assessing AI’s societal
+impact, including biases, privacy concerns, and fairness issues, while making informed judgments
+about the authenticity and origin of content.
+

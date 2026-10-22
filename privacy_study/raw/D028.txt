@@ -1,0 +1,312 @@
+PDF EXCERPT PAGE 1
+Chicago Public Schools AI Guidebook: Data and
+          Student Privacy Passages
+Excerpted verbatim from AI Guidebook, Version 6.0 (Chicago Public Schools). Page numbers match the document's own
+page numbering. Ellipses (…) mark omitted text. Passages marked [graphic] were transcribed from rendered pages
+(two-column layouts, tables and glossary entries) and were not checked automatically. Text repeated in the Version History
+appendix (page 57) is omitted.
+
+
+Introduction (excerpt)
+Source: page 5
+
+CPS is committed to integrating GenAI tools safely, responsibly, and meaningfully, ensuring they
+align with our educational goals and standards while upholding the values and privacy of our
+community.
+
+This initiative aims to prepare every student for success in a continually evolving technological
+world, while steadfastly upholding the District’s commitment to data privacy, security, and academic
+integrity.
+
+AI Principles: Ethical and Transparent (excerpt)
+Source: page 9
+
+We will promote responsible data practices, adhering to privacy-by-design principles, and protect
+the privacy and security of student and other stakeholder information.
+
+AI Literacy: Ethical Awareness (excerpt)
+Source: page 11
+
+Ethical Awareness — Recognizing the ethical considerations including bias, fairness,
+transparency, data privacy, and AI’s impact on society.
+
+AI Literacy Essentials (excerpt)
+Source: page 13 [graphic]
+
+[graphic] CPS plans to integrate a variety of GenAI tools into our daily operations. District-ready
+Generative AI products and tools come from either CPS internal development or external vendors,
+which require usage and data handling to be governed by strict contracts that align with our
+District’s standards and policies. Unapproved, third-party GenAI products are blocked on the CPS
+network to maintain our robust AI Governance, protect our District, mitigate risk, and ensure
+responsible adoption. For more information on available tools and privacy restrictions visit the
+Approved Generative AI Tools section of the Guidebook.
+
+Models vs Tools (excerpt)
+Source: page 14
+
+Even if CPS has a contract with the company that produced the foundational model being used in a
+GenAI product (say an EdTech tool is powered by Gemini), that doesn’t guarantee that the product
+has a data agreement with the model that adheres to CPS AI Governance.
+
+PDF EXCERPT PAGE 2
+Memory vs Training
+Source: page 14
+
+A common misconception about conversations with a generative AI chatbot is how it “trains” on your
+data. Some people may believe that as they engage with the chatbot, it is actively learning from
+their answers. It is important to understand that a chatbot retaining your conversation is not the
+same as the GenAI model training on your data.
+
+For example: You tell Gemini that your birthday is in March. If, in a later response or conversation,
+you ask Gemini where you should go to dinner and it produces a response like “Since you’re a
+March Aries, and Aries is a fire sign, you should try a hibachi restaurant where the food is cooked on
+an open flame in front of you. Here are some options in your area…” This is an example of the
+model referencing previous data you gave it and using it to tailor responses accordingly, often called
+the tool’s memory. This doesn’t impact any conversation other than your own, and if you start a new
+conversation window, or erase the memory, it won’t impact your future conversations either.
+
+Let’s say you go on to respond that you don’t like hibachi. If Google saves your conversation and
+uses it to determine patterns that inform how the model responds to anyone in the future, this is the
+model training on your data. This difference is why we can have agreements with Google, and other
+generative AI tools, that allow you to still have memory-enabled conversations while maintaining
+data privacy.
+
+For more information on data agreements, see the Approved Generative AI Tools section of this
+document.
+
+General Guidance for All Stakeholders: Privacy, Security, and
+Confidentiality
+Source: page 16
+
+When using GenAI tools, it is crucial to understand that any information provided—whether through
+prompts entered by the user or AI-generated responses—could potentially be used by companies to
+train their models unless that company has an approved data privacy agreement with the District.
+This includes stakeholders’ personal details, and any proprietary or confidential information
+belonging to CPS. Assume that all information shared with a GenAI application will be used to train
+the model and could become accessible in the public domain unless explicitly told otherwise.
+
+To safeguard privacy and maintain confidentiality, you should:
+
+• Review the data privacy policy and terms of service of GenAI tools before using them to be
+  aware of how the tool handles data and inputs.
+• Always inform others when using GenAI tools that may impact their data and request their
+  permission before doing so (i.e., meeting notetakers). Never input personally identifiable
+  information or protected health information into GenAI tools that are not approved by the District.
+• If using a GenAI tool that does not have an approved data privacy agreement with the District,
+  never input:
+• confidential, sensitive, or legally protected information;
+• personally identifiable information or protected health information;
+
+PDF EXCERPT PAGE 3
+• copyrighted material or proprietary CPS intellectual property.
+Legally protected information would include, though it is not limited to, information contained in a
+student’s record; information that identifies students, employees, and other individuals; information
+contained in an employee’s record; proprietary information; etc.
+
+Staff: Contact your manager or the IT Service Desk at (773) 553-3925 if you are unsure whether
+the information you are planning to input falls into any of the above categories.
+
+General Guidance for All Stakeholders: Age Appropriate Usage
+Source: page 18
+
+GenAI tools, whether publicly available or subscription-based, typically set age restrictions in their
+Privacy Policy or Terms and Conditions. Before encouraging your students to interact with any tools,
+make sure to review the terms to ensure compliance with them. Below is a list of mainstream tools
+and their respective restrictions for your awareness. This does not imply District approval. Details on
+District approved tools can be found in the Approved Generative AI Tools section.
+
+[graphic] Tool (company) | No Access | Parental Consent | No Permission Needed
+
+• [graphic] ChatGPT (OpenAI) | Under 13 | Parental consent must be obtained for students 13–17 |
+  18+
+• [graphic] Claude (Anthropic) | Under 18 | N/A - no access under 18 | 18+
+• [graphic] Gemini, Gems, Nano Banana (Google)+ | N/A | Parental consent must be obtained for
+  students | 18+
+• [graphic] NotebookLM (Google)+ | N/A | Parental consent must be obtained for students | 18+
+• [graphic] Copilot (Microsoft)+ | Under 18 | N/A - no access under 18 | 18+
+• [graphic] Perplexity | Under 13 | Parental consent must be obtained for students 13–17 | 18+
+• [graphic] Adobe Firefly | N/A* | Parental consent must be obtained for students | 18+
+• [graphic] Canva | N/A* | Parental consent must be obtained for students | 18+
+[graphic] * Only enforced for enterprise accounts + Enterprise product of the District
+
+General Guidance for All Stakeholders: Tool Approval and Use
+Source: page 19
+
+Approved GenAI tools can be found in the EdTech Catalog. Access to GenAI tools is governed by
+all relevant federal, state, and local student privacy and safety laws (FERPA, COPPA, SOPPA,
+etc.), along with District policy. Under SOPPA, all educational technology tools, including those that
+leverage GenAI, are reviewed, approved, and listed in the EdTech Catalog. Parents and guardians
+can choose for their child not to use specific GenAI tools through individual school opt-out practices.
+Schools are encouraged to use or adapt an existing opt-out form if one already exists. If not, this
+opt-out sample form can be customized.
+
+PDF EXCERPT PAGE 4
+Guidance for Students: Tool Approval and Use (excerpt)
+Source: page 21
+
+Students may only use age-appropriate GenAI tools that have been vetted and approved by CPS,
+as reflected in the EdTech Catalog.
+
+A GenAI tool’s approval within the EdTech Catalog is a reflection that it meets the District’s
+standards for privacy, security, and confidentiality in compliance with all applicable state and federal
+laws. However, it does not reflect that the tool meets the District’s academic standards for
+verification, bias, or fairness.
+
+Guidance for Students: Monitoring Safe Use (excerpt)
+Source: page 24
+
+Usage of GenAI tools will be governed under the SOPPA model, wherein teachers are responsible
+for monitoring student use of approved technologies.
+
+Guidance for Families (excerpt)
+Source: page 25 [graphic]
+
+Age-Appropriate and Approved Tools
+[graphic] CPS staff ensure that students use GenAI tools that are appropriate for their age and
+maturity level. Teachers will adhere to age restrictions and only use tools suitable for students. To
+ensure the safety and security of student data, CPS rigorously evaluates all educational technology.
+(EdTech) tools. Only tools that meet strict standards for data privacy, security, and confidentiality
+are approved for use. The CPS EdTech Catalog provides a comprehensive list of these vetted tools,
+along with details about their data privacy practices. For more information and to view approved
+GenAI tools, visit the EdTech Catalog.
+
+Opt-Out Options
+[graphic] Schools will clearly communicate information about the GenAI tools used in classrooms
+and the procedures for opting out if you prefer your child not to use them. Schools are encouraged
+to use or adapt an existing opt-out form if one already exists, and a sample that can be customized
+has been provided here. Your participation in this process helps ensure that your child’s educational
+experience aligns with your family’s values and preferences.
+
+Guidance for Educators and Staff: Responsible Use (excerpt)
+Source: page 26
+
+Additionally, staff may enter confidential data only into GenAI tools that have approved data privacy
+agreements with the District, including but not limited to student record information, confidential
+employee information, and any identifying information. As a further precaution, staff are advised to
+turn off chat history and data training in the settings of any GenAI tool used in their professional
+practice.
+
+PDF EXCERPT PAGE 5
+Guidance for Educators and Staff: Tool Approval and Use
+Source: page 26
+
+Staff members are required to use only GenAI tools that have been vetted and approved by CPS,
+as reflected in the EdTech Catalog. A tool’s approval within the EdTech Catalog reflects that it
+meets the District’s standards for privacy, security, and confidentiality in compliance with all
+applicable state and federal laws. However, it does not reflect that the tool meets the District’s
+academic standards for verification, bias, fairness, or output quality. … This policy ensures that the
+tools align with our educational goals and adhere to our rigorous data privacy and security
+standards.
+
+Guidance for ITS: Design and Development (excerpt)
+Source: page 29
+
+Ensure all software is secure by design, free from vulnerabilities, and continuously evaluated
+through testing, patching, and authentication measures.
+
+Guidance for ITS: Monitoring Safe Use: Noncompliance (excerpt)
+Source: page 30
+
+CPS reserves the right to access and monitor the use of AI applications on any CPS-issued devices
+or that appear on CPS-managed networks to ensure compliant use of these systems in accordance
+with the Staff and Student Acceptable Use Policies.
+
+If monitoring systems and processes detect a possible guideline violation, or if a User reports a
+possible guideline violation, the suspect event should be processed using appropriate security
+incident response processes.
+
+Guidance for Vendors: Tool Approval and Use
+Source: page 31
+
+All AI EdTech tools provided by vendors must undergo the same rigorous vetting and approval
+process as all EdTech tools used by CPS before they can be used by students or with student data.
+Known as the EdTech Request for Qualifications (RFQ), this process is currently available once a
+year and vendors can sign up for notification of future contract opportunities on the CPS
+Procurement Website.
+
+Approval signifies that the tool meets the District’s standards for privacy, security, and confidentiality
+in compliance with all applicable federal, state, and local student privacy and safety laws (FERPA,
+COPPA, SOPPA, etc.) and District policy.
+
+Vendors must provide comprehensive documentation regarding their tool’s data privacy practices,
+including how data is collected, stored, used, and protected. This information will be a key factor in
+the approval process.
+
+Vendors should be prepared to provide information regarding the age appropriateness of their tools,
+including any age restrictions outlined in their privacy policy or terms and conditions.
+
+PDF EXCERPT PAGE 6
+Guidance for Vendors: Privacy, Security, and Confidentiality
+Source: page 32
+
+Vendors must ensure that their AI tools and services are designed and operated to protect the
+privacy and security of all CPS stakeholders, including students, families, and CPS employees.
+
+It is imperative that no personally identifiable information (PII) or protected health information is
+collected, stored, or processed in a manner that goes against CPS guidelines and could
+compromise the privacy of our stakeholders.
+
+Foundational model vendors must ensure that stakeholder information, copyrighted material, or
+proprietary CPS intellectual property is not used to train their models without explicit permission.
+Application layer vendors must ensure that the same is not used in the fine-tuning of their tools or
+shared with the foundational model vendor without explicit permission.
+
+Vendors should implement robust security measures to prevent unauthorized access, data
+breaches, and misuse of CPS data. Security by design principles should be followed, with
+continuous evaluation through testing, patching, and authentication measures.
+
+Approved Generative AI Tools (excerpt)
+Source: page 35
+
+The rapid evolution of AI technology has introduced significant data security and legal complexities.
+Our priority remains enabling productive work within a secure and compliant environment, while
+recognizing and valuing the exploration and innovation happening District-wide. Unapproved,
+third-party GenAI products are blocked on the CPS network to maintain our robust AI Governance,
+protect our District, mitigate risk, and ensure responsible adoption. Approved tools have entered
+into an enterprise data share agreement, meaning they have a contract with CPS agreeing not to
+train their models on or store any data from interactions with their product–ensuring student privacy.
+
+Enterprise Products
+[graphic] Microsoft Copilot, Access Notes: You have to sign in through Microsoft, NOT create a
+personal account with your CPS email, for your usage to fall under the CPS data-privacy agreement
+
+Internal AI Product Development Process (excerpt)
+Source: page 36
+
+However, our mandate at CPS goes beyond mere functionality: we strive for student privacy,
+instructional quality, and equitable access. While we leverage external tools where appropriate, we
+prioritize internal development for high-stakes use cases to ensure AI implementations in the District
+align with our values and obligations. We build our own tools not to reinvent the wheel, but to ensure
+the vehicle is safe for our students to ride in.
+
+Beyond Enterprise: Product Approval (excerpt)
+Source: page 37
+
+New products cannot be used until they have a contract and data share agreement with the District.
+Be aware that this process can take up to a year and half.
+
+PDF EXCERPT PAGE 7
+Professional Learning Communities (excerpt)
+Source: page 40
+
+Participants engage in ongoing, hands-on learning to develop their AI literacy, focusing on ethical
+considerations, data privacy, and effective usage within CPS’s systems.
+
+Glossary (excerpt)
+Source: pages 53 and 55 [graphic]
+
+[graphic] AI Safety: Measures taken to ensure AI tools are used in ways that prevent harm to
+individuals or society. This can encompass data privacy, bias mitigation, and responsible
+development.
+
+[graphic] Data Privacy: Protecting stakeholders’ personally identifiable information (PII) when using
+digital tools, including AI tools.
+
+[graphic] Digital Citizenship: Responsible and ethical use of technology, encompassing online
+safety, privacy, critical thinking, and respectful interactions in the digital world.
+
+[graphic] Vendor GenAI: This type of GenAI is provided by third-party vendors whom CPS may
+contract to ensure data handling and usage align with District standards and policies. It is important
+for CPS to carefully vet any vendors to ensure alignment with District values and data privacy
+standards.
+

@@ -1,0 +1,87 @@
+PDF EXCERPT PAGE 1
+Wyoming K-12 AI in Education Transparency Act
+   Model Policy: Data and Student Privacy
+                  Passages
+Excerpted verbatim from Model Policy: The K-12 Artificial Intelligence in Education Transparency Act (submitted to the
+Wyoming Legislature interim committee, 2026). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark
+omitted text.
+
+
+Section 1. Purpose and Findings (excerpt)
+Source: page 1
+
+While artificial intelligence may offer instructional benefits, its use also presents risks, including data
+privacy violations, diminished academic integrity, ideological bias, and inappropriate replacement of
+human educators.
+
+Transparency, parental consent, and clear limitations are necessary to ensure that artificial
+intelligence is used responsibly and consistent with constitutional principles and local control.
+
+Therefore, the purpose of this Act is to establish a framework that protects parental rights, student
+data privacy, and instructional integrity while allowing limited, responsible use of artificial intelligence
+in K-12 education.
+
+Section 2. Definitions (excerpt)
+Source: page 1
+
+“Student data” means any information directly related to an identifiable student, including academic
+records, behavioral data, biometric identifiers, or online activity.
+
+Section 3. Parental Notice and Consent
+Source: page 2
+
+A school entity shall not require or permit a student to use artificial intelligence or generative artificial
+intelligence as part of instruction or school-sponsored activities without first obtaining written, opt-in
+parental consent.
+
+Each school entity shall provide parents, not less than annually, with a written disclosure identifying:
+
+• All artificial intelligence tools in use;
+• The vendors providing such tools;
+• The categories of student data collected;
+• The extent to which student data is shared; and,
+• The educational purpose for which each tool is used.
+A parent may revoke consent of any AI-based tool, assignment, or assessment at any time.
+
+A student who opts out shall not be academically penalized or denied access to core instructional
+content.
+
+PDF EXCERPT PAGE 2
+Section 4. Limitations on Classroom Use (excerpt)
+Source: page 2
+
+A school entity shall not deploy artificial intelligence systems that:
+
+• Profile or categorize students based on political beliefs, religious beliefs, or personal values;
+• Conduct psychological, emotional, or behavioral assessments without explicit parental consent;
+  or
+
+Section 5. Student Data and Privacy Protections
+Source: pages 2–3
+
+Artificial intelligence systems used by school entities shall collect only the minimum student data
+necessary to achieve an approved educational purpose.
+
+Student data collected through artificial intelligence:
+
+• Remains the property of the student and parent;
+• May not be sold, shared, licensed, or used for commercial advertising or profiling; and
+• Shall be deleted within a defined period unless retention is required by law.
+A school entity or vendor shall not collect, store, or analyze biometric data, including facial
+recognition data, voiceprints, or emotional analysis, without case-specific written parental consent.
+
+Section 7. Transparency and Accountability
+Source: page 3
+
+Each school entity shall maintain publicly accessible information identifying approved artificial
+intelligence tools and their intended uses.
+
+Parents shall be notified promptly of any unauthorized disclosure or breach of student data involving
+artificial intelligence systems.
+
+Section 8. Enforcement (excerpt)
+Source: page 3
+
+A school entity or vendor that violates this Act may be subject to contractual remedies,
+administrative penalties, or other remedies provided by law.
+

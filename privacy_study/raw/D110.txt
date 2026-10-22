@@ -1,0 +1,191 @@
+PDF EXCERPT PAGE 1
+   Massachusetts AI Guidance: Data and Student Privacy
+                       Passages
+Excerpted verbatim from Massachusetts Guidance for Artificial Intelligence in K–12 Education (Massachusetts DESE). Page
+numbers match the guidance's own page numbering. Passages marked [graphic] were transcribed from images in the original.
+Ellipses (…) mark omitted text. Action steps repeated in the Appendix checklists (pages 63–71) are not reproduced again.
+
+
+Understanding AI in Education: What Is AI?
+Source: page 6
+
+In educational contexts, AI tools may help personalize instruction, streamline teacher tasks, improve
+accessibility, automate scheduling or resource allocation, and support decision-making. As these systems
+grow more autonomous, they also raise important questions about equity, privacy, accuracy, and control.
+
+Preparing for an AI-Embedded Future (excerpt)
+Source: page 8
+
+As AI becomes ambient—quietly influencing how information is delivered, analyzed, and assessed—it
+also becomes harder to monitor, govern, and explain. This introduces significant risks:
+• Loss of transparency. Students, educators, and families may be unaware of when and how AI is
+   shaping educational experiences.
+• Lack of informed consent. Tools may collect and/or use personal data or generate outputs that affect
+   learning without clear documentation or disclosure.
+
+Core Principles: Data Privacy & Security
+Source: page 10
+
+[graphic] DATA PRIVACY & SECURITY
+To help anchor local policy and guidance development, the Department of Elementary and Secondary
+Education recommends that districts adopt the following:
+DATA PRIVACY & SECURITY
+AI use complies with all relevant laws and policies related to student data, including FERPA and COPPA,
+and upholds strong data governance practices. Students and families are protected from unnecessary
+surveillance, data sharing, or automated decision-making without consent.
+What could this look like?
+• Districts only approve AI tools vetted through a data privacy agreement process.
+
+• Schools teach students how their data is used when they interact with AI systems.
+
+Applying the Core Principles (excerpt)
+Source: page 12
+
+• If you’re designing PD for staff, ask: Are we equipping teachers to identify harmful bias and maintain
+   student data privacy?
+
+PDF EXCERPT PAGE 2
+Implementation Framework: Supplemental Resources (excerpt)
+Source: page 22
+
+Report of the NEA Task Force on Artificial Intelligence in Education: This report outlines five guiding
+principles for the ethical, equitable, and effective use of AI in education. Drawing on educator insights and
+research, it addresses AI’s impact on teaching, learning, disability access, data privacy, and educator
+agency.
+
+Equity and AI: Supplemental Resources (excerpt)
+Source: page 27
+
+Addressing the Digital Divide: 5 Goals Every District Must Reach (webinar/podcast): Goals include:
+1) reliable access for all learners, 2) current and compatible devices for all students, 3) digital skills that
+match career readiness, 4) keeping student information secure, and 5) ensuring digital learning is
+accessible.
+Washington’s Human-Centered AI Guidance for K–12 Public Schools (excerpt): The document also
+provides actionable guidelines for education leaders, IT professionals, teachers, students, and families,
+emphasizing equitable access, data privacy, bias detection, and continuous community engagement.
+
+Legal Foundations for AI Use: Why This Matters
+Source: page 29
+
+As AI is further embedded into K–12 education, schools and districts must ensure that its use complies
+with legal obligations that protect students’ rights. These include requirements around privacy,
+accessibility, data governance, and public accountability. Legal compliance is not just a technical
+responsibility—it is foundational to maintaining trust and student safety.
+AI use in education brings new layers of complexity to long-standing legal frameworks. Some tools may
+collect or process sensitive data, produce content that qualifies as educational records, or interfere with
+accessibility if not properly designed. As technology evolves, so too must district-level policies and
+procedures that safeguard legal compliance.
+
+Legal Areas to Monitor (excerpt)
+Source: page 29
+
+Student Privacy
+• FERPA (Family Educational Rights and Privacy Act) – Protects access and disclosure of student
+  education records.
+• COPPA (Children’s Online Privacy Protection Act) – Regulates online services used by children under
+  13.
+• PPRA (Protection of Pupil Rights Amendment) – Governs surveys and data collection involving
+  sensitive topics.
+• Massachusetts Student Records Regulations (603 CMR 23.00) - “[I]nsure parents’ and students’ rights
+  of confidentiality, inspection, amendment, and destruction of student records and to assist local school
+  systems in adhering to the law.”
+
+PDF EXCERPT PAGE 3
+• Data Governance and Security: Align AI-related data collection, storage, sharing, and deletion with
+  local and state data governance policies, including those that define educational records and consent
+  procedures, including CIPA – Internet safety and filtering (required for E-rate funding).
+• Public Records: AI-generated content or decisions may be subject to public records requests under
+  Massachusetts law.
+• Procurement: Districts must ensure vendor contracts address AI capabilities, data practices, and
+  compliance with privacy and accessibility laws.
+
+Legal Foundations: Action Steps (excerpts)
+Source: pages 30–32
+
+Compliance with Federal and State Laws (page 30)
+• Assess how FERPA, COPPA, PPRA, IDEA, Section 504, ADA, Title VI, Title IX, EEO, and CIPA apply
+  to AI tools in use and/or being considered.
+• Utilize DESE Student Data Privacy training resources to strengthen staff knowledge and understanding.
+
+Ongoing Legal and Data Audits (page 30)
+Establishing regular review processes to assess legal compliance, identify risks, and ensure
+documentation of how AI systems handle sensitive data.
+• Audit existing AI-related tools, including existing digital tools in which AI has been embedded, and
+  vendor agreements for privacy, accessibility, and anti-discrimination compliance.
+• Determine whether any AI-generated content qualifies as educational records or public records.
+
+Integration of AI Guidance into Existing Policies (page 31)
+• Update policies that may be impacted by the use of AI such as responsible/acceptable use,
+  cybersecurity, data privacy, harassment and bullying, etc.
+Transparency and Public Accountability (page 32)
+• Determine how AI-generated content or decisions are documented and stored.
+
+• Ensure vendor contracts clearly define AI capabilities, data use, storage, retention and destruction, and
+  public accountability terms.
+
+PDF EXCERPT PAGE 4
+Legal Foundations: Key Questions (excerpts)
+Source: page 33
+
+• Discuss how your district identifies and applies the laws that govern AI use, including FERPA,
+  COPPA, PPRA, IDEA, Section 504, ADA, CIPA, and relevant Massachusetts laws. How are these
+  laws interpreted in the context of AI tools, and who is responsible for ensuring compliance?
+• Describe how your district audits AI tools, data systems, and third-party platforms for privacy,
+  accessibility, and data-sharing practices. What processes or teams are in place to lead these
+  reviews?
+• Describe how your vendor contracts and procurement processes address AI-specific risks and
+  responsibilities. … What legal expectations—such as age limitations, data usage, transparency, or
+  bias audits—are written into agreements?
+• Discuss how teachers are supported to model legally responsible AI use in classrooms. What
+  expectations exist for disclosing tool use and limitations, protecting student data, and ensuring
+  equitable access?
+
+Legal Foundations: Supplemental Resources (excerpt)
+Source: page 33
+
+• Module 2: Privacy and Data Security (pp. 12-16): Guidance for implementation aligned with US
+  federal laws addressing privacy and data security, including COPPA, FERPA, IDEA, CIPA, and PPRA.
+• TEC Student Data Privacy Alliance Training Materials: The Education Collaborative provides
+  schools and districts with support to negotiate privacy terms with software vendors and training
+  materials.
+• Alabama AI Policy Template for Local Education Agencies (ASDE, June 2024): This resource
+  outlines policies for AI governance, data privacy, procurement, risk management, and implementation,
+  all while centering human oversight and educational equity.
+
+AI Literacy: Teaching about AI (excerpts)
+Source: pages 35–40
+
+Why This Matters (page 35)
+AI literacy also includes an understanding of personal and environmental impacts of technology use.
+Students can explore how their digital actions contribute to their virtual footprint, including data
+permanence, privacy, and ethical online behavior.
+Curriculum and Instructional Integration (page 37)
+• Integrate AI topics such as bias, ethics, misinformation, data privacy, algorithm use, and environmental
+  impacts into instructional planning.
+Key Questions (page 39)
+• Describe how AI literacy is embedded into curriculum planning. How are concepts such as bias,
+  ethical use, and data privacy integrated into core content areas—not just technology classes?
+Supplemental Resource (page 40)
+North Carolina Generative AI Implementation Recommendations (excerpt): It also highlights crucial
+topics for training such as understanding model workings, bias, hallucinations, and protecting privacy.
+
+PDF EXCERPT PAGE 5
+District Operations (excerpts)
+Source: pages 55–59
+
+Why This Matters (page 55)
+AI is increasingly embedded in the tools and systems that districts use for budgeting, staffing, resource
+allocation, and operational decision-making. Often invisible, these systems use predictive modeling,
+automation, and recommendation algorithms to support leaders—but they also introduce risks related to
+bias, transparency, privacy, and accountability.
+Procurement and Vendor Management (page 57)
+• Require vendors to disclose where and how AI is used in their platforms or services.
+
+• Include contract language requiring compliance with FERPA, 603 CMR 23.00, and all applicable data
+  protection laws.
+Key Questions: Procurement and Vendor Management (page 59)
+• Explain how vendors are vetted regarding AI model training, data handling, and equity or
+  accessibility safeguards. What questions or criteria are used?
+• Describe how contract language protects student data privacy when AI is involved. How do you
+  ensure compliance with FERPA, 603 CMR 23.00, and related laws?
+

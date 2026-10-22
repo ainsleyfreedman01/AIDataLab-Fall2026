@@ -1,0 +1,77 @@
+PDF EXCERPT PAGE 1
+NYC Public Schools Guidance on AI and Screen
+  Time: Data and Student Privacy Passages
+Excerpted verbatim from Guidance on Artificial Intelligence and Screen Time (New York City Public Schools, 2026–27
+school year), web page. The source has no page numbers; locations are given by section. This is a web page with no page
+numbers, so each section cites the web page section. Ellipses (…) mark omitted text.
+
+
+Grades 9–12: Limited AI Pilots (excerpt)
+Source: web page, section 'Limited AI Pilots'
+
+All high school students will be required to complete two 45-minute AI literacy modules which will
+include lessons on how AI works, data privacy and bias, and appropriate uses of AI in school.
+
+Tool selection was based on criteria such as:
+
+• Compliance approval with the NYCPS Enterprise Request Management Application (ERMA)
+  data privacy and security review process.
+
+How Teachers and School Staff Members May Use AI (excerpt)
+Source: web page, section 'How Teachers and School Staff Members May Use AI'
+
+Teachers and other school staff members may continue using AI for instructional planning and
+operational tasks, subject to existing requirements, including the NYCPS Enterprise Request
+Management Application (ERMA) data privacy and security approval process, and NYCPS
+procurement rules. Additionally, AI may not be used for grading, behavior monitoring, or for
+placement, promotion, graduation, and other decisions about students.
+
+How Software is Evaluated Before Reaching Your Child's School
+Source: web page, section 'How Software is Evaluated Before Reaching Your Child's School'
+
+Before any tool can be used with your child, it must be reviewed and approved. We call that review
+ERMA—the Enterprise Request Management Application. It's how we check that tools keep your
+child's data safe and protected.
+
+The review is also how we keep the promises New York State law makes to you. Under New York
+State Education Law 2-d and its regulations, every vendor we work with must sign an agreement
+about how it will handle student information and provide NYCPS an explanation of what data it
+collects and how it protects it and meet recognized security standards. ERMA is where we confirm
+all of that.
+
+The ERMA process currently reviews tools for data privacy and security. NYCPS is committed to
+building expanded evaluation capacity, including areas not covered by ERMA such as algorithmic
+bias, equity impact, and instructional effectiveness.
+
+Teachers and staff members can confirm whether a tool has been approved by visiting the NYCPS
+Ed Tech Portal and logging in with their NYCPS credentials.
+
+Families can also learn more about student privacy.
+
+PDF EXCERPT PAGE 2
+Our Commitments to You: Protect Student Data and Be Clear About
+AI
+Source: web page, section 'Our Commitments to You'
+
+Student data belongs to students and families and is protected by law.
+
+Additional Resources for Families: Student and Family Rights,
+Student Privacy
+Source: web page, section 'Additional Resources for Families'
+
+Know Your Rights: Student Privacy
+• NYCPS Parents' Bill of Rights for Data Privacy and Security
+• Protection of Pupil Rights Amendment (PPRA)
+• Family Educational Rights and Privacy Act (FERPA)
+• Individuals with Disabilities Education Act (IDEA)
+Student Privacy
+• Family Educational Rights and Privacy Act (FERPA): Gives families the right to access and
+  protect their child's education records
+• Children's Online Privacy Protection Rule (COPPA): Protects personal information collected from
+  children under 13 online
+• New York State Education Law Section 2-d: Protects student data and limits how it can be
+  shared or used
+• Chancellor's Regulation A-820: Data privacy and security
+• Children's Internet Protection Act (CIPA): Requires schools to protect students from harmful
+  online content
+

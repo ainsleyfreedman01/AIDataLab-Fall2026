@@ -1,0 +1,51 @@
+document_stem,block,category,relevance,notes
+Charleston_Generative_AI_Web_Page,1,model_training,yes,Training permitted only with appropriate authorization.
+NH_AI_Guidance_Framework,7,sharing_secondary_use,uncertain,Advertisement avoidance is not explicitly data-targeted advertising.
+NH_AI_Guidance_Framework,19,sharing_secondary_use,yes,Vendor advertising profiling and sale restrictions.
+NH_AI_Guidance_Framework,21,sharing_secondary_use,yes,Vendor resale and repurposing restrictions plus assessment sharing.
+NH_AI_Guidance_Framework,21,retention_deletion,yes,Assessment storage duration must be communicated; access duration alone is not retention.
+NH_AI_Guidance_Framework,24,sharing_secondary_use,yes,Consent before disclosure of learner data.
+NH_AI_Guidance_Framework,29,sharing_secondary_use,yes,Transparency about sharing and protections against unauthorized disclosure.
+NH_AI_Guidance_Framework,29,retention_deletion,yes,Retention periods and secure deletion when no longer needed.
+NH_AI_Guidance_Framework,30,sharing_secondary_use,no,Breach response alone is outside secondary-use safeguards.
+NH_AI_Guidance_Framework,42,sharing_secondary_use,no,Initial upload and public-tool sharing restrictions alone are out of scope.
+Philadelphia_GenAI_Guidelines,3,model_training,yes,Vendor contract excludes model training on tool inputs.
+Philadelphia_GenAI_Guidelines,3,sharing_secondary_use,yes,Sale or sharing to third parties requires permission.
+Philadelphia_GenAI_Guidelines,3,retention_deletion,no,US storage geography does not specify duration or deletion.
+Philadelphia_GenAI_Guidelines,5,sharing_secondary_use,yes,Warning that input information can be used by tool companies.
+Philadelphia_GenAI_Guidelines,10,model_training,yes,Repeated contract statement in student section.
+Philadelphia_GenAI_Guidelines,10,sharing_secondary_use,yes,Repeated conditional third-party sharing and sale statement.
+Philadelphia_GenAI_Guidelines,11,sharing_secondary_use,yes,Warning about tool-company use of entered information.
+Philadelphia_GenAI_Guidelines,13,sharing_secondary_use,yes,Warning of third-party sharing.
+Rochester_CSD_AI_Guidelines,2,sharing_secondary_use,yes,Data use must be defined and limited to educational purposes.
+Rochester_CSD_AI_Guidelines,2,retention_deletion,yes,Parental deletion process and retention periods.
+South_Carolina_AI_Standards_Framework,5,sharing_secondary_use,no,Curriculum about monetization is not a student-data handling provision.
+South_Carolina_AI_Standards_Framework,8,model_training,no,Curriculum objective about training models not vendor data practice.
+Alabama_AI_Policy_Template,6,model_training,yes,Contractor attestation for training on user data; template not adopted policy.
+Alabama_AI_Policy_Template,9,model_training,yes,Pretrained models and no data use for new-product model training.
+Alabama_AI_Policy_Template,10,sharing_secondary_use,yes,Limits student behavioral tracking and profiling.
+Alabama_AI_Policy_Template,11,model_training,yes,Prohibition for contractor new products; exception follows.
+Alabama_AI_Policy_Template,11,retention_deletion,no,Contract termination is a remedy not a data deletion trigger.
+Alabama_AI_Policy_Template,12,model_training,uncertain,Incomplete lead-in; customization exception appears in next paragraph.
+Alabama_AI_Policy_Template,13,model_training,yes,Data-driven customization and new-system development subject to prior approval; context names training.
+Alabama_AI_Policy_Template,13,sharing_secondary_use,yes,Data use limited to District-Specific Needs with prior approval.
+Alabama_AI_Policy_Template,14,model_training,yes,Written training approval request and completion statement.
+Alabama_AI_Policy_Template,15,model_training,yes,Contractor written request for data use in training.
+Alabama_AI_Policy_Template,16,model_training,uncertain,Generic RFA field lead-in needs following items to establish training content.
+Alabama_AI_Policy_Template,17,model_training,yes,Approval request identifies training data elements and purpose.
+Alabama_AI_Policy_Template,18,model_training,yes,Training data types and risks to be documented.
+Alabama_AI_Policy_Template,18,retention_deletion,yes,Duration of data usage must be specified; no duration supplied here.
+Alabama_AI_Policy_Template,19,model_training,yes,Training completion statement concerns removal of training data.
+Alabama_AI_Policy_Template,19,retention_deletion,yes,Training data deletion or return by a specified date and non-storage attestation.
+Alabama_AI_Policy_Template,20,model_training,yes,Pretrained-system attestation excludes new-product training.
+Springfield_MO_SPS_AI_Handbook,4,retention_deletion,no,Generic warning that inputs can be stored; no duration or deletion discussed.
+Springfield_MO_SPS_AI_Handbook,7,model_training,yes,Approved tools described as not training on user information.
+Springfield_MO_SPS_AI_Handbook,7,sharing_secondary_use,yes,Approved tools described as not sharing data publicly.
+Springfield_MO_SPS_AI_Handbook,9,sharing_secondary_use,yes,Approval workflow distinguishes no-data-sharing tools; decision in next block.
+Springfield_MO_SPS_AI_Handbook,11,sharing_secondary_use,yes,Approval workflow distinguishes collected or shared data; agreements follow.
+Springfield_MO_SPS_AI_Handbook,15,sharing_secondary_use,no,Initial disclosure to tool alone; downstream referent not established.
+Springfield_MO_SPS_AI_Handbook,16,sharing_secondary_use,yes,Public tool inputs can become accessible to unintended recipients.
+Springfield_MO_SPS_AI_Handbook,27,retention_deletion,no,Termination refers to employment not data retention.
+Springfield_MO_SPS_AI_Handbook,40,sharing_secondary_use,yes,Glossary describes AI-company use of personal information without permission.
+Valley_Central_AI_Policy_8636,1,sharing_secondary_use,yes,Disclosing student PII requires compliance and third-party agreements where applicable.
+Valley_Central_AI_Policy_8636,2,sharing_secondary_use,yes,Inputs may be made available to other users; student-data referent in next block.

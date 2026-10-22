@@ -1,0 +1,70 @@
+PDF EXCERPT PAGE 1
+    Minnesota Artificial Intelligence in Education:
+        Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence in Education (Minnesota Department of Education; updated June 2026).
+Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. Passages from two-column
+layouts are marked [graphic]. Most of the privacy content here is brief; the resource lists (pages 4–6) are included only
+where the document's own description mentions privacy or security.
+
+
+I. Guiding Principles for AI Use in Education: Ensure Safety, Ethics,
+and Effectiveness
+Source: page 1 [graphic]
+
+[graphic] Data privacy, security and content appropriateness should be primary considerations when
+adopting new technology. Consider existing policies related to these issues and how the use of AI
+fits into existing frameworks.
+
+II. Learning with AI (excerpt)
+Source: page 2
+
+It is important for teachers to consider this question, along with the questions listed below, when
+selecting an AI tool or website to use with students:
+
+• Is the application age appropriate?
+• How is data collected and used, and does it meet data practices standard?
+
+II. Learning with AI: Opportunities and Challenges Table, Data Privacy
+and Security (excerpt)
+Source: page 3 [graphic]
+
+[graphic] Data Privacy and Security: Ethical concerns surround student data collection, storage, and
+use, requiring robust privacy policies and safeguards. (See Minn. Stat.13.32 [2026] Educational
+Data)
+
+III. Creating District-level Guidance: Begin with What Already Exists
+(excerpt)
+Source: page 3
+
+Consider the impact of the use of AI, particularly in:
+
+• Data privacy
+• Assessment
+• Academic integrity
+
+PDF EXCERPT PAGE 2
+IV. AI in Education Resources: General Resources (excerpt)
+Source: page 4
+
+• AI Guidelines for Youth Mental Health Tools (Children’s Hospital Association): This resource
+  includes … key principals for evaluating vendors to promote privacy, bias mitigation, clinical
+  efficacy and transparency, …
+• Empowering Education Leaders: A Toolkit for Safe, Ethical, and Equitable AI Integration (Office
+  of Educational Technology, US Department of Education): … It also summarizes the Federal
+  laws needed to ensure AI is used safely, securely, and without discrimination.
+
+IV. AI in Education Resources: Minnesota Resources (excerpt)
+Source: page 5
+
+• Minnesota Department of Transportation General Artificial Intelligence Standard: Clear guidance
+  to ensure generative AI is used in alignment with the department’s core values, legal
+  requirements, policies, and security practices.
+• Minnesota IT Services Transparent Artificial Intelligence Governance Alliance: Guidance for
+  using AI to improve government services while ensuring ethical, equitable, and secure practices.
+
+IV. AI in Education Resources: Other States (excerpt)
+Source: page 6
+
+• Generative Artificial Intelligence in K-12 Classrooms (Oregon): This resource addresses FAQs
+  related to AI use in classrooms including equity implications, data privacy, and district policy.
+

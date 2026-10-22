@@ -1,0 +1,36 @@
+PDF EXCERPT PAGE 1
+  Cutter Morning Star SD Policy 5.10: Artificial
+Intelligence: Data and Student Privacy Passages
+Excerpted verbatim from Policy 5.10, Artificial Intelligence (Cutter Morning Star School District, Arkansas; adopted July 1,
+2025). Page numbers refer to the PDF pages of the source file. Cross-reference and legal-reference lists on page 2 are
+included because they name privacy policies and laws.
+
+
+Purpose and Compliance with Data Privacy Law
+Source: PDF page 1
+
+The Cutter Morning Star School District Board of Directors desires to provide guidance for the
+appropriate use of AI technologies in curriculum development, instruction, and related educational
+activities that is aligned with the Arkansas Academic Standards and safeguards student data and
+privacy while encouraging innovation.
+
+Any AI tools or programs utilized by the District must adhere to State and federal laws; State rules;
+and Federal regulations governing data use, privacy, and security. Any AI tool used must comply
+with the District’s policies on data privacy and security, especially concerning student information.
+
+Review and Approval of AI Tools
+Source: PDF page 1
+
+The superintendent shall establish a committee who shall be in charge of reviewing and approving
+any AI tools, including automated decision tools, before they may be used. The committee shall
+establish the procedures the committee shall use for approving AI tool selection.
+
+Cross References and Legal References (excerpt)
+Source: PDF page 2
+
+• 4.13—PRIVACY OF STUDENTS’ RECORDS/ DIRECTORY
+• 7.16—INFORMATION TECHNOLOGY SECURITY
+• 15 U.S.C. § 6501
+• 20 U.S.C. § 1232g
+• 34 C.F.R. Part 99
+

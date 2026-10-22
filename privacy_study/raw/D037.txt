@@ -1,0 +1,20 @@
+PDF EXCERPT PAGE 1
+Charleston County School District Generative AI
+Web Page: Data and Student Privacy Passages
+Excerpted verbatim from Generative AI (Charleston County School District web page, ccsdschools.com). The source has
+no page numbers; locations are given by section. Web page text.
+
+
+What families should know (excerpt)
+Source: web page, section 'What families should know'
+
+How will CCSD protect student data?
+Any AI tool adopted by the district must meet data privacy and security standards consistent with
+FERPA and district policy. Student information will not be used to train commercial AI models
+without appropriate authorization.
+
+Can AI be used to make decisions about my child?
+No. District policy explicitly prohibits AI from serving as the sole basis for high-stakes decisions,
+including discipline, special education placement, or academic advancement. Human judgment and
+oversight are required in all such decisions.
+

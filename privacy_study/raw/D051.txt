@@ -1,0 +1,76 @@
+PDF EXCERPT PAGE 1
+        Dallas ISD AI Handbook: Data and Student
+                    Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) in Dallas ISD: A Handbook for Responsible and Innovative Use (Dallas
+Independent School District). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Overview of AI in Education (excerpt)
+Source: page 3
+
+Issues such as data privacy, … are critical concerns that need …
+
+Respect, Privacy, and Data Security
+Source: page 4
+
+Users must follow district policies on privacy and data security when interacting with AI tools.
+Personal and student data must be protected, and AI should not be used in a way that violates
+privacy laws or district guidelines. Teachers are responsible for educating students about the
+importance of protecting their data.
+
+Safety, Privacy and Security
+Source: page 5
+
+AI Safety and Compliance
+The District complies with all relevant safety, privacy, and security regulations regarding the use of
+technology, including federal laws FERPA and COPPA, to protect student data and privacy. The
+district will work closely with AI vendors and tool providers to ensure that all AI applications adhere
+to strict safety, privacy, and security standards. Contracts with AI vendors will include clear
+requirements for compliance with legal regulations, as well as ongoing monitoring to ensure
+continued adherence. These measures will ensure that all AI tools used within the district meet the
+highest standards of security and data protection.
+
+Board policy CQ Legal and Local guide our use of technology and resources.
+
+Data Guidelines for AI Technology
+To protect district information and student data, regulated, confidential, and sensitive data must not
+be input into AI technology that is not listed on p.9 of the handbook. Examples of this data include:
+
+• Regulated Data - Health information, credit card information; and criminal justice information
+• Confidential Data - Personally Identifiable Information (PII), Intellectual property
+• Sensitive Data - Operational information, Personnel records, internal communications
+A full listing of these data types can be found in CQ(REG).
+
+Considerations for AI Use (excerpt)
+Source: page 6
+
+Best Practices for Digital Citizenship
+
+PDF EXCERPT PAGE 2
+Students are also taught about their digital footprint and how their online actions affect their
+personal and academic reputation.
+
+Ethical Use and Transparency
+The District will ensure ethical AI practices and transparency in education by implementing clear
+policies that protect student privacy, ensure data security, and promote fairness. By complying with
+legal standards, conducting regular audits, and checking for bias, we will safeguard responsible AI
+use. Transparency will be maintained by openly communicating how AI tools work, the data they
+collect, and their decision-making processes.
+
+Glossary of AI Terms (privacy-related excerpts)
+Source: pages 11–12
+
+• Consent Management: The process of obtaining, tracking, and managing user consent,
+  especially in compliance with laws like FERPA and COPPA.
+• COPPA (Children's Online Privacy Protection Act): A federal law that imposes requirements on
+  websites and online services to protect the privacy of children under 13 years of age.
+• Data Encryption: The process of converting data into a coded format to prevent unauthorized
+  access during storage or transmission.
+• Data Privacy: The practice of handling and protecting personal data to ensure it is only used for
+  its intended purpose and safeguarded from unauthorized access.
+• Digital Citizenship: The responsible use of technology and the internet by students and
+  educators, encompassing ethical behavior, privacy, and respect for others online.
+• FERPA (Family Educational Rights and Privacy Act): A federal law that protects the privacy of
+  student education records and gives parents certain rights regarding their children's education
+  data.
+

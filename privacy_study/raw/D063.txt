@@ -1,0 +1,39 @@
+PDF EXCERPT PAGE 1
+   Falls Church City Public Schools Policy II/GF:
+        Data and Student Privacy Passages
+Excerpted verbatim from Policy II/GF Use of Artificial Intelligence (Falls Church City Public Schools, Virginia; adopted June
+23, 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+I. Purpose and Scope (excerpt)
+Source: page 1
+
+The School Board also recognizes that the use of AI raises important questions about student
+learning, privacy, equity, academic integrity, developmental readiness, and human connection.
+
+III. Guiding Principles (excerpt)
+Source: pages 1–2
+
+The use of AI in FCCPS shall be human-centered, developmentally appropriate, transparent,
+equity-aware, and protective of student privacy and well-being.
+
+At the same time, AI use poses risks through inaccurate or biased outputs, overreliance,
+inappropriate disclosure of student data, or substitution for work students are expected to do
+independently of AI.
+
+VII. Privacy and Data Security
+Source: pages 3–4
+
+FCCPS shall protect student privacy and data security in all AI use.
+
+Personally identifiable student information, confidential records, disability-related information,
+mental health information, and other sensitive student data shall not be entered into AI tools except
+through approved division systems and in accordance with applicable privacy protections.
+
+VIII. Communication and Learning (excerpt)
+Source: page 4
+
+The division shall provide students and staff with ongoing, age-appropriate learning about AI,
+including its uses, limitations, ethical considerations, risks, academic integrity expectations, privacy
+implications, and role in future study and work.
+

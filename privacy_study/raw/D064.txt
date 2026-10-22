@@ -1,0 +1,26 @@
+PDF EXCERPT PAGE 1
+ Fargo Public Schools AI in Education: Data and
+          Student Privacy Passages
+Excerpted verbatim from AI in Education (Fargo Public Schools, Technology Department web page). The source has no
+page numbers; locations are given by section. Ellipses (…) mark omitted text. The source is a web page without page
+numbers; the 'FPS Recommended AI Tools' table was not reproduced because its text extraction is not reliable.
+
+
+FPS Belief Statement (excerpt)
+Source: web page, section 'FPS Belief Statement'
+
+These standards are to complement existing policies on technology use, data protection, academic
+integrity, and student support.
+
+FAQs: What are things to be careful with while using AI?
+Source: web page, section 'FAQs'
+
+Additionally, privacy concerns arise, so users should be mindful of the data being collected and how
+it's used to ensure responsible and ethical AI applications.
+
+Grade Level Implications: Middle School (excerpt)
+Source: web page, section 'Grade Level Implications'
+
+You should also note any age-level restrictions on some AI products. Some tools are prohibited for
+children under age 13 or require parental/guardian permission.
+

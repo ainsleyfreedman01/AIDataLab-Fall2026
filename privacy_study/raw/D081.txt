@@ -1,0 +1,22 @@
+PDF EXCERPT PAGE 1
+   Houston ISD Board Policy CQD(LOCAL): Data
+         and Student Privacy Passages
+Excerpted verbatim from Board Policy CQD(LOCAL), Technology Resources: Artificial Intelligence (Houston Independent
+School District, Texas). The source has no page numbers; locations are given by section. The policy is a single page with
+no printed page number.
+
+
+Training (excerpt)
+Source: page 1
+
+The Board delegates to the Superintendent the authority to:
+
+• Remove access to the District’s computer systems and databases for noncompliance with
+  training requirements as appropriate.
+
+Use in District (excerpt)
+Source: page 1
+
+Any use of AI must comply with law, this policy, and administrative regulations outlined in the
+District’s AI Guidebook relating to student and employee use, privacy, and data security.
+

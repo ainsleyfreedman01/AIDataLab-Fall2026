@@ -1,0 +1,17 @@
+PDF EXCERPT PAGE 1
+ Ohio AI Model Policy: Data and Student Privacy
+                   Passages
+Excerpted verbatim from AI Model Policy for Ohio Districts and Schools (Ohio Department of Education and Workforce web
+page, last modified 1/29/2026). The source has no page numbers; locations are given by section. This is a web page
+describing the model policy, not the model policy itself.
+
+
+Background: Coalition Recommendations for Local Policy (excerpt)
+Source: web page, section 'Background'
+
+Ohio’s AI in Education Coalition recommends that the local policy includes the following:
+
+• Standards for maintaining privacy and personally identifiable information
+• Considerations for evaluation of purchased resources and vendor agreements
+• Outlined process for evaluating AI tools from third party vendors
+

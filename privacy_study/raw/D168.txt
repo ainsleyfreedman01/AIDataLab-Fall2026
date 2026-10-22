@@ -1,0 +1,40 @@
+PDF EXCERPT PAGE 1
+   Tennessee TSBA Model Policy 4.214 (Cannon
+   County): Data and Student Privacy Passages
+Excerpted verbatim from Model Policy 4.214, Use of Artificial Intelligence Programs (Tennessee School Boards
+Association; Cannon County Board of Education copy, issued 07/11/24, version date December 9, 2024). Page numbers
+refer to the PDF pages of the source file. The source PDF has margin line numbers, which are omitted here.
+
+
+General
+Source: PDF page 1
+
+[graphic] Only approved AI programs may be utilized in student instruction or in completing student
+work. The Director of Schools shall develop a procedure for staff to submit additional programs for
+approval. District technology staff are tasked with overseeing the implementation of AI programs.
+These staff members will review artificial intelligence programs to ensure compliance with district
+policies as well as state and federal student data privacy laws and present recommendations to the
+Director of Schools for approval. Any approved programs shall be accessible to all students.
+
+[graphic] Employees shall not place personally identifiable information, financial information,
+intellectual property, or other confidential information into an AI system.
+
+[graphic] The Director of Schools shall incorporate training programs on AI into professional
+development for district staff. This training shall focus on responsible use of AI and best practices
+for use in school settings and include instruction regarding personally identifiable information and
+the need to comply with state and federal data privacy laws. Emphasis shall be placed on the
+importance of securing and properly storing any data that is collected by the district in compliance
+with state and federal law.
+
+Staff Use (excerpt)
+Source: PDF page 1
+
+[graphic] 2. Employees shall take all reasonable precautions to ensure the security of private
+student data when utilizing AI programs;
+
+Notice to Parents (excerpt)
+Source: PDF page 2
+
+[graphic] The Director of Schools shall provide notice to parent(s)/guardian(s) about the use of AI
+programs in the district. An approved list of AI programs will be provided.
+

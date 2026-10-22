@@ -1,0 +1,114 @@
+PDF EXCERPT PAGE 1
+       Guilderland CSD Policy 8636 (AI): Data and
+               Student Privacy Passages
+Excerpted verbatim from Policy 8636 - Artificial Intelligence, sample policy for update (Guilderland Central School District,
+New York; NYSSBA Sample Policy, July 2026 update). Page numbers refer to the PDF pages of the source file. Page
+numbers are PDF page numbers because the document has no printed page numbers. Ellipses (…) mark omitted text. The
+document is a sample policy that includes drafting notes (labelled NOTE or NEW NOTE) from the policy-service author.
+
+
+Overall Expectations: Age and Parental Permission Note (excerpt)
+Source: page 3
+
+NOTE: Keep in mind that some GenAI tools, for example ChatGPT, require a user to sign up for an
+account using an email address and phone number. ChatGPT is currently restricted to users aged
+13 and up, with parent permission required for users aged 13-17.
+
+The district could modify the paragraph below to prohibit all student use of GenAI regardless of
+whether use is compliant with Education Law 2-d.
+
+Staff must also be mindful that some GenAI tools are free and others are not, that some GenAI tools
+are not permitted to be used by those under certain ages, or require parent permission, and that
+some students and/or parents may not wish to use GenAI tools or input their work into them.
+
+III. AI Tool Approval and Review
+Source: page 3
+
+NEW NOTE: This section is included to reflect best practices, to aid in compliance with data privacy
+laws, to ensure consistency, and minimize redundancy of software.
+
+All requests to use software/tools containing AI must be submitted to the Director of Technology [or
+insert appropriate title], including the intended reasons for and uses of the software/tool. The
+Director of Technology is responsible for reviewing and approving any software containing AI, in
+consultation with the Data Protection Officer, to ensure they are compliant with the law and district
+policies.
+
+The Director of Technology will document the decisions that have been made to evaluate and
+approve AI software/tools. The Director of Technology will periodically review the AI tools in use in
+the district for continued compliance with the law and district policies.
+
+IV. Acceptable and Prohibited Uses of Artificial Intelligence (excerpt)
+Source: pages 4–5
+
+NOTE: The district may wish to restrict the use of GenAI by employees for certain purposes. For
+example, whether teachers should be allowed to use GenAI to grade student assignments, or within
+what parameters, given that any student work input into a GenAI tool could be used by the platform,
+and that GenAI can sometimes produce incorrect answers.
+
+Any district approved, provided or designated AI tools are the only ones that may be used for
+district, employment, or school-related purposes.
+
+PDF EXCERPT PAGE 2
+Users may not use the district’s approved AI tools, or use AI tools with district technology or
+networks, to access, create, distribute, or display content that is harmful, deceptive, threatening,
+obscene, disruptive, or sexually explicit, or that is harassment of others, in violation of district
+policies, or interact with the AI in a manner that supports any of the above. This includes
+“deepfakes” where an image, video, or audio is generated of an individual, particularly to make it
+appear as though that person did or said something they did not.
+
+The district also notes that non-consensual distribution of intimate images is a Class A
+Misdemeanor under Penal Law §245.15.
+
+V. Data Privacy and Restrictions on Entering Information into AI
+Tools
+Source: pages 5–6
+
+NEW NOTE: Any use of student Personally Identifiable Information must be in conformance with
+Education Law 2-d for third parties who have access to this information. Other categories of
+information are protected by separate state laws, for example “private information” under State
+Technology Law 208, or employee “personal identifying information” under Labor Law 203-d.
+
+Any use of AI in schools, on school networks/computers, or for school purposes must be compliant
+with state laws and regulations whenever sensitive information is entered into AI tools, including
+under third-party agreements. Staff must consult with the district’s Data Protection Officer to
+determine compliance with Education Law §2-d.
+
+NOTE: In the paragraph below, the district may not wish to draw a distinction between public-facing
+AI tools and "closed" systems, and prohibit the inputting of sensitive information into any AI tools. In
+that case, simply delete the phrase "which can be used by the public" below.
+
+Because any information used as input in AI tools may be used by that system and potentially made
+available to other users of the system, district users must not input any personally identifying,
+sensitive, copyrighted, proprietary, or confidential district information into an AI tool which can be
+used by the public, consistent with applicable state and federal laws and district policies, including
+but not limited to the following:
+
+• Student information: anything that would be protected by FERPA (see policy 5500 and regulation
+  5500-R) or Education Law 2-d (see policy 8635 and regulation 8365-R).
+• Staff information: anything that would be protected by Education Law 2-d or Labor Law 203-d
+  (see policy 8635 and regulation 8365-R), or other confidential personnel information.
+• School district information: anything that would be withheld from a Freedom of Information Law
+  (FOIL) request (see policy 1120 and regulation 1120-R), or private information under State
+  Technology Law §208 which would require notification in the event of a breach.
+Additionally, users of GenAI must exercise caution before inputting any work created by district
+students or employees.
+
+PDF EXCERPT PAGE 3
+IX. Training (excerpt)
+Source: page 9
+
+This training will include how to use such tools, as well as expectations regarding acceptable and
+prohibited uses, including data privacy.
+
+Cross-references and References (excerpt)
+Source: page 9
+
+• 1120, School District Records
+• 5500, Student Records
+• 8630, Computer Resources and Data Management
+• 8635, Information and Data Privacy, Security, Breach and Notification
+• Family Educational Rights and Privacy Act, as amended, 20 USC 1232g; 34 CFR Part 99
+• Education Law §§2-d; 2510(4); 2585(5); 2588(9); 3013(4)
+• Labor Law §203-d
+• 8 NYCRR Part 121
+

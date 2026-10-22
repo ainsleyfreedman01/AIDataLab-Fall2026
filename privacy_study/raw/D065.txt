@@ -1,0 +1,33 @@
+PDF EXCERPT PAGE 1
+               Florida K-12 AI Education Task Force
+              Introduction: Data and Student Privacy
+                             Passages
+Excerpted verbatim from Introduction, Florida K-12 AI Education Task Force (CS Everyone Center, University of Florida),
+fl-aitaskforce.org. The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text. This is a
+web introduction page; the dedicated Data Privacy and Cybersecurity chapter appears only as a navigation link and is not
+part of this page's text.
+
+
+Florida Computer Science Standards Progression (excerpt)
+Source: web page, section 'Introduction'
+
+The Florida K-12 standards emphasize skills in the following areas:
+
+• Cybersecurity
+• Personal health and safety
+
+Navigation and Contributing to the Guidance (excerpt)
+Source: web page, section 'Navigation and Contributing to the Guidance'
+
+… By prioritizing transparency, data protection, and access, we help ensure that AI’s integration in
+Florida classrooms enhances teaching and learning, empowers students for success, and advances
+the mission of a world-class education system.
+
+Intended Audiences (excerpt)
+Source: web page, section 'Intended Audiences'
+
+• To keep families informed about how AI is used in schools and what safety measures are in
+  place.
+• To provide technical guidance on procurement, implementation and maintenance of AI systems
+  responsibly.
+

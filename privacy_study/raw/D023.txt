@@ -1,0 +1,119 @@
+PDF EXCERPT PAGE 1
+        Boston Public Schools AI Policy: Data and
+               Student Privacy Passages
+Excerpted verbatim from Boston Public Schools Artificial Intelligence (AI) Policy (Boston Public Schools, Massachusetts,
+Spring 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+I. Vision, Core Values, and Guidelines (excerpt)
+Source: page 1
+
+This policy establishes district-wide expectations for the safe and appropriate use of AI by staff and
+students. It is grounded in our commitments to student learning, data privacy, and transparency.
+
+Core Values
+• Safety, Privacy, & Security: The protection of student and staff data is paramount. AI systems
+  and tools must meet district standards for data privacy, security, and compliance.
+• Responsible Use: AI tools should be used in a manner that is socially responsible, safe, and
+  legal. This includes prioritizing privacy and security of student and staff data, being mindful of
+  potential biases or misinformation, and avoiding overreliance.
+
+II. Governance, Data Privacy, and Security
+Source: pages 2–3
+
+Implementation Responsibility
+The District will maintain a centralized list of all approved AI tools, provide required training, and
+establish guidelines for implementation.
+
+Procurement and Vendor Oversight
+• Mandatory Vetting: All AI tools must undergo a Privacy Impact Assessment (PIA) for
+  compliance with FERPA (Family Educational Rights and Privacy Act), COPPA (Children’s Online
+  Privacy Protection Act), and District security standards. Visit our website to learn about the
+  approval process.
+• Data Ownership: District data remains District property and cannot be used by vendors to train
+  public AI models. To ensure compliance with this principle, contracts must include language
+  noting this requirement.
+• Vendor Disclosure: Vendors are required to disclose AI capabilities within their products,
+  including updates that add AI functionality to existing portals and/or tools.
+• Technical Control: The District must retain the ability to enable, disable, or restrict specific AI
+  functionalities within any adopted software.
+Use of AI with Student and Staff Data
+Students and staff may only use AI tools that have been reviewed and approved by the District and
+included on the District’s published list of approved AI tools.
+
+• Prohibited Use: Under no circumstances may students or staff enter personally identifiable
+  information (PII), including student names, IDs, IEPs, 504 plans, health records, or any
+  confidential information, into unapproved AI tools (e.g. open AI platforms or personal accounts).
+
+PDF EXCERPT PAGE 2
+• Responsibility: All users are responsible for protecting student data. When in doubt, users must
+  not input data into an AI tool and should seek guidance from the Office of Technology.
+• Use of Non-Approved Tools: The use of personal, non-approved AI tools for school-related
+  work is prohibited when it involves district data or student information.
+For more information about student data privacy, read BPS Superintendent Circular ODA-03.
+
+Security
+• Secure Logins: Access to AI systems containing sensitive data will be governed by single-sign
+  on, role-based access controls and multi-factor authentication (MFA).
+• Data Breaches: The District will follow its cybersecurity protocols for any AI-related breaches.
+
+III. AI in Teaching, Learning, and Professional Practice (excerpt)
+Source: pages 3–4
+
+• Staff Training: All new staff will complete required training on AI use, including data privacy,
+  bias, instructional use, and ethical considerations.
+Use of AI Notetakers
+The use of third-party AI tools for recording or transcribing virtual meetings is prohibited unless they
+are District-approved tools and active consent is obtained from all participants.
+
+IV. Prohibited Uses of AI (excerpt)
+Source: page 4
+
+• Creation, distribution, or use of AI-generated audio, video, or images, including deepfakes or
+  manipulated content, that clone or falsely depict real individuals without their knowledge and
+  explicit consent.
+
+V. Use of AI by Students (excerpt)
+Source: pages 4–5
+
+Students must:
+
+• Only use approved AI tools when directed by a teacher.
+• Never enter any personal or confidential information into AI tools.
+
+VI. Family Engagement (excerpt)
+Source: page 5
+
+• Understanding student data privacy protections, district safeguards, and responsible data
+  sharing practices.
+
+VII. Policy Review and Updates (excerpt)
+Source: page 5
+
+BPS will communicate updates to stakeholders and privacy guidance to support implementation as
+AI tools and use cases continue to develop.
+
+PDF EXCERPT PAGE 3
+VIII. Appendix: Reference Circulars (excerpt)
+Source: page 5
+
+• ODA-03: Student Data Privacy
+
+IX: Glossary of Terms (excerpt)
+Source: pages 5–6
+
+Approved AI Tools: AI tools that have been reviewed and authorized by BPS through its Privacy
+Impact Assessment and governance process and are included on the District’s published list of
+approved tools.
+
+Data Breach: A security incident where sensitive, confidential, or protected information is accessed,
+stolen, or used by an unauthorized party. These incidents involve the loss of control or exposure of
+personal (PII), financial, or health data. Breaches can be intentional or accidental.
+
+Personally Identifiable Information (PII): Information that can be used to identify a person, such as
+name, student ID, address, date of birth, or records such as Individual Education Plans (IEPs), 504
+Plans, and health information.
+
+Shadow AI: Using AI tools without the knowledge or approval of the District, especially when using
+for school or work-related purposes.
+

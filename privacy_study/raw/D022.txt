@@ -1,0 +1,44 @@
+PDF EXCERPT PAGE 1
+ Bixby Public Schools Board Policy 3142 AI &
+Emerging Technology: Data and Student Privacy
+                 Passages
+Excerpted verbatim from BOE Policy 3142: AI & Emerging Technology (Bixby Public Schools, Oklahoma; adopted August
+13, 2026). Page numbers refer to the PDF pages of the source file. The policy has no printed page numbers.
+
+
+Policy Statement (excerpt)
+Source: PDF page 1
+
+This policy establishes the standards for the instructional use of AI within the District to ensure such
+tools remain educator-directed, maintain student data privacy, and respect parental rights. It is the
+policy of the Bixby Public Schools to allow the use of AI tools in district operations and classrooms
+under conditions that safeguard student data, protect academic integrity, and ensure equitable
+access to educational opportunities.
+
+All use of AI within the district shall comply with FERPA, COPPA, Oklahoma cybersecurity
+standards, and OSDE AI Guidance.
+
+Data Privacy and Security
+Source: PDF page 1
+
+The District shall adhere to the following data protection standards:
+
+• Compliance: All AI tools must comply with federal laws, including the Family Educational Rights
+  and Privacy Act (FERPA), and state student data privacy and security laws.
+• Data Minimization: The District will take reasonable steps to minimize the amount of student
+  data shared with AI tools.
+• Prohibited Inputs: Consistent with District data privacy protocols, employees are strictly
+  prohibited from inputting student identifiers (names, IDs, or other PII) into open AI systems (e.g.,
+  ChatGPT) that are not formally vetted and contractually protected under FERPA.
+
+Transparency and Data Disclosure
+Source: PDF pages 1–2
+
+• The District shall maintain transparency with families regarding AI use.
+• At least annually, the District will provide parents and legal guardians with a written disclosure
+  identifying:
+• All AI tools currently in use within the District.
+• The vendors providing those AI tools.
+• The categories of student data collected and the extent of data sharing.
+• The specific educational purpose for which each tool is used.
+

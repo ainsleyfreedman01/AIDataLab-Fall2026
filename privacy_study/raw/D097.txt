@@ -1,0 +1,103 @@
+PDF EXCERPT PAGE 1
+      LAUSD AI Policy Bulletin: Data and Student
+                 Privacy Passages
+Excerpted verbatim from Guidelines for the Authorized Use of Artificial Intelligence (AI) for District Employees, Students,
+and Associated Persons, Policy Bulletin BUL-151113.0 (Los Angeles Unified School District, April 8, 2024). Page numbers
+match the document's own page numbering. Ellipses (…) mark omitted text. In the Policy section, an ellipsis also marks a
+page break in the source.
+
+
+Policy (excerpt)
+Source: pages 1–2
+
+LAUSD is committed to utilizing new AI technologies, in particular, generative AI, in an ethical,
+transparent, and responsible manner, while recognizing the importance of protecting student and
+employee privacy and ensuring that the use of these technologies is consistent with ethical and
+equitable considerations.
+
+In developing the District’s AI policy, LAUSD prioritizes the safety and privacy of its students and
+staff as it seeks to aid and support them with modern technologies. Staff and students must be
+proactive about using … AI and ensuring the protection of confidential data and information in
+compliance with federal and state confidentiality laws.
+
+Background (footnote 1, excerpt)
+Source: page 2
+
+In accordance with the District’s Responsible Use Policy, students under the age of 13 are not
+permitted to use generative AI tools.
+
+Initial Guidance from the U.S. Department of Education (excerpt)
+Source: page 3
+
+Emphasize Humans in the Loop. … Employees, students, and families must exercise control over
+AI software used in the school context in a hands-on method that ensures integrity and
+confidentiality of student and district information.
+
+Align AI Models to a Shared Vision for Education. … Emphasizing data privacy and minimizing
+bias must be prioritized when using AI software.
+
+Design Using Modern Learning Principles. … Modern learning principles encourage human
+regulation of any data provided to AI software …
+
+Considerations Prior to Use of AI
+Source: page 4
+
+Prior to use, adoption, or purchase of any AI tool, District staff should ensure that the AI tool has
+been approved by the District for data privacy, including any applicable confidentiality laws or
+regulations that may apply to the data; and security requirements. AI tools must be vetted by the
+following offices prior to approved use:
+
+• Procurement Services
+• Information Technology Services
+
+PDF EXCERPT PAGE 2
+• Sponsoring District Department
+• Office of the General Counsel
+• Office of Labor Relations
+• Additional offices depending on content.
+Prior to use of AI tools with students, District personnel should ensure:
+
+• The AI tool is District-approved;
+• Parent/legal guardian/educational rights holder consent is obtained for the use of specific apps,
+  as required.
+
+Data Privacy and Security
+Source: page 5
+
+The District and individual District Users must ensure confidential, sensitive, and privileged
+information is protected when using AI. District users shall not share any confidential, sensitive,
+privileged or private information when using, prompting, or communicating with any AI tools. As
+described in LAUSD BUL-1077, Sensitive Information includes, but is not limited to, pupil records,
+employee personnel records, and health records, and such Sensitive Information requires additional
+safeguards.
+
+District Users of AI tools must follow these data privacy and security guidelines:
+
+• Prioritize protecting your own and others’ confidential and sensitive information, especially
+  students’ personal data.
+• Do not share your own or others’ confidential, sensitive, or private information in AI prompts,
+  including but not limited to pupil or employee record information or images, videos, or voice
+  recordings. Bear in mind that AI tools generally take whatever users enter into a prompt and
+  incorporate it into their systems/knowledge base for other uses.
+• Do not share non-public information and protected information without approval from the Office
+  of the General Counsel (OGC), the Office of Data and Accountability (ODA), and Procurement
+  Services Division (PSD). See BUL-1077.2 regarding the District’s information protection policy
+  and BUL-6887.1 regarding LAUSD’s pupil records confidentiality policy.
+• Ensure that AI results used in District Information Systems are reviewed for any imbedded
+  malware.
+• District Users must comply with all applicable IT data security and data retention policies and
+  procedures.
+
+Attachment A, Glossary of Helpful Terms (excerpt)
+Source: page 2 of Attachment A (PDF page 11)
+
+Confidential Data: As defined in LAUSD Bulletin 6399-2, confidential data refers to District-related
+content such as (but not limited to) grade and exam information, attendance data, and behavior
+incidents.
+
+Sensitive Information: Non-public Information and Protected Information as defined in LAUSD
+BUL 1077.2 Information Protection Policy. Examples include but are not limited to student records,
+
+PDF EXCERPT PAGE 3
+student and employee health records, and social security information.
+

@@ -1,0 +1,78 @@
+PDF EXCERPT PAGE 1
+      California AI Model Policy: Data and Student
+                    Privacy Passages
+Excerpted verbatim from Model Policy: Artificial Intelligence in Education (California Department of Education, nonbinding
+template required by Senate Bill 1288; posted June 25, 2026). The source has no page numbers; locations are given by
+section. Ellipses (…) mark omitted text. The source is a Word document without page numbers; each section heading
+below is the policy principle's own label.
+
+
+Policy Preamble (excerpt)
+Source: Word document, Board statement
+
+… as well as the potential for AI to undermine academic integrity, student privacy, equity, and
+well-being.
+
+Acceptable Use (excerpt)
+Source: Word document, principle "Acceptable Use"
+
+All AI used by educators, staff, or students must be [District or Charter School] authorized and
+comply with applicable privacy and conduct policies, with notification and consent required
+whenever AI is used for grading or feedback.
+
+Privacy by Design
+Source: Word document, principle "Privacy by Design"
+
+All AI tools should protect student data, prohibit its use for training public AI models or advertising,
+and maintain strong security safeguards against data breaches.
+
+Legal Compliance
+Source: Word document, principle "Legal Compliance"
+
+All AI usage should adhere to applicable state and federal legal requirements, including Family
+Educational Rights and Privacy Act (FERPA), 20 U.S.C. § 1232g; 34 CFR § 99.1 et seq., and
+California Education Code Section 49073.1.
+
+Data Entry Restrictions
+Source: Word document, principle "Data Entry Restrictions"
+
+Students and educators should not enter education records or other confidential information into AI
+tools unless expressly authorized under [District or Charter School] policy. Any permitted data entry
+into AI tools that learn from user input must be reviewed and approved by trained staff prior to final
+submission.
+
+Transparency & Informed Consent
+Source: Word document, principle "Transparency & Informed Consent"
+
+Staff, parents, guardians, and students should be informed of all AI-driven data collection practices
+and autonomous AI-powered student interaction tools. Access to AI-generated student records must
+be provided upon request, and annual informed consent from guardians is required prior to use of
+any such tools.
+
+PDF EXCERPT PAGE 2
+Approved Vendor Standards
+Source: Word document, principle "Approved Vendor Standards"
+
+All approved vendor software published on the [District or Charter School]’s approved list of vetted
+third-party AI vendors includes monitoring capabilities designed to detect content that may indicate
+a risk to student well-being, and use of any unauthorized AI tool is prohibited.
+
+Pre-Deployment Evaluation
+Source: Word document, principle "Pre-Deployment Evaluation"
+
+Prior to deployment, all AI tools should be evaluated for educational value, ethical implications, data
+privacy, potential bias, and equitable outcomes.
+
+Vendor Contractual Safeguards
+Source: Word document, principle "Vendor Contractual Safeguards"
+
+All AI vendor contracts should include enforceable provisions protecting student data privacy and
+security, including breach notification requirements, audit rights, data deletion upon contract
+termination, and vendor accountability for unauthorized use of student data.
+
+Institutional AI Access (excerpt)
+Source: Word document, principle "Institutional AI Access"
+
+Personal AI accounts should not be used for any purpose involving student data, student work,
+student records, or instructional content developed for [District or Charter School] use.
+

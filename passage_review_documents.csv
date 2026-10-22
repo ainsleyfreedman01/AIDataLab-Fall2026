@@ -1,0 +1,11 @@
+document_stem,split,jurisdiction,government_level,source_type,source_date,source_function,reviewer,review_status
+Rochester_CSD_AI_Guidelines,development,Rochester City School District NY,district,web guidance,,guidance,assistant,full extracted text read; original source unverified
+Philadelphia_GenAI_Guidelines,development,Philadelphia PA,district,guidelines,,guidance,assistant,full extracted text read; original source unverified
+Charleston_Generative_AI_Web_Page,development,Charleston County SC,district,web FAQ,,guidance,assistant,full extracted text read; original source unverified
+South_Carolina_AI_Standards_Framework,development,South Carolina,state,curriculum framework,,curriculum,assistant,full extracted text read; original source unverified
+NH_AI_Guidance_Framework,development,New Hampshire,state,guidance framework,,guidance with template appendices,assistant,full extracted text read; original source unverified
+Valley_Central_AI_Policy_8636,validation,Valley Central NY,district,policy excerpt,,operative text reported in compilation,assistant,full extracted text read; original source unverified
+Alabama_AI_Policy_Template,validation,Alabama,state,policy template,2024-06,template,assistant,full extracted text read; original source unverified
+Carmel_Clay_AI_in_CCS,validation,Carmel Clay IN,district,web guidance,,guidance,assistant,full extracted text read; original source unverified
+Springfield_MO_SPS_AI_Handbook,validation,Springfield MO,district,web handbook,,guidance,assistant,full extracted text read; original source unverified
+Nevada_AI_in_Schools,validation,Nevada,state,report town-hall takeaways,,discussion,assistant,full extracted text read; original source unverified

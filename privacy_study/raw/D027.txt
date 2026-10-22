@@ -1,0 +1,200 @@
+PDF EXCERPT PAGE 1
+  Charlotte-Mecklenburg Schools Generative AI
+  Guidance: Data and Student Privacy Passages
+Excerpted verbatim from Generative AI Guidance 2025-26 (Charlotte-Mecklenburg Schools, North Carolina; version 01,
+August 2025). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. The Data
+Privacy & Security section (pages 9–11) is reproduced in full. The sentence barring confidential or sensitive information
+from AI systems appears on both page 11 and page 18; it is quoted in both places because each sits within its own section.
+
+
+Overview: Scope (excerpt)
+Source: page 6
+
+It is designed to help students, staff, and vendors align AI use with district policies on data privacy,
+digital citizenship, and academic integrity.
+
+This guidance applies to academic, instructional, administrative, and operational uses of AI. All AI
+use must align with the CMS AI Vision and Guiding Principles, Board policies, and applicable
+federal, state, and local privacy laws.
+
+AI Guiding Principles: Operational Excellence (excerpt)
+Source: page 8
+
+We will continue to adhere to cybersecurity standards and federal, state, and district policies for
+protecting stakeholder data.
+
+Data Privacy & Security
+Source: pages 9–11
+
+Overview
+Charlotte-Mecklenburg Schools is committed to safeguarding the privacy and security of student
+and staff data in alignment with federal, state, and local laws, as well as CMS Board policies. This
+includes compliance with the Family Educational Rights and Privacy Act (FERPA), a federal law that
+governs access to and disclosure of student education records. As we expand the use of digital
+tools and generative AI across instructional and operational settings, protecting Personally
+Identifiable Information (PII) becomes even more critical.
+
+Data privacy is a legal requirement and a foundation of public trust. All CMS employees must
+understand what qualifies as direct and indirect PII, how it should be handled, and what practices
+are prohibited under our data privacy policies. Improper use or disclosure of this information can
+lead to disciplinary action.
+
+Personally Identifiable Information (PII)
+Personally identifiable information (PII) is any information that permits the identity of an individual to
+be directly or indirectly inferred, including any information that is linked or linkable to that individual.
+PII includes direct identifiers like a person’s name or ID number and indirect identifiers like date of
+birth. PII also includes any pieces of information that could be combined to identify an individual. For
+example, even if a file does not include student names or ID numbers, there may still be a way to
+identify an individual student through a combination of other data fields like school, grade, sex, and
+race/ethnicity.
+
+PDF EXCERPT PAGE 2
+Examples of Direct Identifiers (Linked PII)
+• Name: First, middle, and/or last name
+• Phone Number: Contact numbers, including mobile and home
+• Email Address: Personal or school/work email addresses
+• Home Address: Physical address where the student or staff member resides
+• ID Number: Unique identification number for the student or staff member
+• Social Security Number (SSN)
+• Parent/Guardian Information: Names and contact details of parents or guardians
+• Driver’s License Number: The unique number assigned by the state's DMV
+• Financial Information: Bank account numbers or credit card information
+• Biometric Data: Such as fingerprints or facial scans
+Examples of Indirect Identifiers (Inferred PII)
+• Date of Birth: Birthdate
+• Other School-Related Information: Grades, test scores, courses, attendance, discipline records,
+  etc.
+• Health Information: Medical records or health insurance details
+• Citizenship or Immigration Status: Information regarding an individual's legal status in a country
+• Ethnic and Religious Information: Data that reveals an individual's ethnic background or religious
+  beliefs
+Student Data Privacy & FERPA
+FERPA gives parents and eligible students (age 18 or attending a postsecondary institution) the
+right to inspect and review their student’s education records. Parents also have the right to request
+an amendment to their student’s education records if they believe there to be inaccurate or
+misleading information or a violation of privacy.
+
+Education records can only be disclosed with prior written consent from the parent or in the case of
+specific FERPA exceptions. These exceptions include access for “school officials” with a legitimate
+educational interest, for a new school to receive records when the student transfers, and for
+designated “directory information” to be shared if the parent has not opted out of such disclosure.
+Additional information is available in A Parent Guide to the Family Educational Rights and Privacy
+Act (FERPA) from the United States Department of Education.
+
+Violation of FERPA may result in disciplinary action and can lead to loss of federal funding for the
+district.
+
+To support compliance:
+
+• All staff must follow CMS data privacy policies and complete annual training.
+• Any suspected breach of student or staff data must be reported immediately to the district’s
+  cybersecurity team.
+Open-Source vs. Closed-Source AI Systems
+
+PDF EXCERPT PAGE 3
+As we integrate AI tools into our workflows, it is essential to understand the distinction between
+open-source and closed-source GenAI systems. This understanding helps ensure appropriate data
+handling, aligns with our data privacy policies, and supports safe and responsible use.
+
+Definitions
+Open-Source Generative AI Systems (Not Secure)
+These are AI tools that operate on publicly accessible platforms or models, often provided by
+third-party vendors. Example: ChatGPT (free/public version), Claude (free/public version), and other
+web-based tools where data entered may be used to train future models. Data entered is typically
+stored and may be used by the provider unless explicitly stated otherwise.
+
+Closed-Source Generative AI Systems (Secure)
+These systems operate within a controlled, private environment. Example: Microsoft Copilot with
+Microsoft 365. Data is not used to train models and remains protected within the organization’s
+secure environment.
+
+Data Usage Guidelines
+AI Users shall not input any confidential or sensitive information, including student data, into AI
+Systems unless the system has been specifically approved for that purpose and the necessary data
+privacy and security measures are in place. Examples include: typing it into a prompt, uploading a
+file, or copying and pasting content that includes identifiable details.
+
+Key Considerations
+• Never put personally identifiable or confidential data into AI systems.
+• Ensure staff are aware of whether the AI tool they are using is open or closed.
+Guidance for Secure Use of Open AI Systems
+• Use general prompts: Ask AI for suggestions or templates based on general scenarios rather
+  than individual cases.
+• Ask for review: When in doubt, consult the CMS Cybersecurity Team before entering data into
+  any AI tool.
+
+Professional Learning: Staff Training Tiers (excerpt)
+Source: page 12
+
+Tier 1: Snorkeling - Learn the Basics
+All staff will complete a self-paced online course focused on foundational AI concepts. Topics
+include what AI is, how it works, and key considerations such as privacy, safety, and bias.
+
+Digital Citizenship & AI Literacy (excerpt)
+Source: pages 13–14
+
+Importance (page 13)
+• AI literacy encourages critical thinking, informed decision-making, and protection of personal and
+  intellectual property
+K-5 Approach (page 13)
+
+PDF EXCERPT PAGE 4
+These lessons focus on foundational digital citizenship concepts such as internet safety, privacy,
+digital footprints, respectful online behavior, and an age-appropriate introduction to artificial
+intelligence.
+
+6-12 Approach (page 13)
+AI literacy components cover generative AI, ethics, and data privacy.
+
+Family & Community Resources (page 14)
+Parents and guardians have opportunities to participate in webinars addressing online safety,
+privacy, and responsible use of AI tools.
+
+AI Use: Staff Use (excerpt)
+Source: page 15
+
+Staff must complete the AI Literacy & Data Privacy asynchronous training course prior to using
+CMS-approved GenAI tools. This course provides a foundation for responsible and informed use.
+The training includes the following:
+
+• CMS Data Privacy Policies
+• Personally Identifiable Information (PII)
+• Expectations for safe AI use and a review of approved CMS tools and protections
+
+Monitoring Student Work in Progress (excerpt)
+Source: page 18
+
+Instead of evaluating only the final product, use tools that allow you to observe how the student is
+creating their work.
+
+• Process Feedback for Google Docs - This Chrome extension tracks writing behavior in Docs
+  and provides visual reports of the writing flow, including when students typed, paused, or pasted.
+
+Approved Generative AI Tools
+Source: page 18
+
+Approved GenAI tools can be found in the Digital Resource Library. Each tool listed has gone
+through the district's Vendor Approval Process. Inclusion of a Generative AI tool in the Digital
+Resource Library indicates that it meets the district’s standards for data privacy, security, and
+confidentiality in accordance with applicable state and federal laws. AI Users shall not input any
+confidential or sensitive information, including student data, into AI Systems unless the system has
+been specifically approved for that purpose and the necessary data privacy and security measures
+are in place.
+
+Glossary: Data Privacy and Ethical Use
+Source: page 19
+
+Data Privacy
+Protecting the personal information of students and staff by ensuring AI tools meet CMS data
+protection and security standards.
+
+PDF EXCERPT PAGE 5
+Ethical Use
+The responsible and fair use of AI that respects student privacy, promotes equity, upholds academic
+integrity, and complies with CMS policies.
+
+Resources: Board Policies and Regulations (excerpt)
+Source: page 21
+
+• Policy S-REC Student Records
+

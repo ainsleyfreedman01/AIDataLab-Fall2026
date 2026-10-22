@@ -1,0 +1,77 @@
+PDF EXCERPT PAGE 1
+        Mississippi AI Guidance: Data and Student
+                    Privacy Passages
+Excerpted verbatim from Artificial Intelligence Guidance for K-12 Classrooms (Mississippi Department of Education). Page
+numbers match the document's own page numbering. Ellipses (…) mark omitted text. Passages marked [graphic] come
+from multi-column or boxed page layouts and were transcribed from the rendered page.
+
+
+How Can AI Impact the Classroom? Cautions (excerpt)
+Source: page 6 [graphic]
+
+[graphic] AI-powered tools can: … Increase data privacy and security risks depending on the
+technology provider’s privacy and data sharing policies.
+
+Digital Citizenship: Students (excerpt)
+Source: page 8 [graphic]
+
+• [graphic] Apply spam filters in email systems to help catch phishing, scam, and malware
+  attempts.
+
+Digital Citizenship: Teachers (excerpt)
+Source: page 9 [graphic]
+
+• [graphic] Be familiar with age restrictions and privacy policies of AI tools.
+• [graphic] Apply spam filters in email systems to help catch phishing, scam, and malware
+  attempts.
+• [graphic] Employ password generators to create safer passwords.
+
+Digital Citizenship: Administrators (excerpt)
+Source: page 10 [graphic]
+
+• [graphic] Offer guidance and support to staff on protecting student privacy, including COPPA and
+  FERPA guidelines, regarding student use of digital tools and data shared with AI platforms.
+• [graphic] Facilitate professional development sessions to support educators in integrating
+  AI-powered digital citizenship resources into their teaching practices such as: … Facilitating
+  discussions about digital identity, reputation management, and the long-term implications of
+  online actions.
+
+Strategies to Deter Cheating and/or Plagiarism (excerpt)
+Source: page 11
+
+If writing in class, educators can circulate the room or use monitoring software to observe the writing
+process.
+
+PDF EXCERPT PAGE 2
+What Should Be Considered When Creating Policy for AI Use?
+(excerpt)
+Source: page 22 [graphic]
+
+[graphic] While AI can empower educators and students and improve productivity, concerns about
+privacy, security, plagiarism, and cheating have caused school districts nationwide to prohibit the
+use of some AI tools. However, AI works in the background of many technology tools and students
+can make use of these tools outside of the school setting. This unregulated access makes the
+banning of AI tools impractical and does not provide a solution to security and appropriate use
+concerns.
+
+[graphic] Evaluate tools
+[graphic] Carefully examine AI tools to determine if they are appropriate for education use, including
+the technical (privacy and security), functional, and instructional features. Remember that educators
+and students may use AI tools differently.
+
+[graphic] Adhere to security guidelines
+[graphic] Know how student data privacy policies impact the use of AI tools. Carefully examine the
+privacy policies of AI tools to ensure compliance with FERPA and COPPA.
+
+[graphic] Monitor use
+[graphic] Assist educators in monitoring student use of AI tools through classroom observation or
+monitoring software. Provide training so educators understand the students’ experience when using
+the tools.
+
+Training on the Use of AI: Expand Digital Citizenship Instruction
+(excerpt)
+Source: page 24
+
+Digital citizenship topics should be expanded to support AI tools, including how AI affects
+cyberbullying, academic integrity, information literacy, security, copyright, licensing, and fair use.
+

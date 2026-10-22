@@ -1,0 +1,122 @@
+PDF EXCERPT PAGE 1
+ Bentonville Schools AI Guide: Data and Student
+               Privacy Passages
+Excerpted verbatim from Bentonville Schools AI Guide (Bentonville Schools, Arkansas; board policies 4.64, 3.58 and 8.49
+adopted 11/18/25). Page numbers refer to the PDF pages of the source file. Page numbers are PDF page numbers
+because the guide has no printed page numbers. Ellipses (…) mark omitted text.
+
+
+Introduction (excerpt)
+Source: page 1
+
+… addressing key considerations such as data privacy, equity, and ethical use.
+
+Privacy, Security, and Confidentiality
+Source: page 5
+
+When using GenAI tools, it is crucial to understand that any information provided whether through
+prompts entered by the user or AI-generated responses could potentially be used by companies to
+train their models. This includes personal details of students, families, employees, and any
+proprietary or confidential information belonging to Bentonville Schools. Assume that all information
+shared with a GenAI application will be used to train the model and could become accessible in the
+public domain. To safeguard privacy and maintain confidentiality, you should:
+
+• Never input personally identifiable information or protected health information into GenAI tools.
+• Never input confidential, sensitive or legally protected information into GenAI tools. Legally
+  protected information would include, though is not limited to, information contained in a student’s
+  record; information that identifies students, employees, and other individuals; information
+  contained in an employee’s record; proprietary information; etc.
+• Never input copyrighted material or proprietary Bentonville Schools intellectual property into
+  GenAI tools.
+
+Approved AI Tools
+Source: page 5
+
+Approved AI tools can be found in our Ed Tech Catalog.
+
+Access to GenAI tools is governed by all relevant federal, state, and local laws (FERPA, COPPA,
+CIPA, etc.), along with District policy. At Bentonville Schools all technology tools, including those
+that leverage AI, are reviewed, approved, and listed in the BPS Ed Tech Catalog.
+
+Guidance for Students: 4.64 Student Use of Artificial Intelligence
+Source: pages 6–7
+
+All AI tools selected by the committee shall comply with applicable state and federal data privacy
+laws. Students may only use AI tools in the classroom when specifically authorized by their teacher.
+When students use their District user accounts, they are strictly limited to District-approved, vetted
+tools to maintain legal compliance and student safety.
+
+PDF EXCERPT PAGE 2
+As part of using AI tools responsibly, students should be cautious about the information they provide
+to AI tools and consult with a teacher if unsure. At no time shall Students share personal, sensitive,
+or confidential information with AI tools, especially AI tools requiring data input. Students are
+prohibited from using any AI tools that collect and employ user data to train or improve their
+underlying models. The training of learning models is strictly limited to a classroom setting when it is
+part of the curriculum instruction on model training, and the model must be managed by the teacher
+(not utilizing external public data or services).
+
+The following actions regarding AI tools are strictly prohibited:
+
+• Altering or falsifying academic documents or records using AI tools;
+• Using AI tools to: Gain unauthorized access to District systems; or Bypass District security
+  measures;
+Students should report any inappropriate content or security concerns encountered while using AI
+tools to a teacher or administrator.
+
+Cross References: 4.13—PRIVACY OF STUDENTS’ RECORDS/ DIRECTORY INFORMATION
+
+Guidance for Licensed Personnel: 3.58 Licensed Personnel Use of
+Artificial Intelligence
+Source: pages 8–9
+
+• Only AI tools that have been thoroughly vetted and officially approved via the district’s application
+  approval request ticket process are authorized for use. To submit a new tool for approval, please
+  open a Helpdesk ticket at helpdesk.bentonvillek12.org;
+• The use of AI tools by licensed employees shall adhere to District policy; State and Federal law;
+  State rules; and federal regulations governing data privacy; and
+While AI tools may be used to assist with administrative tasks, such as lesson planning, scheduling,
+data analysis, and managing student records, final decisions impacting students or employees must
+involve human oversight.
+
+Employees are responsible for their use of AI tools and for safeguarding sensitive information.
+Employees shall report any security incidents or potential data breaches immediately to a
+supervisor or the IT department.
+
+The failure to comply with this policy or a District policy governing the release of information may
+result in disciplinary action, up to and including termination.
+
+Guidance for Classified Personnel: 8.49 Classified Personnel Use of
+Artificial Intelligence
+Source: pages 10–11
+
+The District will provide training on the use of AI tools, including data privacy requirements. All
+classified employees shall participate in the District’s training on AI tools before they may use AI
+tools to assist with any job duties. Classified employees shall participate in additional training
+sessions and are expected to stay informed about changes to this and related policies regarding the
+use of AI and data privacy and security.
+
+PDF EXCERPT PAGE 3
+• Only AI tools that have been thoroughly vetted and officially approved via the district’s application
+  approval request ticket process are authorized for use. To submit a new tool for approval, please
+  open a Helpdesk ticket at helpdesk.bentonvillek12.org;
+• The use of AI tools by employees shall adhere to District policy; State and Federal law; State
+  rules; and federal regulations governing data privacy; and
+Any use of AI tools shall be done in an ethical and responsible manner that protects other
+employees, students, parents, and the District as a whole.
+
+The following actions are expressly prohibited:
+
+• The inputting or uploading of information into AI tools unless the AI tool has been approved by
+  the District to accept such information and appropriate data privacy measures are in place to
+  comply with the District’s policies; State and Federal laws; State Rules; and federal regulations
+  on data privacy and security;
+• Attempting to bypass security protocols or access restricted data.
+Employees are responsible for their use of AI tools and for safeguarding sensitive information.
+Employees shall report any security incidents or potential data breaches immediately to a
+supervisor or the IT department.
+
+The failure to comply with this policy or a District policy governing the release of information may
+result in disciplinary action, up to and including termination.
+
+Cross References: 4.13—PRIVACY OF STUDENTS’ RECORDS/ DIRECTORY INFORMATION
+

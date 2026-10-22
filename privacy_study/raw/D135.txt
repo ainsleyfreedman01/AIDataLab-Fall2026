@@ -1,0 +1,151 @@
+PDF EXCERPT PAGE 1
+     Oklahoma AI Model Policy: Data and Student
+                 Privacy Passages
+Excerpted verbatim from Model Policy: Artificial Intelligence (AI) Use in Schools (Oklahoma State Department of Education;
+nonbinding template). Page numbers refer to the PDF pages of the source file. Page numbers are PDF page numbers
+because the template has no printed page numbers. Ellipses (…) mark omitted text. The appendices are sample forms; the
+privacy lines from them are included.
+
+
+I. Purpose (excerpt)
+Source: page 1
+
+This policy establishes procedures to ensure AI tools are implemented ethically, equitably, and in
+compliance with applicable laws and regulations, including the Family Educational Rights and
+Privacy Act (FERPA), the Children’s Online Privacy Protection Act (COPPA), and guidance issued
+by the Oklahoma State Department of Education (OSDE) and Governor’s Task Force on Artificial
+Intelligence.
+
+II. Definitions: AI Tool Inventory
+Source: page 1
+
+AI Tool Inventory: A publicly available list of all AI tools approved for use within the district.
+
+III. Policy Statement (excerpt)
+Source: page 1
+
+It is the policy of the [District Name] to allow the use of AI tools in district operations and classrooms
+under conditions that safeguard student data, protect academic integrity, and ensure equitable
+access to educational opportunities. … All use of AI within the district shall comply with FERPA,
+COPPA, Oklahoma cybersecurity standards, and OSDE AI Guidance.
+
+V. Roles and Responsibilities (excerpt)
+Source: page 2
+
+Technology Team — Evaluates AI tools, oversees infrastructure, and ensures cybersecurity.
+
+Parents/Guardians — Review AI-related communications, provide consent where required, and
+participate in district forums.
+
+VI. Data Privacy and Security
+Source: page 2
+
+All AI tools adopted by the district must:
+
+• Undergo a risk assessment
+• Green = Low
+• Yellow = Medium
+• Red = High
+• Provide vendor privacy documentation and breach response protocols.
+
+PDF EXCERPT PAGE 2
+• Demonstrate compliance with FERPA, COPPA, and Oklahoma cybersecurity standards.
+
+VII. Procurement and Approval
+Source: page 2
+
+Before adoption of any AI tool, the district shall:
+
+• Review vendor privacy and data-handling practices.
+• Publish approved tools in the district’s AI Tool Inventory.
+
+VIII. Professional Development (excerpt)
+Source: page 3
+
+Technology Staff: Infrastructure, security, and vendor vetting.
+
+IX. Community Engagement (excerpt)
+Source: page 3
+
+• Publish and maintain a public AI Tool Inventory.
+• Notify parents/guardians of student AI use and provide opt-out options where applicable.
+
+XI. Misuse & Safety Response (excerpt)
+Source: page 3
+
+The district shall maintain an anonymous reporting system for AI misuse.
+
+XII. Implementation and Review (excerpt)
+Source: page 3
+
+The committee will update the AI Tool Inventory, audit usage data, and publish a public AI Impact
+Report.
+
+XIV. Legal Authority (excerpt)
+Source: page 4
+
+• Family Educational Rights and Privacy Act (FERPA)
+• Children’s Online Privacy Protection Act (COPPA)
+• Applicable Oklahoma cybersecurity standards
+
+Appendix A: Oklahoma AI Policy Toolkit (excerpt)
+Source: page 5
+
+A rubric to help districts vet AI tools for instructional alignment, accessibility, safety, privacy, and
+sustainability.
+
+A customizable form for notifying families about AI use and offering opt-in/opt-out options aligned
+with FERPA and COPPA.
+
+Districts are encouraged to collaborate regionally, seek family input, and align AI integration with
+instructional goals and data privacy responsibilities.
+
+PDF EXCERPT PAGE 3
+Appendix B: AI Tool Evaluation Rubric (excerpt)
+Source: page 6 [graphic]
+
+[graphic] Data Privacy Compliance — Complies with FERPA and COPPA. No collection of PII
+without consent — Fully Compliant Partially Not Compliant
+
+Appendix C: AI Tool Risk Assessment Rubric (excerpt)
+Source: page 8 [graphic]
+
+[graphic] Data Privacy & Compliance — Does the tool comply with FERPA and COPPA ? Are
+privacy policies transparent and verifiable?
+
+Appendix D: Parent/Guardian Communication Letter (excerpt)
+Source: page 10
+
+We want to assure you that our approach is rooted in Oklahoma’s educational standards, data
+privacy laws, and our deep commitment to student safety and equity.
+
+• Comply with FERPA, COPPA, and state data privacy laws.
+Students will never be required to share personal or sensitive information with AI systems. Any
+AI-generated content will be clearly labeled, and educators will guide all student use.
+
+You may also opt out of specific AI-related activities for your child by contacting the school office.
+
+Appendix E: Family FAQ (excerpt)
+Source: page 12
+
+Our goal is to use AI tools in ways that support students, protect their privacy, and prepare them for
+the future.
+
+Will my child's data be safe? Yes. We follow strict laws (FERPA and COPPA) and only use tools
+that meet our privacy and safety standards. No personal data is shared without permission.
+
+Can I opt out of AI tool use for my child? Yes. You can opt out by completing the AI Consent
+Form or contacting your child’s school.
+
+Appendix F: Parent/Guardian Consent Form (excerpt)
+Source: page 13
+
+Before your child uses any AI-based educational tools, we are requesting your informed consent.
+
+3. Data Privacy & Protection — Your child’s privacy and safety are our top priorities. Any AI tool
+used will comply with federal and state student data privacy laws, including FERPA, and COPPA
+Acts. We will not allow AI tools to collect personally identifiable information unless approved through
+secure channels.
+
+You may revoke your consent at any time by contacting the school office.
+

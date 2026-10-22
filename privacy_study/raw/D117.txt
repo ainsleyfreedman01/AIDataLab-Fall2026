@@ -1,0 +1,154 @@
+PDF EXCERPT PAGE 1
+         Montana AI Guidelines: Data and Student
+                    Privacy Passages
+Excerpted verbatim from Montana Artificial Intelligence in K–12 Education Guidelines, Version 2.0 (Montana Office of Public
+Instruction with the Frontier Learning Lab at the Montana Digital Academy, August 2026). Page numbers match the
+document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Benefits and Risks of AI in Education (excerpt)
+Source: page 4
+
+• Data collection and monitoring: Tools that collect extensive student information, including
+  some assessment and monitoring systems, may create privacy and security risks and may
+  generate detailed records of student activity beyond what the original purpose requires.
+• Developmental and ethical concerns: Student age, maturity, learning goals, and the sensitivity
+  of the activity should inform whether and how an AI tool is used.
+
+Core Principles for AI Integration: Protect Student Data
+Source: page 5
+
+4. Protect Student Data: Districts should establish clear processes for reviewing and approving AI
+tools, minimizing the collection and sharing of student information, and communicating permitted
+uses. Educators should use locally approved tools and avoid entering protected or sensitive
+information unless specifically authorized. Local review processes should account for applicable
+federal and Montana privacy requirements, vendor data practices, security, and potential bias.
+
+Guidance for Educator Use (excerpt)
+Source: page 5
+
+Districts should evaluate whether a tool produces reliable results, protects sensitive information, and
+creates meaningful time savings in local practice.
+
+• Routine drafting and formatting: Preparing draft newsletters, general communications, forms,
+  and other materials without entering protected information into an unapproved tool.
+
+Getting Started: Three Immediate Actions (excerpts)
+Source: pages 9–10
+
+Moving from principles to daily practice requires local processes that support educators, protect
+students, and honor Montana's tradition of local control.
+
+AI decisions should not fall solely to an IT department or a single administrator. Because AI affects
+instruction, data privacy, procurement, accessibility, student conduct, and community expectations,
+districts should establish a cross-functional team or comparable local process to guide
+implementation.
+
+• Technology staff: Review vendor data practices, security, system compatibility, and technical
+  controls.
+
+PDF EXCERPT PAGE 2
+The Team's Work: Depending on local governance and assigned authority, the team may review
+state guidance, recommend local policy, identify AI features already present in district software,
+support tool review, and help maintain an approved-tool list.
+
+Professional learning should extend beyond tool demonstrations to address AI literacy, instructional
+purpose, data privacy, accessibility, verification, and appropriate uses for routine work.
+
+• Communicate approved uses: Tell students, families, and employees which tools and uses are
+  locally approved and where they can ask questions.
+• Create opportunities for discussion: Explain why the district is considering AI, what
+  safeguards apply, how student information is protected, and how the district will respond to
+  misuse, including malicious synthetic media and violations of academic integrity expectations.
+
+Policy and Governance (excerpts)
+Source: pages 11–12
+
+In the context of AI, tribes maintain jurisdiction over their data and digital materials, possess
+authority to regulate technology that affects their communities, and determine whether and how AI
+systems interact with their cultural knowledge. Those developing AI policy must recognize tribal
+authority and engage in meaningful consultation when state initiatives could affect tribal
+communities, cultural materials, or data-sovereignty rights.
+
+Legal Considerations and Liability
+AI use can create legal and operational responsibilities involving privacy, accessibility, procurement,
+student conduct, intellectual property, records, and other areas. District leaders should use
+established review processes and seek qualified advice when a proposed use presents legal or
+liability questions.
+
+Safety, Privacy, and Responsible Procurement
+Source: pages 13–14
+
+Districts need a consistent review process to protect students, meet applicable requirements, and
+manage local risk. The following guidance applies to every AI tool under consideration, including
+pilots and free versions.
+
+Part A: Vendor Vetting Checklist
+Districts should not deploy an AI tool unless the local review process verifies each of the following
+criteria:
+
+• Privacy and data protection: The tool and its proposed use must comply with the Family
+  Educational Rights and Privacy Act (FERPA) and other applicable federal and Montana
+  student-privacy requirements. Review what information the tool collects, how it is used, whether
+  it is shared, how long it is retained, and how it can be deleted.
+• Security: The vendor should provide evidence of appropriate security practices,
+  incident-response procedures, and notification terms. Districts should understand which
+  responsibilities belong to the vendor and which remain local.
+
+PDF EXCERPT PAGE 3
+• Algorithmic bias: Districts should require vendors to provide available documentation about
+  how the system has been evaluated for bias.
+• Age, notice, and consent: The proposed use must comply with the Children's Online Privacy
+  Protection Act (COPPA), vendor age restrictions, and applicable federal, Montana, and local
+  requirements for family notice, consent, and school authorization. Districts should communicate
+  approved tools and their data practices to families, consistent with Getting Started: Three
+  Immediate Actions.
+• Contract and data-privacy terms: The vendor must sign the Montana Student Data Privacy
+  Agreement or an equivalent agreement approved through the district's established review
+  process.
+The Frontier Learning Lab periodically reviews tools for use in Montana schools. Tools that
+complete this process and meet MTDA and University of Montana procurement standards are
+available through the MTDA Catalog.
+
+Part B: Deepfake and Synthetic Media Protocol (excerpt)
+• Support for the targeted person: The district's first response must center the safety, privacy,
+  and support needs of the targeted student or employee. Districts must provide clear reporting
+  pathways designed to reduce retaliation, unnecessary redistribution, and further public exposure.
+Part C: Companion and Conversational AI (excerpt)
+• Understand the distinct risks: Conversational systems may provide inaccurate or harmful
+  guidance, respond inappropriately to disclosures about self-harm or abuse, encourage prolonged
+  emotional reliance, or collect sensitive personal information a student would not otherwise share.
+• Communicate with families: Districts should include conversational AI in family communication
+  about approved tools, local expectations, and how to raise a concern.
+
+Implementation Roadmap (excerpts)
+Source: pages 15–17
+
+• Review existing policies: Determine whether academic-integrity, acceptable-use, privacy,
+  grading, records, accessibility, employee-use, and digital-citizenship policies adequately address
+  AI.
+• Use consistent principles: Connect local policy to privacy, transparency, accountability,
+  universal access, the human in the loop, and academic integrity.
+• Apply the vendor-vetting checklist: Use the review process in Safety, Privacy, and
+  Responsible Procurement for every tool under consideration. Do not enter personally identifiable
+  information into an unapproved tool.
+• Provide role-specific learning: Address AI literacy, instructional purpose, privacy, accessibility,
+  verification, and practical strategies relevant to each role.
+• Reflect on Local Experience: Periodically review educator and student experience, observed
+  instructional value, implementation problems, privacy or safety incidents, and whether continued
+  use remains worthwhile. Districts should avoid collecting new student-level data solely to monitor
+  AI implementation unless a clear local need and appropriate safeguards justify it.
+
+PDF EXCERPT PAGE 4
+Glossary (excerpt)
+Source: page 18
+
+Data privacy: The rights, rules, and practices governing how personal information is collected, used,
+stored, retained, shared, and deleted.
+
+References (excerpt)
+Source: page 20
+
+• Montana Legislature. Montana Student Online Personal Information Protection Act. State of
+  Montana, 2019. Montana Code Annotated § 20-10-1501
+

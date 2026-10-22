@@ -1,0 +1,256 @@
+PDF EXCERPT PAGE 1
+     Oregon Generative AI in K-12 Classrooms
+   Guidance: Data and Student Privacy Passages
+Excerpted verbatim from Generative Artificial Intelligence (AI) in K-12 Classrooms Guidance, v3.0 web version (Oregon
+Department of Education). The source has no page numbers; locations are given by section. This is a web page without
+page numbers, so sections are located by their headings on the page. Ellipses (…) mark omitted text. The complete section
+“Ensuring Staff and Student Privacy in School Settings” is included, plus excerpts from elsewhere on the page.
+
+
+GenAI in K-12 Classrooms (excerpt)
+Source: web page, introduction
+
+Because these tools can influence teaching practice, student learning, data privacy, and community
+trust, districts should establish clear local policy and processes for reviewing and guiding how AI is
+potentially introduced and used.
+
+Deeper Dives for Classroom Educators (excerpt)
+Source: web page, “Getting Started: How to Use this Guidance”
+
+Teachers working directly with students are central to ensuring that GenAI is used in meaningful
+and developmentally appropriate ways. This includes … teaching students to use AI tools safely,
+ethically, and responsibly while protecting student privacy.
+
+Guiding Principles: IV. Ethical Use and Informed Practice (excerpt)
+Source: web page, Part 1A “Guiding Principles for Responsible and Ethical Use of GenAI in Education”
+
+Districts that implement AI effectively establish clear policies for safe and ethical use and provide
+sustained professional learning for educators, staff, and students. Instruction should likely address
+genAI bias, disinformation, data privacy thinking, and academic integrity to foster critical and ethical
+engagement.
+
+Keeping Humans In The Driver's Seat (excerpt)
+Source: web page, Part 1B
+
+It remains essential that:
+
+• Any AI tool approved for use by students has been vetted by district staff and is compliant with
+  federal and state data privacy laws.
+
+Building Capacity: Core AI Competencies for Educators, Data Privacy
+and Policy
+Source: web page, Part 2A
+
+Data Privacy and Policy: Educators must be competent in the ethical "rules of the road," including
+awareness of student data privacy laws (FERPA/COPPA) and their district’s Acceptable Use
+Policies. This includes the professional and ethical habit of avoiding sharing personal information
+(PII) in a genAI prompt.
+
+PDF EXCERPT PAGE 2
+Information and AI Literacy as Essential Durable Skills (excerpt)
+Source: web page, Part 2C
+
+Information literacy today goes far beyond evaluating websites or spotting misinformation. It
+includes understanding how digital platforms shape public discourse, how algorithms intentionally
+amplify certain voices while silencing others, and how personal data is collected, used, sold, and
+potentially weaponized (e.g., the Meta/Cambridge Analytica scandal as detailed in this BBC News
+article). These risks are growing more common and more perilous with AI. Without this literacy,
+students are at risk of being manipulated by AI-curated content, deepfakes, targeted disinformation,
+and opaque systems of surveillance and influence.
+
+Create Policy Guardrails Before GenAI Enters Your District's
+Classrooms (excerpt)
+Source: web page, Part 2F
+
+As genAI tools become more prevalent in society, including potential use in our schools, it is critical
+for school district leaders to develop clear, local policies for both staff and students that promote
+positive and productive use while safeguarding student privacy and ensuring that humans are the
+primary driver of all AI-supported decision-making processes. Policies should ensure Personally
+Identifiable Information (PII) is never entered into genAI systems and guide staff in making
+intentional, purposeful decisions about if, when, and how to use these tools with students.
+
+How GenAI Tools Can Help Support All Students (excerpt)
+Source: web page, Part 3B
+
+That said, it is important to add a note of caution that translation/summarization quality varies by
+language and register in these tools and should always be verified by an educator for high-stakes
+use (e.g., IEPs, grades, family notices), and to help ensure the protection of staff and student PII.
+
+Ensuring Staff and Student Privacy in School Settings
+Source: web page, Part 3C
+
+Federal and State Privacy Regulations
+There are numerous federal and state policies associated with student data privacy that are crucial
+to be aware of when determining policy and guidance for the use of genAI in schools including the
+Family Educational Rights & Privacy Act (FERPA), the Children’s Internet Privacy Act (CIPA), the
+Children’s Online Privacy and Protection Act (COPPA) and the Oregon Student Information
+Protection Act (OSIPA) under ORS 336.184. The federal and state regulatory landscape related to
+youth online safety, data privacy, and artificial intelligence continues to evolve, and it is
+recommended that districts plan for ongoing review and periodic updates of local policies and
+guidance.
+
+COPPA, in particular, impacts technology users under the age of 13 in that companies are not
+allowed to collect personal information from them without parental consent, while OSIPA lays out
+certain requirements that must be met when using digital platforms of any kind, including the
+following:
+
+PDF EXCERPT PAGE 3
+• Disclosing any covered information provided by the operator to subsequent third parties, except
+  in furtherance of kindergarten through grade 12 school purposes of the site.
+• Engaging in targeted advertising on the operator’s site, service, or application.
+• Selling a student’s information, including covered information.
+When developing district policies and guidance, it is essential to ensure that they are not in violation
+of crucial data privacy laws such as FERPA, COPPA, or OSIPA. All schools and districts engaging
+with genAI technologies (or any technology broadly) can regularly review the company’s usage and
+privacy policies to ensure that they are not in violation. Again, please refer to ODE’s Developing
+Policy and Protocols for the use of Generative AI in K-12 Classrooms document, a step-by-step
+guide for Oregon school leaders navigating this uncertain AI landscape.
+
+District leaders are also encouraged to work in coordination with IT, procurement, and legal counsel
+to ensure vendor agreements clearly define expectations for data collection, use, retention, security,
+and third-party sharing, and to verify that only district-approved tools are used for instructional
+purposes. In evaluating generative AI tools, districts can consider how commercial incentives may
+shape product design and data practices in ways that may not fully align with educational priorities.
+Careful review of vendor terms, data practices, and default settings can help ensure student
+information collection is limited to educational necessity and supports the protection of student
+privacy, well-being, and instructional integrity.
+
+NOTE: Federal youth online safety and privacy proposals remain under active consideration at the
+national level. Districts should monitor federal and state developments and consult counsel as
+policies evolve. One example includes the Kids Online Safety Act (KOSA), which, as of early 2026,
+has not yet passed through Congress and is still in legislative limbo.
+
+Recommendations And Resources For Student Data Privacy Implications
+Whenever new technology is introduced, reviewing the data use and privacy policies is of key
+importance. For example, for the purposes of ChatGPT, a starting place is to read the privacy policy
+of OpenAI, the developer of ChatGPT. The privacy policy includes specific information related to the
+use of ChatGPT for children:
+
+"7. Children. Our Services are not directed to, or intended for, children under 13. We do not
+knowingly collect Personal Data from children under 13 … Users under 18 must have permission
+from their parent or guardian to use our Services."
+
+Schools and districts are also encouraged to look over OpenAI’s Educator Considerations for
+ChatGPT for additional information.
+
+District AI Tool Vetting and Approval Roles. District IT personnel play an essential role in
+establishing approval processes to vet AI tools for data privacy, security, and legal compliance,
+including protections for personal and personally identifiable information (PII). However, effective
+reviews should not be limited to a single department. Districts are encouraged to use a
+cross-functional approach that includes Curriculum and Instruction leaders, IT personnel, Special
+Education (SPED) staff, English Language Development (ELD) departments, and equity-focused
+teams to evaluate tools for instructional alignment, accessibility, and impact on diverse learners.
+Teachers should only use AI tools that have been formally approved through this shared process.
+Doing so helps protect students while ensuring compliance with district policies, federal regulations,
+
+PDF EXCERPT PAGE 4
+and best practices.
+
+Personally Identifiable Information (PII), oversharing, and genAI. ORS 339.329 (c) defines the
+state of Oregon’s statewide tip line concerning threats or potential threats to student safety. In it
+Personally Identifiable Information (PII) is defined as any information that would permit the
+identification of a person… and is not limited to name, phone number, physical address, electronic
+mail address, race, gender, gender identity, sexual orientation, disability designation, religious
+affiliation, national origin, ethnicity, school of attendance, city, county or any geographic identifier
+included in information conveyed… or information identifying the machine or device used by the
+person…”
+
+Users, both school staff and students, should be cautious when entering any personal information
+into any and all digital applications, including generative AI tools. Entering Personally Identifiable
+Information (PII) into any generative AI system should always be avoided. This is a particularly
+important consideration when using generative AI applications such as ChatGPT, as the information
+entered by users (including prompts and questions posed, etc.) is stored on the application’s server
+and integrated into the large language model used to respond to user prompts. Essentially,
+generative AI tools are learning from every single piece of text or other input typed into their
+platforms.
+
+While this statement generally still holds true as of the most recent release of this guidance
+document, many genAI tools are now offering a 'private mode' and/or education versions in which
+the companies that own then state that they are not retaining data for model training, though this
+cannot be independently verified.
+
+Oversharing occurs when individuals share too much of that PII or other sensitive information in
+inappropriate or unsecured contexts. When we think of genAI tools like ChatGPT specifically,
+oversharing can lead to significant risks. These risks can potentially include:
+
+• Exposure to data breaches
+• Misuse of information
+• Unintended data harvesting
+GenAI tools, while powerful in processing and generating content based on vast data sets, can
+retain or expose information in ways that might compromise privacy. This makes understanding and
+mitigating oversharing critically important in K-12 educational settings where schools are dealing
+with minors and the federal privacy regulations cited above, like FERPA and COPPA.
+
+School Staff Oversharing. For school staff, the dangers of oversharing with generative AI tools
+can have potential professional and legal ramifications. Staff might inadvertently, or even
+intentionally, enter sensitive information such as student performance data, behavioral reports, or
+even personal health information into AI systems. Staff should also avoid entering any student
+information into AI tools when drafting feedback, behavior documentation, communications, or
+instructional materials unless the tool has been formally approved and vetted for compliance with
+privacy requirements. All staff must be vigilant with protecting student personal information when
+using AI systems.
+
+When school staff enter sensitive student information into genAI systems, whether intentionally or
+inadvertently, the consequences can be serious. Doing so poses potential risks of violating privacy
+
+PDF EXCERPT PAGE 5
+regulations like FERPA, which could lead to legal consequences for the school and the individual.
+Moreover, such data breaches can damage the trust between educators and students and
+potentially harm the school’s reputation. It is crucial for all school staff to be trained on the
+appropriate use of AI tools and the types of information that should never be entered into such
+systems.
+
+Student Oversharing. Students are at heightened risk when it comes to data privacy, not because
+of carelessness, but because they are still developing an understanding of how personal information
+can be stored, shared, or misused in digital spaces. This is particularly true with genAI chatbots,
+which are programmed and trained to respond like humans.
+
+When students disclose personal anecdotes, family details, or sensitive identifiers in generative AI
+tools and other online platforms, that information may be retained, logged, or exposed through data
+breaches, weak security practices, or misuse across platforms. Such exposure can create
+opportunities for cyberbullying, identity theft, online sextortion, trafficking, or other forms of
+exploitation. To reduce these risks, educators and schools should consider proactively teaching
+safe digital practices as a part of a larger effort to teach AI and information literacy, embed privacy
+awareness into learning experiences, and ensure strong protections through secure platforms, strict
+privacy settings, and clear usage policies. Safeguarding student data is a shared responsibility that
+requires both systemic protections and ongoing staff and student guidance.
+
+It is highly recommended that school districts incorporate explicit instruction on privacy, consent,
+and digital identity protection into existing digital citizenship, health education, and AI literacy
+learning so students understand how synthetic media and data sharing can affect their safety and
+well-being.
+
+While there is a growing number of online resources for teacher professional development and K-12
+student lessons that focus on these issues, including many listed below, Oregon has a number of
+resources helpful in this specific area. Oregon’s Health Education Standards include
+age-appropriate requirements related to social media, AI, and data privacy in order to promote
+student safety with skills-based education. Also created specifically for Oregon youth, SafeOregon,
+Oregon’s statewide tipline, provides a curriculum and accompanying Teacher’s Guide for middle
+and high school students on topics of recognizing and analyzing risky online behavior and seeking
+help through trusted adults. These resources, free to all Oregon schools and districts, align with
+standards and are easily implemented in classrooms. Another valuable resource worth highlighting
+here is the Commonsense.org Quick Digital Citizenship Lessons for Grades K-12, which includes
+lessons that are divided by grade level.
+
+The Implications of Synthetic Media and Deepfakes (excerpt)
+Source: web page, Part 3C
+
+These online tools allow anyone to take images, photos, etc. from social media or other online
+platforms and manipulate them using genAI tools.
+
+District leaders should be aware that Oregon law (ORS 163.472) prohibits the unlawful
+dissemination of an intimate image. House Bill 2299, which took effect January 1, 2026, expanded
+this law to explicitly include images that have been digitally created, manipulated, or altered using
+artificial intelligence. Under the updated statute, distribution of AI-generated intimate deepfakes is
+
+PDF EXCERPT PAGE 6
+now a Class A misdemeanor punishable by up to 364 days in jail and a fine of up to $6,250, with
+felony enhancement for repeat offenders. This law has direct implications for school response when
+AI-generated or manipulated intimate images are created or shared in ways that harm students or
+staff.
+
+More recently, the federal TAKE IT DOWN Act, signed into law in May 2025, makes it a crime to
+publish non-consensual intimate images, including AI-generated deepfakes, of both minors and
+adults. The law also requires online platforms to remove such content within 48 hours of being
+notified by a victim.
+

@@ -1,0 +1,68 @@
+PDF EXCERPT PAGE 1
+    York School District One AI Responsible Use
+     Policy: Data and Student Privacy Passages
+Excerpted verbatim from Policy IJNDC – Artificial Intelligence Responsible Use (York School District One, South Carolina;
+includes administrative rule text). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text.
+
+
+Policy Introduction (excerpt)
+Source: PDF page 1
+
+The use of AI in the instructional program will be limited to approved educational purposes and will
+comply with the applicable state and federal laws, including, but not limited to, the Family
+Educational Rights and Privacy Act (FERPA), the Children’s Internet Protection Act (CIPA), the
+Children’s Online Privacy Protection Act (COPPA), and the Individuals with Disabilities Education
+Act (IDEA).
+
+Definitions (excerpt)
+Source: PDF page 1
+
+Personally identifiable information includes, but is not limited to, a person’s name, email address,
+phone number, social security number, medical information, education records, and information
+regarding a student’s individualized education program (IEP) or Section 504 plan.
+
+Acceptable Use (excerpt)
+Source: PDF page 2
+
+AI programs used in the district schools and educational programs will be evaluated on an ongoing
+basis for age-appropriateness, privacy protections, bias, accessibility standards, and data security
+by Director of Technology.
+
+Teachers must only use AI programs and resources that have been approved for use by the
+district’s Information and Technology Department.
+
+Prohibited Uses: Privacy Violations
+Source: PDF page 2
+
+Students will not share personally identifiable or confidential information about themselves, other
+students, staff members, or other individuals with AI programs.
+
+Warranties/Indemnification (excerpt)
+Source: PDF page 3
+
+The district is not responsible for any information that may be lost, damaged, or stolen when using
+AI programs or resources.
+
+The district is not responsible for the dissemination, replication, or alteration of any information or
+data input into any AI tool or resource by any student or staff.
+
+PDF EXCERPT PAGE 2
+AR IJND: Comprehensive AI Plan (excerpt)
+Source: PDF page 4
+
+• An approved list of AI programs or tools that may be used by a staff member and students to
+  enhance learning opportunities, experiences, and task products or outcomes.
+• A procedure for the district instruction and technology department to approve and review the use
+  of AI tools and a process to ensure strategies will be implemented in the district to address
+  inappropriate student use of AI. This may include, but not limited to, areas such as academic
+  integrity, bias, inaccuracy/misinformation, copyright/licensing unknowns, privacy violations, and
+  equity of access
+• A procedure to inform parents and receive parental consent in the beginning of each school year
+  for the student to be permitted to use AI during learning experiences and to complete learning
+  tasks in accordance with this policy and Acceptable Use of Technology Resources policy
+  (IJNDB)
+• A list of prohibited uses of AI that violate this Policy or the district’s Code of Student Conduct,
+  which may include … using AI with confidential student or staff personal information; and other
+  prohibited behaviors and/or conduct listed in the district’s Acceptable Use of Technology
+  Resources policy (IJNDB)
+

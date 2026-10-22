@@ -1,0 +1,78 @@
+PDF EXCERPT PAGE 1
+   South Carolina AI Standards Framework: Data
+          and Student Privacy Passages
+Excerpted verbatim from South Carolina Artificial Intelligence (AI) Standards Framework (South Carolina Department of
+Education; copy hosted in the state-ai-policy-field-guide repository). Page numbers match the document's own page
+numbering. This is a 15-page computing/AI course standards framework for students (not a district use policy), so its
+privacy content appears as student learning standards. Text marked [graphic] was transcribed from table cells whose
+text-layer extraction interleaves columns; it was checked against the PDF's table structure. Ellipses (…) mark omitted text.
+
+
+Process Standards (excerpt)
+Source: page 1
+
+6. Design solutions for privacy, protect against bias and defend against cyber influences.
+
+Theme Standards: Data and Analytics, and Security and Privacy
+(excerpt)
+Source: page 2 [graphic]
+
+[graphic] Data and Analytics: 3. Students will evaluate various data collection methods, data storage
+tools, data analysis tools, data representation tools.
+
+[graphic] Security and Privacy: 11. Students will research security and privacy protocols associated
+with AI and ML solutions and apply the protocols to protect the data throughout the processes.
+
+Standard 3, Data and Analytics (excerpt)
+Source: page 6 (table row) [graphic]
+
+• [graphic] Level 3: Select methods of data organization and storage (e.g. local, portable or cloud
+  storage), considering factors such as cost, speed, reliability, accessibility, privacy and integrity.
+
+Standard 9, Impacts of Computing (excerpt)
+Source: page 13 (table rows) [graphic]
+
+• [graphic] Level 2: Define and illustrate examples of big data (e.g., information collected from
+  social media or smartphone use), highlighting data privacy implications.
+• [graphic] Level 3: Compare and contrast the benefits of using big data and the known security
+  and privacy challenges.
+• [graphic] Level 4: Identify the ethical and privacy implications encountered in the curation,
+  management, and monetization of data (e.g., harvesting, information overload, knowledge
+  management repositories, sharing, summarizing).
+
+Standard 10, Impacts of Computing (excerpt)
+Source: page 14 (table row) [graphic]
+
+• [graphic] Level 3: Justify intended and unintended outcomes of computing and AI solutions (e.g.,
+  internal, and external activities including social media/online search use, purchase/use history,
+  geolocation).
+
+PDF EXCERPT PAGE 2
+Standard 11, Security and Privacy
+Source: page 15 (table rows) [graphic]
+
+[graphic] Students will research security and privacy protocols associated with AI and ML solutions
+and apply the protocols to protect the data throughout the processes.
+
+Row 1
+• [graphic] Level 1: Identify AI and ethics-related laws and analyze their effect on digital privacy,
+  security, intellectual property, network access, contracts, and harassment.
+• [graphic] Level 2: Discuss security and privacy issues that relate to AI applications.
+• [graphic] Level 3: Research the security vulnerabilities of machine learning models and ways to
+  mitigate them.
+• [graphic] Level 4: Research and evaluate the security issues relevant to machine learning model
+  creation, storage, and usage.
+Row 2
+• [graphic] Level 1: Explain the ethical methods of collecting data from human subjects while
+  protecting privacy and security for use in training machine learning models.
+• [graphic] Level 2: Evaluate the issues related to privacy and security in the development and use
+  of AI and ML models.
+• [graphic] Level 3: Evaluate methods of direct and indirect AI interaction, such as using
+  AI-enabled systems, contributing data to a dataset, and trading privacy and security for access to
+  an AI tool.
+• [graphic] Level 4: Apply data protection protocols within AI and ML solutions, addressing
+  concerns throughout the data cycle-collection, storage and use of iterative processing
+  algorithms.
+• [graphic] Level 2 (second item in cell): Research the ethical, security, and privacy issues that
+  affect data gathering, storage and overall data quality that can contribute to bias in a model.
+

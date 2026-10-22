@@ -1,0 +1,125 @@
+PDF EXCERPT PAGE 1
+  Alabama AI Policy Template: Data and Student
+               Privacy Passages
+Excerpted verbatim from AI Policy Template for Local Education Agencies, Version 1.0 (Alabama State Department of
+Education, June 2024; nonbinding template, Word copy hosted by AI for Education). The source has no page numbers;
+locations are given by section. This is a Word document without page numbers. Ellipses (…) mark omitted text. Bracketed
+placeholders such as “(replace with the name of LEA)” are in the original template.
+
+
+Purpose (excerpt)
+Source: Word document, section 'Purpose'
+
+This will be achieved by focusing on AI governance, accountability, safety, procurement and
+implementation, data privacy and security, data quality concerns, bias, responsible use,
+transparency, access, efficacy, AI knowledge, skills, education, and training.
+
+The AI Pillars are classified into Strategy, Governance, Data Privacy and Security, Procurement,
+Implementation, Competency Development, Risk Management, and Utility and Effectiveness.
+
+Data Privacy and Security
+Source: Word document, section 'Data Privacy and Security'
+
+The (replace with name of LEA) is committed to complying with federal, state, and local laws, rules,
+and regulations, and other entities that provide standards for compliance to ensure data privacy and
+security are maintained for data used in AI systems. We will ensure that the Contractor’s AI systems
+comply with all applicable federal, state, and local laws, rules, and regulations, and other entities
+that provide standards for compliance.
+
+The (replace with the name of LEA) is dedicated to ensuring data to be used in the AI systems will
+meet the data quality standards established by our Data Governance Committee.
+
+The (replace with the name of LEA) will conduct compliance audits that will be done by our AI
+Governance Committee and/or the Data Governance Committee. The AI Governance Committee
+and/or the Data Governance Committee will submit a copy of the audit to our leadership and the
+respective Contractor(s). We will also ensure that the Contractor(s) provides a Corrective Action
+Plan (CAP) based on the findings in the audit report that will include the steps the Contractor(s)
+plans to take to mitigate the findings, and the timeline by which they will be mitigated.
+
+Use of user’s data to train new AI Systems: The (replace with the name of LEA) will include in our
+procurement and contract document(s) verbiage (Appendix A), which the Contractor shall attest
+when submitting their proposals and any contract executed to perform the work.
+
+AI Procurement (excerpt)
+Source: Word document, section 'AI Procurement'
+
+In the procurement process, we will consider cost, data privacy, security, human-in-the-loop
+development, algorithm bias, model cards, system cards, interoperability, service-level agreements,
+key performance indicators, customizability, configurability, scalability, legal compliance, and
+contractor support.
+
+The (replace with the name of LEA) will obtain a written statement from contractor that:
+
+PDF EXCERPT PAGE 2
+• The AI model(s) have been pretrained and no data is being used to train a model to be used in
+  the development of a new product.
+
+Use of AI Systems (excerpt)
+Source: Word document, section 'Use of AI Systems'
+
+• LEAs shall comply with the federal and state laws on the use of cameras with AI systems on
+  campus and in class. Where laws do not provide for tracking student behavior in class and/or in
+  schools using cameras with AI Systems, LEAs shall ensure the AI systems do not track student’s
+  behaviors and are not used for profiling students.
+
+Appendix A: Data Usage Restriction Clause
+Source: Word document, Appendix A
+
+The Contractor hereby attests and agrees that it is expressly prohibited from using any data
+provided to it by the data providers—either in its raw form or after undergoing any form of
+processing, aggregation, or transformation—for the purpose of training a new AI System to be used
+in a new product, model, service, or offering (collectively referred to as the "Product") of the
+Contractor. The Contractor further attests and agrees that any violation of this clause will be
+considered a material breach of this RFP and/or Contract to be entered into by the Contractor, and
+may result in termination of the Contract, legal action, or both, at the sole discretion of the (name of
+the LEA).
+
+Notwithstanding the restrictions set forth in Section 1(a) of this Contract, the Contractor may use the
+data provided by the data providers to:
+
+• Customize the AI System currently in use, which may result in the development of a new AI
+  System.
+• Develop a new AI System.
+The customization and development of the AI System is expressly required by the (replace with the
+name of LEA) to meet the specific needs of the School District (the "District-Specific Needs"). Any
+such use of the data for the District-Specific Needs shall be subject to prior written approval by the
+(replace with the name of LEA) and shall be carried out in accordance with all applicable laws,
+regulations, and the terms and conditions of this contract.
+
+The (replace with the name of LEA) shall submit the request in writing for the purpose of Section
+1(a). Upon receipt of the request from the (replace with the name of LEA) by the Contractor, the
+Contractor shall submit to the state, in writing, a Request for Approval (RFA) to use the data for AI
+System training, details of the data use, and statement of model training completion.
+
+Request for Data use for AI System training: The Contractor shall submit an RFA, in writing, to the
+(replace with the name of LEA) to use the data provided by the data providers for AI System
+training.
+
+Details of Data Use: The RFA shall include a comprehensive written explanation that outlines the
+following, but is not limited to:
+
+• Purpose of data usage.
+• Data elements that will be used for the AI System training.
+
+PDF EXCERPT PAGE 3
+• Duration of data usage.
+• The manner the data providers’ data will be stored, processed, and secured.
+• Name(s) of the individual(s) who will have access to the data.
+• The controls in place to prevent unauthorized use.
+• Specific types of data that will be used for model training.
+• Risks associated with using the data for model training and how these risks will be mitigated.
+Statement of Model Training Completion: The statement shall include a comprehensive written
+explanation that outlines the following, but is not limited to:
+
+• Deletion of training data or training data will be returned by a certain date.
+• A statement that no training data has been stored.
+
+Appendix A: AI Model Development and Use Attestation Clause
+(excerpt)
+Source: Word document, Appendix A
+
+Pretrained AI System: The AI System used in the performance of this (replace with the name of
+procurement document) and/or Contracts have been pretrained. No data provided under this
+(replace with name of procurement document) and/or Contracts are being used to train an AI
+System to be used in a new product of the Contractor or any of its partners or affiliates.
+

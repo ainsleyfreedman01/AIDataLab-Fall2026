@@ -1,0 +1,25 @@
+PDF EXCERPT PAGE 1
+ 27J Schools Regulation GBEE-R2, Staff Use of
+ Artificial Intelligence: Data and Student Privacy
+                      Passages
+Excerpted verbatim from Staff Use of Artificial Intelligence (AI): GBEE-R2 (27J Schools, Colorado; adopted February 4,
+2025). The source has no page numbers; locations are given by section. Web page; the full regulation text is included,
+minus the cross-reference list.
+
+
+Staff Use of Artificial Intelligence (AI): GBEE-R2
+Source: web page
+
+The purpose of this regulation is to protect staff, student, parent and 27J information and to direct
+staff on information that cannot be submitted to artificial intelligence applications/programs. For the
+purpose of this policy AI applications/programs includes Chat GPT, Gemini, Claude, Copilot, Apple
+AI, and other similar programs or applications.
+
+27J employees and contractors shall not submit, store, or process in AI systems or tools the
+following: (1) personally identifiable information (PII); (2) protected health information (PHI); (3)
+District intellectual property; (4) District and school safety plans, information and protocols.
+
+District employees' use of AI shall comply with all applicable 27J internet and technology use
+policies, and comply with federal, state and local student privacy laws, including FERPA and the
+Colorado Student Data and Transparency Act.
+

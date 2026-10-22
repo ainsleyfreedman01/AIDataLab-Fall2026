@@ -1,0 +1,38 @@
+PDF EXCERPT PAGE 1
+ Owasso Public Schools AI Guiding Philosophy:
+     Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) Guiding Philosophy for Educator and Learner Use (Owasso Public
+Schools web page). The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text. The
+source is a web page without page numbers.
+
+
+Introduction (excerpt)
+Source: web page, introduction
+
+Our AI philosophy outlines our principles and guidelines for the use of AI in our school district,
+emphasizing the importance of human-centered education and maintaining the highest standards of
+privacy, equity, and inclusivity.
+
+3. Privacy, Data Security, and Safety
+Source: web page, section 3
+
+We are dedicated to safeguarding the privacy and data security of our educators and learners. We
+adhere to all applicable data protection regulations and implement robust security measures to
+prevent unauthorized access, use, or disclosure of personal information. When utilizing AI
+technologies, data collection and processing data will be anonymized or pseudonymized whenever
+possible. We prioritize data minimization, ensuring that only the necessary information is collected
+and stored.
+
+Enterprise-Grade Protections: As a Google Workspace for Education Plus district, our version of
+Gemini comes with additional, enterprise-grade safety protections. This means our students and
+staff use a service designed specifically for a school environment, which is separate and more
+secure than the publicly available consumer version.
+
+District Content Filtering: In addition to Google's safeguards, all access to Gemini on our network
+is routed through the district's own content filters. This adds a critical layer of protection, aligning
+with our existing internet safety policies and providing an even more secure experience for our
+students.
+
+Our goal is not just to provide access, but to teach responsible and ethical use, reinforcing the
+principles of digital citizenship in the age of AI.
+

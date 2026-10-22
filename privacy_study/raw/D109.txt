@@ -1,0 +1,107 @@
+PDF EXCERPT PAGE 1
+     Maryland MSDE Responsible Use of AI Tools
+     Policy: Data and Student Privacy Passages
+Excerpted verbatim from Policy: Responsible Use of Artificial Intelligence Tools (Maryland State Department of Education,
+Information Technology Branch, August 2025; copy hosted by state-ai-policy-field-guide). Page numbers match the
+document's own page numbering. Ellipses (…) mark omitted text. This is an internal policy for MSDE staff, contractors and
+partners rather than for school districts.
+
+
+Purpose (excerpt)
+Source: page 4
+
+This policy outlines the MSDE’s approach to the secure, legal, fair, and accountable procurement
+and use of AI systems. Our goal is to leverage AI to enhance our work while protecting students,
+staff, and the public from unnecessary risks. This policy applies to all MSDE employees,
+contractors, and partners who use AI systems with MSDE data or on MSDE systems.
+
+Use of AI Systems within MSDE (excerpt)
+Source: page 5
+
+All use of AI systems in MSDE or adoption of AI features in existing tools must be reviewed and
+approved by both MSDE and DoIT. MSDE will periodically review and affirm the security, privacy,
+and accessibility of these systems in accordance with applicable state and agency IT policies..
+
+DoIT approval does not constitute MSDE authorization. MSDE IT must evaluate specific use cases
+and data handling requirements separately. Significant changes to approved use cases require
+additional review.
+
+Use of Generative AI Systems (excerpt)
+Source: page 5
+
+Staff may only use AI systems approved through MSDE and DoIT processes for agency operations;
+this prohibition includes tools that may be free, open source, or provided by a partner.
+
+Please note: creating an account on an online tool with your Maryland.gov account and/or
+purchasing a tool on a credit card without going through the approval process does not make that
+tool an approved tool, a tool provided by MSDE or Maryland, or a permitted platform. These tools
+are unapproved and prohibited regardless of whether AI is in use.
+
+Customized Tools (excerpt)
+Source: page 6
+
+Any unit considering developing or procuring an AI chat bot, a tool for specific business process
+support, or similar to be trained on your department’s data, must consult with MSDE IT. …
+Consultation with IT will ensure that your project proceeds with proper support and considerations
+for an effective outcome that also protects MSDE and resident data.
+
+PDF EXCERPT PAGE 2
+AI Notetaking and Summarization (excerpt)
+Source: pages 6–7
+
+• Some meeting content is confidential, and it is not appropriate to use a summarization tool
+• While transcription and automated notetaking are not considered “recording” by Maryland law,
+  others may be uncomfortable with this use and should be considered
+It is acceptable to use the native AI systems available from your Maryland online meeting accounts
+within Microsoft Teams (CoPilot), and Google Meet (Gemini) when logged into your Maryland.gov
+account. Both Google and Microsoft have multiple tools available under the CoPilot and Gemini
+names – only those within the Maryland online environment and desktop applications may be used.
+
+Other tools for meeting notes (such as otter.ai, Fireflies.ai, Fathom, tl;dv), and tools embedded in
+programs like Notion are not permitted. MSDE data cannot be stored outside MSDE/Maryland
+systems.
+
+Examples: Permitted (excerpt)
+Source: page 7
+
+• Drafting reports, summaries, or non-confidential content
+• Analyzing public or aggregated data
+• To analyze non-public data, additional review will be needed on the tool and it’s approved use,
+  including assuring the appropriate protection of the data
+
+Prohibited (excerpt)
+Source: page 8
+
+• Using data in ways not approved or in violation of data sharing agreements or the terms of use of
+  any given data collection system
+• Using any protected or restricted data without specific approval to use it with the particular AI
+  system.
+• Using any unapproved tool for MSDE work.
+
+PROTECTED, RESTRICTED, OR PERSONALLY IDENTIFYABLE DATA
+Source: pages 8–9
+
+Complete a Privacy Impact Assessment before using AI with these data. Prefer aggregated or
+de-identified data, include AI clauses in contracts, and never train AI with student data unless
+approved.
+
+Please follow the MSDE and DoIT Data Classification Policies
+
+Incident Response
+Source: page 9
+
+If AI causes an issue, such as a data breach, publication of biased or inaccurate content, or a
+system failure, staff must immediately:
+
+• Stop using the tool.
+
+PDF EXCERPT PAGE 3
+• Report the incident to the appropriate IT Partner and the MSDE CISO
+• Assist with containing and investigating the issue.
+• Support remediation efforts and ensure all actions are documented.
+
+Security Standards Alignment
+Source: page 9
+
+All AI systems must align with Maryland (DoIT) and MSDE Security policies.
+

@@ -1,0 +1,122 @@
+PDF EXCERPT PAGE 1
+    FCPS AI Guidance for Faculty and Staff: Data
+          and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence Guidance for FCPS Faculty and Staff (Fairfax County Public Schools,
+Virginia). The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text. The source is a
+web page whose text was captured from an earlier retrieval and no longer loads online; it has no page numbers.
+
+
+Our Approach to AI in FCPS: Leverage AI Tools Ethically and
+Responsibly (excerpt)
+Source: web page, section 'Our Approach to AI in FCPS'
+
+AI should be used in ways that protect privacy, support learning, uphold academic integrity, and
+avoid harm.
+
+• Protect privacy, security, and data rights of people in our community.
+
+Protect Data and Privacy
+Source: web page, section 'Protect Data and Privacy'
+
+Protecting students, staff, and confidential information is a shared responsibility.
+
+Staff are expected to:
+• Never enter personally identifiable, confidential, or sensitive information into unapproved AI tools.
+• Use only approved AI tools when working with protected information.
+• Follow all applicable FCPS policies, state and federal laws, and data privacy requirements.
+• Report suspected privacy or security concerns through established FCPS procedures.
+What This Looks Like In Practice
+Appropriate Use
+• Drafting a family newsletter without student information.
+• Creating lesson ideas using general prompts.
+• Brainstorming instructional strategies.
+Not Appropriate
+• Uploading student work containing names to an unapproved AI tool.
+• Entering IEP, 504, disciplinary, or personnel information into public AI tools.
+
+Check AI Tool Approval Before Use
+Source: web page, section 'Check AI Tool Approval Before Use'
+
+Not all AI tools have been reviewed for FCPS use.
+
+Staff are expected to:
+• Verify approval in the Digital Ecosystem Library (DEL).
+• Follow the approved audience and usage guidance.
+• Use only approved AI tools on FCPS devices and networks.
+
+PDF EXCERPT PAGE 2
+• If a tool is not approved, do not use it for FCPS work involving students or confidential
+  information.
+
+Planning Examples and Educator AI Literacies (excerpt)
+Source: web page, sections 'Professional Practice' and 'Educator AI Literacies'
+
+Staff remain responsible for selecting appropriate tools, protecting privacy, reviewing AI-generated
+content, and applying professional judgment.
+
+Apply professional judgment by verifying AI outputs, protecting privacy, and considering ethics, bias,
+and transparency.
+
+Related: Parent and Guardian Permission and Approved Tools for
+Students (excerpt)
+Source: web page, sections 'Set Clear Student AI Use Expectations' and 'Academic Integrity'. Included because permission and
+approved-tool rules are tied to student data protection; remove if out of scope.
+
+It is also important to get parent or guardian permission.
+
+Students may not use unapproved AI tools on FCPS-issued devices.
+
+• Obtain parent or guardian permission.
+
+Avoid AI Detection Tools (excerpt)
+Source: web page, section 'Academic Integrity'
+
+AI detection tools are unreliable, may create privacy concerns, and are not endorsed by FCPS.
+
+Partnering with Families: Key Messages and Making Informed
+Choices About AI Tools
+Source: web page, section 'Partnering with Families'
+
+Protecting student data and privacy is a shared priority between schools and families.
+
+Making Informed Choices About AI Tools (sample family letter)
+Ask these quick questions together:
+
+• What happens to the data?
+• Does the tool collect, share, or store personal information?
+• Who owns the work?
+• Will your child keep rights to their writing, images, or projects once entered?
+• Can data be deleted later?
+• Is there an option to remove information if you change your mind?
+• Is it age-appropriate?
+• Many tools have age requirements (often 13+ or 18+).
+Reviewing privacy policies and terms of service helps your child build responsible digital habits and
+keeps their ideas at the center of learning.
+
+PDF EXCERPT PAGE 3
+Ideas for Family Conversations (excerpt)
+Source: web page, section 'Partnering with Families'
+
+• Most AI tools are designed for ages 13+ (some 18+). Families decide what’s appropriate at
+  home.
+• Teachers will only use AI tools approved in the DEL. No student will be required to use
+  unapproved tools.
+
+Guidance on Personal Devices: How Families Can Support
+Source: web page, section 'Partnering with Families'
+
+• Read the tool’s terms of service and privacy policy with your child.
+• Discuss what kind of information the tool collects, how it may be used, and whether data can be
+  deleted.
+• Confirm age requirements for use.
+• Talk about who owns the work once it’s entered and whether rights remain with the student.
+• Encourage your child to pause and ask: “What information am I sharing, and do I feel
+  comfortable with this?"
+Building Digital Citizenship Together (excerpt)
+• Use reviews of privacy policies as opportunities to practice digital literacy skills.
+
+Resources to Share with Families (excerpt)
+Source: web page, section 'Partnering with Families'
+
+• FCPS Digital Ecosystem Library (DEL) - Approved AI tools for students and staff.
+

@@ -1,0 +1,79 @@
+PDF EXCERPT PAGE 1
+  Fort Bend ISD AI Handbook: Data and Student Privacy
+                       Passages
+Excerpted verbatim from Artificial Intelligence Handbook: Guiding Principles and Responsible Use of Generative AI in Fort Bend
+ISD. Page numbers refer to the PDF pages of the source file.
+
+
+Building Responsible Use of Generative AI (excerpt)
+Source: PDF page 8
+
+This graphic outlines the mandatory standards that all FBISD stakeholders—including students,
+teachers, and staff —are expected to follow when using generative AI platforms.
+These standards are intended to protect privacy, combat inaccuracy and bias, uphold academic
+integrity, and maintain data security.
+
+
+Data Privacy & Security
+Source: PDF page 8
+
+While staff may choose to utilize any Gen AI tools they wish for their own planning and productivity
+purposes, it is essential to maintain rigorous privacy and security practices when using AI tools that
+involve student or staff data.
+Ensuring the protection of staff and student’s data is essential when working with generative AI tools.
+Users must take precautions to protect sensitive data and to ensure compliance with legal and ethical
+standards.
+
+
+How to Keep Your Data Safe
+Source: PDF page 9
+
+• Only district-approved AI tools that meet security and privacy standards and comply with FERPA
+   (Family Educational Rights and Privacy Act) and COPPA (Children’s Online Privacy Protection Act)
+   should be used in the classroom. (Appendix A)
+
+• Personal data (names, addresses, student records, etc.) should not be shared with AI tools unless
+   explicitly approved by the district.
+
+• Avoid entering sensitive or personally identifiable information (PII) into AI tools.
+• AI-generated content should be carefully reviewed before sharing to ensure it does not contain any
+   confidential information.
+
+• Log out of AI tools when not in use.
+• Staff using non-district approved AI tools for their own use should carefully review the AI platform’s
+   terms and conditions for data collection, retention, and sharing. Ensure that data is not stored or
+   shared without consent.
+
+
+Examples of Instructional Use and Support: Data Management/Student
+Privacy
+Source: PDF page 10 (table row)
+
+PDF EXCERPT PAGE 2
+• Use AI tools that help manage and analyze educational data to improve teaching strategies,
+   ensuring they comply with FERPA regulations.
+
+• Maintain privacy regarding student data and personally identifiable information.
+
+Response to Misuse for All Stakeholders (excerpt)
+Source: PDF page 13
+
+Teachers and staff are required to maintain data privacy, protect personally identifiable student
+information, and follow all district technology policies regarding student information.
+
+
+Related: Parental Consent
+Source: PDF pages 8 and 11. Included because consent requirements are closely tied to student data protection; remove if out
+of scope.
+
+FBISD has approved and acquired several AI applications (Appendix A) to support instructional
+planning, lesson development, and student engagement in the learning process. Only district-approved
+AI applications may be used for teacher use with students. Additionally, teachers must verify parental
+consent in Skyward before incorporating any technological resources into the learning environment,
+referencing the Student/Parent Consent Checklist/Acknowledgement Form, Electronic Devices and
+Technological Resources.
+Guidelines for Students — Students cannot . . .
+
+• Access or use Gen AI tools that are not vetted and approved by the district for student use
+• Access or use Gen AI tools without parent/guardian consent
+

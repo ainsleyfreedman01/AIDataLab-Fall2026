@@ -1,0 +1,228 @@
+PDF EXCERPT PAGE 1
+   Springfield Public Schools (MO) AI Handbook:
+        Data and Student Privacy Passages
+Excerpted verbatim from AI Handbook (Springfield Public Schools, Missouri), Version 1.0, July 2026, accessible web
+version. The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text. This is the
+accessible web-page version of the handbook, which has no page numbers.
+
+
+Strategic Plan Priorities (excerpt)
+Source: web page, Strategic Plan Priorities
+
+As responsible stewards of our resources, we are committed to bridging the digital divide and
+protecting data privacy and academic integrity.
+
+Pillar 1: Ethical and Responsible Use (excerpt)
+Source: web page, SPS AI Literacy Framework
+
+For Students:
+Protect your privacy—never type your full name, password, address, or your friends' information into
+an AI tool.
+
+For Teachers & Staff:
+Protect student data. Only use school-approved AI platforms that follow student privacy laws.
+
+For Parents:
+Talk with your child about digital safety at home. Remind them that whatever they type into a public
+AI tool can be stored, so they must keep personal information private.
+
+District AI Guiding Principles: 3. Safe and Secure Use
+Source: web page, District AI Guiding Principles
+
+AI use must align with federal, state, and district regulations that protect staff and student data. This
+includes following district procedures for the use and adoption of AI tools along with compliance to
+federal laws such as the Family Educational Rights and Privacy Act (FERPA).
+
+General Guidelines: Keep Private Information Private; Use Only
+District-Approved Tools
+Source: web page, General Guidelines
+
+Keep Private Information Private
+Never enter personally identifiable information (PII) into AI tools not approved by SPS or into
+personal AI tools.
+
+Use Only District-Approved Tools
+District-approved tools have been vetted to ensure data privacy requirements are met. This ensures
+your information is not used to train AI models and that data is not shared publicly.
+
+PDF EXCERPT PAGE 2
+Embedded AI Instructional Resource Approval Process (excerpt)
+Source: web page, Approved Tools / Approval Process
+
+Such features must be used only as part of approved district resources and in accordance with
+district expectations for student privacy, academic integrity, and educator oversight.
+
+Approval Workflow: Data Collection
+No data is collected and/or shared:
+
+May use with building Administrator approval.
+
+Data is collected and/or shared:
+
+Data Compliance:
+
+Technology Department (Data Agreements-Contracts)
+
+Data Privacy and Security Standards
+Source: web page, Data Privacy and Security Standards
+
+The use of all AI tools are treated in the same way as all other software applications. All staff and
+students are required to use technology in support of the education experience which includes using
+AI in a safe manner that protects all stakeholders.
+
+This looks like never sharing personal details of students, staff, or other confidential information with
+AI tools. This includes, but is not limited to: full names, addresses, phone numbers, ID numbers,
+educational records, personnel records, health information, or financial information. When using
+approved AI tools, it is still preferred to anonymize information to avoid the potential sharing of PII.
+
+Only using approved AI tools is one of the many ways you can safeguard this information. Using
+publicly available AI tools or personal accounts with AI tools can release this information and make
+it accessible to those that should not have access.
+
+Take these steps in your use of AI tools to ensure you are being safe and responsible.
+
+• Only use approved AI tools.
+• Never provide confidential, sensitive, or personally identifiable information when using AI tools.
+• Never use copyrighted materials (such as District curriculum) with AI tools without express
+  permission by the owner to do so.
+
+Guidelines for Educators: Protect Data and Privacy
+Source: web page, Guidelines for Educators
+
+• Teach students how to protect their privacy when using AI tools.
+• Ensure students understand never to share personally identifiable information (PII) with AI and
+  what PII might mean for them.
+
+PDF EXCERPT PAGE 3
+Guidelines for Students: Be a Good Digital Citizen (excerpt)
+Source: web page, Guidelines for Students
+
+• Do not share personal information with AI tools such as your name, address, phone number, or
+  ID number.
+
+How Students Might Misuse AI (excerpt)
+Source: web page, Guidelines for Students
+
+Create a fake image or recording of someone without their permission.
+
+Consequences For Student Misuse (excerpt)
+Source: web page, Consequences For Student Misuse
+
+Using a non-approved AI tool during school hours or violating basic electronic device rules.
+
+Using AI to create harmful, bullying, or sexual content, or attempting to hack/bypass district filters.
+
+Student Misuse Guidelines for Staff and Administrators
+Privacy Violations: Any student or staff member who enters Personally Identifiable Information
+(PII) into an unapproved AI tool will be subject to an administrative investigation and may face
+disciplinary action for violating data privacy laws.
+
+How Staff Might Misuse AI: Violating Data Privacy
+Source: web page, Guidelines for Staff
+
+• Enter personally identifiable information (PII) such as a student's name and educational record
+  into a public AI tool that is not approved by the district.
+• Share security related information with an unapproved AI tool such as a school's emergency
+  management plan.
+
+Consequences for Staff Misuse (excerpt)
+Source: web page, Consequences for Staff Misuse
+
+Staff members who violate AI use prohibitions or data privacy standards are subject to discipline
+according to Board Policy GBCB (Staff Conduct) and Policy EHBC (Data Governance and Security)
+or other board policies as applicable.
+
+• Administrative Leave or Suspension: In cases where an investigation is needed—such as a
+  suspected data breach or harassment—a staff member may be placed on administrative leave
+  (with Human Resources approval) while the district reviews the situation.
+• Termination of Employment: Serious violations, such as entering Personally Identifiable
+  Information (PII) into unvetted tools, creating altered media to harass others, or using AI for
+  significant academic/professional dishonesty, are grounds for dismissal.
+Key Compliance Standards
+• Privacy Violations: Any employee who improperly handles student or staff data will be subject
+  to an administrative investigation and may face disciplinary action for violating state and federal
+  data privacy laws.
+
+PDF EXCERPT PAGE 4
+• Mandatory Reporting: If AI misuse involves illegal acts, such as the creation of harmful images
+  or the theft of district data, the district will contact law enforcement or other legal authorities to
+  report the activity.
+
+Scenario: Writing a Letter of Recommendation (excerpt)
+Source: web page, Guidelines for Staff
+
+To polish the tone, they use an approved district tool but refer to the student only as "the student" or
+"Candidate A," ensuring they never enter Personally Identifiable Information (PII) like the student's
+full name or ID number into the prompt.
+
+This ensures the final product is of high quality while strictly adhering to Board Policy EHBC and
+FERPA regarding data governance and student privacy.
+
+Guidelines for Community: Protect Student Privacy and Safety
+Source: web page, Guidelines for Community
+
+Protecting the well-being of each student is our top priority, and that includes keeping their private
+data safe.
+
+• Keep PII Private: Never enter a student's Personally Identifiable Information (PII)—such as full
+  names, ID numbers, home addresses, or grades—into public AI tools like ChatGPT.
+• Use District-Approved Tools: Encourage your child to use only the AI applications that have
+  been officially vetted and approved by the district to ensure they meet strict safety laws like
+  FERPA.
+• Monitor Age Rules: Be aware that many AI tools have strict age limits (often 13 or 18). Always
+  follow the district's rules regarding parental consent for these technologies.
+
+Guidelines for Community: Open Communication (excerpt)
+Source: web page, Guidelines for Community
+
+• Respect Options: We respect family preferences. If you prefer that your child does not use
+  independent AI tools, SPS will provide alternative assignments that meet the same learning
+  goals.
+
+Implementation: AI Safety Course and Age-Appropriate Access
+(excerpt)
+Source: web page, Implementation
+
+AI Safety Course
+All staff members are required to complete a baseline safety course that covers how to protect
+student privacy and avoid entering Personally Identifiable Information (PII) into AI tools.
+
+Age-Appropriate Access
+Students under 14 will only see AI through teacher-led demonstrations and embedded into
+curriculum and assessment platforms. Students 14 and older may use approved tools
+independently if they have a specific teacher's permission.
+
+PDF EXCERPT PAGE 5
+Community and Family Engagement
+Transparency: Schools will clearly communicate which AI tools are being used.
+
+FAQ (excerpt)
+Source: web page, Appendix, FAQ
+
+Is my personal information safe when using AI?
+Protecting your privacy is a top priority, and we only use tools that comply with strict laws like
+FERPA. Users should never enter "Personally Identifiable Information," like full names or student ID
+numbers, into public AI tools.
+
+Which AI tools are allowed at SPS?
+To ensure safety, stakeholders should only use AI applications that have been officially vetted and
+approved by the district. We maintain a "Vetted Tools List" to help students and staff know which
+tools meet our high standards for data privacy.
+
+Are AI-enabled wearables, like smart glasses, allowed in class?
+Currently, AI-enabled wearables such as smart glasses or pins are not permitted on campus.
+
+Glossary (excerpt)
+Source: web page, Appendix, Glossary
+
+• Data Privacy: The practice of protecting personal information from being collected or used by AI
+  companies without permission.
+• Personally Identifiable Information (PII): Private details that can identify a specific person,
+  such as full names, student ID numbers, home addresses, or grades.
+
+Important Reminders for Citations (excerpt)
+Source: web page, Appendix, Disclosure of AI Involvement
+
+To stay accountable, you should be ready to show your AI chat history to your teacher if they ask to
+see how you developed your ideas.
+

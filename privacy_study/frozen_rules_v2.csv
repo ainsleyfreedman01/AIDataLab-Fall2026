@@ -1,0 +1,4 @@
+"category","pattern"
+"model_training","\b(train[a-z]*|fine[- ]?tun[a-z]*|improv[a-z]*.{0,60}(model|service|system)|learn[a-z]* from|model development)\b|\b(customiz[a-z]*|develop[a-z]*).{0,65}\b(ai system|model)\b"
+"sharing_secondary_use","\b(shar[a-z]*|disclos[a-z]*|third[- ]part[a-z]*|sell[a-z]*|sold|sale|advertis[a-z]*|market[a-z]*|commercial[a-z]*|secondary|repurpos[a-z]*|re[- ]?us[a-z]*|other purposes|beyond.{0,35}purpose|profil[a-z]*)\b|\b(purpose[a-z]*|made available|make it accessible|release this information)\b|\b(used|use).{0,35}\b(compan[a-z]*|provider[a-z]*|vendor[a-z]*)\b|\b(use of the data|data use|data usage)\b"
+"retention_deletion","\b(retain[a-z]*|retention|delet[a-z]*|destroy[a-z]*|destruction|eras[a-z]*|purg[a-z]*|dispos[a-z]*|expir[a-z]*)\b|\b(duration|how long|no longer needed|stored for|kept for)\b"

@@ -1,0 +1,43 @@
+PDF EXCERPT PAGE 1
+         Indiana AI Guidance (copy hosted by
+     state-ai-policy-field-guide): Data and Student
+                   Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) Guidance (Indiana Department of Education; copy hosted in the
+state-ai-policy-field-guide GitHub repository). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark
+omitted text. This is the same document as row 154 (identical extracted text). It is a graphic infographic-style PDF with no
+printed page numbers; the passages below were transcribed from rendered pages and are marked [graphic].
+
+
+AI Literacy: With AI Literacy, I CAN (excerpt)
+Source: PDF page 1 [graphic]
+
+• [graphic] Assess safety and privacy with apps and data sharing
+• [graphic] Collect data responsibly
+
+Security
+Source: PDF page 4 [graphic]
+
+[graphic] AI tools are powerful but can be exploited by threat actors to gain information for a
+strategic advantage. Consider the information to which you are providing access through your
+queries.
+
+• [graphic] Ensure inputs into public-facing AI tools are free from personal identifiable information
+  (PII).
+• [graphic] Create a use policy to address best practices when making decisions about AI
+  implementation.
+• [graphic] Follow local policies regarding student data. Ensure compliance with FERPA/COPPA
+  before using AI with students.
+• [graphic] Ensure students are using AI tools approved for their age range.
+• [graphic] Develop a “sandbox” where educators can practice making decisions about security
+  issues related to AI.
+• [graphic] Engage parents and caregivers in learning how to talk to children of all ages about AI
+  safety.
+
+Key Considerations for AI Policy: Process Guidance (excerpt)
+Source: PDF page 6 [graphic]
+
+• [graphic] Determine the hierarchy of decisions related to AI, and provide clarity about what
+  should be considered when selecting AI supports designed to enhance student learning,
+  especially requirements related to data privacy, security, and compliance with existing laws
+  (FERPA, COPPA, etc.).
+

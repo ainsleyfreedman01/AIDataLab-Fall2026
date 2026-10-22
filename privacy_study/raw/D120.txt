@@ -1,0 +1,315 @@
+PDF EXCERPT PAGE 1
+   New Hampshire AI Guidance Framework: Data
+         and Student Privacy Passages
+Excerpted verbatim from PreK-12 Generative AI Guidance Framework for NH Schools (New Hampshire AI Education
+Collaborative / NH Learning Initiative, final draft dated June 4, 2025). Page numbers refer to the PDF pages of the source
+file. Ellipses (…) mark omitted text. Short passing mentions of privacy are marked (excerpt). Privacy language repeated in
+the family notifications for each grade band (Appendix 8) is quoted once per grade band. Bullets marked [graphic] on page
+36 were reassembled from a two-column table.
+
+
+Introduction: Purpose of the Document (excerpt)
+Source: page 5
+
+This NH Generative AI Framework provides practical strategies and ethical guidance on critical
+topics such as access, data privacy, academic integrity, and leveraging AI to enhance personalized
+learning and instructional innovation.
+
+Support for Leaders and Policymakers (excerpt)
+Source: page 7
+
+• Procedures for protecting learner data and ensuring privacy and security.
+
+Critical Areas for Planning (excerpt)
+Source: page 9
+
+3. Data Privacy and Security: Schools must prioritize protecting learners’ personal information and
+be transparent about how AI tools handle data.
+
+By addressing challenges like data privacy, access, and ethical use, educators can help learners
+and schools safely navigate a future where AI plays a central role in education and beyond.
+
+The Importance of Family Engagement in AI Use in Schools (excerpt)
+Source: pages 13–14
+
+Clear communication about AI tools, their educational purpose, and data privacy protections helps
+build trust between schools and families.
+
+Best Practices for School Communication
+• Notify families before introducing new AI tools, including their purpose and how student data will
+  (or will not) be used.
+
+Developmentally Appropriate Use of AI in Early Learning: Simple,
+Safe Interfaces (excerpt)
+Source: page 18
+
+AI applications for young children must avoid advertisements, overstimulation, and complex
+navigation. They should not collect any personal data from children (as protected by COPPA) and
+must be part of a vetted, district-approved toolset.
+
+PDF EXCERPT PAGE 2
+Considerations for Using Generative AI in Education: 4. Protecting
+Data Privacy and Security
+Source: page 24
+
+Generative AI often requires access to learner data to personalize learning experiences, raising
+concerns about data privacy and security. Schools must ensure compliance with regulations like
+FERPA and maintain transparency about how data is collected, used, and stored. Implementing
+strict data protection measures and educating staff and learners about privacy safeguards is
+essential.
+
+Balancing Opportunities and Challenges (excerpt)
+Source: page 25
+
+However, its successful integration requires proactive efforts to address challenges like accuracy,
+access, privacy, and integrity.
+
+Guiding Principles for AI in Education: Privacy and Security
+Source: page 26
+
+• Privacy and Security: Learner data must be protected and used responsibly, adhering to strict
+  privacy regulations. Educational institutions should not share personally identifiable information
+  with consumer-based AI systems.
+
+Specific Guidelines Considerations: Data Privacy and Security
+Source: page 27
+
+• Data Privacy and Security: Robust data privacy and security measures must be implemented.
+
+AI Implementation Considerations (excerpt)
+Source: pages 28–29
+
+Phase 1: Research and Planning
+Develop a Vision and Mission: Clearly articulate the district's vision for AI integration and establish
+specific goals and objectives aligned with the core principles of human-centered design, access,
+privacy, transparency, and ethical use.
+
+Phase 2: Policy Development and Governance
+Develop AI Policies and Guidelines: Create clear policies and guidelines for the ethical and
+responsible use of AI in the district, addressing issues like data privacy, intellectual property,
+algorithmic bias, and academic integrity.
+
+Phase 3: Professional Learning
+Develop a Professional Learning Plan: Create a comprehensive plan that covers a range of topics,
+including AI literacy, ethical considerations, pedagogical strategies, and data privacy.
+
+PDF EXCERPT PAGE 3
+AI for Learner Assessment: Questions to Consider Before Using AI
+Source: page 33
+
+• What personal identified information (PII) does the tool collect?
+• Does the learner work contain PII?
+• Are learners comfortable with their work being submitted to the tool?
+
+L. Protecting Learner Data Privacy
+Source: page 36
+
+New Hampshire’s FERPA guidelines and RSA 189:66 and RSA 189:68-a ensure schools protect
+learner data by requiring:
+
+RSA 189:66 - Data Inventories and Policies
+[graphic] Purpose: Establish requirements to create and maintain a data inventory and data
+governance plan.
+
+• [graphic] School districts must maintain an up-to-date inventory of student personally identifiable
+  information (PII) it collects.
+• [graphic] Each district must adopt a data governance plan that outlines policies and procedures
+  to ensure data privacy and security.
+• [graphic] Staff in each district must be trained on data privacy and security policies.
+• [graphic] The data and governance plan should be publicly available.
+• [graphic] The data and governance plan must be reviewed annually.
+• Any breaches of student data need to be reported to the NH Department of Education.
+RSA 189:68-a - Learner Online Personal Information Protection
+[graphic] Purpose: To protect the online personal information of students.
+
+• [graphic] Vendors may not use student information for targeted advertising.
+• [graphic] Student data cannot be used to create profiles for non-educational purposes.
+• [graphic] Vendors may not sell student information. They must maintain security measures to
+  protect unauthorized access to learner data.
+• [graphic] If there is a breach of student data, that vendor must notify the school districts.
+• [graphic] Parents have the right to review their student’s information as maintained by the district
+  or vendor.
+These measures protect learners while ensuring transparency and accountability in AI integration.
+
+PDF EXCERPT PAGE 4
+Protecting Student Data Privacy: Guidance for School Districts from
+Classroom to State Testing
+Source: pages 37–38
+
+In a world where technology is woven into nearly every aspect of education, safeguarding student
+data privacy is not just a compliance issue—it’s a commitment to building trust, safety, and
+accessibility in learning environments. From everyday classroom tools to large-scale assessments,
+districts must take a proactive and comprehensive approach to protecting student information at
+every level.
+
+1. Build a Culture of Privacy Awareness
+• Make data privacy a shared responsibility. Train all staff—teachers, administrators, IT, and
+  support personnel—on what student data is, how it can be misused, and how to handle it
+  responsibly.
+• Empower students and families with transparent information about how data is collected, stored,
+  and used in both classroom tools and testing environments.
+2. Strengthen Classroom-Level Protections
+• Vet all digital tools before use. Ensure they comply with state and federal privacy laws (FERPA,
+  COPPA, PPRA) and are approved by the district.
+• Avoid using personal teacher accounts for educational platforms—require district-managed
+  logins to ensure secure access and audit control.
+• Limit data collection to what is necessary for learning. Avoid collecting sensitive information
+  unless required and approved.
+3. Ensure Safe Practices in Digital Instruction
+• Teach students digital citizenship, including how to protect their own information and understand
+  consent in digital spaces.
+• Regularly review access permissions on educational platforms—teachers should not retain
+  access to student data beyond the course duration.
+4. Implement District-Level Safeguards
+• Maintain a clear data governance policy that defines roles, responsibilities, and protocols for data
+  access, sharing, and breaches.
+• Require vendors to sign student data privacy agreements (SDPAs) that clearly outline permitted
+  uses and prohibit resale or repurposing of student data.
+• Use secure data storage systems with encryption, access logs, and multi-factor authentication.
+5. Protect Privacy in State Assessments
+• Work closely with state agencies to ensure data shared for assessments is anonymized where
+  possible and handled through secure channels.
+• Clearly communicate to families how assessment data will be used, who will have access, and
+  how long it will be stored.
+• Monitor third-party testing vendors to ensure compliance with privacy standards and ensure
+  there is a response protocol in the event of a data breach.
+
+PDF EXCERPT PAGE 5
+6. Review and Audit Regularly
+• Conduct annual audits of data practices across schools, tools, and partnerships.
+• Create a feedback loop with educators, students, and families to continuously improve data
+  privacy practices.
+Student data privacy isn't just about avoiding risk—it's about upholding the dignity and trust of every
+learner. With thoughtful guidance, practical policies, and transparent communication, districts can
+foster digital learning environments that are both innovative and secure.
+
+Policy Development Guidance: 1. Responsible Use Policies (excerpt)
+Source: page 45
+
+Define Prohibited Uses: Clearly define inappropriate uses of AI tools that could compromise
+academic integrity, learner privacy, or safety. Examples include:
+
+• Sharing personally identifiable information (PII) with AI tools
+Parental Consent: Obtain informed consent from parents or guardians before collecting, using, or
+disclosing any learner data in connection with AI tools, especially for students under 13.
+
+Policy Development Guidance: 2. Data Privacy and Security
+Source: pages 45–46
+
+Purpose: To establish protocols for protecting learner data when using AI tools, ensuring
+compliance with all applicable laws and regulations.
+
+Legal Compliance: Explicitly state that all use of AI must comply with relevant laws, including:
+
+• FERPA (Family Educational Rights and Privacy Act)
+• COPPA (Children's Online Privacy Protection Act)
+• CIPA (Children's Internet Protection Act)
+• State-specific learner data privacy laws
+Data Minimization: Collect only the student data necessary for the specific educational purpose of
+using the AI tool. Avoid collecting unnecessary or sensitive information.
+
+Vendor Vetting: Establish a rigorous process for evaluating AI vendors' data privacy and security
+practices. Before adopting any AI tool, review:
+
+• Privacy policies: Ensure they are clear, comprehensive, and compliant with regulations.
+• Data security measures: Verify they have strong protections in place to prevent unauthorized
+  access, use, disclosure, or destruction of student data.
+• Data storage and transfer: Determine where and how learner data is stored and transmitted and
+  if it aligns with the district's requirements.
+• Data retention and deletion: Specify how long learner data is kept and ensure there are
+  procedures for securely deleting data when it is no longer needed.
+Transparency: Provide clear and accessible information to parents, learners, and staff about how
+learner data is collected, used, protected, and shared when using AI tools.
+
+PDF EXCERPT PAGE 6
+Data Breach Protocol: Develop and implement a comprehensive data breach response plan that
+outlines steps to be taken in the event of unauthorized access to or disclosure of student data.
+
+Training: Provide training to staff on data privacy and security best practices related to AI, including
+recognizing and reporting potential breaches.
+
+Appendix 2: Before You Use AI: Educator Checklist (excerpt)
+Source: page 52
+
+• Has the AI tool been vetted for age-appropriate use and compliance with privacy laws (e.g.,
+  FERPA/COPPA)?
+
+Appendix 3: Sample Student Generative AI Use Agreement (excerpt)
+Source: page 53
+
+• To respect the privacy and safety of myself and others when using AI tools.
+
+Appendix 7: AI Use Notification (excerpt)
+Source: pages 57–58
+
+Discuss the ethical considerations of AI, such as fairness, privacy, and when it’s okay to use AI help
+
+We will introduce AI slowly and carefully, ensuring that any tools used are developmentally
+appropriate, reviewed for safety and privacy, and aligned with learning goals.
+
+Your child’s safety, privacy, and learning experience are our top priorities. We will:
+
+• Only use tools that comply with privacy and security standards (such as FERPA/COPPA)
+
+Appendix 8: AI Use Notification by Grade Band (excerpt)
+Source: pages 59–61
+
+Elementary (page 59)
+• All tools used are reviewed for child safety and privacy
+Middle School (page 60)
+• We review all tools for safety and student data privacy
+High School (page 61)
+• We will use only tools that comply with student privacy and security standards
+
+Appendix 9: Model Policy for the Use of Artificial Intelligence in New
+Hampshire School Districts
+Source: pages 62–64
+
+However, their integration must align with core values of access, privacy, academic integrity, and
+human-centered education.
+
+Ethical Use: AI use must align with ethical standards, protect data privacy, and maintain academic
+integrity.
+
+PDF EXCERPT PAGE 7
+Compliance with Copyright: Educators must avoid uploading copyrighted or proprietary student/staff
+work into generative AI systems.
+
+III. Roles and Responsibilities
+A. Students
+• Protect personal and peer information when using AI tools.
+B. Educators and Staff
+• Use only AI tools that are included in the district’s Student Data Privacy Agreement Database.
+C. Administrators
+• Ensure compliance with FERPA, COPPA, and other applicable data privacy laws.
+IV. Data Privacy and Security
+• No student or staff PII (personally identifiable information) may be input into AI tools unless
+  vetted and secured under a district-approved privacy agreement.
+• AI vendors must comply with NH state and federal laws, including FERPA, COPPA, and the NH
+  Student Online Personal Information Protection Act (SOPIPA).
+• Staff must not share student work, performance data, or private content with public AI tools
+  unless approved.
+VII. Communication with Families
+• Parent communications must clarify privacy practices, intended instructional use, and student
+  expectations.
+• Families should have opportunities to ask questions or opt-out of specific AI tools when feasible.
+
+Appendix 10: What Parents Should Know About AI in Schools
+(excerpt)
+Source: page 65
+
+• Respecting privacy, copyright, and honesty when using AI tools.
+
+Appendix 12: Sample District-Level AI Tool & Policy Review Plan
+(excerpt)
+Source: page 68
+
+Purpose – To develop, review, and implement AI tools and policies that are aligned with district
+goals, instructional priorities, student privacy laws, and the developmental needs of learners.
+
+Appendix 13: Guiding Principles for Balancing AI with Human
+Connection (excerpt)
+Source: page 70
+
+Talk with students about fairness, privacy, and responsibility.
+

@@ -1,0 +1,24 @@
+PDF EXCERPT PAGE 1
+ Hingham Public Schools AI Guide for Students:
+      Data and Student Privacy Passages
+Excerpted verbatim from AI Guide for Students (Hingham Public Schools, Massachusetts, August 2025). Page numbers
+match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Student Responsibilities for Appropriate Use of AI (excerpt)
+Source: page 2
+
+Students are only permitted to use Generative AI systems listed in the Hingham Public Schools
+SDPA Application Catalog. These systems are in compliance with federal guidelines regarding
+student data privacy and will ensure that personal information is protected in line with our data
+security policies.
+
+Ethical Considerations: Privacy Concerns
+Source: page 4
+
+Using AI tools in educational settings requires strict adherence to student data privacy laws,
+including the Family Educational Rights and Privacy Act (FERPA) and Massachusetts student
+record regulations (603 CMR 23.00). Public AI tools should never be used to input personally
+identifiable student information unless the platform is explicitly approved by the district and includes
+robust, legally compliant data protection measures.
+

@@ -1,0 +1,58 @@
+PDF EXCERPT PAGE 1
+   Jeffco AI Web Page: Data and Student Privacy
+                    Passages
+Excerpted verbatim from Artificial Intelligence (AI) (Jeffco Public Schools web page). The source has no page numbers;
+locations are given by section. Ellipses (…) mark omitted text. The source is a district landing page (with links, news items
+and an FAQ), not a formal policy document; headings below are the page's own wording or a description of the page
+section.
+
+
+AI and Jeffco's Strategic Plan (excerpt)
+Source: web page, section "AI and Jeffco's Strategic Plan"
+
+• AI will be implemented ethically and responsibly, respecting privacy and security.
+
+News: Strengthening AI Security
+Source: web page, news item (September 18, 2025)
+
+Jeffco Public Schools is blocking external AI tools that don't meet its data privacy, security, and
+content standards
+
+Guidance for Students: Principles (excerpt)
+Source: web page, section "Guidance for Students & Educators"
+
+• AI should be used safely and securely
+• Data that is confidential or personal should not be entered into publicly available GenAI tools.
+
+Guidance for Educators: Tool Review (excerpt)
+Source: web page, section "Guidance for Students & Educators"
+
+Jeffco educators use AI tools to make learning more personalized, engaging and effective while
+prioritizing student safety and learning.
+
+We follow a rigorous review process to ensure that every AI tool meets our standards for security,
+accessibility and educational value. Each tool is evaluated for its purpose, age appropriateness,
+ease of use, technical needs and impact on student privacy.
+
+Approved tools fall into three categories:
+• Restricted tools require special approval or are prohibited due to security or safety concerns
+
+FAQ: What AI tools does Jeffco support? (excerpt)
+Source: web page, FAQ
+
+Jeffco-supported tools for students include:
+
+• AI applications that do not collect personal student information (such as email, name, or
+  birthdate) and meet age requirements, typically 13 and older.
+
+FAQ: What safety measures are in place when students use AI tools?
+Source: web page, FAQ
+
+Key safety measures for students using AI tools include:
+
+PDF EXCERPT PAGE 2
+• Student data is protected by following privacy laws like FERPA and COPPA, limiting data
+  collection, using secure storage and maintaining transparency with families and stakeholders.
+• Safe and ethical use is promoted through content filtering, monitoring student interactions and
+  teaching responsible use, academic integrity, and the risks of misuse, such as plagiarism.
+

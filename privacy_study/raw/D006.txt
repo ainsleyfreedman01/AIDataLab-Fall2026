@@ -1,0 +1,92 @@
+PDF EXCERPT PAGE 1
+     Alaska K-12 AI Framework: Data and Student
+                  Privacy Passages
+Excerpted verbatim from Alaska’s Strategic Framework: Artificial Intelligence for K-12, Recommendations and
+Considerations for Districts (Alaska Department of Education & Early Development, State Board October 2025). Page
+numbers match the document's own page numbering. Ellipses (…) mark omitted text. The Security principle appears on
+page 4 as one column of a summary graphic and again in full on page 9; only the page 9 version is quoted. The Data
+Governance passage on page 7 is marked [graphic] because the PDF text layer renders "AI" as "Al"; it was transcribed from
+the rendered page.
+
+
+Purpose and Scope (excerpt)
+Source: page 3
+
+This framework aims to foster innovation, enhance learning outcomes, and safeguard student
+well-being and data privacy, ultimately contributing to the state’s overarching goal of providing an
+excellent education for every student every day.
+
+This framework complements existing local policies on technology use, data protection, academic
+integrity, and student support.
+
+Transparency: Data Governance
+Source: page 7 [graphic]
+
+[graphic] Districts should carefully review AI vendors to ensure tools meet rigorous privacy and
+security standards before adoption. This includes ensuring vendors provide clear privacy and
+compliance documentation for review.
+
+Transparency: Communication Strategy (excerpt)
+Source: page 7
+
+Districts should develop a clear communication plan for disseminating AI guidelines to all
+stakeholders, transparently outlining benefits, safety measures, privacy protocols, and data
+management procedures.
+
+Oversight: Vendor Accountability and Review
+Source: page 8
+
+Accountability extends to the partners and vendors who provide AI tools. Districts should carefully
+review AI vendors to ensure tools meet rigorous privacy and security standards before they are
+adopted for classroom use.
+
+Security
+Source: page 9
+
+Rigorous protection of student data and digital well-being is non-negotiable. This includes protocols
+against unauthorized sharing of Personally Identifiable Information (PII) and compliance with local,
+state, and federal laws. The integration of AI introduces new opportunities and potential
+vulnerabilities. A proactive and robust security posture is essential to protect student data, maintain
+the integrity of district systems, and build trust within the community.
+
+PDF EXCERPT PAGE 2
+Cybersecurity
+Districts must prioritize cybersecurity to protect computer systems and networks from information
+disclosure, theft, or damage to data, and disruption of services. This demands a strategic approach
+to building necessary skills for IT managers and establishing security monitoring.
+
+Protecting Personally Identifiable Information (PII)
+Users must be taught the importance of protecting data privacy when using generative AI tools.
+Explicit prohibitions against entering sensitive student data, PII, or confidential information into
+publicly accessible AI tools are essential.
+
+Compliance with Laws
+Districts must ensure that any AI tools procured or used comply rigorously with federal laws such as
+the Family Educational Rights and Privacy Act (FERPA), and the Children’s Internet Protection Act
+(CIPA).
+
+Vendor Vetting
+Districts should establish a robust vetting process for AI tools, requiring schools and districts to
+review terms of service, privacy policies, and compliance documentation from vendors. Proactive
+guidance helps ensure that recommended tools adhere to high data privacy and security standards.
+
+Actionable Steps for Districts
+Districts should take actionable steps to create a robust security posture for generative AI.
+
+• Review and amend existing data privacy and acceptable use policies to address the unique risks
+  of generative AI.
+• Establish simple "Do's and Don'ts" for daily AI use, such as using anonymized data in prompts
+  and never uploading documents containing confidential school or district information.
+
+Ethical Use: Comprehensive Training Strategy (excerpt)
+Source: page 10
+
+Districts should develop a comprehensive training strategy covering ethical and responsible AI use,
+including data privacy and academic integrity.
+
+Definitions: Personally Identifiable Information (PII)
+Source: page 13
+
+Personally Identifiable Information (PII): Information that directly or indirectly identifies an
+individual (e.g., name, student ID, address).
+

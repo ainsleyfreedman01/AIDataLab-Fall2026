@@ -1,0 +1,70 @@
+Student privacy passage pilot: codebook v1
+
+Research question
+How explicitly do the reviewed K-12 AI excerpts address secondary uses and
+retention of student data, and what safeguards do they describe?
+
+Scope
+Model training/improvement; disclosure to vendors or other third parties and
+secondary uses; retention periods, deletion triggers, and deletion rights.
+An initial upload restriction alone is outside the secondary-use category.
+Generic security, storage location, access control, curriculum objectives,
+and staff professional development do not establish these protections.
+Do not infer provisions from legal citations alone.
+
+Units
+Retrieval and retrieval evaluation use extracted paragraph-by-category pairs.
+A paragraph can contain multiple provisions and categories. Page breaks can
+split a paragraph; adjacent context must be checked. Retrieval recall is NOT
+provision-level recall or an estimate of completeness of original policies.
+Substantive coding uses individual provisions, with separate rows for distinct
+rules or exceptions even if they occur in the same retrieved paragraph.
+Count a document once per protection for document-level summaries.
+
+Relevance labels
+yes: explicit student/personal-data handling or evaluation of a tool's relevant
+data practices in the applicable educational context.
+no: no relevant content, or a lexical match outside the research scope.
+uncertain: data connection, referent, or context is insufficient for a firm code.
+Exclude uncertain labels from primary precision/recall denominators; report them.
+Generic "avoid advertisements" is uncertain unless use of student information
+for advertising is established. Generic storage is not retention.
+Curriculum statements about training models are not vendor restrictions.
+Disclosure incident response alone is not a secondary-use authorization rule.
+
+Categories and subcodes
+model_training: training, fine-tuning, or improvement using student/personal data.
+Subcodes: training_reuse; service_improvement.
+sharing_secondary_use: explicit disclosure or downstream sharing of student data;
+sale, advertising, profiling, and purpose limitations on data use.
+Subcodes: disclosure; sale; advertising; profiling; purpose_limitation.
+retention_deletion: duration of keeping data; when removal occurs; deletion
+procedures or requests. Not storage geography, encryption, or accidental loss.
+Subcodes: retention_limit; deletion_trigger; deletion_request; deletion_procedure.
+Allow multiple subcodes. A warning or vetting question is relevant but is not
+automatically an established requirement.
+
+Substantive fields (never inferred by the keyword finder)
+treatment: restricts; conditional_permission; permits; discussion_or_review; unclear.
+force: mandatory_wording; recommendation; descriptive; unclear.
+conditions: literal qualifying language, not a standardized assumption.
+actor: named actor in the text, or unspecified.
+source_function: operative_text; guidance; template; curriculum; resource_summary;
+unknown. Function may differ by section within one document.
+authority: record document-level authority separately; source unverified until
+checked against an original source. Mandatory wording is not enforceability.
+Record a quotation, PDF excerpt page, original-source label, and ambiguity notes.
+Do not flatten mixed provisions into a single strongest judgment.
+
+Quality protocol
+Ten sampled PDFs, seed 20261016: first five development, last five validation.
+The sample is random and not stratified; verify its scope before generalizing.
+Freeze rules before examining validation text. Any subsequent changes require
+a new version and a fresh held-out sample before claiming new validation.
+Read every sampled excerpt without consulting hit flags to assign reference
+labels. This assistant's review is NOT independent human annotation.
+Evaluate category-specific precision/recall against the full-read reference.
+Explicitly inspect no-hit cases and report zero-positive categories as undefined
+recall, not perfect recall. Human review remains required for candidate passages.
+Second-person independent review, visual PDF checks, and original-source checks
+remain required before poster-ready claims.

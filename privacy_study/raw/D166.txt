@@ -1,0 +1,35 @@
+PDF EXCERPT PAGE 1
+    Tacoma Public Schools Artificial Intelligence:
+        Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence (Tacoma Public Schools, Washington, district web page). The source has no
+page numbers; locations are given by section. This is a district web page rather than a formal policy. Ellipses (…) mark
+omitted text.
+
+
+What is Microsoft Copilot? (excerpt)
+Source: web page, section 'What is Microsoft Copilot?'
+
+The following safeguards are built into the chatbot by Microsoft:
+
+• Age-based filtering for inappropriate content
+• Privacy protections aligned with Microsoft’s education standards
+• No data sharing with advertisers or third parties
+
+What is Colleague AI? (excerpt)
+Source: web page, section 'What is Colleague AI?'
+
+The tool actively monitors for safety by filtering for prompts like self-harm, abuse, and threats.
+Notifications are sent to teachers and school counselors when inappropriate content is detected and
+flagged.
+
+How has the district prepared for using AI? (excerpt)
+Source: web page, section 'How has the district prepared for using AI?'
+
+These efforts ensure AI is used to enhance learning while protecting student safety, privacy, and
+academic integrity.
+
+What district policies and regulations support AI use? (excerpt)
+Source: web page, section 'What district policies and regulations support AI use?'
+
+Policy 6300 and 6300R: Emphasizes data security and responsible technology use, including AI.
+

@@ -1,0 +1,33 @@
+PDF EXCERPT PAGE 1
+ Pennsylvania Implementing AI in Schools: Data
+        and Student Privacy Passages
+Excerpted verbatim from Implementing AI in Schools (Pennsylvania Department of Education web page). The source has
+no page numbers; locations are given by section. This is a web page, so no page numbers are given. Ellipses (…) mark
+omitted text.
+
+
+Rigorous Evaluation of AI Tools: Terms, Data and Privacy Laws
+Source: web page, section 'Rigorous Evaluation of AI Tools'
+
+Before introducing an AI tool, schools should carefully review its terms and conditions.
+
+Schools should fully understand who has legal authority and control over the data that is entered
+into the system, what uses are permitted, vendor obligations, and third-party data sharing practices.
+Administrators must understand what liability they may or may not be taking on, and what happens
+if there is misuse, inaccuracies, or data breaches.
+
+All student data is sensitive, and AI systems must comply with all applicable federal and state laws
+protecting that data.
+
+Schools must comply with applicable student privacy laws, such as the Family Educational Rights
+and Privacy Act (FERPA) and the Children’s Online Privacy Protection Act (COPPA) when required.
+As a rule of thumb, AI tools should only be allowed to collect, process, and retain the minimum
+amount of data necessary to deliver the service they are providing.
+
+Questions Schools Should Ask When Considering AI Tools (excerpt)
+Source: web page, section 'Other Considerations'
+
+• What data does the tool require to be used successfully? Is that data available and safe to use?
+• How can we ensure private data of all stakeholders, including students, parents, educators, and
+  support staff, isn’t utilized by the tool for training the AI tool or other purposes?
+

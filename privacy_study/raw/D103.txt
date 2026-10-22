@@ -1,0 +1,35 @@
+PDF EXCERPT PAGE 1
+     Metro Nashville Public Schools Artificial
+Intelligence: Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence (Metro Nashville Public Schools web page). The source has no page
+numbers; locations are given by section. This is a district web page, so no page numbers are given.
+
+
+What is AI? (excerpt)
+Source: web page, section 'What is AI?'
+
+Importantly, the AI tools used in MNPS are carefully reviewed and approved to make sure tool are
+safe, private, and age-appropriate. We do not allow AI tools that interact with or collect personal
+student information without going through the proper approval process.
+
+Guiding Principles: Privacy, Data Protection, and Security
+Source: web page, section 'Guiding Principles'
+
+Protecting personal and sensitive information is crucial, complying with applicable local, state, and
+federal laws to ensure student and staff data privacy and security.
+
+Guiding Principles: Transparency (excerpt)
+Source: web page, section 'Guiding Principles'
+
+The district shall ensure that AI systems used by students and/or employees, as well as those
+embedded within vendor products, are understandable with clear explanations of how decisions are
+made, fostering trust and accountability.
+
+Community Notification and Approved Tool List (excerpt)
+Source: web page, section 'Community Notification'
+
+In accordance with MNPS Policy 4.124, the Director of Schools will provide notice to parents and
+guardians regarding the use of Artificial Intelligence (AI) programs in the district. A current and
+approved list of AI tools is published and maintained on the district website to ensure transparency
+and alignment with our commitment to responsible technology use.
+

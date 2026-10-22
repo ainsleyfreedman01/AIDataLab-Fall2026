@@ -1,0 +1,2155 @@
+PDF EXCERPT PAGE 1
+   Illinois AI Guidance: Data and Student Privacy
+                      Passages
+Excerpted verbatim from Artificial Intelligence Guidance (Illinois State Board of Education, June 2026). Page numbers
+match the document's own page numbering. Ellipses (…) mark omitted text. Passages marked [graphic] were transcribed
+from rendered tables or graphics.
+
+
+Acknowledgments (excerpt)
+Source: page 3
+
+Their contributions helped strengthen guidance that speaks to the realities of AI use across district,
+school, and classroom settings while remaining anchored in human relationships, professional
+judgment, student assets, developmental appropriateness, equity, accessibility, privacy, safety,
+accountability, and civic responsibility.
+
+Quick Start FAQ (excerpt): Transparency and Communication
+Source: page 10
+
+Question 18: How does the guidance address transparency, public communication, family
+notification, and stakeholder concern-raising related to artificial intelligence use?
+Districts should maintain clear information about approved tools, their purpose and use, data
+security, and contact points for questions or concerns.
+
+Quick Start FAQ (excerpt): Foundational Concepts and Evaluation
+Source: pages 13–14
+
+Question 25 (page 13)
+It explains that informed use is informed by concepts such as validity and reliability, safety and
+well-being, security and resilience, explainability and interpretability, bias and fairness, privacy and
+data stewardship, and human oversight and accountability.
+
+Question 28 (page 14)
+The guidance provides rubrics and question banks for evaluations of operational and pedagogical
+artificial intelligence, while also identifying shared evaluation domains districts should consider in
+both contexts. Those domains include purpose and fit; student role and agency; privacy and
+minimization; transparency; bias and accessibility; safety; academic integrity; and pilot, monitoring,
+and exit considerations.
+
+Question 29 (page 14)
+More specifically, supporting the informed use of AI through regular engagements with AI requires
+AI literacy and explicit consideration of developmental appropriateness, including goodness of fit for
+the purpose/use and for those who will interact with AI or its outputs (e.g., the teachers and other
+district staff using AI for instructional or operational purposes) and in light of privacy, fairness,
+integrity, and safe use.
+
+PDF EXCERPT PAGE 2
+Quick Start FAQ: Adult Oversight and Data Security
+Source: page 15
+
+Question 30 (excerpt)
+Adults remain responsible for determining whether use is appropriate, aligned to learning goals,
+developmentally suitable, and protective of student privacy and well-being.
+
+Question 31: How does the guidance address data security?
+The guidance addresses data security through sharing information on applicable federal and state
+laws focused on data security and student safety as well as the provision of resources germane to
+these topics. This information connects district AI practice (e.g., development of AI district policy,
+authorized use policies, and informed/responsible use policies) to federal and Illinois privacy and
+data-security requirements so readers can understand the legal context alongside the real-time use
+in classrooms.
+
+Quick Start FAQ (excerpt): Accountability and High-Impact Use
+Source: page 18
+
+Question 39 (excerpt)
+The guidance defines expectations and accountability through policy development (e.g.,
+district-wide policy, authorized use policy, informed/responsible use policy), professional learning for
+teachers, engagement with developmentally appropriate digital literacy curricula for students that
+are explicit on the norms, academic-integrity expectations, privacy and data-stewardship rules, and
+the like.
+
+Question 41 (excerpt)
+Districts should require multiple layers of review before scaling any AI application, ban the use
+predominantly or fully automated high-stakes decisions without documented human deliberation
+and evidence and cadence for this, and require the sharing of evaluations and decisions upon them
+with particular emphasis on data security, student safety and equity and access.
+
+Quick Start FAQ: Prohibited Uses, Procurement, and Embedded AI
+Source: page 19
+
+Question 42: How does the guidance identify prohibited uses or do-not-deploy scenarios?
+The guidance identifies prohibited uses throughout. In particular, it emphasizes situations in which
+AI use should cease immediately, including instances of data breach or compromised student data
+or safety, as well as the importance of feedback loops to minimize the likelihood of inappropriate
+use of AI.
+
+Question 43: How does the guidance address procurement, vendor review, and vendor use
+of district data for artificial intelligence tools?
+The guidance treats procurement and vendor review as an evidence-gating process rather than a
+simple purchasing decision. It indicates that districts should review contracts, data flows, privacy
+protections, retention rules, and vendor practices before approving a tool, including specific
+consideration of “who owns what, for how long, and how will data be used” that comport with
+
+PDF EXCERPT PAGE 3
+district-wide AI policies (e.g., acceptable use policy, informed/responsible use policy, data privacy
+policies/agreements, data-sharing policies/agreements, and the like).
+
+Question 44: How does the guidance address governance of AI embedded within existing
+platforms, such as student information systems (SIS), learning management systems (LMS),
+or assessment systems?
+The guidance indicates that extant and embedded AI should be explicitly identified, inventoried,
+classified, and governed in ways that align with larger district policies and applicable federal and
+state law. This monitoring and oversight should extend to embedded features within existing
+platforms as well as stand-alone tools.
+
+Quick Start FAQ: Data Governance, Incident Response, and Security
+Controls
+Source: pages 20–21
+
+Question 45: How does the guidance address data governance for artificial intelligence
+tools, including data entry, retention, deletion, portability, records implications, and student
+privacy obligations?
+The guidance treats data governance as a central part of artificial intelligence oversight both for
+purposes of contracting as well as ensuring the scope of the data governance is shared with
+stakeholders. It indicates that districts should reflect the larger suite of district policies and explicitly
+define what data may and may not be entered into tools (e.g., what counts as data or records); the
+scope of and cadence for collection; data security and retention; and align practice with student
+privacy requirements under federal and Illinois law.
+
+Question 46: How does the guidance address incident response for AI-related events, such
+as privacy breaches, harmful outputs, bias events, or safety concerns?
+The guidance presents incident response as part of readiness for scale and as a playbook need in
+contexts such as synthetic-media harms. Districts should align incident response with
+implementation readiness and should maintain response playbooks for deepfake incidents,
+including documentation, safeguarding, family communication, and supports.
+
+Question 47 (excerpt, page 20)
+The guidance suggests that AI used for personnel decisions, governance, privacy review, bias
+review, and evaluation should be reviewed for fairness, privacy, and appropriateness rather than
+treated as routine automation.
+
+Question 48: What security controls does the guidance highlight, such as district-managed
+accounts, logging, access controls, and single sign-on? (page 21)
+The guidance highlights security and resilience controls as core governance considerations through
+protection against unauthorized access, breaches, misuse, manipulation, prompt-injection attacks,
+and data leakage, and through the system durability needed for sustaining operations and
+recovering from failures or disruptions. These issues should be described, and their monitoring are
+part of the comprehensive suite AI policies a district should develop to ensure data security, student
+safety, and transparency with those who are impacted by the use of AI for instructional or
+operations.
+
+PDF EXCERPT PAGE 4
+Welcome Letter (excerpt)
+Source: page 26
+
+Questions about instruction connect to questions about student well-being, fairness, privacy, and
+local decision-making.
+
+Start Here: How to Use This Guidance (excerpt)
+Source: page 28
+
+Put differently, this guidance emphasizes building and refining shared understanding across
+stakeholders in order to balance the benefits of AI with the student-teacher relationships that are the
+centerpiece of teaching and learning and in light of student data privacy concerns.
+
+The Emergence of AI and Illinois Context (excerpts)
+Source: pages 32–33
+
+Page 32
+There are obvious and substantive differences, of course, between getting used to the incorporation
+of a pencil or binder in contrast to AI in terms of student data privacy, cost, and a host of other
+issues.
+
+Page 33
+Given the pace of AI development, of what should a suite of district policies, resources, and
+guidance consist—especially regarding instructional purpose and use, privacy protections, and
+multiple ways for individuals and groups to provide feedback (i.e., communications)?
+
+To add greater specificity, the trajectory of foci between 2015-2025 can be described as: cautious
+interest in AI as an instructional innovation; growing recognition and targeted study of AI’s
+educational uses; and today’s emphasis on data governance, bias, and the limits of AI in
+schools—particularly where AI might supplement, but not supplant, educators’ work.
+
+The tension is more than just if the technology aids in instruction. It is inclusive of ensuring
+developmental appropriateness for using the technology, … ensuring students are adequately
+prepared to use the technology, and protecting student privacy and data.
+
+Guidance Organization: AI for Policy I and II (excerpts)
+Source: page 36
+
+That work is necessary prior to any evaluation of AI resources for alignment with pedagogical or
+operational uses in light of bias, privacy, transparency, and risk assessment.
+
+AI for Policy II: District Policy, Governance, and Accountability – Provides the brief history of federal
+and state laws that, over time, impacted the collection and use of student data. This history is then
+considered in light of AI, in particular.
+
+PDF EXCERPT PAGE 5
+Core AI Concepts for Schools: Introduction (excerpts)
+Source: page 39
+
+The purpose of this section is to provide some of the central concepts used to develop AI
+policies—the terms of art—in support of the use of artificial intelligence as a means of informing and
+enriching teaching and learning, while preserving the human relationships, professional judgment,
+equity, privacy, safety, transparency, and accountability that are foundational to that end.
+
+The identification of concepts derived from statutory and regulatory requirements, authoritative
+national and international frameworks intended for education and schooling, and analysis of risk and
+governance frameworks that emphasize transparency, privacy, equity, validity, accountability, and
+safety in the design and use of AI systems.
+
+AI Concepts: Natural Language Processing (excerpt)
+Source: page 41
+
+Districts should determine what language uses are appropriate, what data may be entered, and
+when outputs require verification or human escalation.
+
+AI Concepts: Computer Vision (excerpt)
+Source: page 42
+
+Because visual analysis can affect privacy, trust, and belonging, schools should be cautious about
+uses that normalize surveillance or reduce children to observable data points.
+
+Districts should distinguish between low-risk instructional uses and higher-risk monitoring or
+identification uses, with stricter safeguards for the latter.
+
+AI Concepts: Generative Artificial Intelligence (excerpt)
+Source: page 43
+
+Districts should clarify approved uses, disclosure norms, verification routines, and privacy
+protections before broad use.
+
+AI Concepts: Vibe Coding (excerpt)
+Source: page 44
+
+Vibe coding can help accelerate design, prototyping, and revision, but it cannot displace educator
+judgment, sound instructional design, accessibility review, privacy review, or informed use for the
+final product.
+
+Districts and schools should decide when vibe coding is appropriate, what kinds of tools may be
+built this way, what testing and approval processes are required, and when staff or student-created
+applications may or may not be used with student data.
+
+PDF EXCERPT PAGE 6
+AI Concepts: Agentic AI (excerpt)
+Source: page 46
+
+Because agentic AI can move from suggestion to action, schools should be cautious not to delegate
+matters affecting student data broadly and elements tied to identity, opportunity, belonging,
+discipline, or access to services to systems that operate primarily through pattern recognition,
+optimization, or task completion in particular.
+
+Districts should determine those tasks are appropriate for agentic systems, what approvals are
+required before action, how activity is logged and monitored, when humans must intervene, and
+which uses are off-limits altogether.
+
+AI Concepts: Open Source AI (excerpt)
+Source: page 48
+
+At the same time, that greater control also brings greater local responsibility for setup, security,
+monitoring, maintenance, and oversight.
+
+If a district adopts or hosts an open-source system, it also assumes responsibility for governance,
+privacy protections, security controls, review processes, and long-term sustainability.
+
+AI Concepts: Closed Source AI (excerpt)
+Source: page 49
+
+Such tools may offer convenience, support, and integrated features, but they also limit local visibility
+into how the system functions and place greater importance on contracts, governance, privacy
+protections, and ongoing monitoring.
+
+Districts should rely on procurement review, contract terms, privacy safeguards, role-based
+permissions, training expectations, and ongoing monitoring to determine whether vendor-controlled
+systems align with local goals and requirements.
+
+AI Concepts: Chatbot (excerpt)
+Source: page 53
+
+Schools should specify appropriate use cases, data limits, supervision expectations, and escalation
+pathways for sensitive matters.
+
+AI Concepts: Privacy and Data Stewardship
+Source: page 55
+
+Explanation
+Privacy and data stewardship refer to how districts collect, store, share, and protect student and
+staff data. AI tools often require data inputs such as prompts, student work, and usage logs that can
+become part of vendor systems. Data stewardship requires districts to minimize collection, ensure
+lawful and ethical use, control retention, and ensure transparency with families.
+
+Why this concept is important in light of the guiding tenets
+• Teaching and learning are shaped by human relationships and build upon the experiences,
+  interests, and assets each child brings into school. Respecting students and families includes
+
+PDF EXCERPT PAGE 7
+   respecting their identify as individuals and citizens and not as “data sources” for tool
+   development.
+• Schools serve multiple purposes—they are places for academic learning and support the
+  development of the selfhood and prepare young people for participation in shared civic life.
+  Schools model lawful, careful, and ethical treatment of information as part of civic responsibility.
+• Artificial intelligence is a means to inform teaching and learning. The fact that a tool can accept
+  data does not mean it should receive student data. Educational purpose must govern data entry.
+• Informed use of artificial intelligence requires deliberate, context-sensitive, and locally
+  determined purpose and use. Districts should define what may be entered, who may enter it,
+  what tools are approved, and how privacy risks are monitored.
+Examples of uses
+• Teachers paste identifiable student writing into a public AI tool for feedback
+• AI vendors store prompts and outputs, creating retention and ownership concerns
+• Student accounts are created without clear district oversight of data sharing and settings
+• Districts adopt DPAs and procurement requirements to ensure privacy safeguards
+• Students learn to compose appropriate prompts that are grounded upon ensuring data security.
+
+AI Concepts: Transparency (excerpt)
+Source: page 56
+
+Transparency refers to clear communication about when and how AI is used, what data it relies on,
+what it can and cannot do, and who is accountable for oversight.
+
+• District publishes a list of approved AI tools and their purposes
+
+AI Concepts: Safety and Well-Being (excerpt)
+Source: page 58
+
+Safety and well-being refer to protecting students as individuals and citizens as well as their data
+from harm, supporting healthy development and ensuring that technology use does not create
+psychological, social, or physical risk.
+
+AI Concepts: Security and Resilience
+Source: page 59
+
+Explanation
+Security refers to protecting systems and data from unauthorized access, breaches, misuse, or
+manipulation. Resilience refers to the ability to sustain operations and recover from failures or
+disruptions. AI systems can introduce new risks, including data leakage and dependence on
+external vendors for core functions.
+
+Why this concept is important in light of the guiding tenets
+• Teaching and learning are shaped by human relationships and build upon the experiences,
+  interests, and assets each child brings into school. Protecting systems and information is part of
+  protecting the people and relationships entrusted to schools.
+
+PDF EXCERPT PAGE 8
+• Schools serve multiple purposes—they are places for academic learning and support the
+  development of the selfhood and prepare young people for participation in shared civic life.
+  Reliable and secure systems are necessary for maintaining public trust and continuity in school
+  functions.
+• Artificial intelligence is a means to inform teaching and learning. AI-enabled tools should be used
+  only where their security risks are understood and managed in service of educational purpose.
+• Informed use of artificial intelligence requires deliberate, context-sensitive, and locally
+  determined purpose and use. Districts must evaluate security expectations, response plans,
+  vendor dependence, and operational continuity before adoption.
+Examples of uses
+• Prompt-injection or data-exfiltration attempts in AI chat tools
+• Vendor outages that disrupt AI-enabled classroom tools
+• AI tools used on unmanaged devices or personal accounts
+• Unauthorized sharing of sensitive information through AI prompts
+• Security incidents involving third-party AI integrations
+
+AI Concepts: Informed Use of Artificial Intelligence (excerpt)
+Source: page 63
+
+• A district uses AI to help draft communications or summarize operational information, but staff
+  review outputs before use to ensure accuracy, tone, privacy protection, and contextual fit
+
+Developing Prompts Using AI for Instructional Planning: General Tips
+(excerpt)
+Source: page 88
+
+• Name clear boundaries: do not paste student identifiable information or student records into AI
+  applications unless the district has explicitly approved that specific tool and use case under
+  applicable privacy safeguards.
+
+Using AI for Instructional Planning: Compliance Note
+Source: page 95
+
+Compliance note: A tool is not automatically compliant with FERPA/SOPPA/COPPA/CIPA
+because it is “free.” Compliance depends on district approval, executed agreements (e.g., a SOPPA
+DPA, where required), vendor terms, and how the tool is configured and used (including what
+student data is entered). As with the selection of any AI application within a P-12 public school
+district, a district should consult with its legal counsel.
+
+Keeping Students at the Center (excerpts)
+Source: pages 101–102
+
+Page 101
+• Protect privacy and avoid oversharing in prompts; districts should provide clear policies about
+  appropriate data handling and safe tool use (e.g., the district policy, AUP, and IUP).
+
+PDF EXCERPT PAGE 9
+• Safety and privacy missteps occur when staff or students share sensitive information in prompts
+  or use tools outside district safeguards.
+Page 102
+• What is our clear rule on data: what must never go into prompts, and how will we train/refresh
+  staff and students on this?
+
+AI for Policy I: Summary (excerpt)
+Source: page 103
+
+Because AI is rapidly evolving, districts need frameworks that foreground equity and access by
+addressing bias, privacy, and how students can meaningfully engage with technologies that are
+surely a part of their future work in the world.
+
+Collecting Perceptions: Introduction (excerpt)
+Source: page 106
+
+they are essential for districts and educators in “…evaluat[ing] and address[ing] bias, privacy,
+transparency, and risk assessment and management in the usage of artificial intelligence
+technologies and applications.”
+
+Table 5: Capacity and Sustainability Considerations (excerpt)
+Source: page 107 (table rows)
+
+Technical readiness Access controls, rostering, device/network capacity sufficient for expected
+usage
+
+Vendor and data controls Required terms in place; data rules enforceable in practice
+
+Off-ramp Exit plan (data export/deletion, alternative workflow, communications)
+
+Determining Need for Student-Facing Instructional AI Use (excerpt)
+Source: page 109
+
+Families and board members ask how the district will ensure student-facing AI supports learning
+without replacing instruction, introducing bias, or compromising privacy.
+
+Internal Clarity on Purpose and Use: “Purpose First” Cabinet
+Alignment (excerpts)
+Source: page 110
+
+• Use across the district is uneven, with some staff relying on personal or unapproved tools,
+  creating unclear expectations for data handling, privacy, and oversight.
+• District-wide AUP and IUP provide how applications are vetted and specify criteria(ion) and
+  decision responsibilities.
+
+PDF EXCERPT PAGE 10
+Stakeholder Mapping for Coalition Building (excerpts)
+Source: page 114
+
+• Use readiness and focus group findings as evidence; connect safeguards to stakeholder
+  concerns (privacy, equity, academic integrity)
+• What evidence can persuade undecided stakeholders, and how do we ensure we are capturing
+  those concerns of stakeholders and share feedback on them (pilot data, privacy review,
+  exemplars, student work, teacher testimony)?
+
+Data: Benchmarking Categories (excerpt)
+Source: page 115
+
+• Perceived risks (privacy)
+
+Focus Groups and One-on-One Interviews (excerpts)
+Source: pages 116–119
+
+Focus Groups (page 116)
+• Use a structured guide aligned to readiness domains (instructional value, privacy/security, equity,
+  educator capacity, student experience)
+One-on-One Interview (page 117)
+• Use a structured interview guide aligned to readiness domains (instructional value,
+  privacy/security, equity/accessibility, educator capacity, student experience/engagement,
+  governance/oversight) so every interview yields decision-relevant evidence
+• Offer confidentiality parameters and how notes/transcripts will be de-identified in reporting
+• Elicit required guardrails (e.g., teacher review, data minimization, approved accounts,
+  transparency to students/families, verification expectations)
+Cautions (page 118)
+• Failing to protect candor (unclear confidentiality, supervisors interviewing staff, students
+  interviewed in front of authority figures)
+Questions: Privacy/security and trust (page 119)
+• What information should never be entered into an AI tool in this context? How will this be
+  communicated?
+• What would you need to see (or know) to trust that student data and district information are
+  protected?
+
+Item Development: Survey Items (excerpts)
+Source: pages 120–121
+
+Page 120
+For instance, if the survey item asks, “How familiar are you with how generative AI tools use
+submitted text to improve their systems?” then the response bank should include a range of choices
+that include the language in the ask (e.g., not at all familiar, somewhat familiar).
+
+PDF EXCERPT PAGE 11
+Table 7: Typical AI Survey Categories and Recommended Formats (page 121, table rows)
+[graphic] Awareness/ familiarity — How familiar are you with how generative AI tools may use
+submitted text to improve their systems? — Not at all familiar / Slightly / Moderately / Very /
+Extremely familiar
+
+[graphic] Perceived risks (privacy) — I am concerned that AI tools may expose student data if not
+configured correctly. — Strongly disagree → Strongly agree (word-based)
+
+[graphic] Governance/ procurement readiness — Our district has a clear process for vetting AI tools
+for privacy and security before adoption. — Strongly disagree → Strongly agree (word-based)
+
+Stakeholder Engagement, Communication, and Readiness Cases:
+Introduction (excerpt)
+Source: page 122
+
+the following cases interrogate the evaluation and addressing of bias, privacy, transparency, and
+risk assessment and management with a focus upon engendering an approach to regular
+consideration of ideas that resist easy and final answers.
+
+Case: The Early Warning Flag (excerpt)
+Source: page 124
+
+Advocates/community members
+• How do we prevent “support” tools from becoming surveillance tools—and why do some
+  communities experience these tools differently?
+
+Case: The Helpful Prompt That Crossed the Line
+Source: pages 127–128
+
+Primary focus: A teacher uses a generative AI tool to draft notes for a meeting and—without
+thinking—includes details about a specific student. Later, the teacher worries that the information
+should never have been entered. The district must clarify what counts as an incident, what
+SOPPA-aligned workflows require, and how to respond in a way that improves practice rather than
+producing fear and avoidance.
+
+Discussion Prompts: District and building leadership
+• What should count as a privacy incident involving AI prompts—and why (harm potential, legal
+  exposure, trust)?
+• How should privacy incidents and the like be expressed in the district policies and supporting
+  resources so all are clear on framing, roles, and responsibilities?
+• Which tools/accounts are permitted for staff use—and why do those boundaries matter in
+  practice?
+• How should the district respond so staff learn without hiding mistakes—and why is that response
+  better for long-term safety?
+District teachers
+
+PDF EXCERPT PAGE 12
+• In your daily work, what feels like “identifiable” information—and why is that line harder than it
+  sounds?
+• If you realize you entered details you shouldn’t have, what should you do first (e.g., containment,
+  reporting, documentation)—and why is that step most important?
+• What reminders or training would actually change practices—and why would those supports
+  work better than a policy memo?
+District support staff
+• What guardrails reduce risk without shutting down legitimate use (e.g., approved tool list,
+  technical controls, prompt templates, coaching)—and why?
+• What vendor requirements are non-negotiable (e.g., secondary use limits, retention, deletion,
+  breach terms), and why?
+• How will you verify compliance in practice—and why is verification necessary beyond written
+  agreements?
+Students
+• (P–5) What things about you should stay private—and why?
+• (6–8) Why does it matter what adults type into computer tools about you—and why might it affect
+  trust?
+• (9–12) What rights should students have about their data—and why do those rights matter in
+  school settings?
+Parents and caregivers (page 128)
+• If a mistake happens, what should the district tell you—and why is that the right level of
+  transparency?
+• What remedies matter most (e.g., correction, deletion, counseling support, vendor
+  accountability)—and why?
+• What choices should families have—and why might choices be limited in some school-required
+  contexts?
+Advocates/community members (page 128)
+• How should SOPPA shape day-to-day practice—not just contracts—and why does “workflow”
+  matter as much as “policy”?
+• What transparency is essential to public trust—and why would it reduce misinformation or fear?
+• How do privacy risks intersect with equity—and why do some communities experience data
+  misuse differently?
+
+PDF EXCERPT PAGE 13
+Case: The “Free” App With the Hidden Data Trail
+Source: pages 129–130
+
+Primary focus: A “free” classroom app spreads quickly because it is easy, engaging, and
+recommended by colleagues. Months later, the district discovers the app collects extensive student
+data and retains it in ways never reviewed through SOPPA-aligned processes. The district must
+decide how to respond to current use, communicate with families, and prevent future “shadow
+edtech.”
+
+Discussion Prompts: District and building leadership
+• What should we do about a tool already widely used without review—and why (student impact,
+  instructional disruption, privacy risk)?
+• What minimum review must occur before any tool touches student data—and why are those
+  checks the right baseline?
+• How should we communicate with families now—and why might transparency help rather than
+  harm trust?
+District teachers
+• What signals make a tool feel “safe enough,” and why might those signals be misleading?
+• What supports would reduce pressure to adopt unapproved tools (e.g., approved tool menus,
+  fast review lanes, alternatives)—and why?
+• How do you weigh instructional value against privacy risk in light of AI informing and enriching
+  teaching and learning?
+District support staff
+• What technical controls could reduce risk (e.g., SSO, filtering, device management, app
+  portals)—and why are they feasible or not?
+• What contract terms matter most (e.g., retention, deletion, secondary use, subcontractors)—and
+  why?
+• How do we monitor compliance over time—and why is monitoring necessary even after
+  approval?
+Students
+• (P–5) How would you feel if an app kept track of what you clicked—and why?
+• (6–8) Should students be told what an app collects—and why would that change how they use
+  it?
+• (9–12) What does real choice look like for school-required tools—and why is “optional”
+  sometimes not really optional?
+Parents and caregivers
+• What would you want to know before using an app (e.g., what is collected, who it is shared with,
+  how long is data kept)—and why?
+• When is a tool truly optional—and why does that distinction matter for consent?
+• If the vendor’s practices conflict with community values, what should the district do, and why?
+
+PDF EXCERPT PAGE 14
+Advocates/community members (page 130)
+• Who decides acceptable risk—and why should that decision include community voice?
+• What accountability mechanisms should exist (e.g., public inventories, audits, reporting,
+  complaint processes)—and why?
+• How might data collection affect vulnerable communities—why might impacts be uneven, and
+  what should occur to minimize the likelihood of or eliminate this?
+
+Case: The Fast Rollout (excerpts)
+Source: page 135
+
+• What risks rise to the level of “do not release” in your district (privacy, bias, trust, legal
+  exposure)?
+• What minimum controls must exist on day one (e.g., accounts, logging, data rules,
+  escalation)—and why are those controls foundational?
+
+Case: The Incident That Tests the System (excerpt)
+Source: pages 137–138
+
+Primary focus: An AI-enabled feature produces a harmful outcome—an incorrect statement sent to
+families, an unsafe suggestion to a student, or a privacy mistake that spreads more widely than
+intended.
+
+Parents and caregivers
+• What remedies matter most (e.g., corrections, record repair, counseling, data deletion, vendor
+  accountability)—and why?
+
+District and Teacher Selection of AI applications (excerpt)
+Source: page 139
+
+As districts are asked to innovate using AI in support of teaching and learning there is a need to also
+protect students and staff, and sustain public trust through clear, explainable decisions about what
+is permitted, under what conditions, and why. Balancing the instructional benefits of AI (or any
+educational technology or curricular program) must also include operational concerns including
+protecting student privacy—bias, privacy, transparency, and risk assessment and management.
+The protecting of student privacy requires a series of district policies, authorized uses policies, and
+informed use policies. These policies ensure clarity on expectations on authorized use inclusive of
+repeatable routines, defined roles, documented evidence expectations, and, maybe of most
+importance, a monitoring cycle that continues after adoption to refine, as needed, those policies
+adopted.
+
+Approaching the evaluation of applications for instructional and operational uses is essential
+because AI systems can fail in ways that resemble ordinary instructional mistakes (i.e., incorrect
+feedback), but they can also fail in ways that create legal, ethical, and equity harms (e.g., privacy
+violations, discriminatory impacts, opaque automated decisions, or normalized surveillance).
+
+PDF EXCERPT PAGE 15
+District Adoption for AI Use (excerpt)
+Source: page 140
+
+Then, once initial purpose/use is identified, these are next filtered through requirements of
+datasecurity, equity, and accessibility writ large (See: Appendix: Three-Step “Goodness of Fit”
+Approach: Supporting Resources for an extension on the subsequent ideas).
+
+Although an AI application may be full of possibilities and potential to inform teaching and learning
+or aid in district operations, it still requires those who will use or oversee its use to verify that the
+application passes the “tests” needed to ensure “goodness of fit” … inclusive of educational value;
+data privacy and contract readiness; safety, security, and incident readiness; transparency and
+explainability; and equity and accessibility.
+
+Three-Step Structure to Ascertain “Goodness of Fit” (excerpt)
+Source: page 141
+
+Step 1: Identify tool category and risk level
+1. What decisions or outputs does it influence (planning support vs. grading vs. discipline vs.
+surveillance)?
+
+2. Whose data does it touch (no student data, aggregated, de-identified, identifiable student data)?
+
+Suggested local risk tiers (raise expectations as tier increases):
+
+• Tier 0: No student data; optional staff productivity
+• Tier 1: Instructional support with limited or de-identified data
+• Tier 2: Student-facing learning tool using identifiable student data
+• Tier 3: High-stakes or safety-sensitive (grading/placement/discipline, student
+  monitoring/surveillance, automated risk scoring)
+Step 2: Minimum evidence checklist (what must be “true” to approve)
+Data privacy and contract readiness: Terms aligned to district expectations; terms of service
+(ToS)/ data processing agreement (DPA) review completed; clear data flows and retention/deletion
+commitments
+
+Safety, security, and incident readiness: Security posture summary; breach notification
+commitments; district incident process defined
+
+Adoption Decisions, Rubric, and Tips (excerpt)
+Source: pages 142–143
+
+• Decline (unclear purpose; weak privacy terms; high-stakes use without protections)
+Level 1–2: Privacy and risk-tiering (Domains 2–4) should score at least 2, with written conditions
+
+Level 3–4: All domains should score at least 2, with at least two domains scoring 3 (often privacy
+and monitoring)
+
+Level 1 (pilot) tips
+Teacher: Default to no student PII in prompts/inputs; use district-controlled accounts and settings
+
+PDF EXCERPT PAGE 16
+Level 2 (approved with guardrails) tips
+Standardize review processes using U.S. ED tools and national data privacy agreement (NDPA)
+patterns where appropriate
+
+Level 3–4 (integrated and mature) tips
+Require audit logs and a documented incident pathway (privacy, bias, safety, integrity)
+
+AI Application Review: GenAI Writing-Feedback Tool for Grades 6–8
+(excerpt)
+Source: pages 144–145
+
+Data sensitivity: Student writing may contain identifiable information; account configuration may also
+create identifiable student records.
+
+Consequence-of-error: Moderate—misleading guidance, inappropriate content, biased feedback
+patterns, privacy exposure.
+
+Privacy/contract readiness: Document data flows; confirm whether student writing is retained or
+used for model improvement; require enforceable terms before moving beyond a tightly bounded
+pilot.
+
+Security/incident readiness: Confirm vendor security posture; define reporting pathway for
+suspected compromise or inappropriate disclosures; assign a district owner responsible for incident
+coordination.
+
+Student data minimization: Students do not include names, IDs, addresses, or other identifiers in
+prompts; teacher models de-identified drafting.
+
+Common “cautions”: Students paste drafts that include identifying details or sensitive personal
+stories; the tool retains content by default. The district unintentionally shifts from a low-risk pilot into
+a student-data-bearing implementation without the contractual controls, retention limits, and
+monitoring expected for that posture.
+
+Instructional Use Rubric (excerpt)
+Source: page 146 [graphic]
+
+[graphic] Level 0. Teacher uses: Prohibited for any work involving student information.
+
+[graphic] Level 1. Teacher uses: Allowed for low-risk tasks using district-approved accounts/
+settings; explicit no-student-PII rule.
+
+[graphic] Level 3. Student uses: Routine AI/digital citizenship instruction; clear escalation pathways
+for harm, bias, privacy incidents, and academic integrity issues.
+
+Model Rubric and Question Bank (Operations): AI-Supported Family
+Help Desk (excerpt)
+Source: pages 147–150
+
+Step 1: Identify tool category and risk level (administrative/operational uses)
+
+PDF EXCERPT PAGE 17
+1. What business process or decision does it influence (communications drafting vs. routing/
+prioritization vs. eligibility determination vs. HR actions vs. surveillance/monitoring)?
+
+2. What data is used (no personal data; aggregated; de-identified; identifiable student/family/staff
+data; legally protected/sensitive data)?
+
+• Tier 2: Operational tool that is public/family-facing or touches identifiable student/family/staff data
+  (e.g., family chatbot with ticketing; translating parent communications using identifiable details;
+  routing student services requests).
+• Tier 3: High-impact or safety-sensitive administrative uses (eligibility/resource allocation,
+  placement decisions, automated risk scoring, disciplinary recommendations, attendance
+  enforcement automation, student monitoring/surveillance, HR adverse actions, or any automated
+  decision that could restrict access to services/benefits).
+Step 2: Minimum evidence checklist (what must be “true” to approve)
+Data privacy and contract readiness: Terms aligned to district expectations; terms of service/
+data processing agreement review completed; clear data flows and integrations; retention/deletion
+commitments; no secondary use; role-based access; records management alignment.
+
+Safety, security, and incident readiness: Security posture summary; breach notification
+commitments; access logging; secure integrations (ticketing, Student Information Systems, Human
+Resources Information Systems); district incident and escalation process defined and testable.
+
+• Decline (unclear operational purpose; weak privacy terms; public-facing collection of PII without
+  controls; high-impact use without protections, appeal pathway, or equity monitoring).
+Documentation expectations (operational): name a business owner, define who can pause the tool,
+list approved workflows, list prohibited workflows, record retention/Freedom of Information Act
+(FOIA) implications as applicable, and define renewal criteria.
+
+Domains (0–3 each)
+2. Privacy/contract readiness (data minimization, enforceable terms, retention/deletion, no
+secondary use)
+
+3. Security/incident readiness (access control, logging, secure integrations, incident playbook)
+
+Tips for use by adoption level (operational)
+• Default to public or synthetic data; if real data is needed, use the minimum fields and redact
+  identifiers whenever feasible
+• Configure “safe fallbacks” (route-to-human) and define immediate stop-use triggers (privacy
+  incident, recurring misinformation, accessibility barrier)
+• Standardize ToS/DPA review and maintain a data flow map (what goes in, what comes out,
+  where it is stored, who can access)
+• Require role-based access, logging, retention limits, and a documented escalation path for
+  families and staff
+• Require audit logs, monitoring dashboards, and a formal incident pathway (privacy, bias, safety,
+  integrity) with rehearsed procedures
+
+PDF EXCERPT PAGE 18
+• Add “material change” triggers: re-approval if the vendor changes models, terms, data use, or
+  integrations
+Pilot guardrails
+• Data minimization by design: The chatbot instructs families not to share student names, IDs,
+  birthdates, addresses, IEP status, discipline details, or immigration-related information
+• Human-in-the-loop ticketing: Ticket form collects only what is necessary (school, topic, callback
+  preference) and automatically redacts accidental PII pasted into chat
+• Quality and harm monitoring: Weekly sampling of logs (with redaction), tracking wrong-answer
+  reports, and defined stop-use triggers (misinformation patterns, privacy incidents, accessibility
+  barriers)
+• Public transparency: Clear notice describing scope, limits, data practices, and human contact
+  options
+Common “cautions”: Families share a child’s full name and address in chat; the vendor retains
+transcripts indefinitely “for quality improvement.” The district unintentionally escalates to a
+higher-scrutiny, student-data-bearing service without the protections expected for that posture.
+
+• What is the minimum information needed to route support without collecting student identifiers?
+
+Teacher/Student Instructional Use: Privacy and data minimization
+Source: page 153
+
+Map data-in/data-out: what students enter, what the tool stores, who can access it, and how long it
+is retained. Minimize inputs. Do not include names, IDs, faces/photos, contact info, or personal
+stories. If data handling is unclear, pause use.
+
+Teacher workflow — GenAI for drafting family communications (no
+student PII) (excerpt)
+Source: pages 154–155
+
+• Permitted inputs: Generic program details only (date/time/location; publicly available school
+  events; non-identifying program descriptions). Prohibited inputs include any student name/ID,
+  disability/ health details, discipline details, or case-specific narratives.
+• Tool environment (for scoring): District-procured GenAI account with SSO; admin console can
+  turn features on/off; prompts/outputs are not used to train public models; retention is limited to
+  ≤30 days; and an admin delete/export control is available.
+• Data flow: Staff paste the final, human-edited message into the district’s normal communication
+  systems (mass email/phone/text platform). The GenAI tool is not connected to the SIS, HR
+  system, or email platform via API.
+• Pilot controls proposed: A 20-minute microtraining; a “prompt hygiene” checklist; a required
+  redaction step before prompting; and a stop-use trigger if any student PII is entered or if vendor
+  terms change (retention/training).
+• Key decision: Can staff use GenAI for drafting, while enforcing a strict no-student-PII rule and
+  maintaining human accountability?
+Level 0 — Not approved
+
+PDF EXCERPT PAGE 19
+• District says: “Do not use GenAI tools for district communications. We are not ready to ensure
+  privacy and consistency.”
+Level 1 — Limited pilot
+• AUP boundary: Explicit “no student PII” (no names, IDs, disability/health details, discipline, or
+  case-specific information).
+• Action: Confirm retention, data use, and admin controls; set stop-use triggers for vendor(s).
+• Monitoring: Determine cadence for pilot participants; monitor for and provide means of collecting
+  privacy incidents (e.g., staff accidentally paste sensitive content).
+Level 3 — Integrated with monitoring
+• SOPs exist: who can use, where prompts are stored (if at all), how to handle vendor changes,
+  and how to escalate errors.
+• Incident response is practiced: what happens if a tool change affects retention or if staff misuse
+  is detected.
+
+Table 8: Evaluation Rubric – Case I (data security/privacy row)
+Source: page 156 [graphic]
+
+[graphic] Data security/ privacy. L1 (Pilot): District accounts/ settings; no-student-PII rule;
+time-bound pilot. L2 (Approved): Published workflows + enforcement; required verification routine.
+L3 (Integrated): Periodic audits; vendor-change monitoring. L4 (Mature): Regular risk reviews;
+ongoing training updates.
+
+Student-facing tool — AI tutoring chatbot for math help (excerpt)
+Source: pages 156–158
+
+Context: A vendor proposes a student-facing chatbot that provides step-by-step hints for math
+homework and practice. Teachers like the idea of immediate support, but families are concerned
+about safety, accuracy, and whether the tool will collect student data.
+
+Data collected: Student login identifier, grade level, class roster membership, problem-set selection,
+and chat transcripts. Vendor proposes transcript retention for 90 days for safety/quality review; the
+district requests a shorter window and deletion-on-request.
+
+Vendor controls: Admin dashboard includes content filters, blocked topics, transcript review for
+flagged chats, ability to disable free-form chat, and role-based access for staff reviewers.
+
+Transparency and family engagement: The pilot includes a family notice/consent process, a
+family-facing FAQ explaining data use and boundaries, and a clear reporting pathway for concerns
+or harmful outputs.
+
+• Action: Verify required safety controls, logging, retention, and admin ability to restrict features
+  from vendor.
+• Transparency: elements in and means for communicating process/status of pilot, including what
+  data is involved and how concerns are reported.
+• Audits/monitoring occur: review logs/alerts, check model behavior changes, and verify that
+  restrictions are still active.
+
+PDF EXCERPT PAGE 20
+Table 9 – Evaluation Rubric 2 (data security/privacy and consent
+rows)
+Source: page 159 [graphic]
+
+[graphic] Data security/ privacy. L1 (Pilot): Teacher-supervised pilot; strict account controls; data
+minimized. L2 (Approved): Published rules + technical controls; family notice clarifies data use. L3
+(Integrated): Audits/monitoring + vendor-change checks; incident response practiced. L4 (Mature):
+Regular risk reviews; continuous improvement based on monitoring.
+
+[graphic] Transparency. L1 (Pilot): Pilot-scoped communications and consent/notice (as applicable).
+
+Innovation Zones (excerpt)
+Source: pages 160–161
+
+In the aforementioned, explicit constraints tied to data security and student safety that are publicly
+shared for review and refinement are essential to identify and show in the process of development.
+
+• Evaluate proposals on clarity of purpose/use tied to extant or emerging problems of practice for
+  the district and/or students and inclusive of issues such as: data governance, accessibility, and
+  basic security controls
+• Avoid “tool-first” pilots without data boundaries and identification of purpose/use
+… as well as students who may experience it as pressure, confusion, surveillance, inequity, or
+diminished trust.
+
+AI Innovation Spaces: Higher Education Partnerships (excerpt)
+Source: page 163
+
+• Prior to launching any pilot, identify, ensure, and memorialize common understandings; goals;
+  roles; guardrails, especially those for student data privacy/safety; sustain/stop criteria; …
+• Ensure necessary data security and parent/care giver approvals that explicitly frame the rationale
+  for the partnership (i.e., purpose/use); partners; roles; timelines for student engagement (e.g., as
+  applicable, development of the AI, feedback during and subsequent to specific engagements,
+  use of student produced materials, images, quotes); and the like
+• Execute all data-sharing agreements and obtain the necessary Institutional Review Board (IRB)
+  approvals
+• Ambiguity in or lack of attention to IRB/data agreements
+
+PDF EXCERPT PAGE 21
+AI Innovation Spaces: P-12 Districts and For-Profit Companies or
+Other Organizations (excerpt)
+Source: pages 164–165
+
+While the relationship between a P-12 district and for-profit company or organization can accelerate
+access to tools, training, and real-world problem contexts, they also create the highest risk of
+missteps when data rights, use of student or district work for marketing purposes, and decision
+authority are unclear. Successful relationships are explicit about data security and ownership (e.g.,
+what data is collected, who owns the data, and the scope and use of products); student and school
+protections; cost; cadence of and timelines for evaluation and needed refinements; stop and scaling
+criteria; and the like.
+
+Vendor pilot within district: Deployment of a platform developed by a company or organization for
+broad instructional or operational purposes within a P-12 district. It is necessary to ensure scope of
+and length for pilot (inclusive of all necessary guardrails—data share, contract(s), district permission
+form, points of contact, communications for parents/caregivers).
+
+Regardless, it is essential that the district retains instructional authority and ability to stop the work
+when issues of student safety or data privacy are identified during implementation.
+
+• … relevant requirements (e.g., data rights and retention policies, training on scope of roles and
+  use of the resources, auditability, accessibility, sustain/stop criteria) …
+• Ambiguous data rights and retention policies: The scope of and clarity in roles for the relationship
+  between the provider and the school district must be negotiated and memorialized through the
+  contracting and other agreements (e.g., data share, MOU, and the like) as well as specific
+  approaches to project management of the work.
+
+Unified rubric: Intake Pilot Scale decisions (data and security rows)
+Source: page 166 [graphic]
+
+[graphic] Data governance & privacy. Key questions: What data is used? Is student PII involved?
+How is retention handled? Minimum evidence/ artifacts: Data-flow diagram; data classification;
+retention/ deletion commitments; vendor terms review. Exit ramp triggers: Stop if data rights are
+unclear or too broad; scale if rights are bounded and auditable
+
+[graphic] Security & identity. Key questions: How is authentication handled? Are logs available? Can
+admins manage access/roles? Minimum evidence/ artifacts: SSO/role plan; logging/ monitoring
+plan; incident response alignment. Exit ramp triggers: Stop if accounts/logging are unmanaged;
+scale if controls are enterprise-grade and tested
+
+PDF EXCERPT PAGE 22
+AI for Policy II – District Policy, Governance, and Accountability:
+Summary (excerpt)
+Source: page 167
+
+• Familiarity of relevant AI concepts as used in P-20 settings is important in contextualizing the
+  history of federal and state laws tied to data privacy generally and those data privacy issues
+  unique to educational settings. This is especially important with AI due to the speed in which
+  development is and will likely continue.
+• District AI policies and guidance emerge within a constellation that includes federal and state
+  regulation focused upon privacy, confidentiality, and public records. Most of these laws were
+  written before modern cloud services, social media, or AI. However, the core ideas—protecting
+  student information, limiting disclosure, maintaining accurate records, and ensuring
+  transparency—carry over into today’s AI decisions.
+• Due to the rapid development of AI outside of educational settings, and to best ensure that its
+  potential is implemented in ways that inform instructional planning and delivery and enrich
+  student experience, issues of data security and student safety are paramount.
+
+Federal and Illinois Privacy, Confidentiality, and Records Laws
+Source: pages 168–169
+
+District AI policies and guidance sit on decades of regulation focused upon privacy, confidentiality,
+and public records. Most of these laws were written before modern cloud services, social media, or
+AI. However, the core ideas—protecting student information, limiting disclosure, maintaining
+accurate records, and ensuring transparency—carry over into today’s AI decisions. This section will
+share relevant federal and state privacy laws; highlight the differences between a district-wide AI
+policy, an Authorized Use Policy, and an Informed use Policy, and why each is necessary; and
+provide links to exemplars that can support the development of local polices needed in Illinois
+districts.
+
+Within Illinois and beginning in the late 1950s, Illinois’ State Records Act (1957, 5 ILCS 160) and
+Local Records Act (1961, 50 ILCS 205) established baseline expectations for how public entities
+create, keep, and dispose of records. For school districts, as work moved from paper to email to
+cloud platforms—and now to AI-assisted drafting and chat logs—these statutes remain the
+backdrop for retention schedules, appropriate disposal, and defensible recordkeeping.
+
+Early federal privacy statutes introduced principles that still guide district practice. The Fair Credit
+Reporting Act (FCRA, 1970) emphasized data accuracy and an individual’s right to correct
+information used in decisions affecting them. The Privacy Act of 1974 established fair information
+practice expectations for government-held data. In education, the Family Educational Rights and
+Privacy Act (FERPA, 1974) anchored student education record protections—access, amendment,
+and limits on disclosure. These early laws matter for AI as AI systems create new derived
+information and can be mistakenly treated as “verdicts” rather than supports for decision-making. So
+too, as AI uses the information available for its outputs, accuracy of data is essential to avoid
+inaccuracies and hallucinations.
+
+The Illinois School Student Records Act (ISSRA, 1975, 105 ILCS 10) complements FERPA by
+defining student records responsibilities in Illinois contexts. Together, FERPA and ISSRA set
+
+PDF EXCERPT PAGE 23
+expectations that student records are handled with care, disclosures are limited and purposeful, and
+families have rights to access and request corrections. When AI tools touch student
+information—directly or indirectly—districts should treat those tools as operating inside this
+student-records environment.
+
+Some information categories heightened protections. Illinois’ Mental Health and Developmental
+Disabilities Confidentiality Act (MHDDCA, 1979, 740 ILCS 110) underscores strict handling of
+mental health information. Health Insurance Portability and Protection Act (HIPAA) privacy and
+security rules (1996–2003) shaped modern expectations for protecting health data where
+applicable. For districts, these frameworks reinforce a practical rule: avoid using AI tools in ways
+that collect, infer, or store sensitive health or mental health information unless the district possesses
+clear legal authority, safeguards, and sustained capacity to manage risks.
+
+Illinois’ Freedom of Information Act (FOIA, 1984, 5 ILCS 140) reflects the public’s right to
+understand how government entities operate. As districts increasingly use digital systems (and now
+AI) to create documents, messages, and decisions, FOIA and records laws raise practical
+questions: what is retained, for how long, where it is stored, how quickly it can be retrieved, and
+what exemptions may apply. AI use does not remove public accountability, yet it can increase the
+volume and complexity of records. That this is the case means that districts must manage its
+records with even greater care.
+
+As the internet became part of daily life, laws such as the Children’s Online Privacy Protection Act
+(COPPA, 1998) and the Gramm-Leach-Bliley Act (GLBA, 1999) elevated expectations for protecting
+children’s online information and strengthening security controls in vendor-managed environments.
+Illinois’ Personal Information Protection Act (PIPA, 2005-2020, 815 ILCS 530) and Identity
+Protection Act (IPA, 2010, 5 ILCS 179) further emphasized safeguarding personal information and
+who “owns” this information. This matters for AI because many AI tools are cloud-based, rely on
+vendor infrastructure, and can expand the number of systems where personal information is stored
+or processed.
+
+Illinois’ Internet Safety Instruction requirement (105 ILCS 5/27-410, formerly 27-13.3) reflects an
+evolution from “keep students away from risky tools” to “teach students how to use technology
+safely” (See Appendix: Federal and Illinois Privacy and Data Security Laws). In today’s
+environment, that instruction increasingly intersects with social media dynamics and AI-enabled
+content creation. District guidance can treat AI as part of broader digital citizenship: safety, privacy,
+integrity, and responsible participation.
+
+Illinois’ Student Online Personal Protection Act (SOPPA, 105 ILCS 85) responded to widespread
+edtech and cloud adoption by setting concrete expectations for vendor relationships and student
+data protections. In practical terms, SOPPA reinforces that district should not rely on informal or
+“free” tools without clear agreements, safeguards, and district oversight (i.e., who “owns” outputs
+produced by AI, and the like). For AI tools, this is often the most immediate day-to-day driver of
+approvals, contracts, and required security/privacy terms.
+
+Taken together, these laws form a layered foundation:
+
+• Protect student records and limit disclosure
+• Treat sensitive information with heightened confidentiality
+
+PDF EXCERPT PAGE 24
+• Maintain transparency and proper records management
+• Ensure vendor-managed services meet security and privacy expectations
+
+District AI Policy: governance, privacy, and vendor controls (excerpt)
+Source: page 171
+
+The district AI policy is the district’s governance instrument: it establishes decision rights, approval
+gates, risk-tiering, lifecycle oversight, and vendor/procurement expectations for AI used for
+instruction and operations. It should align to statewide AI guidance requirements (where applicable),
+student data privacy/records law, public records/retention obligations, and
+nondiscrimination/accessibility obligations.
+
+• District AI policy minimums (governance and safeguards): define AI scope/definitions; establish
+  approval/procurement requirements and vendor controls for edtech/AI systems; set privacy/
+  security requirements for data sharing, retention, and breach response; require human review for
+  consequential decisions; and require monitoring, evaluation, and incident reporting
+• District AI policy transparency and accountability: specify recordkeeping expectations for
+  approvals, evaluations, and contracts (including public transparency obligations and retention
+  schedules as applicable)
+• Procurement and vendor controls must be centralized to ensure student-data protections and
+  enforceable operator obligations (including data-use limits, retention/deletion, and breach
+  response expectations).
+• Public-sector transparency and records obligations attach to AI-related approvals and
+  documentation (contracts, evaluations, and decision records), which requires an explicit
+  governance framework for retention and lawful disclosure/exemptions.
+
+Acceptable Use Policy; Capacity and sustainability (excerpt)
+Source: pages 172–174
+
+The AUP is the district’s permission structure: what users may access, under what conditions, and
+what must be true before a tool can be used (approved accounts, age/grade restrictions,
+supervision, and data-handling rules).
+
+• AUP minimums for AI: use district-approved tools when student data/work is involved; do not
+  enter identifiable student information into public tools; treat AI output as a draft/hypothesis
+  requiring verification
+• It reduces privacy and student-record risk at the point of use by setting clear rules about what
+  users may enter into tools (especially when student work or identifiable information is involved).
+• It anchors network/device compliance obligations (e.g., filtering/internet safety conditions tied to
+  district networks and E-rate participation).
+• What must be true before a tool/use is approved (training completion, vendor terms, access
+  controls, logging, support readiness)?
+• What are the non-negotiable exit requirements (data export, deletion, alternative workflow,
+  communications if the tool ends)?
+
+PDF EXCERPT PAGE 25
+• What are the simplest, sustainable rules staff and students can follow consistently (what
+  can/cannot be entered; when verification is required; when AI cannot be used)?
+• What is the expected documentation trail (what must be recorded, where, and for how long)
+  without creating unmanageable burden?
+
+Table 8: Categories and Components (privacy-related rows)
+Source: pages 175–176 [graphic]
+
+[graphic] Definitions (minimum). District AI Policy: AI, GenAI, ML; automated decision system;
+high-impact decision; vendor/ operator; education record; PII; biometric (if applicable). Informed Use
+Policy/ Agreement (IUP): Meaningful AI assistance; verification; misinformation;
+impersonation/deepfake; harassment; privacy- respecting behavior
+
+[graphic] Non-negotiables. District AI Policy: Privacy/records compliance; human review for
+consequential decisions; equity and accessibility; vendor due diligence; records management;
+incident response. Authorized Use Policy (AI-specific): Approved tools for student data; no
+identifiable student info in public tools; human review before high-impact uses; COPPA/ CIPA/PPRA
+as applicable. Informed Use Policy/ Agreement (IUP): Honesty/disclosure where required; no
+harassment/ impersonation; verify facts; protect privacy; respect civil rights/ disability rights
+
+[graphic] Risk tiering/high-impact triggers. District AI Policy: Define tiers and required controls;
+elevate surveillance/monitoring, biometrics, and high-stakes decision influences. Authorized Use
+Policy (AI-specific): Restrict higher-risk uses to explicitly approved tools and documented controls
+
+[graphic] Vendor/ procurement controls. District AI Policy: SOPPA-aligned contracting; data use
+limits; retention; auditability; breach response alignment. Authorized Use Policy (AI-specific): Only
+approved vendors/ tools for student data; enforce contractual compliance in use. Informed Use
+Policy/ Agreement (IUP): User behavior does not substitute for vendor controls; IUP reinforces safe
+choices and reporting
+
+[graphic] Data handling. District AI Policy: District data governance: classification, retention, incident
+response; coordination with records law. Authorized Use Policy (AI-specific): Concrete do/do-not
+rules for data entry, sharing, retention, and storage locations. Informed Use Policy/ Agreement
+(IUP): User-level privacy expectations (do not share personal info; ask before uploading others’
+work/data)
+
+[graphic] Transparency & records. District AI Policy: Public transparency and retention expectations
+for approvals and AI- related documentation
+
+PDF EXCERPT PAGE 26
+Model Templates and Drafting Resources (excerpt)
+Source: pages 177–179
+
+• District-wide AI Policy (Board/Governance Level): establishes purpose, scope, roles, tool
+  approval expectations, oversight, review cadence, and alignment to existing policies (technology
+  use, academic integrity, privacy, procurement, staff conduct, and student discipline)
+• Acceptable/Authorized Use Policy (AUP) update or AI addendum (rules for access/use): clarifies
+  what uses are permitted, prohibited, and conditional (e.g., approved tools, disclosure
+  expectations, data entry restrictions, monitoring, and consequences for misuse)
+• Informed Use Policy (IUP) (behavioral expectations and digital citizenship framing): defines
+  expected behaviors and responsibilities for students and staff, emphasizing safety, privacy,
+  respect, academic integrity, and human-in-the-loop review of AI outputs
+Implementation note: Districts should ensure AI language is consistent with existing technology use,
+privacy, academic integrity, instructional materials, employee conduct, and procurement/vendor
+review processes.
+
+• CoSN (Consortium for School Networking) and Council of the Great City Schools (CGCS) –
+  “K-12 Generative AI Readiness Checklist Questionnaire” (planning support). Use to structure
+  sequence and readiness checks across governance, data, security, legal/risk, and AI literacy.
+• TeachAI – “Considerations for Existing Policies” (sample add-in language). Use for inserting
+  AI-specific clauses into existing AUP/IUP, academic integrity, privacy, and student support
+  policies.
+• Michigan Virtual – “Sample Guidance on Staff Use of Generative AI for K-12 School Districts.”
+  Use for staff-facing authorized-use guidance, including data entry restrictions and operational
+  best practices.
+• West Virginia Department of Education – AI guidance (includes addenda-to-policy
+  recommendations). Use for state guidance that explicitly recommends districts create guidance
+  or addendums to existing policies, including informed use, privacy, and academic integrity.
+• Olathe Public Schools (Kansas) – Staff Responsible Use Policy (includes AI-related
+  expectations). Use for staff-facing RUP language naming AI guardrails (e.g., no personally
+  identifiable information in AI tools; bias awareness; use of approved tools).
+• Los Angeles Unified School District (California) – Responsible Use Policy (public PDF). Use for a
+  large-district RUP format emphasizing compliance, security, and protections for sensitive
+  information.
+• AUP update. Insert TeachAI’s add-in language for approved tools, transparency/disclosure, and
+  restrictions on entering sensitive information into AI tools; reinforce with staff guidance on data
+  entry restrictions (e.g., Michigan Virtual).
+• RUP (staff and student). Adapt Olathe’s staff/student RUP structure and explicitly add AI
+  expectations (human review of outputs, privacy protections, bias awareness, and use of
+  district-approved tools), using Renton as an additional public example of explicitly naming AI in
+  the RUP scope.
+
+PDF EXCERPT PAGE 27
+Teacher Questions Before Selecting AI to Enrich Content
+Engagement (excerpt)
+Source: page 201
+
+• Is this use developmentally appropriate for my students (impulse control, privacy understanding,
+  frustration tolerance)?
+• Does this support learners while preserving dignity (no public ranking, no deficit labels, no
+  surveillance-like uses)?
+Privacy, safety, and well-being
+• What data will students enter? Is it minimal, necessary, and appropriate for children?
+
+Digital Citizenship and AI Literacy Curricula by Grade Band (excerpt)
+Source: page 202
+
+The inclusion of digital citizenship with AI literacy is on account that they operate together in nearly
+every modern learning context: students must be able to participate safely and responsibly in digital
+environments (privacy, security, identity, respectful communication, and credibility of information)
+and also understand what that means insofar as AI systems generate, filter, and influence
+information and decisions (limitations, hallucinations, bias, transparency, and appropriate human
+oversight).
+
+Digital citizenship informs AI literacy—the most practical, protective AI behaviors are extensions of
+core digital citizenship habits—verifying claims with credible sources, recognizing persuasion and
+manipulation, protecting personal data, attributing sources and disclosing assistance, and pausing
+before sharing or acting.
+
+Table 9: Digital Citizenship/AI Literacy (implementation notes)
+Source: page 203 [graphic]
+
+[graphic] P–2 (PreK–Grade 2). Implementation notes: Keep AI concepts concrete (tools that
+“guess”); emphasize help-seeking, privacy routines, and kindness
+
+[graphic] Grades 3–5. Implementation notes: Connect “AI can be wrong” to verification habits;
+include privacy and misinformation lessons
+
+Case 15 – Grade 9-12 Student: “We want a campaign: AI can’t be your
+counselor.” (excerpt)
+Source: pages 206–207
+
+[graphic] Build the campaign as applied digital citizenship: students create content that is accurate,
+non-stigmatizing, and privacy-protective.
+
+[graphic] Avoid: Campaign materials shame students for seeking help, overshare personal stories
+without safeguards, or provide unclear pathways.
+
+2. What safety constraints govern student messaging (no personal disclosures; trauma-informed
+language)?
+
+PDF EXCERPT PAGE 28
+Digital Citizenship and AI Literacy Tables: P–2 (excerpt)
+Source: pages 209–210 [graphic]
+
+[graphic] Digital citizenship implementation notes (what it teaches): Safe sharing basics (what
+counts as private info; ask a trusted adult)
+
+[graphic] Digital citizenship implementation notes (what it teaches): Early security habits framed as
+“ask first” and “don’t click unknown”
+
+[graphic] Digital citizenship student artifact/evidence (assessment): Class anchor charts; “OK to
+share versus private” sort; help-seeking script cards; family pledge (optional)
+
+[graphic] AI literacy implementation notes (what it teaches): Privacy basics: do not input personal
+info; teacher-managed use
+
+[graphic] AI guardrails/“do not do” (boundaries): No personal info in tools; teacher selects/controls
+tools and prompts; AI is not a “truth source”; tell an adult if confused or upset
+
+Digital Citizenship and AI Literacy Tables: Grades 3–5 (excerpt)
+Source: pages 211–212 [graphic]
+
+[graphic] Digital citizenship implementation notes (what it teaches): Privacy/security habits (tricky
+messages, stronger password concepts)
+
+[graphic] Digital citizenship implementation notes (what it teaches): Digital footprint/identity
+(reputation, consent basics, responsible posting)
+
+[graphic] Digital citizenship student artifact/evidence (assessment): Source check slip; privacy
+checklist; bystander strategy script; digital footprint decision tree
+
+[graphic] AI guardrails/“do not do” (boundaries): No personal/ sensitive data; disclose AI use when
+used; verify factual claims with non-AI sources; avoid using AI for peer conflict or private matters
+
+Digital Citizenship and AI Literacy Tables: Grades 6–8 (excerpt)
+Source: pages 213–214 [graphic]
+
+[graphic] Digital citizenship implementation notes (what it teaches): Privacy in practice (settings,
+consent, risk tradeoffs)
+
+[graphic] AI literacy implementation notes (what it teaches): Safe-use routines: privacy boundaries,
+verification, and citation
+
+[graphic] AI guardrails/“do not do” (boundaries): Do not input personal/sensitive data; do not treat AI
+as authoritative; require citations + corroboration; disclose AI assistance; do not use AI to target/
+harass peers
+
+Digital Citizenship and AI Literacy Tables: Grades 9–12 (excerpt)
+Source: pages 215–216 [graphic]
+
+[graphic] Digital citizenship implementation notes (what it teaches): Privacy, consent, digital identity;
+intellectual property and responsible creation
+
+PDF EXCERPT PAGE 29
+[graphic] AI literacy implementation notes (what it teaches): Governance: transparency,
+accountability, privacy, risk tiers, human oversight
+
+[graphic] AI guardrails/“do not do” (boundaries): No sensitive data; no AI for counseling/
+medical/legal determinations; no automated grading decisions without human review; disclose AI
+use; verify high-stakes claims with authoritative sources
+
+[graphic] AI implementation conditions (access/tech/offline options): Ensure tools comply with
+privacy/access policies; consider district-approved platforms; provide offline audit exercises
+(teacher-generated outputs) if access is limited
+
+The Integration of Development of Self and Citizen and AI
+Competencies (excerpt)
+Source: pages 217–218
+
+• Digital citizenship emphasizes participation, responsibility, privacy, relationships, and conduct in
+  digital spaces.
+[graphic] Suggested grade-band progression, Digital and AI literacy. P–2: Safe participation, privacy
+basics, and the idea that tools can help and can also be wrong
+
+[graphic] Suggested grade-band progression, Digital and AI literacy. 9–12: Generative AI,
+surveillance, automation, verification, ethical tradeoffs, public consequences, and the limits of
+automated decision-making
+
+Suggested AI Competencies: 4.0 Ethical, safe, and civic participation
+(excerpt)
+Source: page 223 [graphic]
+
+[graphic] 4.0 General competencies: Ethical, safe, and civic participation. Students use AI in ways
+that respect privacy, consent, fairness, academic integrity, and the well-being of others, recognizing
+civic consequences of AI-mediated participation. (Health: recognizing an AI wellness chatbot is not
+a substitute for trusted adult support. Theatre: recognizing synthetic voice/image tools can
+misrepresent someone without consent.)
+
+[graphic] 4.1 (P-2): Students recognize some information stays private and tools should be used
+kindly and safely. (Class community: not sharing a classmate's personal info with a helper. Music:
+asking before recording or altering another student's voice.)
+
+[graphic] 4.2 (3-5): Students connect AI use to fairness, safety, and respect for others' work and
+identities. (PE: understanding fitness data/ images should not be shared without permission. …)
+
+[graphic] 4.4 (9-12): Students examine how AI affects fairness, representation, participation, and
+accountability in institutions and public life. (Government: debating facial recognition, surveillance,
+and civil liberties. Health sciences/CTE: considering privacy, consent, and bias in AI use with
+health-related data.)
+
+PDF EXCERPT PAGE 30
+Research and Policy Resources on Student Outcomes (excerpt)
+Source: page 229
+
+12. “A new direction for students in an AI world: Prosper, prepare, protect” (Brookings, 2026) A
+policy-facing synthesis on broad developmental outcomes. The report argues that AI’s risks can
+affect development (e.g., relationships, privacy, and engagement in learning).
+
+13. “Leveraging artificial intelligence to support students with special education needs” (OECD,
+2025) In this report, OECD argues that AI can support learning goals for students with special
+education needs while also emphasizing ethics, monitoring, accountability, security, and data
+protection.
+
+Equity, Accessibility, and Student Groups (excerpt)
+Source: pages 230–232
+
+… District policies should, in addition to student data privacy and other protections, specifically
+identify how the needs of students who are identified within a special population are protected.
+
+Put differently, the approach is to take assumptions of “what was” and consider “what will be” if AI
+within a district meets security and privacy requirements.
+
+Resources – Informed Use of AI with Special Populations
+Source: page 239
+
+What follows are AI resources for supporting multilingual learners, students with IEPs/504 plans,
+and gifted/talented learners (Table 12: Resources for Special Populations). Final approval is a
+district determination based on the district’s procurement, technology, and privacy review, including
+(as applicable) FERPA, COPPA, and Illinois SOPPA requirements.
+
+For Illinois districts, SOPPA requires additional guarantees that student data is protected and used
+only for beneficial, school-authorized purposes, and the Illinois State Board of Education maintains
+a public SOPPA contracts inventory. Districts should consult legal counsel (e.g., school attorney)
+before approving any AI-enabled service that processes student data or could be used to create,
+store, or disclose education records.
+
+PDF EXCERPT PAGE 31
+Table 12: Resources for Special Populations (data-related notes)
+Source: pages 240–242 [graphic]
+
+• [graphic] Microsoft Teams live captions (and translation) — Approved — Microsoft states caption
+  data is permanently deleted after the meeting; confirm configuration and meeting norms.
+• [graphic] Snap&Read Universal (Don Johnston/ Everway) — Approved — Vendor states student
+  accounts can be created only via educator accounts and do not require student PII by default.
+• [graphic] Co:Writer Universal — Approved — Vendor states student accounts are
+  educator-provisioned and do not require student PII by default.
+• [graphic] Read&Write (Texthelp) — Approved — Texthelp states it has signed the Student Data
+  Pledge and implemented COPPA-compliant data policies; still validate district DPA terms.
+• [graphic] TalkingPoints — Approved — Use DPA; train staff not to send sensitive student record
+  details via messaging; iKeepSafe certifications are informative but not determinative.
+• [graphic] Khan Academy Districts + Khanmigo — Conditional — Prefer district partnership
+  pathway; avoid using AI outputs for grading/placement decisions; review tool safety features and
+  chat visibility controls.
+• [graphic] MagicSchool — Conditional — Prefer teacher-facing by default; student-facing only with
+  explicit student-data addendum/ contract and controls; consult external evaluations as secondary
+  input.
+• [graphic] Google Workspace with Gemini (Education) — Conditional — Confirm edition/licensing
+  and enterprise-grade protections; document admin settings and age/ access controls.
+• [graphic] Microsoft 365 Copilot / Copilot Chat (Enterprise Data Protection) — Conditional —
+  Microsoft states prompts/responses and Graph-accessed data are not used to train foundation
+  models under EDP; still enforce data-minimization rules.
+• [graphic] Consumer ChatGPT (individual accounts) — Not Approved — OpenAI states consumer
+  services may use content to train models unless opted out; do not use for student PII/education
+  records absent a district agreement.
+• [graphic] Consumer Gemini (personal accounts) — Not Approved — Do not treat
+  personal-account Gemini as equivalent to Gemini for Education/Workspace controls; require
+  district-managed accounts and contracting.
+• [graphic] Third-party meeting transcription tools for IEP/ disciplinary contexts (e.g., Otter) — Not
+  Approved — Treat as high-risk unless district-vetted contract/ DPA, explicit consent, and strict
+  retention controls; unapproved tools can introduce compliance and liability risks.
+
+PDF EXCERPT PAGE 32
+AI Policy Resources: International and National (excerpt)
+Source: pages 244–245
+
+• UNESCO — Recommendation on the ethics of artificial intelligence — Global normative ethics
+  framework for AI (fairness, privacy, transparency, human oversight, and societal well-being)
+• UNICEF — Policy guidance on AI for children — Child-centered policy guide addressing safety,
+  equity, privacy, agency, and well-being in AI-enabled environments
+• National Policy Framework — Artificial Intelligence — Rights-based principles (safe systems,
+  discrimination protections, data privacy, notice/explanation, human alternatives) often mapped to
+  public-sector uses
+• FTC — Policy Statement on Education Technology — Federal consumer-protection enforcement
+  framing for edtech (privacy, deception, unfairness) informing vendor vetting expectations
+• U.S. Department of Education — Privacy Technical Assistance Center (PTAC) —
+  FERPA-aligned resources supporting privacy program implementation, governance, and
+  vendor/service-provider practices in districts
+
+Resources Aligned to Student Data Security Laws (Federal and
+Illinois)
+Source: pages 248–250
+
+Cross-cutting (Privacy Policy, Contracting, and Governance)
+• ISBE — Privacy policy resources — Illinois hub linking privacy policy resources and
+  compliance-oriented materials
+• ISBE — Student data privacy overview — State overview that districts can cite/link as a
+  compliance starting point
+• CoSN — Trusted Learning Environment (TLE) Seal — Evidence-driven privacy program
+  framework for district privacy maturity and communications
+• Learning Technology Center of Illinois — SDPC/ISPA — Illinois-managed infrastructure for
+  SOPPA-aligned DPAs and vendor agreement workflows
+• SDPC — IL-NDPA example agreement (PDF) — Example Illinois National DPA variant used for
+  SOPPA compliance workflows
+For Operational and Administrative Uses
+• FTC — Policy statement on education technology — Vendor-facing enforcement expectations
+  relevant to administrative/operational tools
+• Illinois DoIT — Generative AI Task Force report (PDF) — Illinois public-sector recommendations
+  for governance, safety, privacy, and risk management
+Illinois Legal and Compliance Statutory Anchors
+• Illinois General Assembly — SOPPA (105 ILCS 85) — Illinois student data privacy law governing
+  vendor obligations, agreements, and covered information
+
+PDF EXCERPT PAGE 33
+• Illinois General Assembly — Illinois School Student Records Act (105 ILCS 10) — Illinois student
+  records requirements relevant to AI uses that touch education records or record-derived
+  information
+
+AI for Operations and Instruction: compliance requirements and tool
+notes (excerpt)
+Source: pages 250–252
+
+Districts must verify, document, and continuously monitor compliance with applicable federal and
+Illinois requirements before approving any AI tool or feature for operational or instructional use. This
+includes (as applicable) SOPPA (105 ILCS 85), the Illinois School Student Records Act (105 ILCS
+10), FERPA, COPPA, PPRA, and relevant board policies and procurement rules. Nothing in this
+document constitutes legal advice. Districts should consult legal counsel and their data privacy
+officer before approving tools, enabling AI features, or changing data-sharing practices.
+
+• Enterprise conversational AI (e.g., ChatGPT Enterprise/Edu, enterprise API deployments) —
+  Operational benefits: first-pass synthesis; memo drafting; rubric/procurement language drafting;
+  translation and stakeholder communications scaffolding (with strict “no PII” rules and human
+  verification)
+• Student Information Systems (SIS), Learning Management Systems (LMS), and analytics
+  platforms that add AI-enabled modules — Operational benefits: reporting efficiencies, workflow
+  streamlining, and insight generation. Vet each module separately (data touched, subprocessors,
+  retention).
+• Identity/rostering/SSO platforms — Operational benefits: centralized app approval, access
+  controls, and visibility into data-sharing pathways (supports governance of AI tools and add-ons)
+• Wayground (formerly Quizizz) – Typical student uses: participation via join codes; ensure
+  district-approved rostering and privacy settings
+
+Appendix: Key AI Concepts for Teaching, Learning, and Governance
+(excerpt)
+Source: pages 259–266 [graphic]
+
+The information is another way of framing considerations of purpose of and use for artificial
+intelligence in P-12 settings while preserving the human relationships, professional judgment,
+equity, privacy, transparency, and accountability foundational to effective education.
+
+• [graphic] Generative Artificial Intelligence (GenAI), Governance (G): What is logged, what can be
+  deleted, and is data excluded from training?
+• [graphic] Natural Language Processing (NLP), Governance (G): What rules govern
+  capture/retention of text and audio (transcripts), approved sources, vendor access, and audit
+  logs?
+• [graphic] Computer Vision (CV): Computer vision enables computers to interpret images/ video
+  (e.g., object detection, OCR, scene analysis); performance varies with lighting, angle, image
+  quality, and training data and can create privacy risks.
+
+PDF EXCERPT PAGE 34
+• [graphic] Computer Vision (CV), Ethical (E): How do we prevent surveillance, profiling, or
+  inference of sensitive traits (race, disability, emotion, behavior) from images/video?
+• [graphic] Computer Vision (CV), Governance (G): What rules govern image/video capture,
+  retention periods, access permissions, sharing, and whether biometric identification is prohibited
+  or restricted?
+• [graphic] Computer Vision (CV), Human-centered (H): How will families/ students be notified,
+  consent be handled when needed, alternatives be offered when feasible, and escalation to a
+  human be ensured?
+• [graphic] Closed AI, Ethical (E): What privacy and equity risks exist if the system is opaque, and
+  how will we monitor disparate impact?
+• [graphic] Closed AI, Governance (G): What contract terms require transparency, data
+  protections, change notices, and evaluation or audit rights?
+• [graphic] Chatbot, Governance (G): What data may be entered, what is logged/ retained, what
+  content sources are approved, and who is responsible for monitoring and updates?
+• [graphic] Privacy and Data Stewardship: Privacy and data stewardship involve the responsible
+  collection, use, protection, and retention of data. Instructional (I): What safe- prompting rules
+  prevent sharing PII and minimize data? Ethical (E): How are dignity and family expectations
+  honored in data practices? Governance (G): How is SOPPA- aligned contracting and compliance
+  verified over time? Human-centered (H): How are practices explained in plain language with
+  responsive support?
+• [graphic] Security and Resilience: Security and resilience are the protections that prevent misuse
+  and support safe recovery after incidents. Instructional (I): What routines teach secure behavior
+  (accounts, phishing, reporting)? Ethical (E): How do controls protect students without creating
+  inequitable barriers? Governance (G): How does procurement require secure- by-design and
+  align to K-12 guidance? Human-centered (H): How are incidents communicated transparently
+  while supporting those affected?
+• [graphic] Theory of Mind, Governance (G): What limits restrict emotion detection or risk flagging
+  without validity, consent, and human review?
+• [graphic] Key references: NIST AI RMF 1.0; U.S. ED OET AI Report (May 2023); UNESCO
+  GenAI Guidance (2023); SOPPA (105 ILCS 85); NIST Privacy Framework; NIST CSF 2.0; CISA
+  K-12 Cybersecurity Toolkit; FTC AI Impersonation Protections
+
+Appendix: AI Uses by Grade Band (PK–12): Compliance note
+Source: page 267
+
+Compliance note: A tool is not automatically compliant with FERPA/SOPPA/COPPA/CIPA by being
+“free.” Actual compliance depends on district approval, executed agreements (e.g., SOPPA DPA
+where required), vendor terms, and how the tool is configured and used (including what student
+data is entered).
+
+PDF EXCERPT PAGE 35
+Unit Tables: Equity of Voice and Anonymized Exemplars (excerpt)
+Source: page 275 [graphic]
+
+[graphic] Original text: Use a checklist to ensure each person’s voice is heard at least twice. | AI
+enhancement: Use a tally sheet (paper or simple spreadsheet). Optional: teacher-only AI
+summarizes anonymized tallies for class reflection. | Rationale: Makes equity-of-voice measurable
+without surveilling student content. | Free tools: Google Sheets or Excel for the web; ChatGPT for
+Teachers (aggregate-only).
+
+[graphic] Original text: Compare 2 discussion exemplars: Which shows stronger listening? Cite 2
+specific moves. | AI enhancement: Teacher planning: Create anonymized exemplar transcripts (not
+from your students) highlighting talk moves. | Rationale: Allows close analysis without privacy risks
+or targeting individual students. | Free tools: ChatGPT for Teachers; Google Docs; printed
+exemplars.
+
+Unit Plans by Grade Band: Without AI and With AI (excerpt)
+Source: page 280
+
+Note: “Free apps” below refer to tools with free versions (some require school eligibility,
+teacher-managed accounts, or district approval). Use only district-approved tools and follow
+applicable student privacy requirements.
+
+Unit Tables: Anonymity and Aggregate Data (excerpt)
+Source: page 286 [graphic]
+
+[graphic] Session: 4 — Analyze patterns/assumptions | Goodness of Fit Checks: 2. Avoid naming
+individuals; talk about behaviors/systems. | Free Student Apps: Google Forms (anonymous pulse
+check) Google Sheets (aggregate results) CODAP (optional visualizations)
+
+[graphic] Session: 6 — Evaluate readiness/equity | With AI (Version B): AI can support participation
+reflection only with district-approved tools; focus on norms, not shaming. | Goodness of Fit Checks:
+1. Use participation data only in aggregate (no “call-outs”). | Free Student Apps: FigJam (reflection
+board) Google Sheets (aggregates) Adobe Express for Education (reflection artifact)
+
+Appendix: Implementation Checklist — 3. Privacy and data
+minimization
+Source: page 289
+
+Map data-in/data-out: what students enter, what the tool stores, who can access it, and how long it
+is retained. Minimize inputs. Do not include names, IDs, faces/photos, contact info, or personal
+stories. If data handling is unclear, pause use.
+
+• Students will not enter names, IDs, faces/photos, contact info, addresses, or personal stories.
+• I know what data is entered/uploaded, what is stored, who can access it, and retention/deletion
+  rules.
+• Student accounts are district-vetted if needed; otherwise, use teacher-mediated access.
+• Classroom norm is explicit: “No personal data in prompts.”
+
+PDF EXCERPT PAGE 36
+Appendix: Implementation Checklist — 8. Pilot, monitoring,
+evaluation, and exit (excerpt)
+Source: page 290
+
+• I have stop indicators (privacy concern, inequitable outcomes, repeated misuse).
+Hard “Stop” Flags (do not proceed until/unless resolved)
+• Requires student personal accounts without district approval.
+• Unclear retention/reuse of student inputs.
+• Encourages surveillance-like monitoring or high-stakes decisions.
+
+Grade-Band Specific Example Extensions (excerpt)
+Source: page 291
+
+Grade-Band Add-On Checklist — Pre-K through Grade 2
+• Default is teacher-operated (no student accounts; no direct student chat).
+• Families receive a plain-language note about purpose, supervision, and data minimization.
+Grade-Band Add-On Checklist — Grades 9–12
+• Tool terms (ownership/reuse) are acceptable for school use; students avoid uploading
+  copyrighted or sensitive materials.
+• Use mirrors responsible real-world practice: versioning, citation, verification, and data ethics.
+
+Appendix: Tool Review and Goodness-of-Fit Resources — Anchoring
+Steps (excerpt)
+Source: page 294
+
+• Step 1 — Classify the tool and assign a local risk tier using scoping questions (impact domain,
+  data sensitivity, user group, consequence-of-error)
+• Step 2 — Require a minimum evidence checklist across educational value, privacy/contract
+  readiness, security/incident readiness, transparency/explainability, and equity/accessibility
+
+Step 2 Resources: Data Privacy and Contract Readiness
+Source: pages 296 and 298 [graphic]
+
+[graphic] Evidence Domain: Data privacy and contract readiness (ToS/DPA, data flows,
+retention/deletion) | What to Confirm (minimum bar): Data flows documented; ToS/DPA reviewed;
+retention/deletion addressed; prohibited uses clarified; contract terms in place
+
+• [graphic] U.S. Department of Education/PTAC: Protecting Student Privacy While Using Online
+  Educational Services: Requirements and Best Practices (model terms of service guidance PDF)
+• [graphic] Supports terms-of-service review and standard privacy expectations in vendor
+  agreements
+• [graphic] U.S. Department of Education: Student Privacy Guidance (resource hub)
+• [graphic] Practitioner-facing guidance and checklists for implementing student privacy
+  protections
+
+PDF EXCERPT PAGE 37
+• [graphic] A4L/SDPC: National Data Privacy Agreement (NDPA)
+• [graphic] Standardized DPA framework to streamline district-vendor privacy contracting
+• [graphic] Learning Technology Center (LTC) Illinois: Illinois NDPA (IL-NDPA) overview
+• [graphic] Illinois-specific NDPA context and resources
+• [graphic] 1EdTech (IMS Global): TrustEd Apps Data Privacy Rubric
+• [graphic] Rubric districts can use to evaluate privacy practices and vendor documentation
+• [graphic] 1EdTech (IMS Global): Data Privacy & Security Agreement (DPSA) template
+• [graphic] Template language to operationalize privacy/security expectations in agreements
+[graphic] Step 3 Element (page 298): Use privacy/security artifacts as gating conditions for moving
+from pilot to adoption | Why It Helps: Offers standardized agreement language and ToS guidance to
+make privacy/security a gating condition
+
+Step 2 Resources: Security and Incident Readiness
+Source: page 297 [graphic]
+
+[graphic] Evidence Domain: Security and incident readiness (security posture, breach notification,
+response pathway) | What to Confirm (minimum bar): Security posture and incident pathway
+defined; breach notification and response responsibilities clarified; monitoring responsibilities
+assigned
+
+• [graphic] CISA: Protecting Our Future: Cybersecurity for K-12
+• [graphic] K-12 specific cybersecurity guidance; useful for incident readiness expectations
+• [graphic] U.S. Department of Education: K-12 Cybersecurity (resource page)
+• [graphic] Federal overview and pointers for K–12 cybersecurity and incident types
+• [graphic] 1EdTech (IMS Global): TrustEd Apps Security Practices Rubric
+• [graphic] Structured security practices criteria for vendor vetting and district review
+
+Why Goodness of Fit Matters / Prompt Clarity Mini Checklist (excerpt)
+Source: page 302
+
+• Include P-12 guardrails in prompts: avoid student PII; ensure age/terms compliance; require
+  teacher review for high-stakes use
+• Inputs allowed (approved sources/links; no student PII)
+
+PDF EXCERPT PAGE 38
+Appendix: Example Rubric Scores and Rationale — Data
+security/privacy
+Source: pages 303–304 [graphic]
+
+[graphic] Mini-Case 1 Answer Key — Teacher Workflow (GenAI drafting for family communications)
+| Dimension: Data security/privacy | Example Score (0–4): 2 | Rationale (why this score fits the case
+details): Staff-only drafting with an explicit no-student-PII boundary, district-managed accounts, and
+short retention (≤30 days) reduces exposure. The tool is not integrated with SIS/HR/email systems
+via API, limiting data flow and blast radius. | What would be required to score higher: To reach Level
+3–4: adopt documented SOPs for account management and change control; add periodic audits of
+settings and sampled outputs; practice incident response (including accidental inclusion of sensitive
+info); and formalize vendor-change monitoring.
+
+[graphic] Mini-Case 2 Answer Key — Student-facing tool (AI tutoring chatbot for math help) |
+Dimension: Data security/privacy | Example Score (0–4): 1 | Rationale (why this score fits the case
+details): Student-facing chat plus transcript retention introduces higher risk and requires stronger
+evidence before scaling. The case is still in pilot, with key parameters (retention window, deletion
+rights, and role-based access) under negotiation. | What would be required to score higher: To
+reach Level 2: execute a DPA with clear retention/deletion limits, purpose limitation, and security
+controls; implement strict feature restrictions (no free chat, no web browsing); and require family
+notice/consent (or notice/opt-out) and a documented incident-response workflow.
+
+Appendix: Readiness Resources (excerpt)
+Source: page 305
+
+• A structured district conversation about prerequisites for GenAI adoption (policy, training,
+  infrastructure, privacy, equity)
+• Copy/paste guidance without local constraints (devices, filters, student age, local privacy rules)
+  creates compliance gaps
+
+Appendix: School District Vendor Relationships (excerpt)
+Source: pages 308–309
+
+• Require district review of any custom tools (data scope, logging, classroom appropriateness)
+• Clarify whether tools are consumer, education, or enterprise offerings; terms and retention differ
+  by product tier
+• Set constraints: no student PII in tool-building; require human review and transparent
+  documentation
+• Start with staff workflows; require role-based access and clear allowed-use guidance
+• Do not roll out broadly without training, monitoring, and data boundary review
+• Document which features are enabled for which roles and how logs are reviewed
+
+PDF EXCERPT PAGE 39
+Appendix: Internet Safety Curriculum (105 ILCS 5/27-410) (excerpt)
+Source: pages 310–311
+
+The age-appropriate unit of instruction may be incorporated into the current courses of study
+regularly taught in the district’s schools, as determined by the school board, and it is recommended
+that the unit of instruction include the following topics:
+
+• Risks of transmitting personal information on the Internet.
+The State Board of Education shall make available resource materials for educating children
+regarding child online safety … Materials may include without limitation safe online communications,
+privacy protection, cyber-bullying, viewing inappropriate material, file sharing, and the importance of
+open communication with responsible adults.
+
+Appendix: Federal and Illinois Privacy and Data Security Laws
+Source: pages 312–320 [graphic]
+
+This appendix provides a summary of major federal and Illinois laws on the handling and protection
+of personal information.
+
+[graphic] Year and Law: 1970 • Fair Credit Reporting Act (FCRA) • Federal law | Scope/Focus:
+Regulates consumer reporting agencies’ handling of personal credit information; sets accuracy,
+access, and correction rights. | Significance: First major federal statute to constrain private-sector
+use of large, centralized personal data files and grant individuals’ rights over that data. | Context:
+Pre-internet era; focused on paper and early computerized credit files. Later applied to online credit
+reporting and scoring systems. | Context with Internet/Social/AI Threading: Originally aimed at
+paper and early computerized credit files. Today it applies to online credit reporting, scoring
+algorithms, and tools that may incorporate education and employment histories—raising questions
+about how AI-DRIVEN decision systems intersect with long-standing FCRA rights.
+
+[graphic] Year and Law: 1974 • Privacy Act of 1974 • Federal law | Scope/Focus: Governs how U.S.
+federal agencies collect, maintain, use, and disclose personal information in systems of records. |
+Significance: First comprehensive federal statute to impose fair information practice principles on
+government-held personal data. | Context: Adopted in an era of mainframes and early databases,
+well before internet-era web portals and online services. | Context with Internet/Social/AI Threading:
+Does not mention the internet, social media, or AI, but its fair-information principles now apply to
+federal WEBSITES, online benefit portals, and internal ANALYTICS and AI deployments that rely on
+federal systems of records about individuals.
+
+[graphic] Year and Law: 1974 • Family Educational Rights and Privacy Act (FERPA) • Federal law |
+Scope/Focus: Protects the privacy of student education records; limits disclosure without consent;
+grants access and amendment rights. | Significance: First federal law specifically devoted to privacy
+and access rights for student education records. | Context: Enacted long before widespread school
+networking or internet access; later applied to digital student information systems and learning
+platforms. | Context with Internet/Social/AI Threading: Written without explicit internet or AI
+language but now governs access and disclosure of records in online student information systems,
+learning platforms, and, increasingly, AI-enabled tools that use education records.
+
+PDF EXCERPT PAGE 40
+[graphic] Year and Law: 1957 • State Records Act (5 ILCS 160) • Illinois law | Scope/Focus:
+Governs creation, retention, and disposal of state agency records; establishes that state records are
+property of the state. | Significance: Early Illinois framework for systematic management of
+state-held records, including some that identify individuals. | Context: Pre-computer and
+pre-internet; later interpreted for electronic records and digital archives. | Context with
+Internet/Social/AI Threading: Predates the public internet and focuses on paper records but now
+guides retention and disposal of electronic records, email, and digital archives. This Act shapes how
+long data that may later feed analytics or AI models is kept and when it must be destroyed.
+
+[graphic] Year and Law: 1961 • Local Records Act (50 ILCS 205) • Illinois law | Scope/Focus:
+Parallels the State Records Act for local governments and school districts; governs retention and
+disposal of local records. | Significance: Provides structure for local-government and school-district
+recordkeeping before modern digital privacy statutes. | Context: Initially about paper records; later
+used to manage electronic records, email, and digital files in local government and schools. |
+Context with Internet/Social/AI Threading: Predates the public internet and focuses on paper
+records but now guides retention and disposal of electronic records, email, and digital archives.
+Theis Act shapes how long data that may later feed analytics or AI models is kept and when it must
+be destroyed.
+
+[graphic] Year and Law: 1975 • Illinois School Student Records Act (ISSRA) (105 ILCS 10) • Illinois
+law | Scope/Focus: Defines and regulates school student records, including access, disclosure, and
+retention; grants parent and student rights. | Significance: First Illinois statute squarely focused on
+the privacy and handling of student education records. | Context: Enacted in a largely paper-record
+environment; later applied to electronic student information systems and vendor-hosted platforms. |
+Context with Internet/Social/AI Threading: Drafted around physical student files but now applied to
+student information systems, cloud-based gradebooks, and learning management systems used
+over the internet. As districts pilot AI-assisted analytics or tutoring tools that draw on education
+records, ISSRA and FERPA form the baseline privacy constraints.
+
+[graphic] Year and Law: 1978 • Right to Financial Privacy Act (RFPA) • Federal law | Scope/Focus:
+Limits government access to customer financial records held by financial institutions; requires notice
+and legal process. | Significance: Early federal protection for individual financial records against
+government overreach. | Context: Addressed paper and microfilm bank records; later applied to
+electronic banking and online account data. | Context with Internet/Social/AI Threading: Responded
+to government access to paper and microfilm bank records; now also constrains access to
+electronic and online banking data. AI-based fraud detection and surveillance tools still sit on top of
+records protected by RFPA.
+
+[graphic] Year and Law: 1979 • Mental Health and Developmental Disabilities Confidentiality Act
+(MHDDCA) (740 ILCS 110) • Illinois law | Scope/Focus: Provides strong confidentiality protections
+for mental health and developmental disability records, with narrow exceptions. | Significance: One
+of the strictest sector-specific confidentiality laws in Illinois, focused on highly sensitive information. |
+Context: Initially framed around paper clinical records; later extended and interpreted for electronic
+health records and exchanges. | Context with Internet/Social/AI Threading: Enacted in a
+paper-record context but later amended and interpreted for electronic health records and telehealth.
+Any AI system trained on or accessing mental health data must comply with these underlying
+confidentiality obligations, even if the statute does not mention AI by name.
+
+PDF EXCERPT PAGE 41
+[graphic] Year and Law: 1984 • Freedom of Information Act (FOIA) (5 ILCS 140) • Illinois law |
+Scope/Focus: Grants public access to government records, with exemptions for personal privacy,
+medical records, student records, and other sensitive information. | Significance: Major
+transparency statute that simultaneously recognizes explicit privacy exemptions for personal
+information. | Context: Originally focused on physical files; later extended to electronic records,
+emails, and online databases. | Context with Internet/Social/AI Threading: Originally conceived for
+physical files but increasingly applied to electronic records, email, and digital databases accessible
+via government websites. privacy exemptions now operate in a world where records may be
+indexed, searched, and cross-linked, including data feeding analytics and AI tools inside agencies.
+
+[graphic] Year and Law: 1996-2003 • Health Insurance Portability and Protection Act (HIPAA)
+Privacy and Security Rules • Federal law | Scope/Focus: Established national standards for the
+privacy and security of individually identifiable health information, including electronic personal
+health information. | Significance: First detailed federal framework for protecting electronic personal
+health data through privacy rights and security safeguards. | Context: Developed as health records
+digitized and networked; later applied to health information exchanges and patient portals on the
+internet. | Context with Internet/Social/AI Threading: Developed as health systems shifted from
+paper charts to electronic health records and networked claims systems. Today, many health apps
+and emerging AI clinical tools rely on personal health information governed by HIPAA rules, making
+its security requirements a template for protecting sensitive data in AI contexts.
+
+[graphic] Year and Law: 1998-1999 • Children’s Online Privacy Protection Act (COPPA) and
+Gramm–Leach–Bliley Act (GLBA) • Federal law | Scope/Focus: COPPA restricts data collection
+from children under 13 on commercial websites; GLBA requires privacy notices and safeguards for
+financial customer data. | Significance: Early federal acknowledgment of online children’s privacy
+(COPPA) and formal, risk-based safeguards for financial data (GLBA). | Context: These laws
+explicitly reference online services and websites, marking a shift into internet-era data protection. |
+Context with Internet/Social/AI Threading: COPPA directly references commercial websites and
+online services directed to children under 13, while GLBA anticipates networked financial systems.
+These statutes mark some of the first times internet-era services and online data flows are explicitly
+regulated at the federal level, foreshadowing later AI-related concerns in both sectors.
+
+[graphic] Year and Law: 2005-2006 • Personal Information Protection Act (PIPA) (815 ILCS 530) •
+Illinois law | Scope/Focus: Requires notification of Illinois residents when certain computerized
+personal information is breached; defines and protects specified data elements. | Significance: One
+of the early state breach-notification and data-security statutes focused on computerized personal
+information. | Context: Direct response to large-scale digital data breaches and hacking incidents
+involving networked and internet-connected systems. | Context with Internet/Social/AI Threading:
+Squarely about computerized personal information and security breaches, reflecting a world of
+networked systems and hacking. Although not drafted with AI in mind, the same breach-notification
+duties apply when AI systems rely on or expose underlying personal data.
+
+[graphic] Year and Law: 2010 • Children’s Identity Protection Act (IPA) (5 ILCS 179) • Illinois law |
+Scope/Focus: Requires state and local agencies to adopt identity-protection policies for Social
+Security numbers (SSNs) and restricts their use and display. | Significance: Explicitly targets misuse
+and overexposure of SSNs across government entities. | Context: References electronic
+transmission and prohibits posting or transmitting SSNs over the internet without safeguards, tying
+
+PDF EXCERPT PAGE 42
+directly into online-risk concerns. | Context with Internet/Social/AI Threading: Expressly mentions
+internet risks, including prohibitions on posting SSNs on websites and requirements for secure
+transmission. Enacted as identity theft and online exposure of SSNs became salient risks in a
+networked world.
+
+[graphic] Year and Law: 2009-2024+ • Internet Safety Instruction (105 ILCS 5/27-410, formerly 105
+ILCS 5/27-13.3) • Illinois law | Scope/Focus: Requires age-appropriate instruction on safe and
+responsible online behavior, including privacy, cyberbullying, and online solicitation; recent updates
+address AI-generated false images. | Significance: First Illinois curricular mandate to address
+student behavior and privacy in online environments, with recent explicit references to AI-generated
+content. | Context: Tracks the evolution from early internet and email to social media, mobile
+devices, and now AI-generated deepfakes and synthetic media. | Context with Internet/Social/AI
+Threading: Originally focused on early internet use, email, and chat rooms. as social media and
+mobile devices became central to students’ lives, implementation shifted toward social networking
+and cyberbullying. The newest language explicitly references AI-generated false images and
+videos, threading AI into an originally pre-AI set of online-safety concerns.
+
+[graphic] Year and Law: 2019-2021 • Student Online Personal Protection Act (SOPPA) (105 ILCS
+85) • Illinois law | Scope/Focus: Regulates how edtech vendors collect, use, share, and protect
+student data in online services for schools; requires data privacy agreements and security
+measures. | Significance: First comprehensive Illinois statute governing student data in online
+services and vendor relationships. | Context: Enacted amid widespread edtech and cloud adoption;
+now directly applicable to AI-enabled instructional tools and analytics platforms used over the
+internet. | Context with Internet/Social/AI Threading: Designed in an era of pervasive internet-based
+edtech and cloud services; all vendor interactions are mediated through online platforms and APIs.
+As AI-powered tools are integrated into these services, SOPPA’s vendor contract and security
+requirements become the primary mechanism for governing student data in AI-infused tools.
+
+Appendix: District Next Steps for AI Policy, AUP, and IUP (excerpt)
+Source: page 321
+
+Natural Language Processing and Computer Vision
+• Inventory district tools that include NLP/CV and explicitly classify intended uses (accessibility
+  supports vs. monitoring/surveillance functions) (AI4K12 Five Big Ideas in AI poster)
+• Restrict high-risk vision uses (e.g., biometric identification, emotion inference) absent
+  documented educational necessity and safeguards (NIST AI RMF 1.0)
+Generative Artificial Intelligence
+• Establish approved GenAI use categories (drafting, ideation, scaffolding) and prohibited uses
+  (authoritative guidance without verification; sensitive data entry) (UNESCO GenAI guidance)
+
+Privacy and Data Stewardship
+Source: page 323
+
+AI Policy:
+• Require a DPA and documented data-flow review for any approved AI tool; use a standard
+  agreement structure such as the SDPC National DPA (SDPC NDPA)
+
+PDF EXCERPT PAGE 43
+• Publish district rules on data minimization/retention and prohibit vendor use of district data
+  beyond contract scope (SDPC NDPA Standard (PDF))
+AUP:
+• Prohibit staff and students from entering personally identifiable information or sensitive student
+  information into non-approved AI tools; require de-identification practices (SDPC (resources))
+IUP:
+• Establish an audit/enforcement routine for AI tool use (discovery, escalation, remediation,
+  re-training), aligned to privacy agreements and district policy (SDPC (resources))
+
+Transparency (excerpt)
+Source: page 323
+
+• Maintain and publish an approved AI tools inventory (purpose, data elements, retention,
+  oversight requirements, contact for issues) (NIST AI RMF (overview))
+
+Security and Resilience (excerpt)
+Source: page 324
+
+AI Policy:
+• Require security expectations in contracts (access controls, breach notice, retention limits) using
+  a standard structure such as the SDPC NDPA (SDPC NDPA))
+AUP:
+• Require staff to use only district-managed accounts and configurations for AI tools and prohibit
+  personal accounts for district work involving student data (SDPC NDPA Standard (PDF))
+
+Appendix: Student Selfhood, Engagement, and Agency in
+AI-Mediated Schoolwork — Surveillance and Data (excerpt)
+Source: pages 329–330
+
+• Algorithmic surveillance reduces perceived autonomy and can impair performance: Participants
+  under algorithmic (vs. human) surveillance reported less autonomy, performed worse in some
+  tasks, and reported higher resistance intentions; framing surveillance as developmental
+  (informational) mitigated negative effects. (Schlund et al. 2024)
+• Online proctoring can feel invasive and coercive: Students report concerns about the amount
+  and personal nature of information shared with proctoring companies; institutional power
+  dynamics and trust in the institution may suppress open opposition, which is an agency red flag.
+  (Balash et al. 2021)
+• Learning analytics can create “datafied” student identities: Analytics often requires linking data to
+  individuals and can expand to broad data scope; without safeguards, students can be treated as
+  objects of prediction rather than participants with voice and choice. (Rubel & Jones 2016);
+  (Prinsloo & Slade 2015)
+• Minimize surveillance and provide opt-outs or alternatives where feasible: Learning analytics
+  ethics emphasizes autonomy interests; opt-out structures and meaningful choice reduce student
+  vulnerability and protect agency. (Rubel & Jones 2016); (Prinsloo & Slade 2015)
+
+PDF EXCERPT PAGE 44
+Appendix: Digital Citizenship and AI Literacy Alignment by Content
+Area (excerpt)
+Source: pages 331–332, 337 [graphic]
+
+[graphic] PK-2 Teacher — “I used an AI story helper… and the story got weird.” (Unexpected
+content) | AI Ethics Integration: Pre-teach “safe/unsafe content” + “stop–tell–switch” routine. If AI
+content feels scary/odd, pause, tell an adult, and switch activities. Reinforce privacy (no
+names/addresses).
+
+[graphic] PK-2 Student — Student-led: “Our class tech rules—what should they be?” (Norms +
+belonging) | AI Ethics Integration: Students co-create 4–5 class tech norms (kindness, help-seeking,
+privacy, sharing). | Student Artifact: Signed class tech agreement (pictures + simple words) +
+role-play rubric (kind words, privacy, help-seeking)
+
+[graphic] Grade 9-12 Teacher — “AI detection feels like surveillance.” (Trust, fairness, climate) | AI
+Ethics Integration: Teach students to document process (drafts, sources, prompt log) so integrity
+checks focus on learning—not surveillance.
+
+Appendix: Digital Citizenship and AI Literacy in Specific Content
+Areas — ELA and Mathematics (excerpt)
+Source: pages 339–342 [graphic]
+
+ELA and Mathematics PreK-Grade 2
+• [graphic] Digital Citizenship Implementation Notes (what it teaches): Safe sharing basics (what
+  counts as private info; ask a trusted adult)
+• [graphic] Digital Citizenship Implementation Notes (what it teaches): Early security habits framed
+  as “ask first” and “don’t click unknown”
+• [graphic] AI Literacy Implementation Notes (what it teaches): Privacy basics: do not input
+  personal info; teacher-managed use
+[graphic] AI Guardrails/“Do Not Do” (boundaries): No personal info in tools; teacher selects/controls
+tools and prompts; AI is not a “truth source”; tell an adult if confused or upset
+
+• [graphic] ELA Integration (Resource Task Output): Common Sense Sort “OK to share” vs.
+  “private” statements Class anchor chart + 1-sentence reflection
+ELA and Mathematics Grades 3-5
+• [graphic] Digital Citizenship Implementation Notes (what it teaches): Privacy/security habits
+  (tricky messages, stronger password concepts)
+• [graphic] Digital Citizenship Implementation Notes (what it teaches): Digital footprint/identity
+  (reputation, consent basics, responsible posting)
+[graphic] AI Guardrails/“Do Not Do” (boundaries): No personal/sensitive data; disclose AI use when
+used; verify factual claims with non-AI sources; avoid using AI for peer conflict or private matters
+
+• [graphic] Math Integration (Resource Task Output): Digital Passport Privacy checklist scoring
+  sample posts Point totals + justification
+
+PDF EXCERPT PAGE 45
+• [graphic] Math Integration (Resource Task Output): Interland Security habits survey (class)
+  Percentages + reflection on risk
+ELA and Mathematics Grades 6-8
+• [graphic] Digital Citizenship Implementation Notes (what it teaches): Privacy in practice (settings,
+  consent, risk tradeoffs)
+• [graphic] AI Literacy Implementation Notes (what it teaches): Safe-use routines: privacy
+  boundaries, verification, and citation
+[graphic] AI Guardrails/“Do Not Do” (boundaries): Do not input personal/sensitive data; do not treat
+AI as authoritative; require citations + corroboration; disclose AI assistance; do not use AI to
+target/harass peers
+
+ELA and Mathematics Grades 9-12
+• [graphic] Digital Citizenship Implementation Notes (what it teaches): Privacy, consent, digital
+  identity; intellectual property and responsible creation
+• [graphic] AI Literacy Implementation Notes (what it teaches): Governance: transparency,
+  accountability, privacy, risk tiers, human oversight
+[graphic] AI Guardrails/“Do Not Do” (boundaries): No sensitive data; no AI for
+counseling/medical/legal determinations; no automated grading decisions without human review;
+disclose AI use; verify high-stakes claims with authoritative sources
+
+Content-Area Integration Rows: Social Studies and Fine Arts/CTE
+(excerpt)
+Source: pages 346, 349–350 [graphic]
+
+• [graphic] Social Studies Integration (Resource Task Output): iCivics + Civic Online Reasoning
+  Policy memo on GenAI in schools (privacy/disclosure/risk) Memo + evidence citations
+• [graphic] CTE/CS Integration (Resource Task Output): TeachAI Evaluate a tool’s privacy/bias
+  claims Vendor/tool evaluation questions sheet
+• [graphic] Health/SEL/Advisory Integration (Resource Task Output): Cyber Civics Digital identity
+  strategy tied to goals Personal plan + risk/benefit analysis
+• [graphic] Health/SEL/Advisory Integration (Resource Task Output): TeachAI/WA OSPI “When
+  not to use AI” seminar (privacy/mental health) Scenario decisions + referral pathways
+• [graphic] Health/SEL/Advisory Integration (Resource Task Output): Common Sense Consent
+  and reputation case study Decision framework + reflection
+• [graphic] CTE/CS Integration (Resource Task Output): CodeAI AI hub Compare two AI tools for
+  the same task Structured evaluation (accuracy/bias/privacy)
+• [graphic] CTE/CS Integration (Resource Task Output): TeachAI Workplace readiness: assess
+  vendor claims Due diligence checklist + questions
+
+SEL + AI Literacy/Digital Citizenship Cases (excerpts)
+Source: pages 355, 359, 361, 373, 376, 385, 390–391
+
+Page 355 — PK-2 case
+
+PDF EXCERPT PAGE 46
+• Digital citizenship embed: Use a Common Sense K–2 lesson segment to practice distinguishing
+  “private vs. okay to share” when a tool asks for information.
+• Common Sense Education — AI Literacy/Digital Citizenship & Citizenship — Privacy and
+  security and media balance lessons for K–2
+Page 359 — Special population strategies
+• Gifted/Talented: Add a student-led “measure what works” routine: simple tally chart (no names)
+  tracking which strategies help the class re-focus; emphasize privacy and collective improvement.
+Page 361 — PK-2 case
+• Co-create class tech rules using an existing curriculum script (Common Sense or NetSmartz) so
+  students practice the language of respect, privacy, and belonging.
+Page 373 — Grades 3-5 case
+• AI embed: Use CodeAI “Our AI Code of Ethics” (or Be Internet Awesome AI literacy) to surface
+  tradeoffs (privacy, bias, reliability).
+• CodeAI — Our AI Code of Ethics — Values tradeoffs: privacy, bias, reliability
+Page 376 — Grades 6-8 case
+• Mini-lesson (15 minutes): Use Social Media TestDrive (or Common Sense) content on healthy
+  habits and privacy; define what AI chatbots can/can’t do.
+• Social Media TestDrive – Digital well-being and privacy simulation
+Page 385 — Grades 6-8 case
+• Content embed (Health): Students create a personal “sleep protection plan” and identify trusted
+  adults and resources; include privacy and safety decision rules.
+Pages 390–391 — Case 14, Grade 9-12 Teacher
+Case 14 – Grade 9-12 Teacher. “AI detection feels like surveillance.” (Trust, fairness, climate)
+
+• Social Studies — ILS Social Science (Grades 9–12 Civics): … when students analyze academic
+  integrity tools as governance choices affecting trust, privacy, and due process
+• Assessment design embed: Build process checkpoints (drafts, in-class components, oral
+  defense) so integrity is observable without adversarial surveillance.
+• Common Sense Education — AI Literacy/Digital Citizenship & Citizenship — Privacy, trust, and
+  healthy habits framing
+
+Footnotes: Privacy Laws, Vetting Resources, and Vendor Data
+Practices (excerpt)
+Source: pages 402–405, 407
+
+Page 402
+• 42 Privacy Technical Assistance Center (PTAC), U.S. Department of Education, Responsibilities
+  of Third-Party Service Providers under FERPA (August 2015), PDF pp. 2–3 (PII can include
+  indirect identifiers and metadata; re-disclosure restrictions); NIST, AI RMF 1.0 (2023), PDF p. 17
+  (privacy-enhanced systems).
+
+PDF EXCERPT PAGE 47
+Page 403
+• 75 Student Online Personal Protection Act (SOPPA), 105 ILCS 85; ISBE Privacy Policy
+  Resources and Links; Family Educational Rights and Privacy Act (FERPA) – Protecting Student
+  Privacy (U.S. Department of Education).
+• 76 Student Online Personal Protection Act (SOPPA), 105 ILCS 85; ISBE SOPPA Contracts
+  Inventory; Student Data Privacy Toolkit (Consortium for School Networking).
+• 85 Operational privacy vetting resources (embedded): U.S. ED – Requirements and Best
+  Practices (2014); U.S. ED – Model Terms of Service (2016); A4L/SDPC – NDPA.
+86 Minimum AI Vendor Review Checklist should include:
+
+• FERPA compliance
+• SOPPA compliance
+• accessibility review
+• bias review
+• data retention/deletion
+• auditability
+• cybersecurity protections
+• human review expectations
+Page 404
+• 90 … “…students will lead the charge in creating a policy detailing how they think artificial
+  intelligence should be used in the classroom and the guardrails districts should put in place to
+  protect kids’ privacy and ensure they’re getting the best education possible,” said Jeff Riley, the
+  executive director of Day of AI.
+• 99 … CIPA – Children’s Internet Protection Act (E-rate) (47 U.S.C. § 254(h)(5); (47 CFR 54.520).
+  FCC / USAC; COPPA – Children’s Online Privacy Protection Act / Rule (15 U.S.C. § 6501 et
+  seq.; 16 CFR Part 312). Federal Trade Commission; … FERPA – Family Educational Rights and
+  Privacy Act (20 U.S.C. § 1232g; 34 CFR Part 99). U.S. Department of Education; …
+Page 405 (continuation of footnote 99)
+• … Illinois Personal Information Protection Act (PIPA) (815 ILCS 530/)
+  (breach/safeguards/disposal obligations). Illinois General Assembly; … Illinois School Student
+  Records Act (ISRA) (105 ILCS 10/); ISBE student records rules (23 Ill. Admin. Code Part 375).
+  Illinois General Assembly; ISBE; Illinois SOPPA – Student Online Personal Protection Act (105
+  ILCS 85/). Illinois General Assembly; PPRA – Protection of Pupil Rights Amendment (20 U.S.C.
+  § 1232h; 34 CFR Part 98). U.S. Department of Education; …
+Page 407
+• 129 U.S. Department of Education, Student Privacy Policy Office, “FERPA (Family Educational
+  Rights and Privacy Act),” accessed December 22, 2025; Federal Trade Commission, “Children’s
+  Online Privacy Protection Rule (COPPA), accessed December 22, 2025; Illinois Compiled
+  Statutes, 105 ILCS 85 (Student Online Personal Protection Act), accessed December 22, 2025.
+
+PDF EXCERPT PAGE 48
+• 130 Illinois State Board of Education (ISBE), “SOPPA Contracts” (public inventory), accessed
+  December 22, 2025.
+• 131 Approved: Recommended default approval candidates (typically accessibility/UDL or
+  tightly-scoped communication tools); Conditional: Approve only with tighter controls, signed
+  DPA/IL-NDPA as applicable, and clear student-facing vs. teacher-facing rules; Not Approved:
+  Recommended default “do not approve” for student data/special-population contexts unless a
+  district-specific contract and strict controls exist.
+• 133 Microsoft Support, “Use live captions in Microsoft Teams meetings” (includes statement that
+  caption data is permanently deleted after the meeting), accessed December 22, 2025.
+• 134 Don Johnston/Everway, “Snap&Read Universal Privacy Policy” (student account; no PII
+  required by default), accessed December 22, 2025.
+• 135 Co:Writer Universal, “Privacy Policy” (student account; no PII required by default), accessed
+  December 22, 2025.
+• 136 Texthelp (Everway), “Our compliance to data security” (Student Data Pledge;
+  COPPA-compliant data policies statement), accessed December 22, 2025.
+• 137 TalkingPoints, “Privacy Policy,” accessed December 22, 2025.
+• 138 Khan Academy Support, “How is my child’s privacy and security protected in a Khan
+  Academy Districts partnership?” accessed December 22, 2025.
+• 139 MagicSchool, “Student Data Policy,” accessed December 22, 2025.
+• 140 Google Workspace Admin Help (Education), “Google Workspace with Gemini – Education”
+  (enterprise-grade data protection; submissions not used to train models), accessed December
+  22, 2025.
+• 141 Microsoft Learn, “Enterprise data protection in Microsoft 365 Copilot and Copilot Chat”
+  (prompts/responses not used to train foundation models), accessed December 22, 2025.
+• 142 OpenAI Help Center, “How your data is used to improve model performance” (consumer
+  services may use content for training; opt-out available), accessed December 22, 2025.
+• 143 ”How Gemini for Google Cloud uses your data,” accessed January 14, 2026.
+• 144 University of Utah, Office of AI, “Using Meeting Transcription and Summarization Tools? Be
+  Cautious” (guidance on risks of unapproved transcription tools), accessed December 22, 2025.
+

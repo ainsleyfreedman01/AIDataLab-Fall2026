@@ -1,0 +1,14 @@
+PDF EXCERPT PAGE 1
+Berkeley County Schools AI Guidance: Data and
+          Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence Guidance (Berkeley County Schools, West Virginia). Page numbers refer to
+the PDF pages of the source file. Ellipses (…) mark omitted text. The source is a one-page document.
+
+
+Principle 2: Privacy & Security
+Source: page 1
+
+Privacy & Security: AI usage will comply with regulations that protect student data privacy, safety,
+and accessibility. WVBE Policy 2460 requires that counties are responsible for ensuring that
+COPPA, CIPA, and FERPA are not violated.
+

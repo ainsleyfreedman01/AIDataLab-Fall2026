@@ -1,0 +1,456 @@
+"evidence_id","category","relevance","subcodes","treatment","force","actor","conditions","source_function","quotation","notes","original_treatment_label","doc_id","document","pdf_page","source_location","section","text","previous_context","next_context","original_source_verification","review_provenance","retrieved_by_frozen_rules"
+"D005-B020","sharing_secondary_use","yes","purpose_limitation","restricts","descriptive","Contractor","Specifically addresses new products of Contractor, partners, or affiliates; no statement about district-approved development appears in this block.","template","new product of the Contractor or any of its partners or affiliates.","Vendor/affiliate reuse restriction is scoped to new products.","restricts","D005","Alabama_AI_Policy_Template_Privacy_Passages.pdf",3,"Source: Word document, Appendix A","Appendix A: AI Model Development and Use Attestation Clause (excerpt)","Pretrained AI System: The AI System used in the performance of this (replace with the name of
+procurement document) and/or Contracts have been pretrained. No data provided under this
+(replace with name of procurement document) and/or Contracts are being used to train an AI
+System to be used in a new product of the Contractor or any of its partners or affiliates.","• Deletion of training data or training data will be returned by a certain date.
+• A statement that no training data has been stored.","","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D030-B009","sharing_secondary_use","yes","purpose_limitation","restricts","recommendation","AI vendor","Contracts should include accountability for unauthorized use of student data.","template","vendor accountability for unauthorized use of student data.","Unauthorized secondary use is named, with no more detailed permitted-use scope.","restricts","D030","California_AI_Model_Policy_Privacy_Passages.pdf",2,"Source: Word document, principle ""Vendor Contractual Safeguards""","Vendor Contractual Safeguards","All AI vendor contracts should include enforceable provisions protecting student data privacy and
+security, including breach notification requirements, audit rights, data deletion upon contract
+termination, and vendor accountability for unauthorized use of student data.","Prior to deployment, all AI tools should be evaluated for educational value, ethical implications, data
+privacy, potential bias, and equitable outcomes.","Personal AI accounts should not be used for any purpose involving student data, student work,
+student records, or instructional content developed for [District or Charter School] use.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D070-B007","sharing_secondary_use","yes","disclosure","discussion_or_review","descriptive","unspecified","Guiding questions ask whether tools transmit or store PII and what data are collected; these are questions, not findings.","guidance","Does the AI tool I am using transmit, store, or generate any personally identifiable student information?","Evaluation prompt, not a statement that transmission occurs.","discussion_or_review","D070","Georgia_PSC_AI_Ethical_Considerations_Privacy_Passages.pdf",2,"Source: pages 5–6","Ethical Principle #3: Protecting Personally Identifiable Information","Guiding Questions:
+• Is the application or software approved for use by the district?
+• Does the AI tool I am using transmit, store, or generate any personally identifiable student
+  information?
+• Have I or my students included any personally identifiable data in uploads or prompts?
+• Am I adhering to applicable legal requirements regarding student privacy (FERPA, COPPA,
+  HIPAA, etc.) when using AI tools?
+• What data is the AI tool collecting, and how is it stored?
+• Do we have policies and procedures for responding to breaches of student privacy or misuse of
+  student data?","Applicable Standards:
+• Only district-approved AI applications should be used.
+• Promptly and effectively notify appropriate personnel and any affected members of the school
+  community of any unauthorized access or loss of staff and student data, in accordance with local
+  district and educator preparation provider (EPP) policies, guidance, practices, and training.
+• [For Administrators] Proactively evaluate the use of staff and student data by third-party
+  software, determining what data are being collected and for what purpose.
+• Verify AI tools comply with federal and state laws and regulations, as well as district policies,
+  regarding the handling of student personally identifiable information.
+• Implement parental consent procedures when required by federal or state law for the use of AI
+  tools by students under the age of 18, or when student data may be used or generated.
+• Avoid AI platforms that lack clear data use, storage, and ownership policies.
+• Establish clear and understandable policies, regulations, rules, and other guidance regarding the
+  collection and use of student data by third-party software, and effectively communicate those
+  policies to the school community.","Building leaders and educators should follow acceptable use policies and agreements to mitigate
+harm and protect students from potential harm arising from the use of AI while under the school’s
+supervision.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B011","sharing_secondary_use","yes","disclosure;purpose_limitation","discussion_or_review","recommendation","Districts","Vendor review should cover contracts, data flows, privacy protections, retention rules, practices, ownership, and use; summary/recommendation, not an operative clause.","resource_summary","districts should review contracts, data flows, privacy protections, retention rules, and vendor practices","Summary of procurement guidance; wording is evaluative.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",2,"Source: page 19","Quick Start FAQ: Prohibited Uses, Procurement, and Embedded AI","Question 43: How does the guidance address procurement, vendor review, and vendor use
+of district data for artificial intelligence tools?
+The guidance treats procurement and vendor review as an evidence-gating process rather than a
+simple purchasing decision. It indicates that districts should review contracts, data flows, privacy
+protections, retention rules, and vendor practices before approving a tool, including specific
+consideration of “who owns what, for how long, and how will data be used” that comport with","Question 42: How does the guidance identify prohibited uses or do-not-deploy scenarios?
+The guidance identifies prohibited uses throughout. In particular, it emphasizes situations in which
+AI use should cease immediately, including instances of data breach or compromised student data
+or safety, as well as the importance of feedback loops to minimize the likelihood of inappropriate
+use of AI.","district-wide AI policies (e.g., acceptable use policy, informed/responsible use policy, data privacy
+policies/agreements, data-sharing policies/agreements, and the like).","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B029","sharing_secondary_use","yes","profiling","restricts","recommendation","schools","Cautions against uses that normalize surveillance or reduce children to observable data points.","guidance","schools should be cautious about uses that normalize surveillance or reduce children to observable data points.","Surveillance/profiling concern, not a complete prohibition.","restricts","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",5,"Source: page 42","AI Concepts: Computer Vision (excerpt)","Because visual analysis can affect privacy, trust, and belonging, schools should be cautious about
+uses that normalize surveillance or reduce children to observable data points.","Districts should determine what language uses are appropriate, what data may be entered, and
+when outputs require verification or human escalation.","Districts should distinguish between low-risk instructional uses and higher-risk monitoring or
+identification uses, with stricter safeguards for the latter.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B043","model_training","yes","training_reuse","discussion_or_review","descriptive","schools","Critiques treating students as data sources for tool development; no explicit training rule is supplied.","guidance","not as “data sources” for tool development.","Development may include model training; scope is conceptual.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",7,"Source: page 55","AI Concepts: Privacy and Data Stewardship","   respecting their identify as individuals and citizens and not as “data sources” for tool
+   development.
+• Schools serve multiple purposes—they are places for academic learning and support the
+  development of the selfhood and prepare young people for participation in shared civic life.
+  Schools model lawful, careful, and ethical treatment of information as part of civic responsibility.
+• Artificial intelligence is a means to inform teaching and learning. The fact that a tool can accept
+  data does not mean it should receive student data. Educational purpose must govern data entry.
+• Informed use of artificial intelligence requires deliberate, context-sensitive, and locally
+  determined purpose and use. Districts should define what may be entered, who may enter it,
+  what tools are approved, and how privacy risks are monitored.
+Examples of uses
+• Teachers paste identifiable student writing into a public AI tool for feedback
+• AI vendors store prompts and outputs, creating retention and ownership concerns
+• Student accounts are created without clear district oversight of data sharing and settings
+• Districts adopt DPAs and procurement requirements to ensure privacy safeguards
+• Students learn to compose appropriate prompts that are grounded upon ensuring data security.","Why this concept is important in light of the guiding tenets
+• Teaching and learning are shaped by human relationships and build upon the experiences,
+  interests, and assets each child brings into school. Respecting students and families includes","Transparency refers to clear communication about when and how AI is used, what data it relies on,
+what it can and cannot do, and who is accountable for oversight.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B065","model_training","yes","service_improvement","discussion_or_review","descriptive","survey respondents","Survey example asks respondents about familiarity with submitted text used to improve systems; it is a measurement item, not a vendor rule.","resource_summary","how generative AI tools use submitted text to improve their systems","Model/service-improvement question in survey-item guidance.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",10,"Source: pages 120–121","Item Development: Survey Items (excerpts)","Page 120
+For instance, if the survey item asks, “How familiar are you with how generative AI tools use
+submitted text to improve their systems?” then the response bank should include a range of choices
+that include the language in the ask (e.g., not at all familiar, somewhat familiar).","Focus Groups (page 116)
+• Use a structured guide aligned to readiness domains (instructional value, privacy/security, equity,
+  educator capacity, student experience)
+One-on-One Interview (page 117)
+• Use a structured interview guide aligned to readiness domains (instructional value,
+  privacy/security, equity/accessibility, educator capacity, student experience/engagement,
+  governance/oversight) so every interview yields decision-relevant evidence
+• Offer confidentiality parameters and how notes/transcripts will be de-identified in reporting
+• Elicit required guardrails (e.g., teacher review, data minimization, approved accounts,
+  transparency to students/families, verification expectations)
+Cautions (page 118)
+• Failing to protect candor (unclear confidentiality, supervisors interviewing staff, students
+  interviewed in front of authority figures)
+Questions: Privacy/security and trust (page 119)
+• What information should never be entered into an AI tool in this context? How will this be
+  communicated?
+• What would you need to see (or know) to trust that student data and district information are
+  protected?","Table 7: Typical AI Survey Categories and Recommended Formats (page 121, table rows)
+[graphic] Awareness/ familiarity — How familiar are you with how generative AI tools may use
+submitted text to improve their systems? — Not at all familiar / Slightly / Moderately / Very /
+Extremely familiar","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B066","model_training","yes","service_improvement","discussion_or_review","descriptive","survey respondents","Graphic table repeats an awareness/familiarity question; no substantive policy is stated.","resource_summary","How familiar are you with how generative AI tools may use submitted text to improve their systems?","Separate table block; not a substantive vendor term.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",11,"Source: pages 120–121","Item Development: Survey Items (excerpts)","Table 7: Typical AI Survey Categories and Recommended Formats (page 121, table rows)
+[graphic] Awareness/ familiarity — How familiar are you with how generative AI tools may use
+submitted text to improve their systems? — Not at all familiar / Slightly / Moderately / Very /
+Extremely familiar","Page 120
+For instance, if the survey item asks, “How familiar are you with how generative AI tools use
+submitted text to improve their systems?” then the response bank should include a range of choices
+that include the language in the ask (e.g., not at all familiar, somewhat familiar).","[graphic] Perceived risks (privacy) — I am concerned that AI tools may expose student data if not
+configured correctly. — Strongly disagree → Strongly agree (word-based)","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B087","sharing_secondary_use","yes","purpose_limitation","discussion_or_review","descriptive","Districts","Minimum-evidence checklist includes no secondary use; no exceptions or contract language are supplied.","guidance","clear data flows and retention/deletion commitments","The same checklist also states “no secondary use”; evidence quotation kept contiguous within the block.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",15,"Source: page 141","Three-Step Structure to Ascertain “Goodness of Fit” (excerpt)","• Tier 0: No student data; optional staff productivity
+• Tier 1: Instructional support with limited or de-identified data
+• Tier 2: Student-facing learning tool using identifiable student data
+• Tier 3: High-stakes or safety-sensitive (grading/placement/discipline, student
+  monitoring/surveillance, automated risk scoring)
+Step 2: Minimum evidence checklist (what must be “true” to approve)
+Data privacy and contract readiness: Terms aligned to district expectations; terms of service
+(ToS)/ data processing agreement (DPA) review completed; clear data flows and retention/deletion
+commitments","Suggested local risk tiers (raise expectations as tier increases):","Safety, security, and incident readiness: Security posture summary; breach notification
+commitments; district incident process defined","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B096","model_training","yes","service_improvement","discussion_or_review","descriptive","Districts","Writing-feedback scenario asks to confirm whether student writing is used for model improvement before expanding beyond a bounded pilot.","resource_summary","confirm whether student writing is retained or used for model improvement","Scenario checklist rather than a finding about an actual vendor.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",16,"Source: pages 144–145","AI Application Review: GenAI Writing-Feedback Tool for Grades 6–8 (excerpt)","Privacy/contract readiness: Document data flows; confirm whether student writing is retained or
+used for model improvement; require enforceable terms before moving beyond a tightly bounded
+pilot.","Consequence-of-error: Moderate—misleading guidance, inappropriate content, biased feedback
+patterns, privacy exposure.","Security/incident readiness: Confirm vendor security posture; define reporting pathway for
+suspected compromise or inappropriate disclosures; assign a district owner responsible for incident
+coordination.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B111","sharing_secondary_use","yes","disclosure;purpose_limitation","discussion_or_review","recommendation","Districts","Recommends data-flow maps of input/output, storage, and access; no external recipients are named in this exact block.","guidance","maintain a data flow map (what goes in, what comes out, where it is stored, who can access)","Data-flow transparency/review.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",17,"Source: pages 147–150","Model Rubric and Question Bank (Operations): AI-Supported Family Help Desk (excerpt)","Tips for use by adoption level (operational)
+• Default to public or synthetic data; if real data is needed, use the minimum fields and redact
+  identifiers whenever feasible
+• Configure “safe fallbacks” (route-to-human) and define immediate stop-use triggers (privacy
+  incident, recurring misinformation, accessibility barrier)
+• Standardize ToS/DPA review and maintain a data flow map (what goes in, what comes out,
+  where it is stored, who can access)
+• Require role-based access, logging, retention limits, and a documented escalation path for
+  families and staff
+• Require audit logs, monitoring dashboards, and a formal incident pathway (privacy, bias, safety,
+  integrity) with rehearsed procedures","3. Security/incident readiness (access control, logging, secure integrations, incident playbook)","• Add “material change” triggers: re-approval if the vendor changes models, terms, data use, or
+  integrations
+Pilot guardrails
+• Data minimization by design: The chatbot instructs families not to share student names, IDs,
+  birthdates, addresses, IEP status, discipline details, or immigration-related information
+• Human-in-the-loop ticketing: Ticket form collects only what is necessary (school, topic, callback
+  preference) and automatically redacts accidental PII pasted into chat
+• Quality and harm monitoring: Weekly sampling of logs (with redaction), tracking wrong-answer
+  reports, and defined stop-use triggers (misinformation patterns, privacy incidents, accessibility
+  barriers)
+• Public transparency: Clear notice describing scope, limits, data practices, and human contact
+  options
+Common “cautions”: Families share a child’s full name and address in chat; the vendor retains
+transcripts indefinitely “for quality improvement.” The district unintentionally escalates to a
+higher-scrutiny, student-data-bearing service without the protections expected for that posture.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B132","sharing_secondary_use","yes","purpose_limitation","discussion_or_review","descriptive","Districts","Rubric asks what data are used and whether data rights are clear/bounded and auditable.","guidance","Stop if data rights are unclear or too broad; scale if rights are bounded and auditable","Intake/pilot/scale criterion.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",21,"Source: page 166 [graphic]","Unified rubric: Intake Pilot Scale decisions (data and security rows)","[graphic] Data governance & privacy. Key questions: What data is used? Is student PII involved?
+How is retention handled? Minimum evidence/ artifacts: Data-flow diagram; data classification;
+retention/ deletion commitments; vendor terms review. Exit ramp triggers: Stop if data rights are
+unclear or too broad; scale if rights are bounded and auditable","• … relevant requirements (e.g., data rights and retention policies, training on scope of roles and
+  use of the resources, auditability, accessibility, sustain/stop criteria) …
+• Ambiguous data rights and retention policies: The scope of and clarity in roles for the relationship
+  between the provider and the school district must be negotiated and memorialized through the
+  contracting and other agreements (e.g., data share, MOU, and the like) as well as specific
+  approaches to project management of the work.","[graphic] Security & identity. Key questions: How is authentication handled? Are logs available? Can
+admins manage access/roles? Minimum evidence/ artifacts: SSO/role plan; logging/ monitoring
+plan; incident response alignment. Exit ramp triggers: Stop if accounts/logging are unmanaged;
+scale if controls are enterprise-grade and tested","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B217","sharing_secondary_use","yes","disclosure;purpose_limitation","discussion_or_review","descriptive","Districts/vendors","Evidence domain requires documented data flows and clarified prohibited uses before adoption.","guidance","Data flows documented; ToS/DPA reviewed","Vendor contract-readiness checklist.","discussion_or_review","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",36,"Source: pages 296 and 298 [graphic]","Step 2 Resources: Data Privacy and Contract Readiness","[graphic] Evidence Domain: Data privacy and contract readiness (ToS/DPA, data flows,
+retention/deletion) | What to Confirm (minimum bar): Data flows documented; ToS/DPA reviewed;
+retention/deletion addressed; prohibited uses clarified; contract terms in place","• Step 1 — Classify the tool and assign a local risk tier using scoping questions (impact domain,
+  data sensitivity, user group, consequence-of-error)
+• Step 2 — Require a minimum evidence checklist across educational value, privacy/contract
+  readiness, security/incident readiness, transparency/explainability, and equity/accessibility","• [graphic] U.S. Department of Education/PTAC: Protecting Student Privacy While Using Online
+  Educational Services: Requirements and Best Practices (model terms of service guidance PDF)
+• [graphic] Supports terms-of-service review and standard privacy expectations in vendor
+  agreements
+• [graphic] U.S. Department of Education: Student Privacy Guidance (resource hub)
+• [graphic] Practitioner-facing guidance and checklists for implementing student privacy
+  protections","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B238","sharing_secondary_use","yes","disclosure","restricts","descriptive","Districts","FOIA summary describes privacy exemptions for government records in systems that may feed analytics/AI.","resource_summary","exemptions for personal privacy, medical records, student records, and other sensitive information.","Public-record disclosure summary; not a vendor-sharing provision.","restricts","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",41,"Source: pages 312–320 [graphic]","Appendix: Federal and Illinois Privacy and Data Security Laws","[graphic] Year and Law: 1984 • Freedom of Information Act (FOIA) (5 ILCS 140) • Illinois law |
+Scope/Focus: Grants public access to government records, with exemptions for personal privacy,
+medical records, student records, and other sensitive information. | Significance: Major
+transparency statute that simultaneously recognizes explicit privacy exemptions for personal
+information. | Context: Originally focused on physical files; later extended to electronic records,
+emails, and online databases. | Context with Internet/Social/AI Threading: Originally conceived for
+physical files but increasingly applied to electronic records, email, and digital databases accessible
+via government websites. privacy exemptions now operate in a world where records may be
+indexed, searched, and cross-linked, including data feeding analytics and AI tools inside agencies.","[graphic] Year and Law: 1979 • Mental Health and Developmental Disabilities Confidentiality Act
+(MHDDCA) (740 ILCS 110) • Illinois law | Scope/Focus: Provides strong confidentiality protections
+for mental health and developmental disability records, with narrow exceptions. | Significance: One
+of the strictest sector-specific confidentiality laws in Illinois, focused on highly sensitive information. |
+Context: Initially framed around paper clinical records; later extended and interpreted for electronic
+health records and exchanges. | Context with Internet/Social/AI Threading: Enacted in a
+paper-record context but later amended and interpreted for electronic health records and telehealth.
+Any AI system trained on or accessing mental health data must comply with these underlying
+confidentiality obligations, even if the statute does not mention AI by name.","[graphic] Year and Law: 1996-2003 • Health Insurance Portability and Protection Act (HIPAA)
+Privacy and Security Rules • Federal law | Scope/Focus: Established national standards for the
+privacy and security of individually identifiable health information, including electronic personal
+health information. | Significance: First detailed federal framework for protecting electronic personal
+health data through privacy rights and security safeguards. | Context: Developed as health records
+digitized and networked; later applied to health information exchanges and patient portals on the
+internet. | Context with Internet/Social/AI Threading: Developed as health systems shifted from
+paper charts to electronic health records and networked claims systems. Today, many health apps
+and emerging AI clinical tools rely on personal health information governed by HIPAA rules, making
+its security requirements a template for protecting sensitive data in AI contexts.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D087-B248","sharing_secondary_use","yes","purpose_limitation","restricts","recommendation","Districts/vendors","Recommends prohibiting vendor use of district data beyond contract scope; AUP separately restricts entry into non-approved tools.","guidance","prohibit vendor use of district data beyond contract scope","Explicit downstream vendor-use limit.","restricts","D087","Illinois_AI_Guidance_Privacy_Passages.pdf",43,"Source: page 323","Privacy and Data Stewardship","• Publish district rules on data minimization/retention and prohibit vendor use of district data
+  beyond contract scope (SDPC NDPA Standard (PDF))
+AUP:
+• Prohibit staff and students from entering personally identifiable information or sensitive student
+  information into non-approved AI tools; require de-identification practices (SDPC (resources))
+IUP:
+• Establish an audit/enforcement routine for AI tool use (discovery, escalation, remediation,
+  re-training), aligned to privacy agreements and district policy (SDPC (resources))","AI Policy:
+• Require a DPA and documented data-flow review for any approved AI tool; use a standard
+  agreement structure such as the SDPC National DPA (SDPC NDPA)","• Maintain and publish an approved AI tools inventory (purpose, data elements, retention,
+  oversight requirements, contact for issues) (NIST AI RMF (overview))","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D098-B001","model_training","yes","training_reuse","restricts","descriptive","District","Confidential student and employee data are kept out of public models; exact vendor/model mechanism is not provided.","guidance","keep confidential student and employee data out of public models","Public-model boundary is stated, not limited to a specific training mechanism.","restricts","D098","LBUSD_AI_Web_Page_Privacy_Passages.pdf",1,"Source: web page, section 'Guiding Principles'","Guiding Principles: We protect safety, privacy and data confidentiality","We protect safety, privacy and data confidentiality. AI is one of many technologies used in our
+schools, and its use aligns with existing privacy and data confidentiality policies. We understand the
+risks of AI and take care to keep confidential student and employee data out of public models and to
+secure the use of AI within our environment.","","Staff are encouraged to explore, learn, and use AI tools in accordance with existing laws, District
+policies and guidelines. Each user bears the responsibility to ensure compliance with applicable
+laws and policies regarding data security and privacy. AI users are also responsible for reviewing all
+AI-generated output before use.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D158-B006","retention_deletion","yes","retention_limit;deletion_procedure","restricts","recommendation","Users","Recommends turning off chat history so conversations will not be saved; no deletion of previously retained data is stated.","guidance","consider turning off the chat history. This way, your students' conversations won't be saved","Prospective retention control only.","restricts","D158","Seattle_PS_AI_Handbook_Privacy_Passages.pdf",1,"Source: pages 3–4","4. Create a Safe AI Environment","Protect Student Privacy
+When using any AI tool, especially free ones, consider turning off the chat history. This way, your
+students' conversations won't be saved or used to train the AI. It's like having a private conversation
+that stays between you and the AI.","""Free"" AI Tools Might Not Be Free
+Be careful with AI tools that are free to use. They might collect information about your students, like
+their messages, files, and feedback. It's like talking to a stranger on the bus – you don't know where
+your words might end up.","Whether it's about privacy, fairness, or anything else, don't be afraid to ask questions or share your
+concerns.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D171-B011","sharing_secondary_use","yes","disclosure;profiling","permits","descriptive","AI technology and designated school personnel","Describes AI analyzing student communications for distress and alerting designated personnel to provide support; purpose and recipients are stated, but safeguards/consent are not detailed.","guidance","the technology can analyze these communications and alert designated school personnel to provide timely support.","Internal disclosure for a described support purpose; do not treat it as an external vendor-sharing rule.","permits","D171","Utah_AI_Framework_Privacy_Passages.pdf",2,"Source: page 10","Responsible Use of AI Tools: Safety Alerts (excerpt)","• Safety Alerts: AI could have the ability to monitor written student communications on LEA
+  provided accounts. For instance, when students convey distress in their messages, the
+  technology can analyze these communications and alert designated school personnel to provide
+  timely support.","Teachers will clarify if, when, and how AI tools will be used, with input from students and families,
+while the school system will ensure compliance with applicable laws and regulations regarding data
+security and privacy.","• Data Collection: Parents, guardians, and students should be informed of specific data collection
+  initiatives, and where applicable, consent will be sought. All AI-driven data collection will adhere
+  to local data protection regulations and best practices.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D171-B013","sharing_secondary_use","yes","purpose_limitation","restricts","mandatory_wording","AI tools","Tools must detail whether/how personal information is used to ensure confidentiality and prevent misuse; unauthorized collection is prohibited.","guidance","AI tools will be required to detail if/how personal information is used to ensure that personal data remains confidential and isn’t misused.","Adjacent item expressly prohibits unauthorized data collection.","restricts","D171","Utah_AI_Framework_Privacy_Passages.pdf",3,"Source: pages 11–12","Prohibited Use of AI Tools: Privacy","• Privacy concerns: The use of AI is required to adhere to state and Federal privacy laws.
+• Compromising Privacy: The education system will not use AI in ways that compromise teacher
+  or student privacy or lead to unauthorized data collection, as this violates privacy laws and our
+  system’s ethical principles. See the Security, Privacy, and Safety section below for more
+  information.
+• Noncompliance with Existing Policies: We will evaluate AI tools for compliance with all
+  relevant policies and regulations, such as privacy laws and ethical principles. AI tools will be
+  required to detail if/how personal information is used to ensure that personal data remains
+  confidential and isn’t misused.","• Data Collection: Parents, guardians, and students should be informed of specific data collection
+  initiatives, and where applicable, consent will be sought. All AI-driven data collection will adhere
+  to local data protection regulations and best practices.","We will implement reasonable security measures to secure AI technologies against unauthorized
+access and misuse. All AI systems deployed within the school will be evaluated for compliance with
+relevant laws and regulations, including those related to data protection, privacy, and students’
+online safety. For example, providers will make it clear when a user is interacting with an AI versus a
+human. Staff and students are prohibited from entering confidential or personally identifiable
+information into unauthorized AI tools, such as those without approved data privacy agreements.
+This extends to contracted vendors and other third parties. Sharing confidential or personal data
+with an AI system could violate privacy if not properly disclosed and consented to.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D018-B003","sharing_secondary_use","yes","purpose_limitation","restricts","mandatory_wording","Employees","Prohibition applies to use of data obtained through generative AI in a way that violates applicable privacy laws; separate PII-input prohibition is not coded.","operative_text","or to use data obtained through generative AI in a way that violates applicable privacy laws","Direct downstream-use restriction; does not duplicate the excluded initial input ban.","restricts","D018","BenHill_AI_Approved_Tools_Policy_Privacy_Passages.pdf",1,"Source: web page, Board Policy IFBG (3)","III. Guidelines for AI Use (excerpt)","E. Privacy and data security: Employees must respect the privacy and data security of individuals
+when using generative AI. It is prohibited to provide personally identifiable information of students or
+staff to generative AI tools. It is also prohibited to use generative AI to create content that invades
+the privacy or confidentiality of individuals, or to use data obtained through generative AI in a way
+that violates applicable privacy laws.","A. Legal compliance: Employees must comply with all applicable laws and regulations, including
+copyright, intellectual property rights, and data protection laws.","BHCS permits the use of district approved Artificial Intelligence. The School District is responsible
+for the review, approval, and ongoing management of a list of permissible AI tools.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D029-B036","sharing_secondary_use","yes","disclosure","discussion_or_review","recommendation","Vendors; LEAs","The block asks what student/staff data is collected/stored and whether personal data is reused; no specific answer is given.","guidance","What student or staff data is collected, stored, or inferred?","Vendor assessment question relevant to downstream data practices; no rule inferred.","discussion_or_review","D029","California_AI_Guidance_Privacy_Passages.pdf",7,"Source: page 41","Guiding Questions for LEAs: 3. Data Privacy & Security","• Does the tool comply with federal and state privacy laws (FERPA, COPPA, state student data
+  privacy regulations)?
+• What student or staff data is collected, stored, or inferred?
+• Does the vendor use personal data to train or improve its AI models?
+• Are data retention, deletion, and access policies clearly defined?
+• Has the district reviewed the vendor’s security practices, encryption standards, and breach
+  response procedures?
+• Is a signed Data Privacy Agreement (DPA) required and available?
+• Do AI chatbots that the LEA procures or develops meet the compliance requirements of SB 243?","To ensure legal compliance and student safety, school IT support is encouraged to block
+unapproved features, enforce secure data transmission, and scan for vulnerabilities. LEAs are also
+encouraged to institute processes and systems for regularly auditing, updating, and testing policies
+and breach readiness. Publishing audit findings is recommended to bolster community confidence.
+To foster a culture of privacy and digital literacy, in addition to regular training sessions and
+resources LEAs can consider offline or locally hosted platforms for sensitive data and provide
+regular opportunities for all members of the school community to share feedback on AI use.","Data Privacy
+The right of individuals to control how their personal information is collected, stored, shared, and
+used. In education, data privacy ensures that student and educator information is handled ethically
+and in compliance with laws such as FERPA and COPPA.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D136-B033","sharing_secondary_use","yes","disclosure","restricts","descriptive","Individuals; distributors","Oregon law prohibits unlawful dissemination of intimate images, including AI-created/manipulated images; distribution is discussed in school-response context.","resource_summary","prohibits the unlawful dissemination of an intimate image","Explicit restriction on downstream dissemination of personal intimate imagery.","restricts","D136","Oregon_GenAI_K12_Guidance_Privacy_Passages.pdf",5,"Source: web page, Part 3C","The Implications of Synthetic Media and Deepfakes (excerpt)","District leaders should be aware that Oregon law (ORS 163.472) prohibits the unlawful
+dissemination of an intimate image. House Bill 2299, which took effect January 1, 2026, expanded
+this law to explicitly include images that have been digitally created, manipulated, or altered using
+artificial intelligence. Under the updated statute, distribution of AI-generated intimate deepfakes is","These online tools allow anyone to take images, photos, etc. from social media or other online
+platforms and manipulate them using genAI tools.","now a Class A misdemeanor punishable by up to 364 days in jail and a fine of up to $6,250, with
+felony enhancement for repeat offenders. This law has direct implications for school response when
+AI-generated or manipulated intimate images are created or shared in ways that harm students or
+staff.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D136-B035","retention_deletion","yes","deletion_request;deletion_procedure","restricts","mandatory_wording","Online platforms; victims","Platforms must remove non-consensual intimate images, including AI-generated deepfakes, within 48 hours after victim notification.","resource_summary","requires online platforms to remove such content within 48 hours of being notified by a victim","Explicit deletion/removal right with a deadline.","restricts","D136","Oregon_GenAI_K12_Guidance_Privacy_Passages.pdf",6,"Source: web page, Part 3C","The Implications of Synthetic Media and Deepfakes (excerpt)","More recently, the federal TAKE IT DOWN Act, signed into law in May 2025, makes it a crime to
+publish non-consensual intimate images, including AI-generated deepfakes, of both minors and
+adults. The law also requires online platforms to remove such content within 48 hours of being
+notified by a victim.","now a Class A misdemeanor punishable by up to 364 days in jail and a fine of up to $6,250, with
+felony enhancement for repeat offenders. This law has direct implications for school response when
+AI-generated or manipulated intimate images are created or shared in ways that harm students or
+staff.","","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D162-B008","sharing_secondary_use","yes","disclosure","discussion_or_review","descriptive","Students; dataset contributors","Standards include contributing data to datasets and privacy tradeoffs; this is a learning objective, not permission to share actual student data.","curriculum","contributing data to a dataset, and trading privacy and security for access to an AI tool","Explicit dataset contribution/secondary data-use topic in curriculum.","discussion_or_review","D162","South_Carolina_AI_Standards_Framework_Privacy_Passages.pdf",2,"Source: page 15 (table rows) [graphic]","Standard 11, Security and Privacy","Row 1
+• [graphic] Level 1: Identify AI and ethics-related laws and analyze their effect on digital privacy,
+  security, intellectual property, network access, contracts, and harassment.
+• [graphic] Level 2: Discuss security and privacy issues that relate to AI applications.
+• [graphic] Level 3: Research the security vulnerabilities of machine learning models and ways to
+  mitigate them.
+• [graphic] Level 4: Research and evaluate the security issues relevant to machine learning model
+  creation, storage, and usage.
+Row 2
+• [graphic] Level 1: Explain the ethical methods of collecting data from human subjects while
+  protecting privacy and security for use in training machine learning models.
+• [graphic] Level 2: Evaluate the issues related to privacy and security in the development and use
+  of AI and ML models.
+• [graphic] Level 3: Evaluate methods of direct and indirect AI interaction, such as using
+  AI-enabled systems, contributing data to a dataset, and trading privacy and security for access to
+  an AI tool.
+• [graphic] Level 4: Apply data protection protocols within AI and ML solutions, addressing
+  concerns throughout the data cycle-collection, storage and use of iterative processing
+  algorithms.
+• [graphic] Level 2 (second item in cell): Research the ethical, security, and privacy issues that
+  affect data gathering, storage and overall data quality that can contribute to bias in a model.","[graphic] Students will research security and privacy protocols associated with AI and ML solutions
+and apply the protocols to protect the data throughout the processes.","","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D170-B004","sharing_secondary_use","yes","profiling;purpose_limitation","permits","descriptive","AI systems; teachers","Student data is analyzed to tailor educational content and assessment to individual needs and learning styles; described as an educational use.","resource_summary","analyzing individual student data to tailor educational content and assessments to their unique needs and learning styles","Individualized data analysis constitutes profiling, though described as educational personalization rather than vendor reuse.","permits","D170","UnionCounty_KY_Digital_Classrooms_AI_Privacy_Passages.pdf",1,"Source: web page, section 'Impact on Students' and 'Impact on Teachers'","The Role of Artificial Intelligence in Education: Use of Student Data (excerpt)","Personalized Learning:
+AI enables personalized learning experiences by analyzing individual student data to tailor
+educational content and assessments to their unique needs and learning styles.","Regular Updates:
+Chrome OS is updated automatically, ensuring that users benefit from the latest features and
+security improvements without needing to perform manual upgrades.","Data-Driven Insights:
+AI tools can analyze large volumes of data to provide insights into student performance and learning
+patterns.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D170-B006","sharing_secondary_use","yes","profiling","permits","descriptive","AI tools; educators","Predictive analytics use student data to forecast outcomes and identify possible issues for intervention.","resource_summary","use predictive analytics to forecast student outcomes and identify potential issues before they arise","Predictive student profiling is explicit; passage describes an educational use, not its safeguards.","permits","D170","UnionCounty_KY_Digital_Classrooms_AI_Privacy_Passages.pdf",1,"Source: web page, section 'Impact on Students' and 'Impact on Teachers'","The Role of Artificial Intelligence in Education: Use of Student Data (excerpt)","Predictive Analytics:
+AI can use predictive analytics to forecast student outcomes and identify potential issues before
+they arise.","Data-Driven Insights:
+AI tools can analyze large volumes of data to provide insights into student performance and learning
+patterns.","","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D004-B004","sharing_secondary_use","yes","disclosure","permits","descriptive","Teachers","Teachers can view every student interaction with MagicSchool.","guidance","Teachers can view every student interaction with MagicSchool.","Explicit staff visibility into student interactions; same content is repeated in D004-B011.","permits","D004","ASD20_AI_Quick_Start_Guide_Privacy_Passages.pdf",1,"Source: web page, section 'D20's Approach to AI'","Recommended Tools (excerpt)","MagicSchool is the district-recommended AI tool approved for students at all grade levels. …
+Teachers can view every student interaction with MagicSchool.","• AI should be used ethically, legally and in accordance with District 20 policies, with appropriate
+  data protection.","Google Gemini was approved for students in D20 high schools beginning in August 2026. Students
+must use the district enterprise version by signing in with their D20 account.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D004-B011","sharing_secondary_use","yes","disclosure","permits","descriptive","Teachers","Every interaction between students and MagicSchool.","guidance","Teachers can view every interaction between students and MagicSchool.","Explicit access by another user, not merely tool approval.","permits","D004","ASD20_AI_Quick_Start_Guide_Privacy_Passages.pdf",2,"Source: web page, section 'D20's Approach to AI'","Accessing MagicSchool (excerpt)","Teachers can view every interaction between students and MagicSchool.","Students can access only the digital rooms their teachers provide. Teachers control which tools are
+available in each room.","AI risks include:","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D025-B011","sharing_secondary_use","yes","purpose_limitation","restricts","mandatory_wording","District-approved tools","Student information entered into approved tools must remain inside the BCPS environment.","resource_summary","student information entered into approved tools must remain within the Broward County Public Schools environment","Explicitly limits onward data flow; not merely an initial-upload rule.","restricts","D025","Broward_Powered_by_AI_Website_Privacy_Passages.pdf",2,"Source: web page, section 'Family Guide & Frequently Asked Questions'","Family Guide & FAQ: Our Commitment and What We Know Today (excerpt)","Based on current district requirements and practices, student information entered into approved
+tools must remain within the Broward County Public Schools environment; student information is not
+used to train district-approved Artificial Intelligence models.","Approved district tools are different from open public tools such as ChatGPT or Google Artificial
+Intelligence features. Open public tools are not approved by the district for student-facing
+instructional use.","The district is reviewing controls for access to open public tools on school-issued devices, including
+devices used on non-school networks.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D028-B038","retention_deletion","yes","retention_limit","restricts","descriptive","Approved tools/vendors","Enterprise agreement says interaction data will not be stored; no timeframe/exception is specified.","guidance","not to train their models on or store any data from interactions with their product","Storage is addressed as a retention prohibition, not merely geography/security.","restricts","D028","CPS_Chicago_AI_Guidebook_Privacy_Passages.pdf",6,"Source: page 35","Approved Generative AI Tools (excerpt)","The rapid evolution of AI technology has introduced significant data security and legal complexities.
+Our priority remains enabling productive work within a secure and compliant environment, while
+recognizing and valuing the exploration and innovation happening District-wide. Unapproved,
+third-party GenAI products are blocked on the CPS network to maintain our robust AI Governance,
+protect our District, mitigate risk, and ensure responsible adoption. Approved tools have entered
+into an enterprise data share agreement, meaning they have a contract with CPS agreeing not to
+train their models on or store any data from interactions with their product–ensuring student privacy.","Vendors should implement robust security measures to prevent unauthorized access, data
+breaches, and misuse of CPS data. Security by design principles should be followed, with
+continuous evaluation through testing, patching, and authentication measures.","Enterprise Products
+[graphic] Microsoft Copilot, Access Notes: You have to sign in through Microsoft, NOT create a
+personal account with your CPS email, for your usage to fall under the CPS data-privacy agreement","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D052-B007","retention_deletion","yes","retention_limit","restricts","descriptive","SchoolAI and its contracted large language model providers","Personal student data is stated not to be saved.","resource_summary","personal student data is not saved","Explicit no-save claim; no retention period is given.","restricts","D052","Daviess_County_AI_Resource_Page_Privacy_Passages.pdf",1,"Source: web page, section 'AI Tools to Consider'","AI Tools to Consider","SchoolAI has contracted agreements with large language model providers such as OpenAI and
+Microsoft that ensure personal student data is not saved or used by third-parties to train or refine
+future models.","Contracted Provider: SchoolAI and Google Gemini
+SchoolAI is uniquely FERPA, COPPA, and SOC2 compliant. Data is processed in the US.
+Engineering and development staff are in-house and on-site.","SchoolAI does not sell student data and prohibits behavioral tracking.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D055-B015","sharing_secondary_use","yes","disclosure","conditional_permission","mandatory_wording","AI vendor","No vendor may access district data without an executed DCS Data Processing & Security Agreement.","operative_text","No AI vendor may access district data without an executed DCS Data Processing & Security Agreement","Access condition concerns vendor access to district data, not merely users entering prompts.","conditional_permission","D055","Dothan_City_Schools_AI_Guidelines_Privacy_Passages.pdf",2,"Source: pages 3–4","6. Data Privacy and Security","The Dothan City School District will include in our procurement and contract document(s) verbiage
+(Appendix A), which the Contractor shall attest when submitting their proposals and any contract
+executed to perform the work. There shall be no use of district data for training new products without
+prior written DCS approval and documented scope. No AI vendor may access district data without
+an executed DCS Data Processing & Security Agreement and adherence to district data
+minimization and deletion schedules.","The Dothan City School District will conduct compliance audits that will be done by our Technology
+Department and/or the Data Governance Committee (DGC). The Technology Department and/or
+the Data Governance Committee will submit a copy of the audit to our leadership and the respective
+Contractor(s). We will also ensure that the Contractor(s) provide a Corrective Action Plan (CAP)
+based on the findings in the audit report that will include the steps the Contractor(s) plan to take to
+mitigate the findings, and the timeline by which they will be mitigated. Vendors must attest to
+reasonable administrative, technical, and physical safeguards aligned to recognized frameworks
+(e.g., NIST) and provide breach notification within 72 hours of discovery to the district’s designated
+contact.","In the procurement process, the following will be considered: cost, data privacy, security,
+human-in-the-loop development, algorithm bias, model cards, system cards, interoperability,
+service-level agreements, key performance indicators, customizability, configurability, scalability,
+legal compliance, and contractor support.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D113-B006","sharing_secondary_use","yes","disclosure","restricts","mandatory_wording","AI systems","AI must protect student education records and meet parental consent requirements.","resource_summary","AI systems must protect the privacy of student education records and comply with any parental consent requirements.","Summary of legal-facing protection; not inferred from the legal citation alone.","restricts","D113","Minneapolis_AI_Web_Page_Privacy_Passages.pdf",1,"Source: web page, Overview","Laws and Acts AI Tools Must Follow","AI systems must protect the privacy of student education records and comply with any parental
+consent requirements.","FERPA - Family Educational Rights and Privacy Act:
+Protects the privacy of student education records & gives parents certain rights regarding student
+education records","Data must remain within the direct control of MPS.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D113-B007","sharing_secondary_use","yes","purpose_limitation","restricts","mandatory_wording","AI systems","Data must remain under MPS direct control.","resource_summary","Data must remain within the direct control of MPS.","Explicit control limitation on data flow.","restricts","D113","Minneapolis_AI_Web_Page_Privacy_Passages.pdf",1,"Source: web page, Overview","Laws and Acts AI Tools Must Follow","Data must remain within the direct control of MPS.","AI systems must protect the privacy of student education records and comply with any parental
+consent requirements.","COPPA - Children’s Online Privacy Protection Act:
+Imposes requirements on websites and online services directed to children under 13 years of age,
+or that collect personal information from a child under 13.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D155-B011","sharing_secondary_use","yes","purpose_limitation","conditional_permission","mandatory_wording","AI system","PII requires prior vetting approval and signed Data Privacy Agreement defining permissible uses.","operative_text","a signed Data Privacy Agreement that defines permissible uses, retention limits, and security standards.","The paragraph also sets retention limits; a separate retention row follows.","conditional_permission","D155","Richmond_Public_Schools_AI_Policy_Privacy_Passages.pdf",2,"Source: PDF pages 8–10 [graphic]","Ethics, Data Privacy, and Security","[graphic] The Division shall safeguard and minimize the collection and retention of personally
+identifiable information (PII) and limit access to authorized personnel only. No AI system shall
+collect, store, or transmit PII without prior approval through the Division’s vetting process and a
+signed Data Privacy Agreement that defines permissible uses, retention limits, and security
+standards.","[graphic] The Division shall comply with all applicable local, state, and federal data-privacy laws,
+including the Family Educational Rights and Privacy Act (FERPA), the Children’s Online Privacy
+Protection Act (COPPA), and other relevant Virginia statutes. All practices shall also align with
+recognized national standards such as the National Institute of Standards and Technology (NIST)
+Privacy and Cybersecurity Frameworks, and, where applicable, with international privacy
+frameworks such as the General Data Protection Regulation (GDPR). The Division shall also align
+with the Virginia Department of Education’s Digital Learning Integration Guidelines as they pertain
+to privacy and emerging technologies.","[graphic] Under no circumstances may any personally identifiable information or other confidential
+data be entered into publicly accessible generative AI tools that have not been formally approved by
+the Division. When using approved generative AI tools, users must limit input to the absolute
+minimum amount of data required to complete the task. Anonymized or de-identified data should be
+used whenever possible.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D155-B019","sharing_secondary_use","yes","purpose_limitation","permits","mandatory_wording","Staff and students","Staff and students may request that personal data not be used for automated decision-making systems; procedures apply under FERPA and Division protocols.","operative_text","Staff and students may request that their personal data not be used for AI training or automated decision-making systems.","A personal-data use limitation request is stated; the provision does not itself define automated decision-making as profiling.","permits","D155","Richmond_Public_Schools_AI_Policy_Privacy_Passages.pdf",3,"Source: PDF pages 8–10 [graphic]","Ethics, Data Privacy, and Security","[graphic] Parents and guardians shall have the right to opt out of student participation in
+AI-supported instructional activities when feasible alternatives are available. Staff and students may
+request that their personal data not be used for AI training or automated decision-making systems.
+Requests for data access, correction, or opt-out shall follow procedures established under FERPA
+and Division data-access protocols.","[graphic] The Division shall maintain and publish a list of approved AI tools and their intended
+purposes.","[graphic] The Division shall obtain verifiable parental consent for any AI tool or service used with
+students under the age of thirteen (13) that collects or processes personal data, in compliance with
+the Children’s Online Privacy Protection Act (COPPA).","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D176-B017","sharing_secondary_use","yes","disclosure","restricts","mandatory_wording","AI systems and educational institutions","FERPA requires protection of student education records and parental/eligible-student written consent for disclosure; data must remain under direct institutional control.","guidance","Data must remain within the direct control of the educational institution.","Regulatory explanation is accompanied by explicit disclosure/consent and data-control conditions.","restricts","D176","Washington_OSPI_AI_Guidance_Privacy_Passages.pdf",4,"Source: page 24","Sample Professional Ethics for Educators: Protect Student Privacy and Data","Current regulations relevant to the use of AI in education (excerpt)
+• FERPA - AI systems must protect the privacy of student education records and comply with
+  parental consent requirements. Data must remain within the direct control of the educational
+  institution.
+• COPPA - AI chatbots, personalized learning platforms, and other technologies collecting
+  personal information and user data on children under 13 must require parental consent.
+• CIPA - Schools must ensure AI content filters align with CIPA protections against harmful
+  content.","• Establish safeguards to make certain that student data collected, used, and stored is secure and
+  with appropriate consent.
+• Confirm that any data collected does not violate current regulations relevant to education and
+  student data privacy.
+Considerations: When kids are not quite ready to speak up for themselves or handle AI tools alone,
+schools should establish strong partnerships with parents to proactively encourage the development
+of students’ critical thinking skills. Together, parents and school communities should help kids
+understand how their data is collected and used by AI, whether it’s at school, home, or even with
+toys meant for learning and fun. It’s all about making sure kids stay safe and develop critical thinking
+skills around their personal data privacy.","Using AI also comes with risks that must be mitigated to protect student privacy, prevent biases and
+inequities, and embrace human intelligence and empowerment.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D179-B012","sharing_secondary_use","yes","purpose_limitation","discussion_or_review","mandatory_wording","School/district reviewers","Terms and conditions should be reviewed for whether/how personal information is used to ensure it remains confidential and is not misused.","guidance","review the terms and conditions for all AI tools to review if/how personal information is used","Review directive, not a substantive vendor use term.","discussion_or_review","D179","West_Virginia_AI_Guidance_Privacy_Passages.pdf",3,"Source: page 26","Prohibited Use of AI Tools: School Management and Operations","Noncompliance with Existing Policies: We will evaluate AI tools for compliance with all relevant
+policies and regulations, such as privacy laws and ethical principles. We will review the terms and
+conditions for all AI tools to review if/how personal information is used to ensure that personal data
+remains confidential and isn’t misused.","Compromising Privacy: The county school district or school will not use AI in ways that compromise
+teacher or student privacy or lead to unauthorized data collection, as this violates privacy laws and
+our system’s ethical principles. WVBE Policy 2460 requires that counties are responsible for
+ensuring that COPPA, CIPA, and FERBA are not violated. … See the Security, Privacy, and Safety
+section for more information.","[graphic] AI is a technology tool similar to other educational/instructional technologies. Its powerful
+implications and novel uses will require more time and experience to fully integrate responsibly.
+However, planning for the use of AI should be approached in a manner similar to planning for other
+educational technologies. District and school staff should be able to clearly articulate the needs and
+uses for AI tools, plan for systematic implementations, monitor uses and impacts, and adjust plans
+as needed in response to outcomes and user feedback. As part of these planning processes,
+student and staff privacy must be considered at every step along the way to ensure safety and
+security.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE
+"D179-B014","model_training","yes","training_reuse","discussion_or_review","descriptive","AI models/providers","Data, including prompts, may enter future model iterations; student data may be shared with other users even where parental consent is obtained.","guidance","Any data information inputted into the AI model, including prompts, has the potential to be incorporated into the model’s future iterations","Risk discussion explicitly concerns student data and notes that consent does not remove the risk.","discussion_or_review","D179","West_Virginia_AI_Guidance_Privacy_Passages.pdf",3,"Source: page 27","Protecting Student Privacy and Safety: Security, Privacy, and Safety","[graphic] AI systems, especially those used in education, require extensive data to operate
+efficiently. In an educational setting, these data could include sensitive information about students
+like learning patterns, academic achievements, and personal details. The foremost ethical concern
+is student privacy, and districts need to ensure that such sensitive data is handled with utmost care.
+Obtaining parental consent is crucial, but it is also important to recognize that even with consent,
+using identifiable data in public AI models is not advisable. Any data information inputted into the AI
+model, including prompts, has the potential to be incorporated into the model’s future iterations and
+potentially shared with other users. Hence, strict policies, consideration, and discretion are essential
+when integrating AI in educational settings to safeguard against any privacy breaches or misuse of
+student data.","[graphic] AI is a technology tool similar to other educational/instructional technologies. Its powerful
+implications and novel uses will require more time and experience to fully integrate responsibly.
+However, planning for the use of AI should be approached in a manner similar to planning for other
+educational technologies. District and school staff should be able to clearly articulate the needs and
+uses for AI tools, plan for systematic implementations, monitor uses and impacts, and adjust plans
+as needed in response to outcomes and user feedback. As part of these planning processes,
+student and staff privacy must be considered at every step along the way to ensure safety and
+security.","Schools should implement reasonable security measures to secure AI technologies against
+unauthorized access and misuse. These measures may include (1) cataloging the tools used, their
+purposes/functions, and the information required (e.g., information about individuals, prompts or
+questions, aggregate data); (2) establishing rules or criteria for who can use AI tools for what
+purposes and/or creating school-specific guidelines for use of AI tools; and (3) maintaining
+up-to-date information about the technical details and security implications of the tools in use. All AI
+systems deployed within the school should be evaluated for compliance with relevant laws and
+regulations, including those related to data protection, privacy, and students’ online safety. Schools
+and districts should also ensure that staff are adequately trained for how to securely and
+successfully use AI tools from both cybersecurity and instructional perspectives.","not_verified_against_original_source","single_AI_review_not_independent_human_annotation",FALSE

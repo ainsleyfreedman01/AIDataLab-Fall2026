@@ -1,0 +1,131 @@
+PDF EXCERPT PAGE 1
+Portland Public Schools AI Guidebook: Data and
+           Student Privacy Passages
+Excerpted verbatim from AI Guidebook (Portland Public Schools, Oregon), web page. The source has no page numbers;
+locations are given by section. Ellipses (…) mark omitted text. This is a single web page with numbered sections; section
+names are given in each source line where the page shows one.
+
+
+Objectives (excerpt)
+Source: web page, section 'Introduction & Objectives'
+
+• Address the potential risks associated with AI use, including social-emotional health, bias,
+  inaccuracy, data privacy, academic integrity, and media manipulation (deep fakes).
+
+Assessment Support (excerpt)
+Source: web page, section 'AI for Staff'
+
+Assessment Support: Human judgment remains essential. AI tools can support developing
+assessment questions or help identify areas for support or enrichment (be mindful of student data
+privacy).
+
+Data Privacy and Compliance for Staff
+Source: web page, section 'AI for Staff'
+
+Staff hold a significant responsibility in protecting student and sensitive District data, and their use of
+AI tools must strictly adhere to all relevant federal and state privacy laws and District policies. Staff
+actions can have potential professional and legal ramifications if they inadvertently or intentionally
+compromise protected information.
+
+Key privacy and compliance responsibilities for staff include:
+
+• Strict Avoidance of Oversharing: Staff should not enter or upload any personal or sensitive
+  information, especially student Personally Identifiable Information (PII), confidential records (e.g.,
+  student performance, behavioral reports, personal health information), or other protected data
+  into AI tools. Entering PII into generative AI tools should always be avoided, as this information is
+  often stored on the tool’s servers and used to train the AI model. This poses risks of violating
+  privacy regulations like FERPA, creating legal consequences, and damaging trust. Only district
+  approved AI tools, like Gemini, should be used.
+• Adherence to Privacy Laws and Policies: Staff must understand and comply with FERPA,
+  COPPA, CIPA, and the Oregon Student Information Protection Act (OSIPA) when using any
+  technology, including AI tools. Staff should only use District-approved AI tools that have been
+  vetted for compliance with these laws, including OSIPA, which some vendors may be unaware
+  of. District protocols for requesting any digital tool’s use must be followed.
+• Using District Resources Appropriately: Staff should use District-provided resources and
+  accounts (like District email) for District business. Be aware that information and data on District
+  technology is subject to monitoring and may become public record. Using personal devices to
+  access the network may subject them to the same public disclosures. Staff should not share
+  account passwords or access others’ accounts.
+
+PDF EXCERPT PAGE 2
+• Reporting Incidents: Staff are responsible for immediately notifying the IT Department and
+  following established policy in the event of loss of a device or data, or if a device is compromised.
+  Staff should report harmful or suspicious online activity, including unauthorized mimicry or
+  cyberbullying.
+• Tool Vetting Awareness: Staff must understand the importance of using only approved tools
+  that safeguard student data and include proper guardrails and age restrictions. These approved
+  tools have been vetted by IT and Leadership to confirm that vendor Data Privacy Agreements
+  (DPAs) are established. Staff should comply with the vendor’s terms of use. Staff should also
+  understand the privacy implications of multimodal AI tools that capture images or sound. See the
+  Approved PPS AI Tools section.
+
+Data Privacy & Security
+Source: web page, section 'Data Privacy & Security'
+
+Users must exercise extreme caution regarding student data and Personally Identifiable Information
+(PII) when using AI tools.
+
+Never input confidential student information (including performance data, behavioral reports, health
+information, or any PII as defined in ORS 339.329) into generative AI tools.
+
+Information entered into generative AI systems or integrated into existing digital resources can be
+stored and used for training purposes, leading to risks of data breaches, misuse, or unintended
+harvesting (oversharing).
+
+Users should review and adjust privacy settings on AI tools to ensure private data is protected per
+PPS guidelines.
+
+District mobile devices with student data may have endpoint protection, including encryption. Users
+are responsible for the security of data on their devices. Immediately notify the Technology
+Department in case of device loss or compromise.
+
+The District network is subject to monitoring. There is no expectation of personal privacy when using
+District technology. The Technology Department reserves the right to access and disclose data on
+District technology or transmitted over the network, as appropriate.
+
+District policies must comply with state and federal privacy laws, including FERPA, CIPA, COPPA
+(especially for users under 13), and OSIPA. OSIPA prohibits using student data for targeted
+advertising or non-educational profiles. You should not be using any digital resources that have not
+been approved for use, including embedded Ai, agentic AI, and AI-assisted devices, when
+performing your PPS duties.
+
+Prohibited Uses (excerpt)
+Source: web page, section 'AI & Academic Integrity'
+
+• Using AI tools to access, share, or transmit confidential student personally identifiable
+  information (PII) or other sensitive District data without explicit authorization and appropriate data
+  privacy protections.
+
+PDF EXCERPT PAGE 3
+Approved PPS AI Tools (excerpt)
+Source: web page, section 'Approved PPS AI Tools'
+
+These specific tools linked below are District approved and aligned with student data privacy
+policies and guidelines.
+
+Note: Use of digital apps and tools requires District approval and data privacy agreements (DPAs).
+
+Guidance for Families: Data Privacy and Oversharing Risks
+Source: web page, section 'Guidance for Families'
+
+AI tools often collect data from user interactions, and sharing Personally Identifiable Information
+(PII) with AI tools should be avoided. This is a significant concern in educational settings.
+Familiarize yourself with school policies and relevant privacy laws like FERPA and COPPA that aim
+to protect student data when using educational technologies, including AI.
+
+Guidance for Families: AI for Different Purposes and Age Groups
+(excerpt)
+Source: web page, section 'Guidance for Families'
+
+Many public GenAI tools have age restrictions (often 13+ or 18+). Unstructured GenAI is generally
+not recommended for young children. PPS will approve specific AI tools for student use, outlining
+who can access them.
+
+Guidance for Families: Resources (excerpt)
+Source: web page, section 'Resources'
+
+Google for Education: Guardians Guide to AI
+
+Use this guide to understand more about AI in education, data security and privacy protections, and
+how to prepare your child for AI’s possible impacts on our future.
+

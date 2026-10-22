@@ -1,0 +1,53 @@
+PDF EXCERPT PAGE 1
+  Edgemont AI Policy: Data and Student Privacy
+                   Passages
+Excerpted verbatim from Policy 8636 – Artificial Intelligence (Edgemont Union Free School District, New York; adopted April
+22, 2025). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text. The numbered list in the
+Data Privacy and Security section is shown as bullets.
+
+
+Scope and Application (excerpt)
+Source: PDF page 2
+
+This policy applies to all Edgemont students, personnel, volunteers, and contractors. It integrates
+with, and complements, existing policies on data privacy, acceptable use, and student conduct.
+
+This policy aims to provide clear guidelines on the use of AI within Edgemont schools and
+programs, ensuring that its application supports educational goals and adheres to privacy and
+security standards.
+
+Data Privacy and Security
+Source: PDF pages 3–4
+
+Information entered into GenAI may be accessible to others due to data sharing or breaches. All
+users should exercise caution when utilizing GenAI. Under no circumstances should any sensitive,
+copyrighted, confidential, or proprietary information be entered into GenAI or any other AI platform,
+consistent with relevant state and federal laws and district policy. This includes, but is not limited to,
+data protected by:
+
+• Family Educational Rights and Privacy Act (FERPA);
+• Education Law Section 2-d (Unauthorized Release of Personally Identifiable Information);
+• Labor Law Section 203-d (Employee Personal Identifying Information);
+• State Technology Law Section 208 (Notification of Security Breach of Private Information).
+Further, if the information would not be disclosed in response to a Freedom of Information Law
+(FOIL) request, it should not be entered into GenAI.
+
+Compliance with Other Documents
+Source: PDF page 5
+
+When using GenAI, all personnel and students must comply with all applicable laws, regulations,
+and district documents. This includes Education Law Section 2-d, which requires the district to
+ensure that whenever it enters into a contract or other written agreement with a third- party
+contractor under which the third-party contractor will receive student data or teacher or principal
+data from the district, the contract or written agreement will include provisions requiring that
+confidentiality of shared student data or teacher or principal data be maintained in accordance with
+law, regulation, and district policy. Applicable district documents may include policies on data
+security and acceptable use, as well as the district’s Code of Conduct.
+
+Ref:
+• 7160 Family Educational Rights And Privacy Act Protection Of Pupil Rights Amendment
+
+PDF EXCERPT PAGE 2
+• 8625 Privacy and Security for Student, Teacher, and Principal Data
+• 8635 Information Security Breach and Notification
+

@@ -1,0 +1,438 @@
+
+===== D003 | ABC_USD_AI_Guide_Privacy_Passages.pdf =====
+COMPILATION INTRO: ABC Unified School District Guide to Ethical and Responsible Use of AI: Data and Student Privacy Passages Excerpted verbatim from ABC Guide to Ethical and Responsible Use of AI - PUBLIC (ABC Unified School District, California; published Google Doc). The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text. The source is a published Google Doc with no page numbers, so sections are located by their headings. What is Generative AI? (excerpt) Source: Google Doc, Section 1: Overview … it's essential to consider the ethical implications and challenges that come with its use, such as issues of fairness, privacy, and appropriate content generation … Objective(s) of This Guide Source: Google Doc, Section 1: Overview Protecting student data is paramount at ABC Unified. We have a strong foundation of data privacy practices currently in place for all our solutions. This commitment extends to any AI tools we implement, including generative AI. We will continue to prioritize data security and adhere to all relevant regulations to ensure your trust and the safety of student information. Challenges and Considerations: Ethical considerations (excerpt) Source: Google Doc, Section 1: Overview Schools should adhere to the ABC Unified responsible use policies and guidelines to address ethical concerns, such as student privacy, content ownership, and the role of AI in education. Bias and Ethics in AI: Ethical considerations (excerpt) Source: Google Doc, Section 3: Teacher Responsibility Discuss the potential ethical implications of AI in education, such as privacy concerns, data security, and the digital divide. Parents as Partners (excerpt) Source: Googl
+
+D003-B001 | excerpt PDF page 1 | Source: Google Doc, Section 1: Overview | What is Generative AI? (excerpt)
+… it's essential to consider the ethical implications and challenges that come with its use, such as
+issues of fairness, privacy, and appropriate content generation …
+
+D003-B002 | excerpt PDF page 1 | Source: Google Doc, Section 1: Overview | Objective(s) of This Guide
+Protecting student data is paramount at ABC Unified. We have a strong foundation of data privacy
+practices currently in place for all our solutions. This commitment extends to any AI tools we
+implement, including generative AI. We will continue to prioritize data security and adhere to all
+relevant regulations to ensure your trust and the safety of student information.
+
+D003-B003 | excerpt PDF page 1 | Source: Google Doc, Section 1: Overview | Challenges and Considerations: Ethical considerations (excerpt)
+Schools should adhere to the ABC Unified responsible use policies and guidelines to address
+ethical concerns, such as student privacy, content ownership, and the role of AI in education.
+
+D003-B004 | excerpt PDF page 1 | Source: Google Doc, Section 3: Teacher Responsibility | Bias and Ethics in AI: Ethical considerations (excerpt)
+Discuss the potential ethical implications of AI in education, such as privacy concerns, data security,
+and the digital divide.
+
+D003-B005 | excerpt PDF page 1 | Source: Google Doc, Section 3: Teacher Responsibility | Parents as Partners (excerpt)
+Explain that the AI tools being used in the classroom have been carefully vetted for accuracy, bias,
+and privacy.
+
+D003-B006 | excerpt PDF page 1 | Source: Google Doc, Section 3: Teacher Responsibility | Sample Letter to Parents (excerpt)
+Privacy & Security: AI use will align with regulations protecting student data privacy, safety, and
+accessibility.
+
+D003-B007 | excerpt PDF page 2 | Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom | The Vetting Process
+At ABC Unified, we understand the power of AI to enhance learning, but we prioritize student safety
+and responsible technology use. That's why we take a meticulous approach to vetting all
+applications, especially those incorporating AI. We ensure data privacy compliance by thoroughly
+examining developer policies and adhering to all relevant regulations. We actively seek safeguards
+against bias and inappropriate content …
+
+D003-B008 | excerpt PDF page 2 | Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom | Vetted Generative AI Tools for Students (excerpt)
+The following curated list of resources has been reviewed for age-appropriateness and support of
+data privacy. This limited list is not comprehensive, but rather a starting point for our community to
+use.
+
+D003-B009 | excerpt PDF page 2 | Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom | Vetted Generative AI Tools for Students (excerpt)
+Gemini can help students grasp concepts by explaining complex topics and generating practice
+materials. … all in a safe and age-appropriate way for users 13 and older.
+
+D003-B010 | excerpt PDF page 2 | Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom | Current Regulations Relevant to AI in Education
+United States
+FERPA - AI systems must protect the privacy of student education records and comply with parental
+consent requirements. Data must remain within the direct control of the educational institution.
+
+D003-B011 | excerpt PDF page 2 | Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom | Current Regulations Relevant to AI in Education
+COPPA - AI chatbots, personalized learning platforms, and other technologies collecting personal
+information and user data on children under 13 must require parental consent.
+
+D003-B012 | excerpt PDF page 2 | Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom | Current Regulations Relevant to AI in Education
+CIPA - Schools must ensure AI content filters align with CIPA protections against harmful content.
+
+D003-B013 | excerpt PDF page 2 | Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom | Frequently Asked Questions: Safety and Development (excerpt)
+Content filtering: Robust platforms block inappropriate content, and teachers actively monitor online
+activity.
+
+===== D017 | Bellevue_SD_AI_Handbook_Privacy_Passages.pdf =====
+COMPILATION INTRO:  Bellevue School District AI Handbook: Data and Student Privacy Passages Excerpted verbatim from Bellevue School District AI Handbook (Bellevue School District, Washington; last updated September 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. One passage from a two-column table is transcribed from the extracted page text and marked [graphic]. Our District Guiding Principles (excerpt) Source: page 3 4. Private & Secure by Design: We protect student and staff data by following privacy laws, security standards, and district guidelines when using AI tools. Strategic Alignment (excerpt) Source: page 4 • Sustainable and responsible operations, balancing innovation with fiscal responsibility, privacy, and environmental considerations Privacy Source: pages 7–8 How the District Uses AI Safely and Responsibly The district may use artificial intelligence tools to support learning, communication, and day-to-day operations. When we do, protecting student and staff information is a top priority. Below is a clear explanation of how we safeguard data and respect privacy. Protecting Student and Staff Information When AI tools are used, the district takes steps to protect students, staff, and district information from misuse, leaks, or unauthorized access. Any use of AI must follow existing district technology and privacy rules, as well as federal and state privacy laws, including laws that protect student education records. Using Only the Information That Is Necessary We limit the amount of information shared with AI tools. • Staff are encouraged to use summaries or examples instead of full student records. • Whenever possible, information is 
+
+D017-B001 | excerpt PDF page 1 | Source: page 3 | Our District Guiding Principles (excerpt)
+4. Private & Secure by Design: We protect student and staff data by following privacy laws, security
+standards, and district guidelines when using AI tools.
+
+D017-B002 | excerpt PDF page 1 | Source: page 4 | Strategic Alignment (excerpt)
+• Sustainable and responsible operations, balancing innovation with fiscal responsibility, privacy,
+  and environmental considerations
+
+D017-B003 | excerpt PDF page 1 | Source: pages 7–8 | Privacy
+How the District Uses AI Safely and Responsibly
+The district may use artificial intelligence tools to support learning, communication, and day-to-day
+operations. When we do, protecting student and staff information is a top priority. Below is a clear
+explanation of how we safeguard data and respect privacy.
+
+D017-B004 | excerpt PDF page 1 | Source: pages 7–8 | Privacy
+Protecting Student and Staff Information
+When AI tools are used, the district takes steps to protect students, staff, and district information
+from misuse, leaks, or unauthorized access. Any use of AI must follow existing district technology
+and privacy rules, as well as federal and state privacy laws, including laws that protect student
+education records.
+
+D017-B005 | excerpt PDF page 1 | Source: pages 7–8 | Privacy
+Using Only the Information That Is Necessary
+We limit the amount of information shared with AI tools.
+
+D017-B006 | excerpt PDF page 1 | Source: pages 7–8 | Privacy
+• Staff are encouraged to use summaries or examples instead of full student records.
+• Whenever possible, information is removed, changed, or made anonymous before it is used.
+• AI tools should be given only what is needed to complete a task, nothing more.
+Keeping AI Tools Secure
+AI tools are not connected to school systems like email, grading systems, or payroll unless the
+district’s IT department has approved it. This helps reduce the risk of data breaches or account
+compromise. All AI use must meet the district’s cybersecurity and technology use standards.
+
+D017-B007 | excerpt PDF page 1 | Source: pages 7–8 | Privacy
+Protecting Personal Information
+
+D017-B008 | excerpt PDF page 2 | Source: pages 7–8 | Privacy
+Personal information must always be handled carefully when using AI tools. Personal information
+includes things like:
+
+D017-B009 | excerpt PDF page 2 | Source: pages 7–8 | Privacy
+• Student names, ID numbers, or photos
+• Grades, attendance, or discipline records
+• Health or special education information
+• Staff personnel records
+This type of information is not entered into public or consumer AI tools unless the district has
+approved it. Even small pieces of information can sometimes identify a person when combined with
+other details, so care is taken to avoid that.
+
+D017-B010 | excerpt PDF page 2 | Source: pages 7–8 | Privacy
+NOTE: Microsoft Copilot Chat is the only district-approved AI tool for use with personal, confidential,
+or private information, and staff must not enter this type of information into any other AI tool.
+
+D017-B011 | excerpt PDF page 2 | Source: pages 7–8 | Privacy
+Following Privacy Laws (FERPA)
+All uses of AI follow the Family Educational Rights and Privacy Act (FERPA) and other privacy laws.
+
+D017-B012 | excerpt PDF page 2 | Source: pages 7–8 | Privacy
+• Student education records are only shared when legally allowed—such as with family permission
+  or for a valid educational reason.
+• If a vendor’s AI system uses student data, the vendor must follow strict rules and can only use
+  that data for approved educational purposes under district control.
+Being Transparent with Families
+We believe trust comes from openness.
+
+D017-B013 | excerpt PDF page 2 | Source: pages 7–8 | Privacy
+• The district will clearly explain when AI tools are used, why they are used, and how information is
+  protected.
+Resources:
+• 2022P: Electronic Resources - Student Acceptable Use of District Network
+• 6800.2P: Acceptable Use
+• FAMILY EDUCATIONAL RIGHTS AND PRIVACY
+
+D017-B014 | excerpt PDF page 2 | Source: page 9 | Governance and Oversight: Roles and Responsibilities (excerpt)
+Staff: Use only district-approved AI tools; Follow district expectations for privacy, safety, and data
+protection; Report concerns, risks, or misuse when identified
+
+D017-B015 | excerpt PDF page 2 | Source: page 9 | Data Governance and Systems
+Data governance includes key areas such as acceptable use, student records and privacy,
+information security, records management, and incident response. These areas are covered by
+other resources:
+
+D017-B016 | excerpt PDF page 2 | Source: page 9 | Data Governance and Systems
+• 2022P: Electronic Resources - Student Acceptable Use of District Network
+• 6800.2P: Acceptable Use
+
+D017-B017 | excerpt PDF page 3 | Source: page 9 | Data Governance and Systems
+• 3231P: Student Records
+• FAMILY EDUCATIONAL RIGHTS AND PRIVACY
+
+D017-B018 | excerpt PDF page 3 | Source: page 9 | Overview of AI Tools in Use
+Bellevue School District uses a set of approved AI tools that have been reviewed for privacy,
+security, educational or operational value, and alignment with district values, and that include
+safeguards for student and staff data. Approved tools include Magic School, Colleague AI and
+Microsoft Copilot. Microsoft Copilot Chat is the only district-approved AI tool for use with personal,
+confidential, or private information, and staff must not enter this type of information into any other AI
+tool.
+
+D017-B019 | excerpt PDF page 3 | Source: page 9 | Overview of AI Tools in Use
+Staff should not use personal or unapproved AI tools for school or district business unless explicitly
+authorized.
+
+D017-B020 | excerpt PDF page 3 | Source: page 10 | Procurement and Vendor Requirements
+All AI tools must follow district procurement and vendor review processes.
+
+D017-B021 | excerpt PDF page 3 | Source: page 10 | Procurement and Vendor Requirements
+Before approval, vendors must meet district privacy, security, and legal requirements, including
+signing data privacy agreements and clearly explaining how district data is collected, stored,
+deleted, and protected. Vendors may not use district data to train AI models unless explicitly
+authorized by the district.
+
+D017-B022 | excerpt PDF page 3 | Source: page 10 | Procurement and Vendor Requirements
+AI Tool Evaluation and Approval Process
+• The tool is reviewed for data protection, legal compliance, security, educational or operational
+  value, and equity and accessibility considerations.
+Approval is required before an AI tool is used with students or district data.
+
+D017-B023 | excerpt PDF page 3 | Source: page 10 | Procurement and Vendor Requirements
+Monitoring and Re-evaluating AI Tools
+Approved AI tools are monitored over time for vendor or policy changes, reported concerns, and
+continued alignment with district expectations. If concerns arise or a tool is no longer appropriate for
+district use, it may be restricted, re-evaluated, paused, or removed, and the district will communicate
+expectations to staff, address data retention or deletion, and update the approved tools list.
+
+D017-B024 | excerpt PDF page 3 | Source: page 12 | Risks and Responsibilities in Teaching & Learning (excerpt)
+Data Privacy: Personally identifiable student information must never be entered into tools that have
+not been reviewed and approved by BSD.
+
+D017-B025 | excerpt PDF page 3 | Source: pages 15–16 [graphic] | Educator Use of AI (excerpt)
+Unhelpful Educator Uses
+• [graphic] Entering student PII (personally identifiable information) into non-approved AI tools
+
+D017-B026 | excerpt PDF page 4 | Source: pages 15–16 [graphic] | Educator Use of AI (excerpt)
+Educators are responsible for:
+• Maintaining student privacy
+
+D017-B027 | excerpt PDF page 4 | Source: page 16 | Using AI Productively in Assessment & Feedback (excerpt)
+Data pattern review: Summarizing aggregate (non-PII) assessment data to support instructional
+planning.
+
+===== D067 | GCPS_Human_Centered_AI_Guidance_Privacy_Passages.pdf =====
+COMPILATION INTRO:  GCPS Guidance for Human-Centered AI Use: Data and Student Privacy Passages Excerpted verbatim from GCPS Guidance for Human-Centered AI Use (Gwinnett County Public Schools, Georgia), web page. The source has no page numbers; locations are given by section. This is a web page with no page numbers, so each section cites the web page section. Ellipses (…) mark omitted text. Guiding Principles: Equitable and Inclusive (excerpt) Source: web page, section 'Guiding Principles' • Equitable and Inclusive: All students should have access to meaningful and age-appropriate AI tools that are vetted, approved, and inclusively designed with all students in mind. Guiding Principles: Safe and Secure Source: web page, section 'Guiding Principles' • Safe and Secure: Students and staff should not be put at increased risk by using AI, nor should their personally identifying information be unlawfully shared. We will evaluate both the risks and opportunities of AI. Guidance for Students: Evaluating AI Tools (excerpt) Source: web page, section 'Guidance for Students' • Evaluating AI Tools: Students should use AI tools with the guidance of trusted adults. Students should evaluate the purpose, safety, and trustworthiness of AI tools before use. Not all AI tools are approved or appropriate for all ages, so be sure to check with your teacher or parent first. Guidance for Staff: Approved Tools and Vendor Approval (excerpt) Source: web page, section 'Guidance for Staff' Teachers and school leaders should provide guidance and expectations to students on if, how, and when they can use safe AI tools in their learning. Reference Third-Party Vendor or the Staff AI Resource Center to determine if a tool is 
+
+D067-B001 | excerpt PDF page 1 | Source: web page, section 'Guiding Principles' | Guiding Principles: Equitable and Inclusive (excerpt)
+• Equitable and Inclusive: All students should have access to meaningful and age-appropriate AI
+  tools that are vetted, approved, and inclusively designed with all students in mind.
+
+D067-B002 | excerpt PDF page 1 | Source: web page, section 'Guiding Principles' | Guiding Principles: Safe and Secure
+• Safe and Secure: Students and staff should not be put at increased risk by using AI, nor should
+  their personally identifying information be unlawfully shared. We will evaluate both the risks and
+  opportunities of AI.
+
+D067-B003 | excerpt PDF page 1 | Source: web page, section 'Guidance for Students' | Guidance for Students: Evaluating AI Tools (excerpt)
+• Evaluating AI Tools: Students should use AI tools with the guidance of trusted adults. Students
+  should evaluate the purpose, safety, and trustworthiness of AI tools before use. Not all AI tools
+  are approved or appropriate for all ages, so be sure to check with your teacher or parent first.
+
+D067-B004 | excerpt PDF page 1 | Source: web page, section 'Guidance for Staff' | Guidance for Staff: Approved Tools and Vendor Approval (excerpt)
+Teachers and school leaders should provide guidance and expectations to students on if, how, and
+when they can use safe AI tools in their learning. Reference Third-Party Vendor or the Staff AI
+Resource Center to determine if a tool is approved for use.
+
+D067-B005 | excerpt PDF page 1 | Source: web page, section 'Guidance for Staff' | Guidance for Staff: Approved Tools and Vendor Approval (excerpt)
+• Evaluating AI Tools: Staff should evaluate the purpose, safety, and trustworthiness of AI tools
+  before use. Any AI tools should be approved, based on the audience, using GCPS Third Party
+  Vendor Approval process. Be aware of any age restrictions that might exist for tools.
+
+D067-B006 | excerpt PDF page 2 | Source: web page, section 'Guidance for Staff' | Guidance for Staff: Prohibited AI Use (Privacy)
+• Compromising Ethics and Privacy: Staff should not use AI in ways that compromise staff or
+  student privacy or lead to unauthorized data collection, as this violates privacy laws and our
+  system’s ethical principles. Staff should never enter personal identifiable information into AI tools.
+• Noncompliance with Existing Policies: Staff should follow Third Party Vendor policies and
+  approved tools list, especially when supporting student use of AI tools. We will evaluate AI tools
+  for compliance with all relevant policies and regulations, such as privacy laws and data
+  governance policies. Be sure to check the approval details as not all tools are approved for all
+  ages or audiences.
+
+D067-B007 | excerpt PDF page 2 | Source: web page, section 'Guidance for Parents' | Guidance for Parents: Monitor and model (excerpt)
+• Monitor and model: It is important to supervise your students’ use of AI tools, especially if they
+  are younger. It is great to monitor the tools they are using and model safe and responsible use
+  for them. Not all AI tools are appropriate for all ages.
+
+D067-B008 | excerpt PDF page 2 | Source: web page, section 'Who to Contact in GCPS' | Who to Contact in GCPS (excerpt)
+Third-Party approvals of AI tools — Department of Data Governance
+
+===== D106 | Manchester_SD_AI_Policy_766_Privacy_Passages.pdf =====
+COMPILATION INTRO:  Manchester SD Policy 766: Data and Student Privacy Passages Excerpted verbatim from Policy 766, Use of Artificial Intelligence in Schools (Manchester School District, New Hampshire; second reading and approval May 11, 2026). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text. A footnote marker in the source is replaced by an ellipsis where it interrupts a sentence. I. Overview: Principle 4, Privacy and Data Security Source: PDF pages 1–2 4. Privacy and Data Security Student and staff data must be protected. No personally identifiable information … including Individual Education Plans (IEP), 504 Plans, … contents, student performance data, or health information — should be entered into any AI tool. Exceptions may be granted for specific tools that the District AI Committee and Technology Department have expressly approved for Personally Identifiable Information use, provided a signed Student Data Privacy Agreement is in place before any such data is entered. Footnote 1: definition of personally identifiable information Source: PDF pages 1–2 The term “personally identifiable information” includes, but is not limited to, name, address, phone number, social security number, disability status, driver’s license number, medical history, student … identification numbers, or any other information that can be used directly or indirectly, to identify, contact or locate a specific student or individual. II. Procedures (excerpt) Source: PDF page 2 • Require that all new AI tools are brought to the District AI Committee for vetting prior to classroom use. II. Community Engagement (excerpt) Source: PDF page 3 Families should be aware that students ma
+
+D106-B001 | excerpt PDF page 1 | Source: PDF pages 1–2 | I. Overview: Principle 4, Privacy and Data Security
+4. Privacy and Data Security Student and staff data must be protected. No personally identifiable
+information … including Individual Education Plans (IEP), 504 Plans, … contents, student
+performance data, or health information — should be entered into any AI tool. Exceptions may be
+granted for specific tools that the District AI Committee and Technology Department have expressly
+approved for Personally Identifiable Information use, provided a signed Student Data Privacy
+Agreement is in place before any such data is entered.
+
+D106-B002 | excerpt PDF page 1 | Source: PDF pages 1–2 | Footnote 1: definition of personally identifiable information
+The term “personally identifiable information” includes, but is not limited to, name, address, phone
+number, social security number, disability status, driver’s license number, medical history, student
+… identification numbers, or any other information that can be used directly or indirectly, to identify,
+contact or locate a specific student or individual.
+
+D106-B003 | excerpt PDF page 1 | Source: PDF page 2 | II. Procedures (excerpt)
+• Require that all new AI tools are brought to the District AI Committee for vetting prior to
+  classroom use.
+
+D106-B004 | excerpt PDF page 1 | Source: PDF page 3 | II. Community Engagement (excerpt)
+Families should be aware that students may have access to AI tools at home that are not district
+approved. The district cannot control AI use on personal devices or home networks; however,
+academic integrity expectations apply to all student work regardless of where it is completed. This
+includes only using district approved tools for schoolwork regardless of where or how it is
+completed.
+
+===== D121 | NYCPS_AI_Screen_Time_Guidance_Privacy_Passages.pdf =====
+COMPILATION INTRO: NYC Public Schools Guidance on AI and Screen Time: Data and Student Privacy Passages Excerpted verbatim from Guidance on Artificial Intelligence and Screen Time (New York City Public Schools, 2026–27 school year), web page. The source has no page numbers; locations are given by section. This is a web page with no page numbers, so each section cites the web page section. Ellipses (…) mark omitted text. Grades 9–12: Limited AI Pilots (excerpt) Source: web page, section 'Limited AI Pilots' All high school students will be required to complete two 45-minute AI literacy modules which will include lessons on how AI works, data privacy and bias, and appropriate uses of AI in school. Tool selection was based on criteria such as: • Compliance approval with the NYCPS Enterprise Request Management Application (ERMA) data privacy and security review process. How Teachers and School Staff Members May Use AI (excerpt) Source: web page, section 'How Teachers and School Staff Members May Use AI' Teachers and other school staff members may continue using AI for instructional planning and operational tasks, subject to existing requirements, including the NYCPS Enterprise Request Management Application (ERMA) data privacy and security approval process, and NYCPS procurement rules. Additionally, AI may not be used for grading, behavior monitoring, or for placement, promotion, graduation, and other decisions about students. How Software is Evaluated Before Reaching Your Child's School Source: web page, section 'How Software is Evaluated Before Reaching Your Child's School' Before any tool can be used with your child, it must be reviewed and approved. We call that review ERMA—the Enterprise Re
+
+D121-B001 | excerpt PDF page 1 | Source: web page, section 'Limited AI Pilots' | Grades 9–12: Limited AI Pilots (excerpt)
+All high school students will be required to complete two 45-minute AI literacy modules which will
+include lessons on how AI works, data privacy and bias, and appropriate uses of AI in school.
+
+D121-B002 | excerpt PDF page 1 | Source: web page, section 'Limited AI Pilots' | Grades 9–12: Limited AI Pilots (excerpt)
+Tool selection was based on criteria such as:
+
+D121-B003 | excerpt PDF page 1 | Source: web page, section 'Limited AI Pilots' | Grades 9–12: Limited AI Pilots (excerpt)
+• Compliance approval with the NYCPS Enterprise Request Management Application (ERMA)
+  data privacy and security review process.
+
+D121-B004 | excerpt PDF page 1 | Source: web page, section 'How Teachers and School Staff Members May Use AI' | How Teachers and School Staff Members May Use AI (excerpt)
+Teachers and other school staff members may continue using AI for instructional planning and
+operational tasks, subject to existing requirements, including the NYCPS Enterprise Request
+Management Application (ERMA) data privacy and security approval process, and NYCPS
+procurement rules. Additionally, AI may not be used for grading, behavior monitoring, or for
+placement, promotion, graduation, and other decisions about students.
+
+D121-B005 | excerpt PDF page 1 | Source: web page, section 'How Software is Evaluated Before Reaching Your Child's School' | How Software is Evaluated Before Reaching Your Child's School
+Before any tool can be used with your child, it must be reviewed and approved. We call that review
+ERMA—the Enterprise Request Management Application. It's how we check that tools keep your
+child's data safe and protected.
+
+D121-B006 | excerpt PDF page 1 | Source: web page, section 'How Software is Evaluated Before Reaching Your Child's School' | How Software is Evaluated Before Reaching Your Child's School
+The review is also how we keep the promises New York State law makes to you. Under New York
+State Education Law 2-d and its regulations, every vendor we work with must sign an agreement
+about how it will handle student information and provide NYCPS an explanation of what data it
+collects and how it protects it and meet recognized security standards. ERMA is where we confirm
+all of that.
+
+D121-B007 | excerpt PDF page 1 | Source: web page, section 'How Software is Evaluated Before Reaching Your Child's School' | How Software is Evaluated Before Reaching Your Child's School
+The ERMA process currently reviews tools for data privacy and security. NYCPS is committed to
+building expanded evaluation capacity, including areas not covered by ERMA such as algorithmic
+bias, equity impact, and instructional effectiveness.
+
+D121-B008 | excerpt PDF page 1 | Source: web page, section 'How Software is Evaluated Before Reaching Your Child's School' | How Software is Evaluated Before Reaching Your Child's School
+Teachers and staff members can confirm whether a tool has been approved by visiting the NYCPS
+Ed Tech Portal and logging in with their NYCPS credentials.
+
+D121-B009 | excerpt PDF page 1 | Source: web page, section 'How Software is Evaluated Before Reaching Your Child's School' | How Software is Evaluated Before Reaching Your Child's School
+Families can also learn more about student privacy.
+
+D121-B010 | excerpt PDF page 2 | Source: web page, section 'Our Commitments to You' | Our Commitments to You: Protect Student Data and Be Clear About AI
+Student data belongs to students and families and is protected by law.
+
+D121-B011 | excerpt PDF page 2 | Source: web page, section 'Additional Resources for Families' | Additional Resources for Families: Student and Family Rights, Student Privacy
+Know Your Rights: Student Privacy
+• NYCPS Parents' Bill of Rights for Data Privacy and Security
+• Protection of Pupil Rights Amendment (PPRA)
+• Family Educational Rights and Privacy Act (FERPA)
+• Individuals with Disabilities Education Act (IDEA)
+Student Privacy
+• Family Educational Rights and Privacy Act (FERPA): Gives families the right to access and
+  protect their child's education records
+• Children's Online Privacy Protection Rule (COPPA): Protects personal information collected from
+  children under 13 online
+• New York State Education Law Section 2-d: Protects student data and limits how it can be
+  shared or used
+• Chancellor's Regulation A-820: Data privacy and security
+• Children's Internet Protection Act (CIPA): Requires schools to protect students from harmful
+  online content
+
+===== D128 | NewMexico_AI_Guidance_Privacy_Passages.pdf =====
+COMPILATION INTRO:  New Mexico AI Guidance for K-12 Education: Data and Student Privacy Passages Excerpted verbatim from New Mexico AI Guidance for K-12 Education 1.0 (New Mexico Public Education Department, Curriculum & Instruction Division, with the Friday Institute at NC State University, original publication May 1, 2025). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. Passing mentions are labelled "(excerpt)". Two short passages were transcribed from rendered two-column layouts and are marked [graphic]. How to Use this Guidance (excerpt) Source: unnumbered front matter (PDF page 4) Designed to balance the innovative potential of AI tools with necessary safeguards around data privacy, academic integrity and human-centered values, this guidance offers actionable recommendations, resources and examples to empower New Mexico schools to leverage AI responsibly, preparing students for a technology-driven future. District Spotlight: Gadsden Independent School District (excerpt) Source: page 5 To ensure a safe and secure environment for students, the district collaborates with a private company to provide AI tools that include built-in safeguards and promote equitable access. AI Literacy (excerpt) Source: page 6 Prior to adoption or integration of any AI platforms, users should grasp the principles of AI systems, critically assess their ethical implications, such as privacy and bias, and make informed decisions about their use. AI Literacy, Early Grades: Ethical Awareness (excerpt) Source: page 7 Ethical Awareness | Foster critical thinking by discussing how AI can help or harm, emphasizing fairness, privacy and the importance of human oversight in a relat
+
+D128-B001 | excerpt PDF page 1 | Source: unnumbered front matter (PDF page 4) | How to Use this Guidance (excerpt)
+Designed to balance the innovative potential of AI tools with necessary safeguards around data
+privacy, academic integrity and human-centered values, this guidance offers actionable
+recommendations, resources and examples to empower New Mexico schools to leverage AI
+responsibly, preparing students for a technology-driven future.
+
+D128-B002 | excerpt PDF page 1 | Source: page 5 | District Spotlight: Gadsden Independent School District (excerpt)
+To ensure a safe and secure environment for students, the district collaborates with a private
+company to provide AI tools that include built-in safeguards and promote equitable access.
+
+D128-B003 | excerpt PDF page 1 | Source: page 6 | AI Literacy (excerpt)
+Prior to adoption or integration of any AI platforms, users should grasp the principles of AI systems,
+critically assess their ethical implications, such as privacy and bias, and make informed decisions
+about their use.
+
+D128-B004 | excerpt PDF page 1 | Source: page 7 | AI Literacy, Early Grades: Ethical Awareness (excerpt)
+Ethical Awareness | Foster critical thinking by discussing how AI can help or harm, emphasizing
+fairness, privacy and the importance of human oversight in a relatable way. For example, students
+can be guided to make responsible decisions by understanding when it is appropriate to use
+technology, learning how to verify the accuracy or reliability of AI’s responses, and understanding
+the personal data that might be collected and shared when online.
+
+D128-B005 | excerpt PDF page 1 | Source: page 8 | AI Literacy, Middle Grades: Exploring AI Ethics (excerpt)
+For instance, students can analyze scenarios such as biased hiring algorithms, autonomous
+vehicles making decisions in emergencies or the use of AI in surveillance. Small-group discussions
+can focus on balancing innovation with fairness, privacy and human rights.
+
+D128-B006 | excerpt PDF page 2 | Source: page 10 | Guiding Principles for AI (excerpt)
+AI should enhance learning and be used in ways that support educational equity, protect student
+data and maintain academic integrity.
+
+D128-B007 | excerpt PDF page 2 | Source: page 10 | Guiding Principles: Ethical and Responsible Use
+Prior to any AI purchase or implementation, educators must evaluate tools with a critical lens.
+
+D128-B008 | excerpt PDF page 2 | Source: page 10 | Guiding Principles: Ethical and Responsible Use
+Data privacy | Students’ and educators’ data should be secure, and they should have control over
+how it is used. AI tools must comply with data protection laws and respect data sovereignty (where
+data are stored, who owns the data, and how or when the data is deleted).
+
+D128-B009 | excerpt PDF page 2 | Source: page 10 | Guiding Principles: Ethical and Responsible Use
+Notice and explanation | Students and educators should know when AI is involved and how
+decisions are made. AI tools should have clear terms of use and user-friendly explanations.
+
+D128-B010 | excerpt PDF page 2 | Source: page 10 | Guiding Principles: Ethical and Responsible Use
+The four-step approach to navigating the M.A.Z.E. of AI adoption may help educators to evaluate
+and select safe and effective online platforms: Monitor data privacy, Assess for accuracy, Zero-in on
+bias and Evaluate value.
+
+D128-B011 | excerpt PDF page 2 | Source: page 11 | Digital Learning and AI Integration in New Mexico (excerpt)
+A measured approach to evaluate and select safe, responsible and age-appropriate tools is
+necessary.
+
+D128-B012 | excerpt PDF page 2 | Source: page 12 | Digital Citizenship
+Providing students with skills and strategies to verify their sources of information, understand how
+the information they input into an AI system is used and ensure the materials they interact with are
+age appropriate is important for the health of their digital citizenship. This knowledge can also
+protect them from engaging with harmful media as well as exposing their own private lives or
+sensitive information online. Further, a guiding principle of digital citizenship is to not only keep
+students safe but also to develop skills in them that encourage them to use technology to be critical
+thinkers and active learners.
+
+D128-B013 | excerpt PDF page 2 | Source: page 12 | Digital Citizenship
+Learn about the impacts of AI on our world and ourselves from Tactical Tech’s Data Detox Kit
+
+D128-B014 | excerpt PDF page 2 | Source: page 13 [graphic] | Teaching ABOUT AI (excerpt)
+[graphic] For example, students might explore how algorithms function when they make user
+recommendations, examine AI's role in industries or discuss ethical concerns like privacy and
+fairness.
+
+D128-B015 | excerpt PDF page 3 | Source: page 20 [graphic] | Policy & Governance for AI: Evolving Governance
+[graphic] Federal, state and local regulations are in development to address issues related to
+privacy, security, bias and transparency in AI tools and as new challenges emerge. Rules like
+FERPA and COPPA continue to provide a foundation regarding student data protections and
+parental consent.
+
+D128-B016 | excerpt PDF page 3 | Source: page 22 | Future Trends: Developing Responsible AI Products (excerpt)
+Product certifications from organizations like 1EdTech and Digital Promise help validate that AI tools
+meet data privacy, security and equity requirements.
+
+D128-B017 | excerpt PDF page 3 | Source: page 22 | Future Trends: Protecting Students’ Data Sovereignty
+Student work, assessments and personal data should remain under the control of schools and
+communities rather than edtech companies. As AI tools access student work, it is critical to establish
+clear ownership, transparency and governance over where data is stored, who has access and how
+it is used. Schools should prioritize AI systems that operate on closed, secure servers and align with
+ethical data governance structures to protect student rights. Viewing student data as an
+irreplaceable resource, much like cultural knowledge, reinforces the need for policies that safeguard
+against misuse, ensuring AI supports learning without compromising privacy or autonomy.
+
+D128-B018 | excerpt PDF page 3 | Source: page 22 | Future Trends: Engaging Families and Communities (excerpt)
+Schools should offer resources and workshops to help families understand AI’s role in learning,
+privacy and student development.

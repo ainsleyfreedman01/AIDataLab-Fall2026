@@ -1,0 +1,269 @@
+PDF EXCERPT PAGE 1
+     Rhode Island AI Guidance: Data and Student
+                 Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) Guidance for Local Education Agencies (LEAs) (Rhode Island
+Department of Education, August 2025). Page numbers match the document's own page numbering. Ellipses (…) mark
+omitted text. Three short passages from a table (page 16) are transcribed from the rendered page and marked [graphic].
+The Spanish translation of the sample parent letter is not repeated, and the data-privacy checklist items overlap with the
+contract recommendations on pages 29–30 and 37.
+
+
+Executive Summary (excerpt)
+Source: page 4
+
+RIDE believes AI use in Rhode Island schools should:
+
+• Ensure student data privacy;
+Through a review process, RIDE also offers initial vetting support to local education agencies
+(LEAs) and the state’s education stakeholders (educators, caregivers, education supporters, etc.)
+on the selection and use of AI-supported tools for learning.
+
+Risks of AI Use (excerpt)
+Source: page 13
+
+Inadvertent sharing of student data or other confidential information when interacting with these
+tools.
+
+Ensure equitable access to developmentally appropriate AI programs
+(footnote 4, excerpt)
+Source: page 14
+
+In general, AI products require explicit parental consent for use with students under thirteen.
+Educators should always carefully explore terms of use and their LEA’s responsible use policies
+before considering any AI-based tool.
+
+Developmentally Appropriate Use Cases and Caveats (excerpt)
+Source: page 16 [graphic]
+
+K-2, Sample Use Cases
+• [graphic] AI only used under direct supervision of a teacher with district-approved AI tools.
+• [graphic] Reinforce technology remembers what you write and enter.
+6-8, Caveats
+• [graphic] Age 13 is when children can create a GenAI account with their parent’s permission.
+
+Special Consideration: Safety, Security, Privacy (Teach AI toolkit
+section listed for Acceptable Use Policies, excerpt)
+Source: page 19
+
+• Special Consideration: Safety, Security, Privacy
+
+PDF EXCERPT PAGE 2
+Diverse Learners: Pitfalls and Pathways (excerpt)
+Source: pages 25–26
+
+Data Privacy and Security: The collection and analysis of student data by AI systems raises
+crucial questions about data protection, consent, and potential misuse.
+
+Develop Comprehensive AI Policies for All Learners: Establish clear, ethical guidelines for AI
+use that prioritize student learning, data privacy, and equitable access.
+
+8. Security and Safety
+Source: pages 27–31
+
+Key Resources:
+There are many privacy, intellectual property, and developmental concerns implicated by the use of
+AI. Stakeholders will need intentional professional learning, along with policies and procedures to
+handle instances where AI tools do not conform to expectations.
+
+The analysis below cites and summarizes the legislative intent of the federal laws primarily
+governing the preservation of various privacy interests:
+
+Family Educational Rights and Privacy Act (FERPA) - Prohibits disclosure of Personally
+Identifiable Information (PII) with some exceptions; provides right of review and correction to
+parents.
+
+Children’s Internet Protection Act (CIPA) - Revokes E-Rate funding to districts unless filtering put
+in place; requires internet safety policy.
+
+Children’s Online Privacy Protection Act (COPPA) - Requires explicit parental consent from
+online vendors with actual knowledge that they serve children under 13 years of age; must provide
+reasonable data protections; establishes right of parental data review and refusal.
+
+Protection of Pupils’ Rights Amendment (PPRA) - Governs the collection of survey data by any
+federally supported or administered educational program that may be used to discriminate (e.g.,
+income, political views, self-incriminating information).
+
+Health Insurance Portability and Accountability Act (HIPAA) - Protects sensitive health
+information for covered entities.
+
+Additional Considerations Include:
+• Personally Identifiable Information (PII) should never be shared unless required.
+• Extensive training should be provided to students and staff on what not to share with any
+  platforms.
+• Student and staff PII and intellectual properties should never be endangered. Users should
+  refrain from sharing any work that holds commercial promise and/or novelty with AI platforms,
+  unless absolutely necessary. Students should be encouraged to refrain from using their real
+  names in these platforms unless required.
+• Privacy by default - strict prohibition on using data for training models without explicit consent.
+Potential:
+
+PDF EXCERPT PAGE 3
+The most important promise LEAs can keep for their students is to keep them safe from harm.
+School districts will face difficult challenges with regard to the procurement of AI tools and
+resources. The most meaningful opportunity for LEAs is protecting student data and privacy by
+preserving the legislative intent of a number of key federal and state statutes, in a way that achieves
+more than mere compliance.
+
+Use of AI that protects student safety and privacy: AI can be used safely in compliance with
+existing legislation that protects student safety and data privacy.
+
+Pitfalls (excerpt):
+Behavioral profiling. These tools can easily behaviorally profile people such that individuals can
+be tracked through their online behavior without ever revealing their identity.
+
+Pathways (excerpt):
+Prioritize Student Privacy: Contracts should include strict data privacy provisions, outlining how
+student data will be collected, used, stored, and protected. Data sharing agreements should be
+transparent and compliant with all applicable laws and regulations. Recognize that adding student
+information on AI platforms will create access to that information to all.
+
+Demand Transparency and Explainability: Require vendors to provide clear explanations of their
+AI algorithms, including how decisions are made and what data is used. Insist on regular audits and
+assessments of the tools to ensure ongoing transparency and accountability.
+
+Ensure Cybersecurity and Data Protection: Contracts should specify strong cybersecurity
+measures to protect student data and educational systems from unauthorized access, data
+breaches, and cyberattacks. Regular security audits and updates should be included in the
+agreement.
+
+Establish Clear Ownership and Control: Define clear ownership and control of data generated by
+AI tools. Ensure that schools retain ownership and control over their data, even after the contract
+with the vendor ends.
+
+Ensure Vendor Background Checks and Training: Ensure that contracts require vendors to
+background check, train, and monitor all employee access to protected data.
+
+Appoint a “Data Security Czar” (e.g., Chief Information Security Officer), or write
+responsibilities into existing job functions (e.g., CIO): It is important to have one point of
+accountability to coordinate across the organization, as data security must be addressed in all units
+and workstreams.
+
+Establish “Plan B” Data Breach Processes: Notice processes and alternate lesson plans should
+always be defined and ready to be implemented in the event of a data breach.
+
+Encourage the use of “walled garden,” or private large language models (LLMs) in K-12
+settings: Walled gardens represent LLM-based educational tools designed specifically for K-12
+environments, with controlled content and safety features appropriate for students, such as
+Khanmigo's adaptive math tutoring platform or DreamBox Learning's intelligent adaptive learning
+platform.
+
+PDF EXCERPT PAGE 4
+Consider using a ratings framework for all AI adoption: Common Sense Media has published a
+ratings framework that can serve as a guide when selecting vendors.
+
+10. LEA Operations/Administration/Communications (excerpt)
+Source: pages 36–37
+
+Privacy and Security: Handling sensitive data raises important questions about data protection
+and cybersecurity.
+
+Develop AI Governance: Establish clear policies for AI adoption, use, and monitoring within the
+LEA, ensuring alignment with data privacy rules, regulations and legislation. Develop robust data
+management practices to ensure the integrity of data used in AI systems.
+
+Update Procurement Regulations: Procurement regulations and contracts must be updated to
+protect data privacy and security, and mitigate bias. Where appropriate, implement contractual
+provisions, for example:
+
+• Require a data security plan of vendors.
+• Establish a right of review and audit.
+• Clarify that districts own their data, not the vendor.
+• Require vendor employee training on data security.
+• Storage and access of the data should be encouraged to take place exclusively in the United
+  States.
+• Vendor agrees to the complete destruction of all customer data (and metadata) upon the
+  termination of the contractual relationship.
+• Data must be encrypted in transit and at rest.
+• Vendor must notify districts and directly affected individuals within a reasonable timeframe.
+
+Establish Data Interpretation Protocols and Enhance Data
+Governance
+Source: page 38
+
+Establish Data Interpretation Protocols: Implement a structured process for interpreting
+AI-generated insights that includes:
+
+• Clear guidelines for handling potentially sensitive or controversial findings.
+Enhance Data Governance. Strengthen data governance practices by:
+
+• Developing clear protocols for data access, use, and sharing, especially for sensitive information.
+• Implementing transparency measures to communicate how AI-generated data is being used
+  within the organization.
+• Ensuring all AI implementations comply with relevant privacy laws and ethical standards.
+
+PDF EXCERPT PAGE 5
+11. Family, Caregiver and Community Engagement (excerpt)
+Source: pages 39–42
+
+As shown in the chart below, parents need reassurance from schools about AI safety, as only 33%
+currently trust their school to protect their child’s data, and 72% want the ability to opt their child out
+of using AI in school.
+
+Privacy Concerns: Using AI for personalized communication raises questions about data collection
+and privacy, which must be carefully addressed to maintain trust.
+
+Data Sharing Complexities: LEAs need to establish clear data sharing agreements with
+community-based organizations to ensure compliance with privacy regulations while facilitating
+necessary information exchange.
+
+Communicate Transparently: Clearly communicate how AI is used in schools, explaining benefits
+and limitations, student data privacy and security, and how parents and caregivers can support
+effective and ethical use of AI at home.
+
+Prioritize Data Privacy: Implement robust data protection policies and be transparent about data
+handling in AI-powered systems. Establish clear data sharing agreements with CBOs that comply
+with all relevant privacy regulations.
+
+12. Conclusion and Next Steps (excerpt)
+Source: page 43
+
+However, the potential of AI must be balanced with thoughtful consideration of equity, privacy, and
+the central role of human educators.
+
+This approach should be rooted in the principles outlined in this guidance: prioritizing student
+learning and growth, ensuring data privacy, promoting equitable access, and maintaining human
+oversight in all AI-assisted processes.
+
+Appendix: LEA AI Getting Started With AI Checklist (excerpt)
+Source: page 46
+
+LEAs can use this guidance as they begin to implement AI, ensuring equity and alignment with
+educational objectives, while prioritizing student privacy and safety.
+
+Policy and Governance
+• Create a data governance plan ensuring privacy and ethical standards.
+• Establish a vetting process for AI tools, emphasizing data security, equity and bias mitigation.
+• Establish protocols for obtaining parental consent for student AI use.
+
+Appendix: AI Software Procurement Checklist (excerpt)
+Source: pages 47–48
+
+This AI software procurement checklist outlines critical considerations for LEAs when procuring AI
+software for educational use. It covers essential areas including data privacy, transparency, equity,
+effectiveness, cybersecurity, implementation support, and ethical considerations.
+
+PDF EXCERPT PAGE 6
+Data Privacy and Security:
+• Verify vendor compliance with FERPA, CIPA, COPPA, PPRA, and HIPAA regulations and NIST
+• Ensure contract includes strict data privacy provisions and prohibits unauthorized data use
+• Establish clear data ownership and control terms, favoring school retention
+• Mandate vendor background checks and training for employees accessing protected data
+Transparency and Accountability:
+• Mandate regular third-party audits of AI tools for bias, effectiveness, and security
+• Insist on vendor transparency regarding data sources and model training procedures
+Cybersecurity:
+• Specify strong cybersecurity measures and mandate regular security audits
+• Require vendor to have an incident response plan for potential data breaches
+Contract Flexibility:
+• Include provisions for contract termination and data export if vendor fails to meet standards
+
+Appendix: Sample Letter to Parents and Guardians on AI Use
+(excerpt)
+Source: page 49
+
+• Privacy & Security: AI use will align with regulations protecting student data privacy, safety, and
+  accessibility.
+We remind parents and guardians that AI tools may have age restrictions. For example, ChatGPT
+currently requires users to be at least 13 years old and requires parental or legal guardian consent
+for students between the ages of 13 and 18.
+

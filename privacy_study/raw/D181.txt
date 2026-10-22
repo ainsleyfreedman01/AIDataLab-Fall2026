@@ -1,0 +1,45 @@
+PDF EXCERPT PAGE 1
+Wyoming AI Policy Development Guidance: Data
+       and Student Privacy Passages
+Excerpted verbatim from Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy (Wyoming
+Department of Education, 2024). Page numbers match the document's own page numbering. Ellipses (…) mark omitted
+text. The document is a framework of questions for districts; passages quoted are those that mention privacy, data or
+compliance.
+
+
+Guiding Principles (excerpt)
+Source: page 4
+
+• Compliance: Reaffirm adherence to existing policies and procedures and any relevant federal
+  regulations (e.g., FERPA, CIPA, & COPPA).
+
+Compliance
+Source: pages 4–5
+
+When implementing AI systems, the key areas of technology policy to ensure compliance with are
+privacy, data security, student safety, data transfer and ownership, and child and youth protection.
+The Council of Great City Schools and the Consortium for School Networking (CoSN), in
+partnership with Amazon Web Services, have developed the K-12 Generative Artificial Intelligence
+(Gen AI) Readiness Checklist to help districts prepare for implementing AI technology solutions.
+The checklist provides a curated list of questions to help district leaders devise implementation
+strategies across six core focus areas: executive leadership, operations, data, technology, security,
+and risk management. Questions that need to be addressed include the following:
+
+• What is the plan to conduct an inventory of systems and software to understand the current state
+  of AI use and ensure adherence to existing security and privacy regulations?
+• Does the education system enforce contracts with software providers, stipulating that any use of
+  AI within their software or third-party providers must be clearly revealed to district staff and first
+  approved by district leadership?
+• Does the plan take into account any implications for FERPA, CIPA, and COPPA, or if applicable,
+  PPRA and GDPR?
+
+Policy Review: Review existing policies (excerpt)
+Source: page 8
+
+There may be existing policies impacted by AI. These may include the Acceptable Use Policy,
+Academic Integrity Policy, Bullying Policy, and Privacy Policy.
+
+Privacy Policies address student data. AI companies are not all educationally focused and how they
+collect, store, and utilize student data needs to be scrutinized. Privacy Policies may need to be
+examined to ensure that they cover AI.
+

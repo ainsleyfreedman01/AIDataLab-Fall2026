@@ -1,0 +1,127 @@
+PDF EXCERPT PAGE 1
+     New Mexico AI Guidance for K-12 Education:
+        Data and Student Privacy Passages
+Excerpted verbatim from New Mexico AI Guidance for K-12 Education 1.0 (New Mexico Public Education Department,
+Curriculum & Instruction Division, with the Friday Institute at NC State University, original publication May 1, 2025). Page
+numbers match the document's own page numbering. Ellipses (…) mark omitted text. Passing mentions are labelled
+"(excerpt)". Two short passages were transcribed from rendered two-column layouts and are marked [graphic].
+
+
+How to Use this Guidance (excerpt)
+Source: unnumbered front matter (PDF page 4)
+
+Designed to balance the innovative potential of AI tools with necessary safeguards around data
+privacy, academic integrity and human-centered values, this guidance offers actionable
+recommendations, resources and examples to empower New Mexico schools to leverage AI
+responsibly, preparing students for a technology-driven future.
+
+District Spotlight: Gadsden Independent School District (excerpt)
+Source: page 5
+
+To ensure a safe and secure environment for students, the district collaborates with a private
+company to provide AI tools that include built-in safeguards and promote equitable access.
+
+AI Literacy (excerpt)
+Source: page 6
+
+Prior to adoption or integration of any AI platforms, users should grasp the principles of AI systems,
+critically assess their ethical implications, such as privacy and bias, and make informed decisions
+about their use.
+
+AI Literacy, Early Grades: Ethical Awareness (excerpt)
+Source: page 7
+
+Ethical Awareness | Foster critical thinking by discussing how AI can help or harm, emphasizing
+fairness, privacy and the importance of human oversight in a relatable way. For example, students
+can be guided to make responsible decisions by understanding when it is appropriate to use
+technology, learning how to verify the accuracy or reliability of AI’s responses, and understanding
+the personal data that might be collected and shared when online.
+
+AI Literacy, Middle Grades: Exploring AI Ethics (excerpt)
+Source: page 8
+
+For instance, students can analyze scenarios such as biased hiring algorithms, autonomous
+vehicles making decisions in emergencies or the use of AI in surveillance. Small-group discussions
+can focus on balancing innovation with fairness, privacy and human rights.
+
+PDF EXCERPT PAGE 2
+Guiding Principles for AI (excerpt)
+Source: page 10
+
+AI should enhance learning and be used in ways that support educational equity, protect student
+data and maintain academic integrity.
+
+Guiding Principles: Ethical and Responsible Use
+Source: page 10
+
+Prior to any AI purchase or implementation, educators must evaluate tools with a critical lens.
+
+Data privacy | Students’ and educators’ data should be secure, and they should have control over
+how it is used. AI tools must comply with data protection laws and respect data sovereignty (where
+data are stored, who owns the data, and how or when the data is deleted).
+
+Notice and explanation | Students and educators should know when AI is involved and how
+decisions are made. AI tools should have clear terms of use and user-friendly explanations.
+
+The four-step approach to navigating the M.A.Z.E. of AI adoption may help educators to evaluate
+and select safe and effective online platforms: Monitor data privacy, Assess for accuracy, Zero-in on
+bias and Evaluate value.
+
+Digital Learning and AI Integration in New Mexico (excerpt)
+Source: page 11
+
+A measured approach to evaluate and select safe, responsible and age-appropriate tools is
+necessary.
+
+Digital Citizenship
+Source: page 12
+
+Providing students with skills and strategies to verify their sources of information, understand how
+the information they input into an AI system is used and ensure the materials they interact with are
+age appropriate is important for the health of their digital citizenship. This knowledge can also
+protect them from engaging with harmful media as well as exposing their own private lives or
+sensitive information online. Further, a guiding principle of digital citizenship is to not only keep
+students safe but also to develop skills in them that encourage them to use technology to be critical
+thinkers and active learners.
+
+Learn about the impacts of AI on our world and ourselves from Tactical Tech’s Data Detox Kit
+
+Teaching ABOUT AI (excerpt)
+Source: page 13 [graphic]
+
+[graphic] For example, students might explore how algorithms function when they make user
+recommendations, examine AI's role in industries or discuss ethical concerns like privacy and
+fairness.
+
+PDF EXCERPT PAGE 3
+Policy & Governance for AI: Evolving Governance
+Source: page 20 [graphic]
+
+[graphic] Federal, state and local regulations are in development to address issues related to
+privacy, security, bias and transparency in AI tools and as new challenges emerge. Rules like
+FERPA and COPPA continue to provide a foundation regarding student data protections and
+parental consent.
+
+Future Trends: Developing Responsible AI Products (excerpt)
+Source: page 22
+
+Product certifications from organizations like 1EdTech and Digital Promise help validate that AI tools
+meet data privacy, security and equity requirements.
+
+Future Trends: Protecting Students’ Data Sovereignty
+Source: page 22
+
+Student work, assessments and personal data should remain under the control of schools and
+communities rather than edtech companies. As AI tools access student work, it is critical to establish
+clear ownership, transparency and governance over where data is stored, who has access and how
+it is used. Schools should prioritize AI systems that operate on closed, secure servers and align with
+ethical data governance structures to protect student rights. Viewing student data as an
+irreplaceable resource, much like cultural knowledge, reinforces the need for policies that safeguard
+against misuse, ensuring AI supports learning without compromising privacy or autonomy.
+
+Future Trends: Engaging Families and Communities (excerpt)
+Source: page 22
+
+Schools should offer resources and workshops to help families understand AI’s role in learning,
+privacy and student development.
+

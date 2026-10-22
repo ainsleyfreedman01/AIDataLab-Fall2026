@@ -1,0 +1,77 @@
+PDF EXCERPT PAGE 1
+     Cherry Hill AI Implementation Plan: Data and
+              Student Privacy Passages
+Excerpted verbatim from AI Implementation Plan 2026, in coordination with Policy 2365: Generative AI (Cherry Hill Public
+Schools / Cherry Hill School District, New Jersey). Page numbers match the document's own page numbering. Ellipses (…)
+mark omitted text.
+
+
+Introduction (excerpt)
+Source: page 3
+
+It does not supersede existing policies governing academic integrity, acceptable use, student
+conduct, privacy, or bullying and harassment; where provisions intersect, all applicable policies shall
+be read together.
+
+Apps include web-based tools accessed through a browser, downloadable programs installed on a
+device, and third-party services that may require a user account and/or which may connect to
+district data and networks.
+
+Section 1- Scope and Authorized Use (excerpt)
+Source: page 3
+
+Student AI use is permitted only when a staff member has expressly assigned an AI Use Level
+(Appendix B) in writing; only on staff-approved platforms (Section 4); without input of personally
+identifiable information; and in ways that reflect genuine student learning.
+
+Section 4- AI Applications
+Source: page 6
+
+Platforms incorporated in any lesson must be on the district approved list. This list can be found at
+www.chclc.org/apps . The AI Coordinator conducts a formal annual review of the approved list
+before each school year. Platforms may be removed at any time for non-compliance with law,
+policy, or student safety. Staff are notified of all list changes.
+
+Section 5 – Prohibited Uses of AI (excerpt)
+Source: page 6
+
+The following are prohibited for all students regardless of device ownership or whether the student
+is on or off school premises.
+
+• Inputting the personally identifiable information of any student, staff member, or other individual
+  into any AI platform
+• Using AI tools not approved by the district
+• Using AI to circumvent district technology security measures, access controls, or content filters
+
+PDF EXCERPT PAGE 2
+Section 7- Academic Integrity and Suspected AI Misuse Procedures
+(excerpt)
+Source: page 7
+
+It is suggested that staff monitor student activity on AI platforms utilizing district technology
+management software, like Lightspeed.
+
+Section 8- AI Platform Approvals
+Source: page 7
+
+Platforms incorporated in any lesson must be on the district approved list. See section 4 for
+additional information.
+
+Section 11- AI Coordinator Oversight and Plan Review (excerpt)
+Source: page 8
+
+The Superintendent designates one or more AI Coordinator(s) responsible for: maintaining the
+approved platforms list; processing tool approval requests; … tracking AI-related data; monitoring
+applicable law and technology developments; and coordinating with the Director of Technology on
+procurement, privacy, and cybersecurity.
+
+Building Principals ensure building-level plan fidelity, communicate the plan to staff annually,
+oversee parent notification and consent, and escalate concerns to the AI Coordinator.
+
+Section 12- Staff Professional Development (excerpt)
+Source: page 8
+
+(1) Ethical AI Use in Educational Settings — addressing academic integrity, student data privacy,
+algorithmic bias, age-appropriate AI engagement, critical evaluation of AI outputs, and staff
+obligations under this Plan;
+

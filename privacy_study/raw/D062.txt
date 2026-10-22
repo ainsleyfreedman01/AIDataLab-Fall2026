@@ -1,0 +1,47 @@
+PDF EXCERPT PAGE 1
+         FCPS Student AI Guide: Data and Student
+                   Privacy Passages
+Excerpted verbatim from FCPS Student Guide: Artificial Intelligence (AI) (Fairfax County Public Schools, Virginia; last
+updated 7/15/24). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. Passages
+marked [graphic] were transcribed from a rendered page where the source is a two-column table.
+
+
+1. Ask for Permission Before Using AI Tools (excerpt)
+Source: page 1
+
+Do students need to ask parents/caregivers for permission to use AI tools?
+
+• Students need to ask their parents/caregivers for permission before using AI tools on personal
+  devices. Most AI tools have age restrictions. Review the privacy policy and terms of use. Find out
+  the age restrictions, and what data is collected, used, and shared. Check whether you retain
+  rights to data, the ability to delete data, and the ability to opt out of data sharing.
+• For FCPS-Approved AI tools: Parent/caregiver permission may be needed to use
+  FCPS-approved AI tools. Students and parents/caregivers can search the FCPS Digital
+  Ecosystem Library (DEL) with "AI" (in quotes) to find FCPS-approved tools, and for whom it is
+  approved. Teachers should check the status of tools before inviting students to use them.
+
+3. Protect Data Privacy
+Source: page 1
+
+Be careful with the information you give to an AI tool. Some AI tools may keep the data you enter.
+
+• Keep it General. Don’t put personal information such as your address, student ID number,
+  grades, pictures, or recordings of yourself or others.
+• Respect others' privacy and work. Don’t put someone else's work into an AI tool
+• Think about the information that you share. Protect your creative work. Don’t put information into
+  AI that you wouldn’t want someone else to know.
+• Respect copyright. Don’t put original works that belong to FCPS or someone else. Some
+  examples are published books and FCPS curriculum materials.
+• Remember to ask for help. Parents, caregivers, and teachers can help understand how to use AI
+  best. Reach out to others with questions.
+
+4. Prioritize Learning: Avoid Unacceptable Uses of AI (excerpt)
+Source: page 2 [graphic]
+
+• [graphic] Do not enter personal information, or someone else’s work. Follow the guidance to
+  Protect Data Privacy.
+• [graphic] Do not use AI in ways that cause harm. Follow the Student Rights and Responsibilities
+  and Acceptable Use Policy. Example: “Students should use technology ethically and responsibly.
+  Students should not use technology to bully, intentionally mislead, harm, or violate the privacy of
+  self or others.”
+

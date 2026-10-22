@@ -1,0 +1,89 @@
+PDF EXCERPT PAGE 1
+ Michigan AI Comprehensive Guide for Districts:
+       Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) Comprehensive Guide for Districts (Michigan Department of Education).
+Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Introduction (excerpt)
+Source: page 3
+
+By following these guidelines, administrators may help support safe, equitable, and effective AI use
+while maintaining educator oversight, protecting student privacy, and fostering transparency with
+stakeholders.
+
+Essential Practices to Consider: Protect Privacy and Integrity
+Source: page 3
+
+• Protect Privacy and Integrity
+Districts should be aware of and follow federal privacy and accessibility laws.
+
+• Family Educational Rights and Privacy Act (FERPA) - Follow federal requirements for protecting
+  students’ education records. Useful resources include the U.S. Department of Education’s
+  FERPA overview and technical assistance tools.
+• Children’s Online Privacy Protection Act (COPPA) - For online tools and applications used with
+  children under 13, ensure parental consent and proper data collection practices, following the
+  Federal Trade Commission's COPPA FAQs: COPPA compliance guide.
+
+Phase 0: Organize and Listen (excerpt)
+Source: pages 4–5
+
+• Designating a district AI lead. This might be the curriculum director, chief information officer, chief
+  technology officer, or data privacy officer.
+• Having the technology department inventory/register AI systems, owners, data, risk, etc.
+
+Phase 1: Compliance and Risk Controls
+Source: page 6
+
+Districts may consider:
+• Aligning organizational practices to NIST AI Risk Management Framework (RMF).
+• Having an AI team review compliance with:
+• FERPA
+• COPPA
+• Children’s Internet Protection Act (CIPA)
+• Cybersecurity and Infrastructure Security Agency (CISA)/K12 Security Information Exchange
+  (SIX) cybersecurity baseline.
+
+PDF EXCERPT PAGE 2
+Phase 2: Instructional Guardrails and Considerations (excerpt)
+Source: page 7
+
+• Posting classroom AI norms (student disclosure, privacy, verification, fairness, age-appropriate
+  use).
+
+Phase 2: Procurement and Vendor Due Diligence
+Source: page 8
+
+Districts may consider updating a request for proposal template to include an expanded vendor
+questionnaire covering AI-specific requirements. This may include:
+
+• Model cards: model cards provide standardized documentation that describes an AI model’s
+  intended use, training data sources, performance, limitations, and known risks. Model cards help
+  the district verify whether a vendor’s AI system is appropriate, transparent, and safe for district
+  use.
+• Data sources and licensing: information on where AI model training data originated, whether it is
+  lawfully obtained, and whether it includes proprietary or sensitive material.
+• Privacy terms: how data is stored, protected, and used within the system.
+• Data retention and deletion policies: how long the system retains data, and the processes for
+  securely deleting it.
+• Right to audit provisions: the district’s ability to review vendor practices, documentation, and
+  controls to ensure compliance.
+Districts may consider utilizing AI tool evaluations.
+
+Phase 2: Suggested Deliverables (excerpt)
+Source: page 9
+
+• Updated procurement documents and contract clauses.
+
+Phase 3: Community Communications (excerpt)
+Source: page 10
+
+• Sharing on the district website what the district will/won’t do regarding AI privacy, human
+  oversight, and age safeguards.
+
+Potential AI Implementation Measures of Success (excerpt)
+Source: page 11
+
+• Privacy and security: Zero advertising/secondary uses, incident rates, AIA completion for risk (if
+  used)
+

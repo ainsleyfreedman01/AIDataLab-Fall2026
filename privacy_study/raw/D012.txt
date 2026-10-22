@@ -1,0 +1,47 @@
+PDF EXCERPT PAGE 1
+  Ascension Parish Policy IFBGB, AI Acceptable
+    Use: Data and Student Privacy Passages
+Excerpted verbatim from Policy IFBGB, Employee and Student Acceptable Use Policy for Artificial Intelligence (Ascension
+Parish School Board, Louisiana). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text.
+
+
+Access and Permissions (excerpt)
+Source: page 1
+
+• A list of district-approved Al tools will be maintained by the Information Technology Department
+  and reviewed regularly. Staff may request an evaluation of additional tools by following the
+  current software request procedures.
+
+Privacy, Security, and Data Protection
+Source: page 2
+
+• Users must be aware of data privacy concerns with AI tools, especially regarding the handling of
+  personal and sensitive information.
+• Personally identifiable information (PII), confidential information, and/or sensitive information
+  should never be shared with an AI tool unless such sharing is explicitly approved by the School
+  Board.
+• All Al tools must comply with the Family Educational Rights and Privacy Act (FERPA), the
+  Children's Online Privacy Protection Act (COPPA), and other relevant privacy laws.
+• The Information Technology Department ensures that approved Al tools have robust security
+  measures to protect user data from unauthorized access.
+• Users are expected to be aware of and comply with the terms and conditions of all Al tools,
+  specifically with respect to age requirements.
+• The Information Technology Department conducts regular security assessments of
+  District-approved AI technologies to safeguard against vulnerabilities.
+
+Student and Parent Education (excerpt)
+Source: page 3
+
+The School Board will provide students and parents with resources to understand Al tools, their
+appropriate use, and related risks.
+
+Monitoring and Enforcement
+Source: page 3
+
+• The School Board reserves the right to monitor the use of AI tools to ensure compliance with this
+  policy.
+• This may include real-time monitoring of network activity and/or maintaining a log of Internet
+  activity for later review.
+• Users should have no expectation of privacy when using School Board technology or networks.
+  All activity may be monitored to ensure compliance with this policy.
+

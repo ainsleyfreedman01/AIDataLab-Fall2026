@@ -1,0 +1,84 @@
+PDF EXCERPT PAGE 1
+    Spartanburg District Four Generative AI
+ Guidelines: Data and Student Privacy Passages
+Excerpted verbatim from Generative AI Guidelines 2026-2027 (Spartanburg School District Four, South Carolina; last
+update July 6, 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Ethical and Effective Use of AI (excerpt)
+Source: page 4
+
+AI tools and applications should be used in ways that support teaching, learning, and school
+operations while respecting the rights, privacy, and dignity of all students, families, and staff
+members.
+
+Employees and students are expected to:
+
+• Protect student and staff privacy by following all district policies and data security guidelines
+  when using AI platforms or applications.
+
+Generative AI Implementation Plan (excerpt)
+Source: page 7
+
+Phase 1: Guidance and Policy Focus: Foundation for safe use
+
+• Data Privacy and Security
+
+Benefits & Risks of AI (excerpt)
+Source: page 8
+
+Privacy: Risks associated with inputting student data … into models.
+
+Protecting Data Privacy
+Source: page 17
+
+Personally Identifiable Information (PII) must never be entered into any AI platform.
+
+Prohibited Information (What NOT to Share):
+• Identity: Names, addresses, phone numbers, SSNs, or birth dates.
+• Educational Records: Grades, transcripts, IEPs, or disciplinary records.
+• Health Information: Medical records, therapy notes, or allergy information.
+• Financial Info: Family income or bank details.
+• Photos or Videos: Images or recordings of students.
+• Communication: Personal logs, emails, or student-teacher messages.
+Best Practices for Anonymizing Data*
+• Remove PII: Exclude all identifiers from prompts entirely.
+• Generalize Information: Describe educational needs (e.g., "a student struggling with phonics")
+  rather than specific student details.
+
+PDF EXCERPT PAGE 2
+• Use Hypothetical Scenarios: Create "mirror" scenarios that reflect a student's educational
+  context without revealing their identity.
+Privacy Protocol: Minimal Disclosure
+Even with strict safeguards, data fragments can sometimes be reassembled to identify an individual.
+To mitigate this risk, adhere to the principle of data minimization. Share only the essential
+information required for context and support; protecting privacy is most effective when you limit the
+details provided.
+
+Employees are required to complete annual training regarding FERPA (Family Educational Rights
+and Privacy Act).
+
+Questions regarding PII or FERPA should be directed to school adminstration.
+
+*Examples from Eric Curts of Control Alt Achieve
+https://www.controlaltachieve.com/2024/03/ai-tools-and-student-data-privacy.html
+
+MagicSchool Guidelines (excerpt)
+Source: page 18
+
+Spartanburg School District Four’s adopted AI platform for students is MagicSchool ONLY. Other
+platforms utilized by students are in direct violation of Spartanburg School District Four’s Acceptable
+Use Guide.
+
+Age Restrictions: MagicSchool, an AI platform built for K-12, allows users of any age. Student users
+are added to the platform and supervised by their teacher.
+
+COPPA Compliance: MagicSchool AI and other tools must be used in accordance with the
+Children’s Online Privacy Protection Act. Use for students under 13 requires strictly
+district-approved, "built-for-education" models.
+
+AI Literacy: Before any student is permitted to use MagicSchool AI, students will receive annual
+instruction on AI literacy (including but not limited to fact-checking, formal/informal citations, and
+data privacy protections) to understand the technology's limitations, ethical implications, and
+Spartanburg School District Four’s policies.
+

@@ -1,0 +1,21 @@
+PDF EXCERPT PAGE 1
+     Iowa City CSD Regulation 605.8R1: Data and
+              Student Privacy Passages
+Excerpted verbatim from Regulation 605.8R1, Artificial Intelligence in the Education Environment (Iowa City Community
+School District, Iowa; adopted 3/26/24, updated 3/10/26). The source has no page numbers; locations are given by section.
+Web page; only the privacy-related items from the tool selection criteria are included.
+
+
+Selection of Artificial Intelligence (AI) tools (excerpt)
+Source: web page
+
+AI tools will be vetted by the superintendent or superintendent's designee. Decisions to use AI tools
+should be focused on:
+
+• Privacy: Personally Identifiable Information (PII) of students will not be shared without prior
+  written consent, where the third-party vendor with access to PII qualifies under the School Official
+  exemption established FERPA and described in policy 712.
+• Transparent and Interruptible: Student use of AI tools must be able to be monitored by
+  licensed staff to safeguard the appropriateness of the learning experience for the student and
+  monitor for accuracy of the AI tool.
+

@@ -1,0 +1,54 @@
+PDF EXCERPT PAGE 1
+Hempfield School District Policy 815.1 (AI): Data
+        and Student Privacy Passages
+Excerpted verbatim from Policy 815.1 - Artificial Intelligence (Hempfield School District, Pennsylvania; Book Policy Manual,
+Status: Second Reading, May 2025). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted
+text.
+
+
+Purpose (excerpt)
+Source: PDF page 1
+
+The board’s purpose of implementing a policy on Artificial Intelligence (AI) is to ensure the ethical
+and responsible use of AI technologies to enhance teaching, learning, and administrative processes
+while safeguarding student privacy and data security.
+
+Guidelines: FERPA Compliance
+Source: PDF page 2
+
+Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g; 34 C.F.R. Part 99.
+
+All teachers, administrators, and staff are required to adhere strictly to the regulations outlined in the
+Family Educational Rights and Privacy Act (FERPA) when utilizing any AI resources. Cloud-based
+AI systems can reuse uploaded data for other purposes, and without an appropriate privacy
+agreement in place with the operator, usage will result in both privacy and security risks and
+violations.
+
+The District prohibits the use of the personally identifiable information of students while using AI
+websites, tools, or applications that have not been pre-approved by the Chief Information Officer or
+his/her designee. The Chief Information Officer shall establish a process by which teachers and
+administrators can request the approval of new AI resources. The vetting process shall include a
+review of the tool’s privacy policy, data handling practices, and compliance with FERPA. The Chief
+Information Officer or designee shall maintain a list of all such approved resources.
+
+Guidelines: Acceptable Use and CIPA Compliance (excerpt)
+Source: PDF page 3
+
+All AI tools used by the district will be CIPA compliant.
+
+Guidelines: Grading Student Work
+Source: PDF page 3
+
+Approved AI websites and applications may be used to assist with the grading of student work
+product, but final decisions on assignment grades shall be determined by teachers and not solely by
+AI technology. Teachers shall ensure that personally identifiable student records are kept secure
+when using any such grading technology.
+
+PDF EXCERPT PAGE 2
+Guidelines: Professional Development (excerpt)
+Source: PDF page 4
+
+The training should equip educators, administrators, and staff with the knowledge and skills
+necessary to integrate AI tools into their roles in the District while also addressing data privacy, legal
+compliance, and ethical considerations.
+

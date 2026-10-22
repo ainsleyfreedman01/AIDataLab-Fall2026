@@ -1,0 +1,55 @@
+PDF EXCERPT PAGE 1
+ Newton Guidelines for the Use of Generative AI:
+      Data and Student Privacy Passages
+Excerpted verbatim from Guidelines for the Use of Generative AI in the Newton Public Schools (Department of Information
+Technology & Library Services, Newton Public Schools, Massachusetts, updated July 2025). Page numbers refer to the
+PDF pages of the source file. Ellipses (…) mark omitted text. The document has no printed page numbers, so PDF page
+numbers are used.
+
+
+Introduction (excerpt)
+Source: PDF page 1
+
+These guidelines have been developed to inform the use of Generative AI systems by staff and
+students in the Newton Public Schools. It addresses concerns of data privacy, terms of service, and
+academic honesty.
+
+Guiding Principles: Protecting Data Privacy and Online Safety
+Source: PDF page 2
+
+Protecting Data Privacy and Online Safety - Many AI tools, particularly those not built for
+educational settings, lack data privacy agreements with Newton Public Schools. Only enter
+Personally Identifiable Information (PII) into systems that have such agreements. This isn't just best
+practice for school-related information, but also for your personal use of AI. Furthermore, please be
+aware that AI tools can generate inaccurate, biased, or inappropriate content for students and the
+educational environment. Therefore, thoughtful guidance and informed use of AI are essential.
+
+Generative AI Use by NPS Staff: Data Protection
+Source: PDF page 4
+
+• Generative AI tools incorporated into systems (such as Brisk) for which NPS has signed Data
+  Privacy Agreements can be fed personally identifiable data. Check to make sure the tools are
+  listed in the NPS Student Data Privacy Agreement Database.
+• Generative AI tools NOT included or listed in the NPS Student Data Privacy Agreement
+  Database (such as ChaptGPT) can be used by staff so long as personally identifiable information
+  is not shared with the system. This includes but is not limited to:
+• Do NOT use student names, ID numbers, or other identifiers.
+• Do NOT share or paste text into such systems that include student or staff personally identifiable
+  information.
+• Do NOT share sensitive data such as social security numbers, grades, medical information, or
+  discipline information with Generative AI systems.
+
+PDF EXCERPT PAGE 2
+Generative AI Use by NPS Students: Online Responsible Use Best
+Practices (excerpt)
+Source: PDF page 6
+
+• Protect your Data: When using any online tool, including AI, be cautious with what you share.
+  Avoid sharing personal information except when necessary and only after understanding a tool’s
+  privacy policy (ie., how is the data you enter into the system used by the system, is the system
+  “selling” your data to other parties, etc.)
+• Develop AI Literacy: Understand the limitations and appropriate use cases of AI; evaluate AI
+  content for bias and factual accuracy; understand how AI systems process data and produce
+  results; think critically about ethical issues such as how AI systems are trained, what the systems
+  do with user data, and environmental impacts.
+

@@ -1,0 +1,40 @@
+PDF EXCERPT PAGE 1
+   Sioux Falls SD Artificial Intelligence Guidance:
+        Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence Guidance (Sioux Falls School District, May 2026). The source has no page
+numbers; locations are given by section. Google Doc plain-text export; ellipses (…) mark omitted text.
+
+
+Ethical Principles (excerpt)
+Source: Google Doc, section 'Ethical Principles'
+
+• Privacy and Legal Protection: Adhering to stringent data protection standards and federal law
+  (FERPA, CIPA, COPPA, GDPR, DMCA)
+
+Guidelines for Responsible AI Use (excerpt)
+Source: Google Doc, section 'Guidelines for Responsible AI Use'
+
+• Protect Student Information: Personally Identifiable Information should not be shared with AI
+  tools
+
+Roles & Responsibilities (excerpt)
+Source: Google Doc, section 'Roles & Responsibilities'
+
+District and School Commitment
+• Monitor AI use to promote responsible implementation, protect privacy, and ensure compliance
+  with district AI guidance
+Teacher & Staff Commitment
+• Ensure privacy by removing all personally identifiable information before using AI (names,
+  Individualized Education Programs [IEPs], birthdays, assessments, etc.)
+Student Commitment
+• Develop skills to use AI responsibly, recognizing that all inputs into generative AI may be
+  retained by the AI platform
+
+Review & Implementation Process (excerpt)
+Source: Google Doc, section 'Review & Implementation Process'
+
+All AI tools undergo a multitiered AWE (Apps, Websites, Extensions) review process, which
+includes:
+
+• Privacy considerations and age restrictions
+

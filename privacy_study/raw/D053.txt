@@ -1,0 +1,129 @@
+PDF EXCERPT PAGE 1
+      Delaware Generative AI Guidance: Data and
+              Student Privacy Passages
+Excerpted verbatim from Generative AI in Delaware Education (Delaware Department of Education, Council on Educational
+Technology; version 1.0, 06/2024). Page numbers match the document's own page numbering. Ellipses (…) mark omitted
+text. Printed page numbers match the PDF page numbers. Several short passages are passing mentions and are marked
+(excerpt). Text transcribed from the page 11 infographic is marked [graphic].
+
+
+Statement of Purpose (excerpt)
+Source: page 5
+
+The comprehensive recommendations address crucial policy areas such as protecting student data,
+ensuring ethical, equitable, and effective Generative AI use, promoting equity, and enhancing
+learning through content and curricula that leverage Generative AI technologies.
+
+Understanding Artificial Intelligence (excerpt)
+Source: page 7
+
+The educational community must engage in an informed evaluation of AI-driven products, focusing
+on the mechanics of their operation, the nature of data collection, and the origins of their
+informational content.
+
+Generative AI Advantages and Cautions (excerpt)
+Source: page 10
+
+Cautions involve exacerbating socioeconomic disparities, challenges in academic integrity, privacy
+concerns, and the need for critical engagement with AI tools to prevent dependency, among others.
+
+AI in K-12 Education Advantages and Cautions: Privacy Concerns
+Source: page 11 [graphic]
+
+[graphic] Privacy Concerns: The use of AI in education involves collecting and analyzing vast
+amounts of personal data from students, raising significant privacy concerns.
+
+Key Policy Areas for Implementation of Generative AI (excerpt)
+Source: page 12
+
+The key policy areas provide a framework for integrating Generative AI technologies within
+academic settings, ensuring privacy protection, ethical use, and equity to enhance learning.
+
+PDF EXCERPT PAGE 2
+Best Practices for Implementation Strategies: Protecting Student
+Data
+Source: page 13
+
+• Establish strict data privacy and security measures to protect PII, especially student information
+• Personally Identifiable Information (PII) should not be manually entered into Generative AI
+  systems
+• Adhere to federal and state laws
+• Ensure the Generative AI vendor complies with signing Delaware Department of Technology &
+  Information (DTI) Terms and Conditions Governing Cloud Services and Data Usage
+• Ensure AI systems are safe, minimizing risks to humans
+
+Best Practices for Implementation Strategies: Enhancing Learning
+(excerpt)
+Source: page 13
+
+• Stay informed and updated with state terms and conditions for data use, privacy, policies, and
+  legislation.
+
+Managing Generative AI Platforms
+Source: page 14
+
+New platforms are launching daily. It is important to note that many of these platforms are interfaces
+between the user and another Generative AI system, such as OpenAI's ChatGPT or Google's
+Gemini. Districts and charter schools should review each system's terms and conditions and
+integrations with additional systems before utilizing or adopting them. Steps should be taken to
+review specific age restrictions, privacy, and student data collection practices within all third-party
+vendors.
+
+As the landscape of education evolves with the integration of Generative AI, it is essential to
+recognize that educational platforms and tools will undergo rapid changes. Educators, students, and
+parents are encouraged to stay informed about their rights, responsibilities, and privacy implications
+of these technologies.
+
+Evaluation of AI Platforms & AI Within Existing Platforms (excerpt)
+Source: page 14
+
+The Emerging Technology Adoption Framework promotes transparency and accountability. This
+approach mitigates risks like data privacy and biases and fosters Generative AI’s responsible and
+ethical use in educational environments.
+
+PDF EXCERPT PAGE 3
+Protecting Student Data with Generative AI Classroom Integration
+Source: page 15
+
+Integrating Generative AI into K-12 education presents a transformative opportunity to enhance
+learning experiences and outcomes. However, it necessitates a meticulous approach to protecting
+student data, ensuring privacy, and maintaining compliance with legal frameworks such as the
+Family Educational Rights and Privacy Act (FERPA). School Districts and Charter Schools must
+prioritize establishing robust data governance policies with precise data collection, storage, access,
+and sharing protocols. Implementing these tools should be accompanied by rigorous security
+measures, including encryption and secure authentication, to safeguard against unauthorized
+access to sensitive information. Furthermore, transparency with students and parents about using
+Generative AI and the data it generates is crucial. This involves providing accessible information on
+how data is used to support educational goals and how privacy is protected. By thoughtfully
+integrating technologies within a framework of strong data protection practices, academic
+institutions can unlock the potential of Generative AI to personalize learning while simultaneously
+upholding the trust and confidence of the educational community in the digital age. The Delaware
+Department of Technology and Information provides terms and conditions for cloud services and
+student data usage. This documentation needs to be recorded and signed when contracting with
+vendors.
+
+Promoting Equity with Generative AI Classroom Integration (excerpt)
+Source: page 16
+
+This involves addressing potential biases in these systems, ensuring data privacy, and promoting
+an inclusive learning environment that benefits all students.
+
+Best Practices from AIFWD for Integrating Generative AI in the
+Classroom (excerpt)
+Source: page 17
+
+When selecting a Generative AI tool, carefully review the age restrictions, privacy, and data
+collection policies before implementing them in the classroom.
+
+Professional Learning Programs: Protecting Student Data
+Source: pages 21–22
+
+• Prompt Engineering for Educators: Best practices for designing prompts that maximize teacher
+  capacity while protecting student data and PII.
+• Generative AI to Support Pedagogy: Leverage tools for personalized learning, student
+  engagement, and formative assessment to enhance classroom pedagogy and support individual
+  student needs while maintaining student data privacy.
+• Connections to Generative AI and Special Education: Training on Generative AI and creating
+  support for exceptional education learners. Discuss goals, protecting student data, privacy dos
+  and don’ts when prompting, and best practices for personalized learning.
+

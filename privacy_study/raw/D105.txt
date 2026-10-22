@@ -1,0 +1,44 @@
+PDF EXCERPT PAGE 1
+       Maine DOE Technology Guidance: Data and
+              Student Privacy Passages
+Excerpted verbatim from Technology Guidance for Maine SAUs, including AI Toolkit (Maine Department of Education; web
+page). The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text. This is a landing
+page of best-practice bullets that links to the AI Toolkit; the toolkit itself is not included.
+
+
+Acceptable Use Policies (excerpt)
+Source: web page, section 'Acceptable Use Policies'
+
+Consider the following best practices for AUPs
+
+• Include guidance on devices (including personal devices), internet access, social media, AI,
+  digital citizenship, cybersecurity, and data privacy.
+
+Artificial Intelligence (AI) In Education (excerpt)
+Source: web page, section 'Artificial Intelligence (AI) In Education'
+
+Consider the following best practices for AI in Education
+
+• Promote equity, privacy, and digital literacy in all AI-related instruction.
+
+Cybersecurity in Schools
+Source: web page, section 'Cybersecurity in Schools'
+
+In today’s connected world, cybersecurity is essential. Maine schools are responsible for protecting
+student data and maintaining secure digital environments.
+
+Consider the following best practices for Cybersecurity in Schools
+
+• Conduct regular security assessments and keep software and devices updated.
+• Implement multi-factor authentication, strong passwords, and secure backups.
+• Educate staff and students about phishing, scams, and social engineering threats.
+• Encourage a culture of shared responsibility; cybersecurity is everyone’s job.
+
+Digital Citizenship & Wellness (excerpt)
+Source: web page, section 'Digital Citizenship & Wellness'
+
+Consider the following best practices for Digital Citizenship and Digital Wellness
+
+• Embed conversations about media literacy, digital footprints, and online reputation into everyday
+  instruction.
+

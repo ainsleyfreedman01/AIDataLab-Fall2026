@@ -1,0 +1,119 @@
+PDF EXCERPT PAGE 1
+ Georgia AI Guidance: Data and Student Privacy
+                  Passages
+Excerpted verbatim from Leveraging AI in the K-12 Setting (Georgia Department of Education, January 2025). Page
+numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Ethical & Responsible Use of AI (excerpt)
+Source: page 3
+
+Educators, administrators, and students must:
+
+• Respect privacy and ensure data protection in all AI endeavors.
+
+Potential Risks of AI in Education (excerpt)
+Source: page 4
+
+Transparency is also vital; stakeholders should be informed about how AI systems make decisions
+and what data they use. Protecting the privacy of students and staff is another key ethical
+consideration, requiring robust data protection measures. See Safeguarding Privacy: Protecting
+Personally Identifiable Information in AI Systems.
+
+Safeguarding Privacy: Protecting Personally Identifiable Information
+in AI Systems
+Source: page 5
+
+To protect Personally Identifiable Information (PII), the following practices must be adhered to:
+
+• Never input PII, such as social security numbers, home addresses, health information, academic
+  information, employee performance, or other sensitive data into AI systems.
+• Utilize anonymized or aggregated data (utilizing a locally determined n size) whenever possible
+  so specific students and staff cannot be identified.
+• Educate all users about the risks and responsibilities of handling PII and integrate this into
+  annual professional learning requirements.
+Protecting student and staff privacy is a top priority. AI systems can process vast amounts of data,
+and it is essential to ensure that this data does not include sensitive personal information. Schools
+should implement strict data handling policies and provide training to all staff on data privacy best
+practices.
+
+Key Federal Statutes and Regulations
+Children’s Online Privacy Protection Rule (COPPA):
+
+• 47 USC §231
+• 16 CFR Part 312
+Family Educational Rights and Privacy Act (FERPA):
+
+• 20 USC §1232g
+• 34 CFR Part 99
+
+PDF EXCERPT PAGE 2
+Privacy Act of 1974:
+
+• 5 USC §552a
+• 22 CFR Part 1101
+Protection of Pupil Rights Amendment (PPRA):
+
+• 20 USC §1232h
+• 34 CFR Part 98
+Section 504: Rehabilitation Act applies to both physical and digital environments. Schools must
+ensure that their digital content and technologies are accessible to students with disabilities.
+
+IDEA (Individuals with Disabilities Education Act): AI must not be implemented in a way that denies
+disabled students equal access to education opportunities.
+
+District Self-check: Privacy Considerations
+Source: page 6
+
+• How have AI and PII best practices been integrated into annual student privacy professional
+  learning for all … educators and staff?
+• Are all district staff trained on the importance of protecting personal and private information when
+  interacting with AI systems?
+• Is there a monitoring process to ensure compliance with data privacy practices and federal
+  regulations?
+
+Developing and Adopting AI Policies (excerpt)
+Source: page 7
+
+Ensure policies align with district goals and policies, covering ethical use, data privacy, grading,
+code of conduct, and acceptable use.
+
+Having Formal Agreements with AI Systems and Tools
+Source: page 9
+
+Districts and schools should establish formal agreements with AI vendors to protect the school
+district, staff, and students, which should include:
+
+• Clear terms of use and service-level agreements.
+• Data privacy and security commitments from the vendor.
+• Regular audits and compliance checks.
+Formal agreements with AI vendors are essential to ensure that AI tools are used responsibly and
+effectively. These agreements should outline the expectations and responsibilities of both parties,
+including data use and privacy as well as security measures. Regular audits and compliance checks
+can help ensure that vendors adhere to these agreements and that any issues are promptly
+reported and addressed.
+
+TrustEd Apps is a catalog of applications and software vetted for use. Each application in the
+catalog has been researched and validated to ensure security and data privacy. The TrustEd Apps
+
+PDF EXCERPT PAGE 3
+data privacy rubric examines four key areas: data collected, security, third-party sharing, and
+advertising
+
+Evaluation Process Rubric (excerpt)
+Source: page 10
+
+Implementing a structured process for evaluating and adopting AI tools involves considering various
+factors to ensure their educational value and privacy implications.
+
+Data Privacy Compliance with privacy laws and regulations, data encryption, anonymization
+practices.
+
+Age restrictions Evaluate age requirements for utilization to ensure alignment with implementation.
+
+Importance of AI Professional Learning for Educators (excerpt)
+Source: page 11
+
+• Ethical considerations and data privacy.
+Ethical considerations and data privacy are critical topics that need to be addressed.
+

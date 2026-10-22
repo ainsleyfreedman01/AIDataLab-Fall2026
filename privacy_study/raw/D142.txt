@@ -1,0 +1,107 @@
+PDF EXCERPT PAGE 1
+     PSJA ISD AI Guidebook: Data and Student Privacy
+                       Passages
+Excerpted verbatim from the Pharr-San Juan-Alamo ISD AI Guidebook (Version 1, updated September 2026). Page numbers
+match the guidebook's own page numbering. Passages marked [graphic] were transcribed from images in the original.
+
+
+Guiding Principles: Safety and Privacy
+Source: page 4
+
+SAFEGUARDING — Safety and Privacy. We strictly select and utilize AI tools that meet rigorous data
+privacy and digital footprint standards.
+[graphic] SAFETY AND PRIVACY: Protecting student data and identity.
+
+
+Privacy & Security
+Source: page 5
+
+To safeguard student privacy, ensure instructional integrity, and boost professional productivity, please
+follow these guidelines for district-approved AI tools (accessible via your district login). Do not use
+non-approved AI resources for any work-related activities.
+Student Privacy & Data Protection (FERPA Compliance)
+In accordance with the Family Educational Rights and Privacy Act (FERPA) and PSJA ISD Board Policy
+FL (LEGAL), safeguarding student data is a critical legal requirement.
+Under no circumstances should staff enter, upload, paste, or describe identifiable student information
+into public AI tools or prompts. Treat prompts as data leaving district systems. Even partial information
+combined with context can make a student identifiable.
+Examples of Strictly Prohibited Information:
+
+• Basic Identifiers: Student names (first and last), Student ID numbers, dates of birth, home
+   addresses, or parent/guardian names.
+
+• Protected Records: Social Security numbers, disciplinary records, health/medical information, or
+   human resources/payroll info.
+
+• Academic & Support Data: Grades connected to an identifiable student, or Special Education (IEP)
+   and Section 504 details tied to a specific student.
+Incident Reporting Protocol
+If you suspect a data exposure, a security breach, or the misuse of an AI tool, you must report it
+immediately to mitigate data risk.
+
+• Report to: PSJA ISD IT Helpdesk
+• Submission Channels: Helpdesk Portal Link | helpdesk@psjaisd.us
+
+Staff AI Expectations: Personal AI Account Policy
+Source: page 6
+
+PDF EXCERPT PAGE 2
+While PSJA ISD requires district-managed credentials for standard work to ensure legal compliance
+(CIPA, COPPA, FERPA, PPRA), it recognizes that staff may use personal premium accounts (e.g.,
+ChatGPT Plus, Gemini Advanced) for advanced features. When doing so, staff must strictly adhere to
+data privacy guardrails: never enter student Personally Identifiable Information (PII) or confidential
+district data into an AI account.
+
+
+Staff AI Expectations: Staff Security Protocols
+Source: page 6
+
+To ensure network security and data loss prevention, all staff members must adhere to the following
+operational guardrails:
+
+• District-Managed Accounts Only: Always log in using official PSJA ISD Microsoft 365 or Google
+   Workspace credentials. Never use personal emails or accounts for district business.
+
+• Approved Storage Systems: Store and share district documents only within approved
+   environments (Google Drive, SharePoint, OneDrive, Teams). Follow all existing sharing and
+   permission rules.
+
+• No Unapproved Add-ons: Do not install AI browser extensions, add-ons, or connectors (for Google
+   Workspace or Office 365) without explicit IT administrative approval.
+
+• Third-Party App Restriction: Staff are prohibited from authorizing third-party apps or granting AI
+   tools permission to access district accounts and data sets.
+
+• Managed Endpoints Only: If an authorized AI tool requires file uploads or document access, it must
+   only be accessed on managed district devices equipped with active endpoint protection.
+
+• Basic Identifiers: Passwords, access tokens, or any login credentials for district-managed systems.
+
+Staff AI Expectations: District Approved AI Tools (excerpt)
+Source: page 7
+
+Information Technology Department maintains a vetted list of AI domains and applications. AI tools and
+related web traffic will be actively logged and inappropriate content will be blocked on district networks
+and managed devices.
+[graphic] Before using any AI tool, confirm:
+
+• 1. You are using a district-approved AI tool and a district-managed account.
+• 2. No passwords, access tokens, or login credentials are included.
+• 3. No student-identifiable information is included.
+• 4. No confidential staff information is included.
+
+Student AI Expectations: PSJA Student AI Quick Guide (excerpt)
+Source: page 8 [graphic]
+
+DON'T: No private info (ID, name, address)
+The Privacy Shield: Never enter your Full Name, Student ID, or Home Address into an AI tool
+
+PDF EXCERPT PAGE 3
+Using AI Responsibly: Examples of Misuse (excerpt)
+Source: page 10
+
+Privacy Violations — Entering or sharing personal, confidential, or sensitive information about self or
+others into AI platforms without authorization.
+Security Violations / Hacking Attempts — Using AI to attempt unauthorized access to school
+systems, accounts, or restricted data.
+

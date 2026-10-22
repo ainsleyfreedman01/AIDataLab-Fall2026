@@ -1,0 +1,65 @@
+PDF EXCERPT PAGE 1
+    Washoe County AI Regulation 7212: Data and
+            Student Privacy Passages
+Excerpted verbatim from Administrative Regulation 7212 – Artificial Intelligence and Digital Learning (Washoe County
+School District, Nevada; Version 1.1, revised November 7, 2025). Page numbers match the document's own page
+numbering. Ellipses (…) mark omitted text. Outline labels (i., ii., a., etc.) are omitted.
+
+
+Academics: Curriculum Philosophy (excerpt)
+Source: page 3
+
+Educators may:
+
+• Utilize AI tools to support instructional planning, differentiation, communication, and accessibility
+  for students with disabilities, provided the tool is approved through the District Digital Learning
+  Tools process and so long as personally identifiable information (PII) or sensitive student data is
+  not input into AI application, unless approved for such use
+
+Operations: Operational Efficiency and Workflow Automation
+(excerpt)
+Source: page 5
+
+Any AI implementation must be approved through the District Digital Learning Tools process and
+evaluated for security and data privacy compliance prior to deployment and regularly monitored for
+efficacy and reliability.
+
+All District employees who choose to utilize AI applications are prohibited from inserting confidential
+information, such as student personally identifiable information, into AI applications unless approved
+for such use through District Digital Learning Tools process.
+
+Operations: Staff Support and Professional Development (excerpt)
+Source: page 6
+
+AI tools supporting professional development (e.g., personalized learning platforms for staff training)
+must be selected based on their capacity to provide actionable insights, promote skill growth, and
+respect user privacy. AI must be used to enhance learning opportunities without infringing on
+employee privacy or misrepresenting their capabilities.
+
+Operations: Student Support Services and Intervention (excerpt)
+Source: page 6
+
+AI may act in the capacity of an early warning system, assisting in identifying trends in student
+behavior, performance, and engagement across the district to support data-driven interventions.
+
+However, any AI application in this context must operate under strict confidentiality agreements,
+adhere to federal and state privacy laws (e.g., FERPA), and require oversight by human
+professionals when determining specific interventions.
+
+PDF EXCERPT PAGE 2
+Operations: Vendor and Tool Evaluation
+Source: pages 6–7
+
+Prior to use, all AI applications must undergo a rigorous assessment for alignment with District
+policies on data security, privacy, and ethical use through the District Digital Learning Tool process.
+
+Approved vendors must demonstrate compliance with the District’s privacy and data handling
+standards, including a commitment to not using District data to train external models unless
+explicitly permitted.
+
+If Generative AI tools have not been evaluated or have been rejected from use, they may not be
+used and may be blocked from the District network to prevent unauthorized data transfer and
+restrict access to materials of potential harm.
+
+Regardless of AI integration, all software must be approved prior to use within the District.
+

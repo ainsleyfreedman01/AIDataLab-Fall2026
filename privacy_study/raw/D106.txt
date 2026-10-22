@@ -1,0 +1,41 @@
+PDF EXCERPT PAGE 1
+     Manchester SD Policy 766: Data and Student
+                 Privacy Passages
+Excerpted verbatim from Policy 766, Use of Artificial Intelligence in Schools (Manchester School District, New Hampshire;
+second reading and approval May 11, 2026). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark
+omitted text. A footnote marker in the source is replaced by an ellipsis where it interrupts a sentence.
+
+
+I. Overview: Principle 4, Privacy and Data Security
+Source: PDF pages 1–2
+
+4. Privacy and Data Security Student and staff data must be protected. No personally identifiable
+information … including Individual Education Plans (IEP), 504 Plans, … contents, student
+performance data, or health information — should be entered into any AI tool. Exceptions may be
+granted for specific tools that the District AI Committee and Technology Department have expressly
+approved for Personally Identifiable Information use, provided a signed Student Data Privacy
+Agreement is in place before any such data is entered.
+
+Footnote 1: definition of personally identifiable information
+Source: PDF pages 1–2
+
+The term “personally identifiable information” includes, but is not limited to, name, address, phone
+number, social security number, disability status, driver’s license number, medical history, student
+… identification numbers, or any other information that can be used directly or indirectly, to identify,
+contact or locate a specific student or individual.
+
+II. Procedures (excerpt)
+Source: PDF page 2
+
+• Require that all new AI tools are brought to the District AI Committee for vetting prior to
+  classroom use.
+
+II. Community Engagement (excerpt)
+Source: PDF page 3
+
+Families should be aware that students may have access to AI tools at home that are not district
+approved. The district cannot control AI use on personal devices or home networks; however,
+academic integrity expectations apply to all student work regardless of where it is completed. This
+includes only using district approved tools for schoolwork regardless of where or how it is
+completed.
+

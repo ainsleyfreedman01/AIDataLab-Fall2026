@@ -1,0 +1,326 @@
+PDF EXCERPT PAGE 1
+         California AI Guidance: Data and Student
+                     Privacy Passages
+Excerpted verbatim from Guidance for the Safe and Effective Use of Artificial Intelligence in California Public Schools:
+Learning About AI to Learn with AI (California Department of Education). Page numbers match the document's own page
+numbering. Ellipses (…) mark omitted text. The laws summary table on pages 36–39 and one table row on page 17 are
+transcribed from the rendered pages and marked [graphic]; each cell is given as its own block (Description, then
+Time-Sensitive Compliance Requirements). The guiding question that appears on page 34 (digital ethics) repeats the page
+32 step and is quoted once.
+
+
+Message from the State Superintendent of Public Instruction
+(excerpt)
+Source: page 2
+
+This guidance reflects our shared commitment to equity, student privacy, academic integrity, and
+human-centered learning.
+
+Introduction (excerpt)
+Source: page 3
+
+While this document is guidance, the requirements set forth in federal and state law, including, but
+not limited to, the Family Educational Rights and Privacy Act (FERPA), the Children’s Online
+Privacy Protection Act, and the California Education Code and Business and Professions Code are
+legal mandates that local educational agencies (LEAs) must follow regardless of this guidance.
+
+Supporting Student Well-Being (excerpt)
+Source: page 7
+
+These technologies should be carefully vetted for emotional safety, privacy, and ethical use to
+protect student well-being and uphold parents’ rights to access and review student records.
+
+Risks of Human-Replacement AI (excerpt)
+Source: page 9
+
+… implementation of AI tools that outpaces policy, increasing risks such as lack of equity,
+inadequate data privacy protection, and misuse.
+
+Guiding Questions for LEAs (excerpt)
+Source: page 9
+
+• How will we ensure compliance with local policy and state/federal laws related to data privacy,
+  transparency, equity, and parental/student rights?
+
+Professional Learning (excerpt)
+Source: page 14
+
+Centralized, vetted resources such as privacy guidance, approved tools, lesson plans, and curated
+training materials help schools innovate safely and avoid duplicating effort.
+
+PDF EXCERPT PAGE 2
+Sample AI Literacy Activity, Grade 10: Privacy risks of immutable
+data (excerpt)
+Source: page 17 [graphic]
+
+[graphic] Students act as “Data Guardians” for a hospital, rejecting a dataset for a research AI
+because it contains patients’ full DNA profiles linked to their home addresses, arguing that if this
+data is stolen, the patients can never change their DNA like they can change a password. NGSS
+HS-LS3-1
+
+Guiding Question
+[graphic] Why is a data leak involving your genetics much more dangerous than a data leak
+involving your credit card number?
+
+Curriculum Alignment (excerpt)
+Source: page 20
+
+LEAs should comply with (student) data privacy laws and policies, cross-referenced in the Data
+Privacy, Security, and Procurement section.
+
+Guiding Questions (excerpt)
+Source: page 25
+
+• How will confidential student information be protected when using AI tools?
+
+Digital Citizenship (excerpt)
+Source: page 30
+
+Digital citizenship in the age of AI includes lessons on privacy, safety, and respectful online
+interaction, expanded to cover data footprints, consent, and the implications of sharing content,
+including student work, with AI systems.
+
+Developing Ethical Use Policies (excerpt)
+Source: page 32
+
+Provide students with educational resources and discussions on digital ethics, covering topics like
+online privacy, cyberbullying, plagiarism, and responsible sharing.
+
+PDF EXCERPT PAGE 3
+Data Privacy: Data Privacy, Security, and Procurement
+Source: page 35
+
+The responsible use of AI in California’s schools calls for alignment with student-centered values,
+robust privacy safeguards, and the broader educational mission of equity and trust in public
+education. While AI offers significant opportunities to personalize learning, improve accessibility,
+and streamline instruction, its adoption must be grounded in transparency, ethical use, and
+protection of student data and intellectual property. LEAs play a central role in reviewing and
+approving AI tools that meet security standards, ensuring educators remain at the heart of the
+learning process, and helping students and families understand how data is collected, used, and
+shared in all educational contexts, including AI. Protecting and securing the integrity of student data
+must be the integral foundation on which all decisions about using AI are made. By integrating AI in
+ways that reinforce California’s commitment to safe, inclusive, and equitable learning environments,
+LEAs can strengthen, not replace, the essential role of teachers while maintaining the public’s
+confidence in digital learning systems. The following outlines key principles and practical steps
+LEAs can take to ensure AI implementation remains policy aligned, transparent, and centered on
+student well-being.
+
+Student-Centered, Policy-Aligned AI Use
+Before adopting AI tools, LEAs must ensure alignment with local policies, California’s goals for safe,
+inclusive learning, and state/federal laws related to data privacy, data use, and student/parental
+rights. Personally identifiable information (PII) should only ever be entered into closed AI systems
+since open AI systems do not contain the protections required to ensure that PII will be protected as
+required by law and best practice. Comprehensive, ongoing AI literacy training and resources
+should be offered to ensure that all members of the school community are transparently informed of
+their rights and responsibilities related to the use of AI tools.
+
+Parent/Guardian and Eligible Student Rights and Student Records
+AI tools collect and often store student-generated content (typed, spoken, or uploaded). This data is
+part of the student’s educational record and, in accordance with state and federal law, can be
+accessed and (if found to be inaccurate) corrected by parents, guardians, and eligible students (i.e.,
+students over 18 and college students under 18). When using AI tools, any data entered by the
+student that is captured and/or used to generate an output is included in information that can be
+accessed/corrected by parents and eligible students.
+
+Summary of Laws That Impact AI Use: California Consumer Privacy
+Act (CCPA)
+Source: page 36 [graphic]
+
+[graphic] Below is a summary of the laws that impact AI use, policy, and parental/student rights.
+
+Description
+[graphic] This law and its amendments and rules include the right to know what data is being
+collected to train AI models and how data is being used/shared. The CCPA also includes the right to
+delete personal information/opt out of the sale or sharing of personal information, the right to
+nondiscrimination, the right to correct inaccurate data, and the right to limit disclosure of personal
+
+PDF EXCERPT PAGE 4
+information. CCPA prohibits the use of dark patterns (interface features that subvert/impair
+consumer’s autonomy, decision-making, or choice), use of automated decision-making technologies
+(ADMT) without prenotification, and physically/biologically profiling (e.g., analysis of facial
+expressions or gestures to infer emotional state) to inform significant decisions (e.g., college
+admission, hiring, loan approval). CCPA further prohibits generation of deepfakes (i.e., manipulation
+of real images/audio to create fake content that is presented as authentic) and sharing the data of
+children (under 16) without parental consent. The CCPA can level fines against companies found to
+be in violation of the law.
+
+Time-Sensitive Compliance Requirements
+[graphic] Requests for access to personal data held by any business must be acknowledged within
+15 days, and access to personal data must be granted within 45 days. Businesses can request a
+45-day extension to comply with a request for access. Consumers who opt out of personal data
+collection cannot be asked to opt back in for at least one year.
+
+Summary of Laws That Impact AI Use: Student Online Personal
+Information Protection Act (SOPIPA)
+Source: pages 36–37 [graphic]
+
+Description
+[graphic] SOPIPA prohibits both use of student data for creating a profile of the student and use of
+student data to market to the student and/or their parent/guardian. These prohibitions extend to AI.
+
+Time-Sensitive Compliance Requirements
+[graphic] Because SOPIPA asserts that student data remains the property of the LEA, the eligible
+student, and their parent/guardian; LEAs are responsible for production of records in accordance
+with FERPA (i.e., parents/guardians and eligible students must be granted access to education
+records within 45 days of requesting such access.)
+
+Summary of Laws That Impact AI Use: California Education Code
+Section 49073.1 (AB 1584)
+Source: page 37 [graphic]
+
+Description
+[graphic] Passed as a companion to SOPIPA, AB 1584 requires contracts containing student data to
+include specific provisions to protect student data. Contracts without such provisions are null and
+void in California. In part, the law requires that vendors attest that data can only be collected and
+used for specific purposes outlined in the contract and requires vendors to affirm that data belongs
+to the student, their parent/guardian, and/or the school/district and cannot be retained by the
+vendor.
+
+Time-Sensitive Compliance Requirements
+[graphic] As with SOPIPA, Education Code Section 49073.1 asserts that student data remains the
+property of the LEA, the eligible student, and their parent/guardian; LEAs are responsible for
+production of records in accordance with FERPA (i.e., parents/guardians and eligible students must
+be granted access to education records within 45 days of requesting such access.)
+
+PDF EXCERPT PAGE 5
+Summary of Laws That Impact AI Use: California Business and
+Professions Code Section 22601 (Guardrails for Companion
+Chatbots)
+Source: page 37 [graphic]
+
+Description
+[graphic] In accordance with Section 22601 of the Business and Professions Code (Senate Bill 243),
+to align with California law and ensure the emotional and psychological safety of minors, all AI
+companion chatbot services procured or utilized by the LEA must adhere to the requirements of the
+law. The law establishes specific safeguards for any generative AI system designed to simulate a
+human-like relationship with a user who is a minor.
+
+[graphic] The law requires chatbot operators to implement crisis protocols and provide clear
+disclosures to the user reminding the user that they are interacting with AI and not a human. The
+law requires chatbot operators to provide content filtering and prohibits a chatbot from representing
+itself as a health care professional. Further, the law allows families to pursue legal action if the
+safeguards are violated.
+
+Time-Sensitive Compliance Requirements
+[graphic] Beginning January 1, 2026, any LEA using chatbots must prepare and submit an annual
+compliance report to the California Department of Public Health. The first annual report is due no
+later than July 1, 2027.
+
+Summary of Laws That Impact AI Use: Family Educational Rights and
+Privacy Act (FERPA)
+Source: page 38 [graphic]
+
+Description
+[graphic] FERPA prohibits both the release and rerelease of personally identifiable student data
+unless very nuanced, legally complex conditions are met. This is especially pertinent when using
+open AI tools since data imputed into open AI is reshared to train the AI model. This resharing of
+data is a violation of FERPA, meaning that personally identifiable student information should never
+be shared outside of a closed system without parental/eligible student consent. All student
+information used in open AI systems should be anonymized to prevent a violation of FERPA.
+
+[graphic] Further, FERPA grants parents/guardians and eligible students (those over 18 or attending
+postsecondary institutions) rights to inspect (within 45 days of requesting) and amend records that
+are found to be inaccurate. FERPA also allows parents/guardians and eligible students to request a
+hearing to correct records. Schools/districts can be fined by the US Department of Education for
+noncompliance.
+
+Time-Sensitive Compliance Requirements
+[graphic] FERPA requires that parents/guardians and eligible students be allowed access to inspect
+and amend education records within 45 days of submitting such a request.
+
+PDF EXCERPT PAGE 6
+Summary of Laws That Impact AI Use: Children’s Online Privacy
+Protection Act (COPPA)
+Source: pages 38–39 [graphic]
+
+Description
+[graphic] COPPA limits data collection from children under 13 and requires apps, social media
+companies, and others to obtain parental consent prior to collection of personal information from
+children under 13.
+
+Time-Sensitive Compliance Requirements
+[graphic] COPPA requires that data be retained only long enough to provide the service that has
+been requested/consented by the parent/guardian. For educational purposes, LEAs are allowed to
+provide consent for students to use a tool/service in an educational setting. In this instance, any
+data collected or records maintained are education records under FERPA and—while they should
+be deleted once the service is no longer used in the educational context—access to inspect/amend
+must be granted to parents/guardians and eligible students within 45 days.
+
+Summary of Laws That Impact AI Use: Protection of Pupil Rights
+Amendment (PPRA)
+Source: page 39 [graphic]
+
+Description
+[graphic] The PPRA requires parental consent prior to the administration of surveys that collect
+student information on political affiliations/beliefs, mental or psychological health, sex
+behavior/attitudes, illegal/self-incriminating or demeaning behavior, critical appraisals of close family
+relations, legally recognized privileged information, and family income not related to eligibility for
+participation in a program. Because AI tools can be used to infer affiliations and beliefs, surveys in a
+school context should employ only closed AI tools if using AI at all.
+
+Time-Sensitive Compliance Requirements
+[graphic] FERPA protections and access requirements (i.e., parents/guardians and eligible students
+must be granted access within 45 days of request) apply to any student-level information collected
+through surveys administered by an LEA. When surveys contain topics articulated in the PPRA,
+LEAs must receive explicit parental consent prior to the administration of such surveys.
+
+PDF EXCERPT PAGE 7
+Local Educational Agency Action Steps
+Source: page 40
+
+In addition to reviewing platforms and tech tools for AI features that would violate state and federal
+law, it is also important to practice data minimization (i.e., collecting and managing only student data
+that is essential to providing educational services). LEAs are also encouraged to establish data
+governance (i.e., formalized processes to document, protect, and manage data) and ensure
+transparency. This includes an annually required FERPA notification to parents regarding what data
+the LEA considers “directory information” (i.e., information generally shared with the school
+community through publications like a yearbook) so that parents can opt out of the public sharing of
+directory information if they choose to do so. Processes for evaluating and monitoring compliance
+are also important to maintain good standing with existing laws/best practices and new laws/best
+practices in an evolving AI landscape.
+
+To ensure legal compliance and student safety, school IT support is encouraged to block
+unapproved features, enforce secure data transmission, and scan for vulnerabilities. LEAs are also
+encouraged to institute processes and systems for regularly auditing, updating, and testing policies
+and breach readiness. Publishing audit findings is recommended to bolster community confidence.
+To foster a culture of privacy and digital literacy, in addition to regular training sessions and
+resources LEAs can consider offline or locally hosted platforms for sensitive data and provide
+regular opportunities for all members of the school community to share feedback on AI use.
+
+Guiding Questions for LEAs: 3. Data Privacy & Security
+Source: page 41
+
+• Does the tool comply with federal and state privacy laws (FERPA, COPPA, state student data
+  privacy regulations)?
+• What student or staff data is collected, stored, or inferred?
+• Does the vendor use personal data to train or improve its AI models?
+• Are data retention, deletion, and access policies clearly defined?
+• Has the district reviewed the vendor’s security practices, encryption standards, and breach
+  response procedures?
+• Is a signed Data Privacy Agreement (DPA) required and available?
+• Do AI chatbots that the LEA procures or develops meet the compliance requirements of SB 243?
+
+Appendix, Glossary (excerpt)
+Source: page 43
+
+Data Privacy
+The right of individuals to control how their personal information is collected, stored, shared, and
+used. In education, data privacy ensures that student and educator information is handled ethically
+and in compliance with laws such as FERPA and COPPA.
+
+Digital Citizenship
+… Digital citizenship promotes respectful communication, privacy protection, and ethical
+participation in online spaces.
+
+PDF EXCERPT PAGE 8
+Appendix, Glossary: Open/Closed AI Systems (excerpt)
+Source: pages 44–45
+
+Closed AI systems are trained on restricted or curated datasets and are designed for a specific
+purpose within a defined environment—such as assessment tools, learning management systems,
+or district-approved applications. They include guardrails and
+
+content controls to limit risk, operate within known parameters, and may store data locally or in
+protected ecosystems. These systems offer greater consistency and privacy but are less flexible for
+open-ended use.
+

@@ -1,0 +1,119 @@
+PDF EXCERPT PAGE 1
+ Grant Parish Employee AUP and AI Addendum:
+      Data and Student Privacy Passages
+Excerpted verbatim from Employee Acceptable Use of Technology Resources Agreement and Artificial Intelligence
+Addendum (Grant Parish School Board, Louisiana). Page numbers match the document's own page numbering. Ellipses
+(…) mark omitted text.
+
+
+Access and Use of Content/Resources (excerpt)
+Source: pages 1–2
+
+• Employees shall not store any personal information (e.g. personal pictures, personal files, etc.)
+  on any district-owned computer or server.
+• All files stored on the network shall be treated as district property subject to control and
+  inspection by authorized district personnel.
+• Email communication is not a confidential medium for transmitting information and should be
+  viewed as public in nature. An IT system administrator may review communications to maintain
+  integrity system-wide and ensure that staff members are using the system responsibly.
+• Employee shall not allow others to have access to or use his/her email account.
+• Employee email account shall not be readily accessible by others.
+
+Illegal Activities (excerpt)
+Source: page 2
+
+• Employee shall not attempt to gain unauthorized access to or “hack” into the district’s network,
+  any computer system through the district’s network, or go beyond employee authorized access.
+  This includes attempting to access, alter and/or delete another person’s account or files.
+• Cyberbullying can include sharing personal or private information about someone else causing
+  embarrassment or humiliation.
+
+Personal Privacy
+Source: page 3
+
+• Employee shall have no expectation of privacy in their use of GPSB’s technology resources.
+  Employee use of the technology resources will be monitored, accessed, reviewed and retained.
+  Illegal activity will be reported to appropriate authorities.
+• Files or programs stored on a computer, server, or external drive that are in violation of this
+  agreement may be removed by an IT system administrator without notice.
+• Employee’s network activity and/or data stored on the district’s system including but not limited to
+  a district computer, is a matter of public record.
+
+PDF EXCERPT PAGE 2
+Security (excerpt)
+Source: page 3
+
+• Employee shall be responsible for maintaining the confidentiality of passwords. Under no
+  condition should the employee give his/her password to others nor post the password in written
+  form to be viewed by others. Likewise, using another person’s credentials to gain access is not
+  permitted.
+• Employee shall not allow others to have access to or use his/her accounts including, but not
+  limited to, computer login credentials, email, district software accounts.
+• Employee shall log off or lock user account anytime the device is not in use to prevent
+  unauthorized access.
+• Employee shall immediately notify district technology department authorities if a possible security
+  problem is detected. Employee shall not search for security problems, attempt to circumvent
+  security safeguards or in any way gain unauthorized access to any system or files.
+
+Security (excerpt, continued)
+Source: page 4
+
+• Employee shall not use technology resources for unauthorized disclosure of personal or student
+  information protected by Family Education Rights and Privacy Act and/or La. Rev. Stat. Ann.
+  §17:3914, for inappropriate contact with an employee or student, or for use and/or dissemination
+  of personal identification or confidential information regarding any student or employee. With
+  proper permission from the Superintendent or his/her designee, an employee may send selected
+  information in an encrypted form.
+• Employee activity and files residing on GPSB’s technology resources will be treated as district
+  property subject to control, inspection, and/or search by an IT system administrator.
+
+District-Owned Mobile Devices (excerpt)
+Source: page 4
+
+• An IT system administrator has the right to monitor, track, and document the overall activity of
+  the device. This includes, but is not limited to, auditing the computer for usage, software
+  installed, etc.
+
+Artificial Intelligence Addendum: A.3 Privacy and Data Protection
+Source: page 5
+
+Users must protect the privacy of students, employees, and others when using AI tools:
+
+• Do not enter student personally identifiable information (PII) into AI tools that have not been
+  approved by the District
+• Do not enter confidential employee information, IEP/504 data, health records, discipline records,
+  or login credentials into unapproved AI tools
+• Use only District-approved AI tools for work involving student data or official District operations
+• Comply with FERPA, COPPA, and Louisiana student privacy law (La. R.S. 17:3914) in all AI
+  interactions
+
+PDF EXCERPT PAGE 3
+Artificial Intelligence Addendum: A.4 No Expectation of Privacy and
+A.5 Monitoring and Enforcement
+Source: page 6
+
+Users have no expectation of privacy when using District networks, devices, accounts, or systems,
+including when interacting with AI tools. The District reserves the right to monitor, log, and review
+activity on District technology resources to ensure compliance with this policy and applicable law.
+
+The District may block or restrict AI tools that are unsafe, misused, inappropriate, or not approved
+for District use.
+
+Artificial Intelligence Addendum: A.7 Staff-Specific Expectations and
+A.8 Policy Reference
+Source: page 6
+
+Staff must use only District-approved AI tools for instructional and operational work involving
+student data. Staff may not independently contract for, purchase, or require students to use AI tools
+that have not been approved through the District's review process.
+
+For complete requirements regarding AI use, data privacy, the tool approval process, vendor
+obligations, academic integrity, and consequences, see the District's Artificial Intelligence Use
+Policy (Board Policy - AI) and the Administrative Procedures for AI Implementation.
+
+Employee Acknowledgement Form (excerpt)
+Source: page 7
+
+As a user of the district’s technology resources, I consent to the monitoring, access, review, and
+retention of my network activity and/or stored electronic communications and files.
+

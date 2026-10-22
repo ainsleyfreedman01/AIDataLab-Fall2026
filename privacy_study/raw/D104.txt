@@ -1,0 +1,55 @@
+PDF EXCERPT PAGE 1
+Metro Nashville Public Schools Educator Use of
+AI Procedure 4.124.1p: Data and Student Privacy
+                   Passages
+Excerpted verbatim from Educator Use of Artificial Intelligence (AI) & Generative Artificial Intelligence (GAI), Procedure
+4.124.1p (Metro Nashville Public Schools, Tennessee, last reviewed July 16, 2024). Page numbers refer to the PDF pages
+of the source file. Ellipses (…) mark omitted text. The Data privacy passage continues across a page break and is quoted in
+two parts.
+
+
+Guiding Principles: Privacy, Data Protection, and Security
+Source: PDF page 2
+
+3. Privacy, Data Protection, and Security: Protecting personal and sensitive information is crucial,
+complying with laws such as COPPA and FERPA to ensure student and staff data privacy and
+security. Staff should be aware of the use of or sharing personally identifiable information of
+students and other employees when utilizing AI tools, which may violate FERPA.
+
+Considerations: Data privacy
+Source: PDF pages 2–3
+
+Data privacy: The use of data in AI can raise issues of bias and privacy concerns. Schools should
+be clear
+
+about their data practices, seek informed consent, and enforce strong data security measures.
+Compliance with COPPA, CIPA, and FERPA is essential:
+
+• FERPA: The Family Educational Rights and Privacy Act (FERPA) is a federal law that protects
+  the privacy of student education records. AI systems must safeguard the privacy of student
+  educational records and adhere to consent requirements set by parents.
+• COPPA: The Children's Online Privacy Protection Act (COPPA) is a federal law that regulates
+  how websites, apps, and other online services collect data and personal information from
+  children under 13 years old. AI technologies that collect data on children under 13 must comply
+  with COPPA standards.
+• CIPA: The Children's Internet Protection Act (CIPA) requires K-12 schools and libraries that
+  receive E-rate discounts to have internet safety policies that protect minors from harmful or
+  obscene content online. AI content filters should align with CIPA guidelines to block harmful
+  content.
+
+Considerations: Acceptable Use & Technology (excerpt)
+Source: PDF page 3
+
+Monitoring by teachers is necessary to ensure students use AI tools appropriately and don't
+over-rely on them, bypassing critical thinking and personal learning.
+
+PDF EXCERPT PAGE 2
+AI Applications within MNPS (excerpt)
+Source: PDF page 3
+
+Approved applications/software can be found on the MNPS SharePoint.
+
+However, the use of AI tools also presents challenges, particularly in ensuring student safety and
+data privacy. Any AI tool, even those that are free, must undergo MNPS's software approval
+process to ensure they provide a secure environment for district and school data.
+

@@ -1,0 +1,179 @@
+PDF EXCERPT PAGE 1
+Vermont AI Guidance: Data and Student Privacy
+                 Passages
+Excerpted verbatim from Vermont AI Guidance for Education, Version 1.0 (Vermont Agency of Education, issued January
+23, 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Key Concerns for AI in Education (excerpt)
+Source: page 7
+
+• Data privacy and security Student data and intellectual property must be protected when using
+  AI systems to comply with FERPA, COPPA, and potentially HIPAA requirements. Learn how to
+  protect student data.
+
+Principle #1: Opportunities With Student Data
+Source: page 11
+
+Caution: Never put student data into an AI system unless the district’s IT department has vetted that
+system and has authorized its use in this way.
+
+While most systems today don’t interact directly with district data systems, this will change in the
+next few years, with SIS (Student Information System), LMS (Learning Management System) and
+MTSS (Multi-Tiered System of Supports) platforms building AI integrations directly into their
+systems enabling new tools for teachers and administrators that leverage rich and up to date
+information about students.
+
+Principle #1: Cautions (Student Data Privacy, Student Intellectual
+Property)
+Source: page 12
+
+Student Data Privacy
+Federal and state laws mandate that districts and schools protect students’ data and privacy. Learn
+more about safeguarding student data privacy.
+
+Student Intellectual Property
+AI systems, not vetted by school districts, may be training their AI model using data from chat
+conversations. Learn more about safeguarding student data privacy.
+
+When to Avoid Using AI (excerpt)
+Source: page 13
+
+• Legal or compliance documentation – Districts should seek legal advice before approving AI
+  usage for IEP goals, 504 plans, or mandated reporting situations.
+• Medical-related information – Unless the IT Department has specifically vetted an AI solution for
+  HIPAA compliance, staff should avoid entering any medical-related information into an AI
+  system.
+
+PDF EXCERPT PAGE 2
+Principle #2: Personalized Learning, Accessibility and Special
+Education Documentation (excerpts)
+Source: pages 15–16
+
+• Note-taking and live captioning: AI can be utilized for live captioning and for notetaking
+  purposes. When utilizing these technologies, work with district technology staff to identify
+  solutions that meet the privacy needs of schools, as many of these solutions are not built
+  specifically for education.
+In addition to these uses, AI can be used to help with special education documentation (e.g. IEPs,
+504 plans); however, using AI in this way presents significant concerns that should be addressed
+before implementation. IEPs and 504 plans are the foundations on which special education services
+stem from, and using AI poses a danger of losing essential professional assessment and breaching
+of personally identifiable information (PII) protection.
+
+The most important step in using AI tools in this context is to have human oversight every step of
+the way. For example, IEP goal generation can be done using AI, but the prompt and content to
+generate the goal requires a secure FERPA compliant system and should be reviewed by the IEP
+team for relevance to the student’s capabilities and needs.
+
+Risk Mitigation Strategies: Risk of Doing Nothing (excerpt)
+Source: page 22
+
+Staff may utilize public AI systems in ways that risk data privacy.
+
+Data Privacy
+Source: pages 25–26
+
+Schools need to protect student data, conforming to both FERPA and COPPA. In addition,
+generative AI uses data to train AI systems, and schools should be concerned about the intellectual
+property of students being utilized to train these systems.
+
+Providing teachers and students with approved, secure AI systems is one of the best ways to
+protect student data. A separate section of this guide covers tool vetting in depth. When schools do
+not provide official tools and clear instructions for these tools, teachers and students will be tempted
+to utilize public AI systems instead.
+
+It is not enough to remove student-identifiable information before submitting student work to an AI
+system. This still exposes the student’s intellectual property to the system. SU/SDs should have a
+privacy agreement with vendors that include promises not to train AI models based on chat
+conversations. This is the case for education-specific AI systems as well as generic systems with AI
+versions (Gemini for Education).
+
+Health Insurance Portability and Accountability Act (HIPAA) data (medical data) is a particular
+concern, as it has requirements that are not a part of FERPA or COPPA. Most educational AI
+systems have not been designed to comply with HIPAA. In many cases, it is simpler for schools to
+avoid the use of AI for HIPAA protected data. In the future, it is likely that there will be use cases
+that involve the use of AI, but initially, it may be simpler for schools to avoid the use of AI with
+HIPAA protected data.
+
+PDF EXCERPT PAGE 3
+Mental Health Risks (excerpt)
+Source: page 26
+
+To ensure student safety, staff must proactively direct students to school counselors, social
+workers, or psychologists for confidential, evidence-based support.
+
+Needs Assessment: Policy & Governance (excerpt)
+Source: page 32
+
+• Has guidance with respect to protecting student data privacy been given to staff and educators?
+
+Needs Assessment: Infrastructure & Support (excerpt)
+Source: page 33
+
+The Tool Vetting Framework provides guidance for evaluating and approving AI tools while ensuring
+compliance with data privacy requirements.
+
+• Are these tools approved by IT?
+• Are there ways to audit the usage of these AI tools?
+
+Tool Vetting Framework (excerpts)
+Source: pages 34–36
+
+In general, approving an AI tool for use in a school district is very similar to any other educational
+technology tool that can store FERPA protected data. These systems do introduce some unique
+challenges, however. The Future of Privacy Forum released a guide that goes into some of the
+unique challenges of these tools: Vetting Generative AI Tools for Use in Schools. (Sallay, 2024)
+
+Generic Chatbots
+Google trained an LLM AI specifically for education, LearnLM, and their AI is covered by their
+educational privacy policy (when using school accounts only) which gives it an advantage over other
+generic chatbots. …
+
+Google is providing some auditing features with Gemini. Unfortunately, as of this document’s
+release, they are quite limited and require a Google Administrator. This means that teachers are
+unable to have full access to all of the conversations that their students have with Gemini. Even for
+a Google Admin, most of the access is through Google Vault and only applies to the standalone
+Gemini app and not where the app is embedded into other Google tools. IT departments need to
+actively set the conversation retention settings and teachers need to clearly understand which
+conversation should not occur in Gemini in apps because of the lack of retention/logging.
+
+Generic Chatbots for Teachers
+Providing teachers with access to an official AI tool can mitigate the risks of teachers using public
+chatbots with student protected data.
+
+Audio and Meeting-based AI: Concerns
+
+PDF EXCERPT PAGE 4
+• Privacy being violated through the use of insecure systems or oversharing of generated notes.
+  FERPA and HIPPA (medical data) rules need to be enforced. Because it is impossible to control
+  the content of a conversation, vetted tools must assume the highest level of privacy
+  requirements.
+• Students recording class and sharing generated transcriptions or notes in inappropriate ways.
+• Recordings made secretly without the awareness of all participants
+Audio and Meeting-based AI: Actions to take
+• Ensuring that schools have policies/procedures in place govern recordings made in class by both
+  students and staff
+• Providing staff with vetted tools to use if recordings are allowed
+Education Specific AI Chatbots for Students (excerpt)
+Consider what management tools the teacher has access to and whether they can review the
+conversations that the students engage in.
+
+Frequently Asked Questions: Which AI tools can I use in my
+classroom? (excerpt)
+Source: page 38
+
+Most supervisory unions and districts maintain an approved list of software that can be used in the
+classroom and that store student data. FERPA, COPPA and other applicable laws govern how
+student data must be handled. Most districts have signed data privacy agreements with specific
+vendors and require that teachers utilize these vendors platforms. You should reach out to your
+district technology team to determine which AI tools you may use. This guide includes information
+on how to properly vet and approve AI applications for use in districts.
+
+Quick Start Guide: Elementary Educators and IT & School Leaders
+(excerpts)
+Source: pages 44, 47
+
+• Part 3: Responsible AI Usage - Learn about data privacy, bias, and when NOT to use AI
+• Tool Vetting Framework - Establish procedures for evaluating and approving AI tools
+• Data Privacy - Ensure FERPA, COPPA, and HIPAA compliance
+

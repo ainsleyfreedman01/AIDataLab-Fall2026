@@ -1,0 +1,48 @@
+RESULTS: exploratory AI-assisted analysis, not a legally verified policy audit
+
+Reviewed: 184 PDFs; 2355 extracted paragraphs.
+Evidence: 387 relevant and 81 uncertain paragraph-category pairs.
+
+Model training / improvement: 52/184 (28.3%)
+Sharing / secondary use: 78/184 (42.4%)
+Retention / deletion: 37/184 (20.1%)
+
+Interpretation
+Sharing/secondary use appears in more supplied excerpts than model training
+or retention/deletion. This ordering persists in the tested sensitivity subsets.
+Coverage is higher in longer excerpts, so document length/selection affects
+the chance of locating explicit content; do not interpret silence as weaker law.
+Restrictions, conditional permissions, warnings, and review questions coexist.
+The same topic appearing in two documents does not establish equal protections.
+
+Counts indicate explicit treatment, including warnings and review questions;
+they do not measure protection strength or actual implementation.
+
+Targeted refinement assessed 206 positive training/retention paragraph-category pairs and recorded 200 atomic provisions.
+Use provision_feature_counts.csv for specific mechanisms and README.md for
+direction-versus-review profiles. Refinement is not independent validation;
+original broad counts are preserved and sharing remains paragraph-level.
+
+Fresh sample keyword-retrieval quality (AI reference, not human gold):
+              category sample_documents sampled_paragraphs true_positive
+        model_training                6                 81             1
+ sharing_secondary_use                6                 81             3
+    retention_deletion                6                 81             3
+ false_positive false_negative uncertain_pairs precision recall
+              0              0               0       1.0      1
+              7              0               1       0.3      1
+              0              0               0       1.0      1
+                                      reference
+ provisional_AI_full_read_labels_not_human_gold
+ provisional_AI_full_read_labels_not_human_gold
+ provisional_AI_full_read_labels_not_human_gold
+
+Document/category no-hit cases with relevant content on full read: 6.
+High shared-text-similarity pairs flagged: 1.
+
+Use coverage_summary.csv for headline counts; reviewed_evidence.csv for
+quotations and exceptions; sensitivity_checks.csv before interpreting patterns.
+Do not treat source-function groups as confirmed legal-status groups.
+
+Submission readiness: exploratory draft complete; human/original-source validation
+not complete. No inter-rater agreement or validated legal classification claimed.

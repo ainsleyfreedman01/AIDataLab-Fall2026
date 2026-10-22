@@ -1,0 +1,65 @@
+PDF EXCERPT PAGE 1
+Iowa City Community School District Generative
+    AI Guidelines: Data and Student Privacy
+                   Passages
+Excerpted verbatim from Generative AI Guidelines & Curriculum (Iowa City Community School District web page). The
+source has no page numbers; locations are given by section. This is a web page, not a paginated document. The Special
+Considerations and Prohibited Uses text appears separately for K-5, 6-12 and teachers; the student wording is identical for
+K-5 and 6-12 and is included once. Ellipses (…) mark omitted text.
+
+
+Purpose (excerpt)
+Source: web page, Purpose
+
+Our genAI implementation plan ensures that artificial intelligence is understood and used legally,
+ethically, and in ways that elevate teaching, learning, and operations, while upholding our district's
+standards for data privacy, security, inclusivity, and academic integrity.
+
+Student Guidelines (K-5 and 6-12): Prohibited Uses (excerpt)
+Source: web page, Student AI Guidelines & Curriculum
+
+Generative AI tools may NOT be used in violation of terms of service, academic code of conduct, or
+board policy.
+
+Student Guidelines (K-5 and 6-12): Special Considerations
+Source: web page, Student AI Guidelines & Curriculum
+
+Data privacy and security: Students should not input any personally identifiable information into any
+generative AI tools.
+
+Teacher Guidelines: Prohibited Uses (excerpt)
+Source: web page, Teacher AI Guidelines
+
+Generative AI tools may NOT be used for the following purposes:
+
+• Compromise Privacy/Security: Teachers should not use generative AI in ways that compromise
+  teacher and/or student privacy/security. ( Policy 605.4 )
+• Vetted Generative AI: Teachers should not use generative AI applications that have not been
+  vetted by the district. ( Policy 605.4 , Policy 605.8R1 )
+
+Software Evaluation Process
+Source: web page, Software Evaluation Process
+
+Before using any AI tool or software, staff should submit it through our district's evaluation process
+to ensure alignment with goals, data privacy, and security standards.
+
+AI Focus Areas: Strengthen Operational Systems (excerpt)
+Source: web page, AI Focus Areas
+
+Implement and monitor genAI tools to enhance decision-making, optimize resources, and improve
+operations across the district, using our Software Evaluation Process to ensure alignment.
+
+PDF EXCERPT PAGE 2
+AI & Our Portrait of a Graduate: Global Citizenship (excerpt)
+Source: web page, AI & Our Portrait of a Graduate
+
+AI raises important questions about bias, privacy, and responsibility.
+
+FAQ: How does our district protect student data privacy?
+Source: web page, FAQ
+
+Student data privacy is a top priority. All AI tools used by staff and students must go through
+ICCSD's Software Evaluation Process before use. Students are instructed never to enter personally
+identifiable information into any AI tool. Only district-approved and vetted AI applications may be
+used, in accordance with Policies 605.4 and 605.8R1.
+

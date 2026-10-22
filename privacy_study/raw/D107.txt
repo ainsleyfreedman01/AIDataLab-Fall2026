@@ -1,0 +1,87 @@
+PDF EXCERPT PAGE 1
+ Manchester School District AI Procedure 766-R:
+      Data and Student Privacy Passages
+Excerpted verbatim from Procedure 766-R, Responsible Implementation and Use of Artificial Intelligence in Schools
+(Manchester School District, New Hampshire; approved 05-11-26). Page numbers refer to the PDF pages of the source file.
+The procedure has no printed page numbers, so PDF page numbers are used. Ellipses (…) mark omitted text.
+
+
+I. Overview (excerpt)
+Source: page 1
+
+• Every family understands how AI is used in their child's education and trusts that student privacy
+  and integrity are protected.
+
+II. Definitions (excerpt)
+Source: page 1
+
+District-Approved AI Tools: AI applications that have been reviewed by the District AI Committee
+and Technology Department, vetted for compliance with applicable privacy laws, and listed on the
+district's approved application registry (SDPC).
+
+Personally Identifiable Information (PII): Any data that could be used to identify a specific student or
+staff member, including but not limited to names, student ID numbers, IEP contents, disability
+status, grades, and family information.
+
+III. Roles and Responsibilities (excerpt)
+Source: page 2
+
+Students are expected to:
+• Use only district-approved AI tools for school-related work.
+• Never enter personal information — their own or anyone else's — into any AI tool.
+Educators are expected to:
+• Use only district-approved AI tools in their professional practice and when introducing AI to
+  students.
+• Ensure students do not enter PII — including IEP contents, 504 Plan, individualized student data,
+  or other confidential student/family information.
+
+VII. Data Privacy and Security
+Source: pages 4–5
+
+The Manchester School District takes the protection of student and staff data seriously. All AI use
+must comply with:
+
+• FERPA (Family Educational Rights and Privacy Act)
+• COPPA (Children's Online Privacy Protection Act)
+• NH RSA 189:66 (Data Inventories and Governance)
+• NH RSA 189:68-a (Student Online Personal Information Protection)
+
+PDF EXCERPT PAGE 2
+Key Requirements
+• Only district-approved AI tools — those listed on the district's SDPC registry and covered by a
+  signed Student Data Privacy Agreement — may be used with students or for student-related
+  work.
+• No staff member may enter student PII, including IEP contents, grades, behavioral records,
+  health information, or family data, into any AI tool unless that tool has been explicitly authorized
+  by the District AI Committee and Technology Department to receive personally identifiable
+  information.
+• Staff must use district-managed accounts when accessing AI tools — personal accounts are not
+  permitted for school-related AI use.
+• The district maintains a current data governance plan, publicly available and reviewed annually,
+  in compliance with NH RSA 189:66.
+Tool Approval Process
+Before any AI tool may be used in district classrooms or operations, it must be submitted to the
+District AI Committee and Technology Department for review and approval. The review will assess
+the tool against criteria including instructional alignment, data privacy compliance, accessibility,
+accuracy, and environmental impact (including energy efficiency). A current list of approved tools is
+maintained at the district's SDPC registry.
+
+VIII. Community Engagement (excerpt)
+Source: page 5
+
+• Host AI information events to deepen the public’s understanding of how the responsible use of AI
+  supports learning. These events should provide explanations of how AI is used in classrooms,
+  what protections are in place, and how families can support responsible use at home.
+
+IX. Professional Development (excerpt)
+Source: page 6
+
+• All staff will receive foundational AI literacy training, including an overview of this policy,
+  academic integrity expectations, and data privacy requirements.
+
+Appendix A: Student AI Use Agreement (excerpt)
+Source: page 6
+
+• Protect the privacy of myself and others — I will never enter personal information into an AI tool
+  without express permission from my teacher.
+

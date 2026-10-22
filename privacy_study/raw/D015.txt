@@ -1,0 +1,55 @@
+PDF EXCERPT PAGE 1
+      Baldwin County Board Policy 7.17 (Artificial
+        Intelligence): Data and Student Privacy
+                        Passages
+Excerpted verbatim from Board Policy 7.17 - Artificial Intelligence (Baldwin County Public Schools / Baldwin County Board
+of Education, Alabama). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text. The
+document has no printed page numbers. The PDF text layer renders “AI” as “Al”, which is kept as extracted.
+
+
+7.17.3 Purpose (excerpt)
+Source: PDF page 2
+
+This will be achieved by focusing on Al governance, accountability, safety, procurement and
+implementation, data privacy and security. data quality concerns. bias, responsible use.
+transparency. access. efficacy. Al knowledge. skills. education. and training.
+
+The Al Pillars are classified into Strategy. Governance, Data Privacy and Security, Procurement,
+Implementation. Competency Development. Risk Management. and Utility and Effectiveness.
+
+7.17.6 AI Data Privacy and Security
+Source: PDF pages 2–3
+
+• Baldwin County Public Schools are committed to complying with federal. state, and local laws,
+  rules, and regulations, and other entities that provide standards for compliance to ensure data
+  privacy and security are maintained for data used in Al systems. We will ensure that the
+  Contractor's Al systems comply with all applicable federal, state, and local laws, rules, and
+  regulations, and other entities that provide standards for compliance.
+• Baldwin County Public Schools are dedicated to ensuring data to be used in the Al systems will
+  meet the data quality standards established by our Data Governance Committee.
+• Baldwin County Public Schools will provide teachers with training about vetted resources and
+  guidance on acceptable data privacy and security practices.
+• Use of user's data to train new Al Systems: Baldwin County Public Schools will include in our
+  procurement and contract document(s) verbiage dedicated to usage of intellectual property
+  and/or data, to which the Contractor shall attest when submitting their proposals and any contract
+  executed to perform the work.
+• No personally identifiable information (PII) shall be used in creating accounts or using software
+  that has Al components without approval.
+
+PDF EXCERPT PAGE 2
+7.17.7 AI Procurement
+Source: PDF page 3
+
+Baldwin County Public Schools will conduct a detailed needs and capability assessment before
+procuring an Al system. Teachers/schools are prohibited from purchasing/using unapproved Al
+systems with BCBE students. We will evaluate the Al system for its effectiveness, ease of use, and
+compatibility with existing systems. In the procurement process, we will consider cost. data privacy,
+security, human-in-the-loop development. algorithm bias, model cards, system cards,
+interoperability, service-level agreements, key performance indicators, customizability,
+configurability, scalability, legal compliance, and contractor support.
+
+Baldwin County Public Schools will obtain a written statement from each contractor that:
+
+• The Al model(s) have been pre-trained and no data is being used to train a model to be used in
+  the development of a new product.
+

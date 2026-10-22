@@ -1,0 +1,55 @@
+PDF EXCERPT PAGE 1
+    Oxnard Union HSD Administrative Regulation
+     0441: Data and Student Privacy Passages
+Excerpted verbatim from Administrative Regulation 0441 - Artificial Intelligence (Oxnard Union High School District,
+adopted 06/24/2026). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text.
+
+
+Guidelines for Use: All Users (excerpt)
+Source: PDF page 1
+
+1. Before using any AI tool with students, employees must verify that the tool has been approved by
+the District and meets District data privacy and student safety standards.
+
+2. AI tool evaluation must include: openness of the environment, student data privacy compliance,
+equitable access, potential for inherent bias, and accuracy safeguards.
+
+3. All AI use must comply with the Family Educational Rights and Privacy Act (FERPA), the Student
+Online Personal Information Protection Act (SOPIPA), and all applicable District policies.
+
+4. Users may not share confidential information, student records, or personally identifiable
+information with any AI system.
+
+Staff Use (excerpt)
+Source: PDF page 1
+
+12. Final grades and evaluative decisions must reflect human professional judgment. AI-generated
+grades or scores may not be applied to student records without human review and approval by a
+certificated employee.
+
+Prohibited Uses (excerpt)
+Source: PDF page 2
+
+All students, staff, and users are prohibited from using AI systems to:
+
+• Share confidential, personally identifiable, or sensitive student or staff information.
+• Assign final grades, generate official student records, or make high-stakes educational decisions
+  without direct human review and professional judgment.
+• Use platforms or tools that have not been vetted and approved by the District.
+
+Approval and Vetting
+Source: PDF page 2
+
+The Superintendent, in coordination with the Chief Technology Officer, shall maintain a list of
+approved AI tools and a vetting process consistent with the criteria established in this policy. This
+list shall be reviewed and updated no less than annually.
+
+Professional Development (excerpt)
+Source: PDF pages 2–3
+
+The Superintendent shall ensure that all certificated and classified staff who use AI tools receive
+training in the ethical, responsible, and effective use of AI. Professional development shall address:
+
+PDF EXCERPT PAGE 2
+• Student data privacy and platform safety
+

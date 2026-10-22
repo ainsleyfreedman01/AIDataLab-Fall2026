@@ -1,0 +1,62 @@
+PDF EXCERPT PAGE 1
+   Hudson City School District Policy 8636: Data
+         and Student Privacy Passages
+Excerpted verbatim from Policy #8636 Artificial Intelligence (Hudson City School District, New York; adopted December 16,
+2025). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text.
+
+
+Guidelines (excerpt)
+Source: page 2
+
+Student use of district-approved AI tools, in school, through district devices or networks, or for
+educational purposes, must adhere strictly to Education Law 2-d requirements. Instructional staff
+should collaborate with the district’s Data Protection Officer to verify compliance. Staff must remain
+aware of differences among AI tools regarding age restrictions and privacy assurances. Any student
+use of AI in schools, on school networks/computers, or for school purposes must be compliant with
+Education Law 2-d and its regulations, particularly whenever student Personally Identifiable
+Information is disclosed, including third-party agreements where applicable. Staff must consult with
+the district’s Data Protection Officer to determine compliance with Education Law 2-d. Staff must
+also be mindful that some AI tools are free and others are not, that some AI tools are not permitted
+to be used by those under certain ages, or require parent permission.
+
+The district will prioritize selecting AI tools that specifically:
+
+• Comply fully with Education Law 2-d, including required privacy assurances and agreements
+  from AI providers.
+• Allow instructional staff meaningful monitoring capabilities to promote responsible use and
+  student accountability.
+Employees remain responsible for reviewing all AI-generated outputs and ensuring compliance with
+district policies on confidentiality and intellectual property.
+
+Requirements
+Source: page 3
+
+Information input into AI platforms may potentially be stored, accessed, or redistributed by the
+system. Therefore, district users must avoid inputting sensitive, confidential, proprietary, or
+copyrighted materials into AI platforms unless the AI provider explicitly confirms compliance with
+Education Law 2-d and guarantees that input information will not be reused for future AI model
+training, as well as other standard compliance factors including how information is stored and
+transmitted on the servers that host the platform or service. These would follow the same standards
+and practices in place for other online and digital services that students and faculty currently use.
+There may be some cases where a teacher or staff would have to consider the appropriateness of a
+given AI tool, as one case may be better suited for brainstorming learning activities that align with
+state standards but not sufficient for entering student work to be analyzed for mistakes or
+inconsistencies, whereas another tool may provide the necessary assurances for such a task.
+
+Protected information includes but is not limited to:
+
+PDF EXCERPT PAGE 2
+• Student information: anything that would be protected by FERPA (see policy 5500) or Education
+  Law 2-d (see policy 8365).
+• Staff information: anything that would be protected by Education Law 2-d (see policy 8365), or
+  other confidential personnel information.
+• School district information: anything that would be withheld from a Freedom of Information Law
+  (FOIL) request (see policy 1120).
+
+Cross-references (excerpt)
+Source: page 3
+
+• 5500, Student Records
+• 8635, Information and Data Privacy, Security, Breach and Notification
+• Family Educational Rights and Privacy Act, as amended, 20 USC 1232g; 34 CFR Part 99
+

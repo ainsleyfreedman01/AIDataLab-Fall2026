@@ -1,0 +1,72 @@
+PDF EXCERPT PAGE 1
+         Wisconsin AI Guidance: Data and Student
+                    Privacy Passages
+Excerpted verbatim from AI Guidance for Enhancing K-12 and Library Education (Wisconsin Department of Public
+Instruction, June 2024, version 1.0). The source has no page numbers; locations are given by section. This is a Word
+document with no page numbers, so sections are identified by heading. Ellipses (…) mark omitted text.
+
+
+Executive Summary (excerpt)
+Source: Word document, section 'Executive Summary'
+
+Key goals include developing policies for ethical AI use, enhancing data privacy, and adopting a
+human-centered approach to AI application.
+
+This guidance addresses concerns such as equity, ethical use, and data privacy, advocating for
+responsible AI integration.
+
+Ethics & Data Privacy
+Source: Word document, section 'Ethics and Data Policy'
+
+Integrating ethical considerations into every stage of AI use in education is essential. Safeguarding
+student data is also imperative. Districts should review existing policies and processes to
+incorporate AI-related language that reinforces ethical considerations as well as data privacy
+concerns in key areas.
+
+Balancing the benefits and risks of AI, addressing biases and promoting equity among learners
+while protecting the data privacy of users is paramount to success when utilizing AI as a tool.
+Promoting information and media literacy efforts to guide staff and students in critically examining
+AI-generated results as well as educating all about the inherent risks to data privacy while utilizing
+AI will help ensure safe and engaging use of AI in educational spaces like schools and public
+libraries.
+
+Empowering Minds, Protecting Privacy: Ethical AI Practices
+• Transparency & Consent
+• Data Encryption & Storage
+• Compliance with Family Educational Rights & Privacy Act (FERPA)
+• Vendor Compliance
+• Compliance with Children’s Online Privacy Protection Act (COPPA)
+
+Security & Infrastructure (excerpt)
+Source: Word document, section 'Security and Infrastructure'
+
+Key Takeaways:
+• Restrict access to student data to authorized personnel.
+• Remove personally identifiable information from datasets.
+• Define specific retention periods for student data.
+• Provide comprehensive staff training on student data privacy.
+
+PDF EXCERPT PAGE 2
+• Develop and maintain a robust data breach response plan.
+• Deploy scalable and secure data storage solutions.
+
+Professional Development (excerpt)
+Source: Word document, section 'Professional Development and Training'
+
+Microsoft Learn - Offers learning paths specifically designed around AI education, including
+modules on AI ethics, machine learning, and data science.
+
+Curriculum and Pedagogy (excerpt)
+Source: Word document, section 'Curriculum and Pedagogy'
+
+Equip the support community to instruct students on the responsible and safe use of AI, extending
+beyond the classroom to include libraries, homes, and peer interactions.
+
+Monitoring, Evaluation, and Continuous Improvement (excerpt)
+Source: Word document, section 'Monitoring, Evaluation, and Continuous Improvement'
+
+• Track Usage Data: monitor how students and teachers interact with AI tools. This includes
+  frequency, types of interactions, and time spent.
+• Privacy considerations: Ensure student data collected by AI systems is secure and
+  anonymized according to regulations.
+

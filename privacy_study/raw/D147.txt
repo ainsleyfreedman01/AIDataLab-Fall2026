@@ -1,0 +1,81 @@
+PDF EXCERPT PAGE 1
+ Portland Public Schools Artificial Intelligence in
+    PPS Web Page: Data and Student Privacy
+                   Passages
+Excerpted verbatim from Artificial Intelligence in PPS (Portland Public Schools, Office of Teaching and Learning web page).
+The source has no page numbers; locations are given by section. This is a web page (roadmap, accomplishments and
+FAQ), so no page numbers apply. Ellipses (…) mark omitted text.
+
+
+Tech & Operations: IT, Security, Operations & Business (Year 2
+Goals, excerpt)
+Source: web page, Year 2 Goals roadmap
+
+• Develop adoption process for education technology
+• Launch new process for digital tool vetting with restriction; include communication with staff,
+  teachers and supervisors/principals that this is not allowed
+• Screen time measuring and monitoring on district provided chromebooks
+• Create and socialize a “Current State of Technology at PPS” overview that focuses on
+  in-classroom technology topics such as screen time, AI usage, and filtering/monitoring
+• Develop process to review apps for access since LearnPlatform is going away
+• Research use case practices for AI in business operations (hiring, interviews, contract writing,
+  legal review, security, data analysis, attribution, data privacy)
+
+Community & Culture: Community Engagement & Feedback (Year 2
+Goals, excerpt)
+Source: web page, Year 2 Goals roadmap
+
+• What screen time measuring and monitoring will and will not capture data. Who gets this
+  information on a consistent basis?
+• Update PPS AI website on what to do when there are deepfakes, saying you said something
+  when you did not, current research
+
+What We Accomplished: Strategy & Governance (excerpt)
+Source: web page, 'What We Accomplished'
+
+• Identified current district policies related to technology use, data privacy, and student conduct
+  related to AI
+• Review technology and privacy policies
+
+What We Accomplished: Tech & Operations (excerpt)
+Source: web page, 'What We Accomplished'
+
+• Assessment of current AI systems
+• Develop security policy
+
+PDF EXCERPT PAGE 2
+AI and Technology Use at PPS: General Information & Policies
+(excerpt)
+Source: web page, FAQ 'General Information & Policies'
+
+What is PPS’s stance on using AI?
+PPS views AI as a tool to support and enhance human work, not replace it. The district encourages
+the intentional, ethical, and safe exploration of AI to amplify creativity and personalize learning while
+upholding our commitments to equity and data privacy.
+
+Are there different rules for different AI tools?
+Yes. PPS categorizes tools into "Approved" (vetted for privacy and safety) and "Non-Approved".
+You can search for approved tools in the PPS LearnPlatform App Library.
+
+Data Privacy & Security
+Source: web page, FAQ section 'Data Privacy & Security'
+
+Can I enter student names or grades into an AI tool?
+Never upload student work, grades, or Personally Identifiable Information (PII) into AI tools unless
+the district has specifically authorized it and a Data Privacy Agreement (DPA) is in place.
+
+Which AI tool is recommended for the best privacy?
+Staff are encouraged to use Google Gemini. When used with district accounts, Gemini provides
+enterprise-grade security, and your data is not used to train AI models.
+
+Guidance for Families: Key Considerations (excerpt)
+Source: web page, FAQ 'Guidance for Families'
+
+• Data Privacy and Oversharing Risks
+• Awareness of Media Manipulation and Deepfakes
+
+Approved AI Tools for Staff Only (excerpt)
+Source: web page, resources list
+
+Approved AI tools for STAFF ONLY: Gemini Adobe Express Canva Kami Screencastify
+

@@ -1,0 +1,429 @@
+PDF EXCERPT PAGE 1
+ North Carolina Generative AI Implementation
+  Recommendations and Considerations for
+PK-13 Public Schools: Data and Student Privacy
+                  Passages
+Excerpted verbatim from North Carolina Generative AI Implementation Recommendations and Considerations for PK-13
+Public Schools (North Carolina Department of Public Instruction, published 1/16/24; living document last updated
+2/25/2026). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text. This is a 106-page
+living document; the dedicated Data Privacy & Cybersecurity chapter is reproduced in full except for the deepfake
+recommendations, and privacy-related passages elsewhere (including Appendix D on special education) are included as
+shorter excerpts. Page numbers are PDF page numbers because the document's own printed numbers (1–43) stop before
+the appendices.
+
+
+Introduction: Emergent Security Risks (excerpt)
+Source: PDF page 7
+
+With these new capabilities come emergent risks, which will be added to the Data Privacy &
+Cybersecurity Section
+
+Leadership and Vision: Closing the Digital Divide (excerpt)
+Source: PDF page 11
+
+To do this, leadership teams must define a clear AI vision, build local policy, vet AI tools for privacy
+and compliance, and establish professional development pathways for educators.
+
+The Mindset Shift: From Restriction to Transformation (excerpt)
+Source: PDF page 12
+
+Protect and Prepare Ensure safety, privacy, and transparency while also preparing students for the
+real world
+
+AI Implementation Roadmap: Establish a Foundation (excerpt)
+Source: PDF page 13
+
+• Review current EdTech providers deploying generative AI to vet their safety, privacy, reliability,
+  and efficacy, to determine if they are appropriate to be used for your school, and which users
+  they will be open to based on their Terms of Service and school or district policies
+
+PSU Generative AI Policy vs AI Guidelines (excerpt)
+Source: PDF page 14
+
+• Data Privacy & Security: Schools must safeguard student information, address cybersecurity,
+  and prioritize personal safety.
+In a public K–12 school setting, AI policy outlines the rules and requirements; what must be done to
+ensure legal compliance, data privacy, and responsible use of generative AI. It includes enforceable
+directives aligned with state and federal laws (e.g., FERPA, COPPA), covering access controls, tool
+approvals, and disciplinary procedures.
+
+PDF EXCERPT PAGE 2
+Developing Generative AI Guidelines at Your PSU: Data Privacy and
+Security
+Source: PDF pages 15–16
+
+Data Privacy and Security
+• Clearly define what student, teacher, and school personally identifiable information (PII) includes.
+• Remind all users that PII is off-limits to generative Al tools (including uploading or pasting in of
+  data into genAI models as well as typing it in a chat)
+• Provide a refresher for educators of student data privacy & FERPA
+
+Evaluating Generative AI Ed Tech Tools
+Source: PDF page 18
+
+Generative AI guidelines, policies, and Data Sharing Agreements should be carefully evaluated
+when making decisions about which tools to allow for staff and students. As with any digital tool,
+Public School Units should follow the terms of service, including appropriate age limits and seeking
+parental consent if required. It is recommended to consult with the technology director and, if
+needed, legal counsel, in evaluating the terms of service.
+
+Most Large Language Models such as ChatGPT, Microsoft CoPilot, and Perplexity are currently
+prohibited for ages under 13 per their terms of service, but are allowed for ages 13 and over with
+varying parental/guardian permission requirements.
+
+If your PSU decides to utilize a tool with students that requires parent/guardian permission, or if you
+decide to require parent/guardian permission for other tools, you may choose to customize this
+Example AI Permission Form. In some cases, it may be appropriate to include AI tool permissions in
+other technology policies.
+
+“Built-for-education” models:
+Many school and district leaders continue to be understandably hesitant to allow tools such as
+ChatGPT for students even if they are 13 or older due to well-founded privacy and safety concerns.
+However, built-for-education models are becoming more readily available and may provide a safer
+(though not foolproof) way to allow older students to learn with AI. Currently, the only one of the
+large frontier model companies that provides an education version of their Large Language Model is
+Google’s, which now provides their Gemini 3 for all Google Workspace for Education users with
+enhanced data privacy including no training on chats. Google also allows for use for all ages with
+additional protections for under 18 users on Edu platforms (pending PSU policies and permissions).
+However, NCDPI continues to recommend against any interaction with generative AI chatbots for
+our PK-5 learners.
+
+Several other built-for-education platforms (e.g., Khanmigo, SchoolAI, Magic School, Skillstruck
+Chat for Schools, Brisk etc) wrap frontier models- usually ChatGPT- in additional K-12 safeguards,
+but still require PSU vetting and AI-literacy training.
+
+PDF EXCERPT PAGE 3
+AI-Powered Toys and Social Companions (excerpt)
+Source: PDF pages 19–20
+
+AI-powered toys also raise data privacy risks as children’s voice interactions may be transmitted,
+stored, or shared, increasing the possibility of exposure or breach.
+
+… evidence of the urgent need for AI literacy in schools so students can identify system limitations,
+privacy risks, and manipulation patterns and make safer choices.
+
+Key Concerns of Social Companions and Toys for PK-13 Students:
+• Data Privacy & compliance gaps- Most apps lack robust age verification, creating
+  FERPA/COPPA vulnerabilities when used on school networks or devices.
+• Personal information disclosure- Students may build trust with AI Companion and disclose PII
+
+Large Language Models (excerpt)
+Source: PDF page 27
+
+By building a baseline AI literacy among staff and students, schools ensure that everyone knows
+how to use these tools responsibly and effectively, verifying AI-generated content, protecting data
+privacy, and recognizing biases, before integrating them deeply into learning.
+
+Data Privacy & Cybersecurity: Data Privacy in the Age of AI
+Source: PDF page 36
+
+Protecting student data has always been a cornerstone of ethical education but in the Intelligence
+Age, this responsibility becomes even more complex. New AI tools not only process typed inputs
+but can now accept voice recordings, images, and even location data. These inputs are often stored
+by vendors for model training or product improvement, even when students or staff assume the data
+is private. Any AI system that collects, stores, or processes personally identifiable information (PII)
+including names, birthdays, voice clips, facial images, student work, or ID numbers must be subject
+to the same strict oversight as any traditional educational technology.
+
+LLM models such as ChatGPT utilize user input in the form of chats to continue training the models.
+Therefore it is imperative that users fully understand NOT to enter, paste, or upload any PII into the
+chat of any generative AI tool. All users should be reminded of what data is considered PII, and that
+it includes student ID numbers. Users should use caution in particular to avoid inadvertently
+copying, uploading, speaking, or using computer vision to capture documents in an LLM as any of
+these methods couple potentially introduce PII into the model when evaluating student responses,
+analyzing data, or creating personalized content such as IEP goals, personalized learning plans,
+etc.
+
+Under FERPA (Family Educational Rights and Privacy Act), PII includes both direct identifiers (e.g.,
+name or Social Security number) and indirect identifiers (e.g., date of birth or student photo) that
+could be used to trace a student’s identity. Educators and students must be clearly instructed never
+to input PII into AI systems unless the tool has been formally vetted, approved, and integrated under
+local district policy.
+
+PDF EXCERPT PAGE 4
+Emerging AI-Specific Threats (excerpt)
+Source: PDF pages 36–37
+
+Since our original publication in January of 2024, the capabilities of AI systems have grown
+exponentially. With new potential to improve our lives comes new emotional concerns as well as
+cyber security and data privacy risks that must be addressed by public schools in order to keep
+student data and students themselves safe from harm.
+
+Modern AI systems introduce or increase several distinct risks not fully covered by older privacy
+frameworks:
+
+• Voice-cloning scams – bad actors cloning a person’s voice to scam money
+• AI-crafted cyberattacks on schools – phishing, ransomware, and spoofed video calls
+• Impersonation & grooming – predators use AI to pose as peers or deploy bots that lure children
+  in chat and games
+• Deepfake harassment & image-based abuse – nude or hateful synthetic images/audio of
+  classmates spread in seconds
+
+AI Enabled Browsers (excerpt)
+Source: PDF page 37
+
+… they also expand privacy and data-security concerns in school environments. Because these
+tools are already becoming the default browsing experience, requiring clear oversight from district
+technology and policy leaders, we created the following guide, “AI-Enabled Browsers Are Here” to
+guide NC’s education and technology leaders in navigating this new shift. Note that this guidance
+will be updated frequently to reflect new advancements as tech companies address privacy and
+security issues.
+
+Autonomous AI Systems
+Source: PDF page 37
+
+Autonomous AI agents such as OpenClaw go beyond chatbots by taking direct actions on a device,
+including reading and writing files, browsing the web, and running commands, which increases the
+likelihood of unintended data exposure on school systems. Because these agents can be
+manipulated through prompt-injection or unvetted third-party “skills” to exfiltrate data or run
+malicious commands, Public School Units should:
+
+• Treat them as a cybersecurity risk category and prohibit use on school-managed devices,
+  accounts, or networks unless cleared through formal IT security review.
+• Update Acceptable Use guidance to reflect this default prohibition and handle any detected use
+  as a potential security incident (stop use, report, and triage).
+
+PDF EXCERPT PAGE 5
+Legislation Regarding Deepfakes (excerpt)
+Source: PDF page 38
+
+• The TAKE IT DOWN Act has become law. This law compels platforms that host user-generated
+  content to delete any non-consensual intimate image or an AI-generated “digital forgery” of such
+  an image within 48 hours of a verified takedown request; knowingly posting this material
+  becomes a federal crime punishable by up to three years’ imprisonment. The Act also treats a
+  platform’s failure to maintain an effective notice-and-takedown process as an unfair or deceptive
+  practice enforceable by the Federal Trade Commission.
+
+Federal and State Compliance Requirements
+Source: PDF pages 39–40
+
+• FERPA (Family Educational Rights and Privacy Act) ensures students’ education records remain
+  protected.
+• COPPA (Children’s Online Privacy Protection Act) prohibits data collection from children under
+  13 without explicit parental consent.
+COPPA was significantly revised in January 2025, its first major update since 2013. These updates
+modernize the law to address new forms of data collection, including biometric data, AI-generated
+content, and automated profiling of children.
+
+Key changes to COPPA include:
+• Expanded Definition of Personal Information: COPPA now includes biometric identifiers such
+  as facial recognition data and voiceprints.
+• Parental Consent for Targeted Advertising: Separate, verifiable consent is now required
+  before sharing data with third parties for personalization or profiling.
+• Data Retention and Deletion Requirements: Data may only be kept as long as needed for
+  educational or operational purposes, with written retention policies required.
+• Stronger Notification to Parents: Schools and vendors must provide clear and accessible
+  disclosures about data collection and sharing practices.
+• New Consent Methods: New FTC-approved options include knowledge-based authentication,
+  ID verification, and AI-assisted identity confirmation.
+• Safe Harbor Transparency: COPPA Safe Harbor programs must now disclose membership
+  lists and file compliance reports with the FTC.
+• CIPA (Children’s Internet Protection Act) requires schools using federal e-rate funding to
+  implement policies blocking inappropriate content and safeguarding against the unauthorized
+  disclosure of student information.
+In North Carolina, all third-party vendors connecting with the NC SIS and other state-wide systems
+must comply with DPI’s Third-Party Data Integration Requirements, effective January 2024. These
+include mandatory Data Confidentiality and Security Agreements and alignment with NIST 800-53
+cybersecurity standards.
+
+Districts must maintain documentation confirming that vendors use student data only for educational
+purposes and do not share or monetize it without consent.
+
+PDF EXCERPT PAGE 6
+Cybersecurity Considerations for AI Tools
+Source: PDF page 40
+
+AI tools can expose districts to new cybersecurity risks, including unauthorized data extraction,
+prompt injection attacks, and potential leaks of sensitive content.
+
+PSUs should conduct and review a security audit on the product/vendor to ensure they meet or
+exceed applicable security practices, PSU, State, and Federal requirements. PSUs should
+understand how each product or tool harvests data for training and continual learning. This is critical
+to help ensure sensitive data or contaminated data is not ingested. District technology teams must
+audit each tool’s security posture before adoption:
+
+• Ensure Encryption
+• Limit Permissions
+• Avoid Model Training on School Data
+• Use Simulated Data for Pilots
+• Establish Incident Response Protocols
+Districts are also encouraged to monitor vendor updates. Many AI tools update their terms of
+service frequently. A product that was offline yesterday might now sync data to the cloud. These
+changes may expose students to new risks and should trigger re-review before continued
+classroom use.
+
+Reviewing and Adapting Guidelines (excerpt)
+Source: PDF page 40
+
+All PSUs engaging with AI technologies should regularly review the company’s usage and privacy
+guidelines.
+
+Usage: PSUs, schools, educators and students that are utilizing any type of AI tools adhere to
+specific usage requirements outlined by the tool's developer or provider. This includes complying
+with age restrictions, data usage practices, any restrictions, inclusivity, limitations, notifications, and
+any other relevant guidelines or restrictions. This should include awareness and procedures in place
+regarding, but not limited to following COPPA, CIPA, IDEA, FERPA, and section 504.
+
+Transparent Communication with Families
+Source: PDF pages 40–41
+
+Perhaps most importantly, schools must communicate clearly and consistently with families about
+how AI is being used, what data is being collected, and how it is protected. Best practices include:
+
+• Publishing a list of approved AI tools used in classrooms by grade span.
+• Including AI in annual technology disclosure forms and the list of “School Officials” in the annual
+  FERPA notification .
+• Holding family information sessions on AI safety and literacy.
+• Providing opt-out options where appropriate.
+• Explaining how voice, video, or images may be used, and when parental consent is required.
+
+PDF EXCERPT PAGE 7
+Technology, Infrastructure, and Devices: Purchasing and Using AI
+Technologies
+Source: PDF page 42
+
+When it comes to investing in technologies to support learning with and about Artificial Intelligence,
+it is important to ensure that the technology resources:
+
+• Are Age Appropriate for the User of the AI Technology: Pay special attention to age
+  allowances of the technology to ensure compliance with federal, state, and local laws and
+  policies as well as age limits and permission requirements in the terms of service for each
+  application.
+• Comply with Regulations: Prioritize technologies that comply with federal, state, and local
+  regulations regarding data privacy and cybersecurity in educational settings. Familiarize yourself
+  with regulations like the Family Educational Rights and Privacy Act (FERPA) in the United States
+  and similar laws in other regions.
+• Secure Access Controls: Implement secure access controls to ensure that only authorized
+  individuals have access to sensitive student data. This includes usernames, passwords, and
+  multifactor authentication methods to protect against unauthorized access.
+• Encrypt and Secure Transmission: Ensure that data, especially personally identifiable
+  information (PII), is encrypted both in transit and at rest. This adds an extra layer of protection
+  against data breaches or unauthorized interception.
+• Are Required to Undergo Regular Security Audits: Periodically conduct security audits and
+  assessments to identify vulnerabilities in the technology infrastructure. This helps in proactively
+  addressing potential security risks and ensuring a robust cybersecurity posture.
+• Meet Clear Data Usage Policies: Clearly communicate to students, parents, and educators how
+  data collected by AI technologies will be used, stored, and shared. Establish transparent policies
+  that align with best practices for data privacy in educational settings.
+• Meet Vendor Security Standards: If using third-party platforms or services, verify that the
+  vendors adhere to stringent security standards. This includes evaluating their data protection
+  policies, encryption practices, and overall commitment to cybersecurity.
+
+Seven Questions to Ask Generative Ed Tech Companies (excerpt)
+Source: PDF page 43
+
+3. Student Privacy and Ethical Data Use
+Protecting student data privacy and ensuring ethical use of data is a top priority for our school.
+
+• What policies and safeguards are in place to address privacy of student data?
+7. Cybersecurity
+• How can we be sure we are minimizing any potential risks to our networks and our users?
+• What security practices are you implementing to protect our user and organizational data (an
+  essential act of AI project management & digital citizenship)?
+• How do your security practices meet or exceed applicable PSU, State, and Federal requirements
+  including the new NC Third Party Data Integration requirements?
+
+PDF EXCERPT PAGE 8
+Appendix A: AI Literacy Timeline, Grades 6–8 (excerpt)
+Source: PDF pages 48–49
+
+• Key objectives for this stage include: demystifying AI technology, practicing critical evaluation of
+  AI outputs, learning how to formulate good questions or prompts, and understanding ethical use
+  (such as avoiding plagiarism, respecting privacy, and knowing the limits of AI answers).
+They should also understand the privacy and safety aspects – for example, why most AI tools
+require users to be 13 or older, and why we don’t put personal information into a chatbot.
+
+Appendix A: AI Fluency, Grades 9–13 and Educators (excerpt)
+Source: PDF page 49
+
+All users must practice responsible use with oversight and documentation. Data privacy and student
+safety is paramount. Ensure that students and educators are well trained in the concerns and
+limitations of generative AI and how to protect data privacy, and that they teach and model safe and
+ethical use to students, including never putting PII (Personally Identifiable Information) into an AI
+tool.
+
+Appendix D: Acceptable Use of AI for Special Education Teachers
+and Related Service Providers (excerpts)
+Source: PDF pages 59–61
+
+Introduction
+This document serves as comprehensive guidance to help special education professionals navigate
+appropriate and ethical applications of AI tools while maintaining rigorous standards and compliance
+with privacy regulations.
+
+When used ethically and effectively, AI can serve as a valuable resource to:
+• Strengthen Individualization: The utilization of AI in the drafting of PLAAFPs and SMART IEP
+  goals has the ability to enhance individualization by leveraging the AI's ability to analyze multiple
+  data points that have been anonymized (removing all PII) and follow local policies and
+  procedures to help process and draft complex student profiles. This can include student data
+  such as assessment scores, academic records, attendance, and previously documented learning
+  preferences.
+Human-AI-Human (H-AI-H) Workflow
+• Human Inquiry: The process begins with human-initiated prompts based on anonymized
+  comprehensive student data, that contains no Personally Identifiable Information and uses
+  professional judgment.
+Key Considerations for AI Use in Special Education
+Special education teachers and related service providers must adhere to the following principles
+when integrating AI into their professional practice:
+
+• Adherence to Local Policies: Staff should consult and comply with their district's policies
+  regarding AI use and data privacy.
+
+PDF EXCERPT PAGE 9
+• Protection of Confidentiality: Personally identifiable information (PII) and confidential student
+  records must never be entered into AI systems.
+Inappropriate Automated Decision-Making: Why This is Prohibited
+• May violate FERPA and other legal requirements.
+
+Appendix D: Inappropriate Uses of AI (excerpt)
+Source: PDF page 63
+
+• Student Data Misuse: Using AI tools that store personally identifiable information externally,
+  including cloud-based AI tools where data is processed and stored on the vendor's servers
+  without explicit, secure contractual agreements.
+
+Appendix D: Privacy and Security Requirements
+Source: PDF page 63
+
+IMPORTANT: Everyone should adhere to district policies regarding data privacy and protection of
+confidential information.
+
+Data Protection Standards:
+• Anonymize All Input: Remove all personally identifiable information (PII) before using AI tools.
+  PII includes, but is not limited to, student names, specific dates of birth, addresses, unique
+  student identification numbers, and names of family members.
+• Use Generic Descriptors: Reference "a 3rd-grade student with reading difficulties" rather than
+  student names. For example, instead of "John scored 70 on his math assessment," use "A
+  7th-grade student scored below proficiency on a recent math assessment".
+• No External Storage: Ensure AI tools do not retain or store student information, even if
+  anonymized. Ensure chat histories are turned off when possible.
+Before using any AI tool:
+• Consult your district's technology policies regarding approved AI platforms.
+• Never input student names, ID numbers, or other personally identifiable information.
+• Use anonymized or generalized information when seeking AI assistance.
+• Document all AI usage in accordance with local procedures.
+• When in doubt, consult with your local leadership.
+
+Appendix D: Professional Judgment Standards (excerpt)
+Source: PDF page 64
+
+• AI tools should enhance, not replace, your professional expertise. Always prioritize student
+  privacy, individualized needs, and your professional judgment when incorporating technology
+  into special education services.
+
+PDF EXCERPT PAGE 10
+Appendix D: Training and Implementation Scenarios (excerpt)
+Source: PDF page 65
+
+• Privacy Protection: Maintaining confidentiality while using AI tools, including detailed guidance
+  on anonymization and PII.
+The following examples demonstrate how AI can serve as a tool to enhance professional practice
+while maintaining ethical standards, protecting student privacy, and upholding professional
+judgment.
+
+Appendix E: Free, High Quality Resources (excerpt)
+Source: PDF page 71
+
+• New: SAIFCA (Safe Al for Children Alliance)- Updated Guidance on Schools Sharing Children’s
+  Photos Online
+

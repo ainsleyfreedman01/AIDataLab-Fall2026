@@ -1,0 +1,51 @@
+PDF EXCERPT PAGE 1
+ Loudoun County Policy 5430: Data and Student
+             Privacy Passages
+Excerpted verbatim from Policy 5430, Use of Generative Artificial Intelligence (Loudoun County Public Schools, Virginia;
+draft clean copy, C&I Committee May 7, 2025). Page numbers match the document's own page numbering. Ellipses (…)
+mark omitted text. The source PDF prints a line number beside every line; these were removed when quoting.
+
+
+B. General Policy on Generative Artificial Intelligence
+Source: page 1
+
+Only approved Generative AI programs may be utilized in student instruction or in completing
+student work.
+
+C. Monitoring and Review: Annual Review
+Source: page 1
+
+Generative AI programs approved for use by staff or students will be reviewed annually to ensure
+compliance with Division policies and state and federal student data privacy laws.
+
+D. Student Use of Generative AI (excerpt)
+Source: page 2
+
+To ensure Generative AI is used in ways that support their learning, students will commit to:
+
+• Practicing good digital citizenship habits, respecting privacy and online safety, and using
+  Generative AI technologies responsibly for learning and collaboration.
+
+D. Teacher Use of Generative AI (excerpt)
+Source: page 2
+
+To ensure Generative AI is used in ways that support safe learning, teachers will commit to:
+
+• Protecting the privacy of personally identifiable information about themselves or their students
+  with any Generative AI tool.
+
+D. Staff Use of Generative AI (excerpt)
+Source: page 3
+
+To ensure Generative AI is used in ways that support operation efficiency, staff will commit to:
+
+• Using Generative AI in ways that protect the privacy of staff, students, and families.
+• Being mindful of the use of Generative AI in ways that protect Division information and uphold
+  applicable laws and policies.
+
+D. Prohibited Use of Generative AI
+Source: page 3
+
+• Using Generative AI tools that are not provided and/or authorized by the school Division.
+• Sharing personally identifiable information with Generative AI programs.
+

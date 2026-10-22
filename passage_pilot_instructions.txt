@@ -1,0 +1,55 @@
+Student privacy passage pilot
+
+Purpose
+Locate evidence about model training, secondary use/sharing, and retention/
+deletion without treating keywords as automatic interpretations.
+The topic-modeling script is separate and unchanged.
+
+Requirements
+R and pdftools. The first pilot used a session-local R library.
+No policy text is sent to a remote service. The CSV policy corpus is not used.
+
+Run from repository root
+Rscript test_passage_pilot.R
+Rscript passage_pilot.R "Privacy Passages" "/absolute/path/to/new-output" "/optional/R/library"
+Rscript evaluate_passage_pilot.R "/absolute/path/to/new-output" .
+Rscript compare_passage_rules.R "/absolute/path/to/new-output"
+
+The extraction script refuses a nonempty output directory to protect reviews.
+The scripts inventory all PDFs but retrieve/analyze only the ten-file pilot.
+No OCR or silent substitution is used; extraction failures are explicit.
+PDF page is the page in the excerpt compilation, not the original source page.
+Source labels preserve the compilation's reported original location.
+Raw pages and adjacent paragraphs support review of qualifiers and exceptions.
+No source's legal status is inferred from the PDF filename or mandatory wording.
+
+Review workflow
+1. Open START_HERE.txt for the overview and quality decision, then
+   quality_report.txt for initial frozen-rule results and limitations.
+2. Read revision_v2_notes.txt and revised_rules_in_sample_quality.csv for the
+   revised finder. These results reuse the old sample and are NOT validation.
+3. Use candidate_evidence_v2.csv to inspect candidate text with context.
+4. Have a teammate independently fill full_read_review_template.csv without
+   looking at assistant labels or hit flags. yes/no/uncertain are relevance codes.
+5. Compare to provisional_full_read_reference.csv, resolve disagreements, and
+   revise the codebook with a version log. Keep original independent labels.
+6. Check the PDF visually and original source for important quotations.
+7. Evaluate frozen revised rules on fresh documents before full-corpus claims.
+8. Split relevant paragraphs into individual provisions before substantive coding.
+
+Reference review provenance
+passage_review_documents.csv lists all ten excerpts fully read by the assistant.
+passage_reference_labels.csv records positive/uncertain cases and selected
+explicit negatives. All other paragraph/category pairs in those fully reviewed
+documents are labeled no when building the expanded reference table.
+This reference is provisional, not independently annotated human ground truth.
+passage_provision_examples.csv provides illustrative assistant coding only.
+It is not a complete substantive coding of all retrieved provisions.
+
+Quality safeguards
+No-hit categories are audited against the full-read reference.
+Initial and revised rules remain distinct; original rule hash is verified.
+Undefined precision/recall is left blank, never replaced with 100%.
+Repeated paragraphs are flagged, not counted as additional documents.
+Near-duplicate templates still need assessment before comparative statistics.
+Original-source verification and independent annotation remain open.

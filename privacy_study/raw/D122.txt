@@ -1,0 +1,25 @@
+PDF EXCERPT PAGE 1
+             NYS Regents AI and P-12 Education
+            Presentation: Data and Student Privacy
+                           Passages
+Excerpted verbatim from Artificial Intelligence (AI) and P-12 Education (Office of Educational Design & Technology,
+Presentation to the New York State Board of Regents, March 11, 2024). Page numbers match the document's own page
+numbering. The source is a 25-slide presentation, so the privacy content is limited to two slides. Page numbers are the slide
+numbers, which match the PDF pages.
+
+
+Data Privacy Legislation (excerpt)
+Source: page 9
+
+Existing Policy
+• FERPA
+• COPPA
+• Education Law 2-d
+
+Our AI Vision, New York City Public Schools (excerpt)
+Source: page 19
+
+New York City Public Schools aims to be a global leader in integrating, building, teaching, and
+learning responsible and innovative AI and GenAI within the K12 education system, ensuring
+equitable access, privacy, security, and enhanced educational outcomes for all learners.
+

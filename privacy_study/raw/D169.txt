@@ -1,0 +1,84 @@
+PDF EXCERPT PAGE 1
+  Texas AI in Education Task Force Report: Data
+         and Student Privacy Passages
+Excerpted verbatim from Leading the Way in K-12 Education: Recommendations of the Texas AI in Education Task Force
+(Texas Advanced Computing Center, The University of Texas at Austin, 2026). Page numbers match the document's own
+page numbering. Ellipses (…) mark omitted text. The report is a set of recommendations to state policymakers and has no
+standalone privacy section, so every passage is an excerpt. Passages from two-column pages whose text extraction
+interleaved the columns were transcribed from the rendered page and are marked [graphic]; bracketed numbers such as
+[10] are the report's own citation markers.
+
+
+Executive Summary: The Challenge (excerpt)
+Source: page 2
+
+Continued inaction risks student misuse, over-reliance on AI, harm to cognitive and social-emotional
+development, data privacy violations, workforce unpreparedness, and uneven educational
+experiences across 1,200+ districts.
+
+Executive Summary: Recommendation 2, Issue Statewide Guidance
+(excerpt)
+Source: page 2
+
+Texas should publish guidance covering responsible use policies for both educators and students,
+data privacy, AI procurement and student assessment.
+
+Introduction (excerpt)
+Source: page 3 [graphic]
+
+[graphic] Conversely, AI can also be potentially damaging if students access AI tools without
+appropriate guardrails or lacking the knowledge and skills to critically evaluate AI outputs, safeguard
+their personal data, discern the difference between human relationships and AI generated outputs,
+and understand how to use AI to support their learning rather than as a substitute for deep thinking.
+
+Texas AI in Education Task Force (excerpt)
+Source: page 4 [graphic]
+
+[graphic] This vision calls for educational institutions to expand their focus beyond surface issues,
+such as academic integrity and data privacy, toward a more comprehensive goal of advancing AI
+literacy for all students and educators.
+
+What do we mean by AI literacy for students? Critical Evaluation
+(excerpt)
+Source: page 5 [graphic]
+
+• [graphic] Privacy: Students understand that LLMs may use any information the students provide
+  to train future models and that once personal information is shared, its privacy cannot be
+  assured.
+
+PDF EXCERPT PAGE 2
+Background Information (excerpt)
+Source: page 6 [graphic]
+
+[graphic] Student safety not only revolves around the safe use of AI tools, but around guardrails that
+take into consideration screen time, student privacy, age appropriate practices, and more [10].
+
+Background Information: State Guidance (excerpt)
+Source: page 7 [graphic]
+
+[graphic] State executive orders, legislation, and guidance related to AI in education typically include
+various layers, such as privacy, ethics, and academic integrity [15].
+
+Recommendation #2: State Guidance Examples (excerpt)
+Source: page 11 [graphic]
+
+[graphic] North Carolina’s guidance was created around four focus areas: Leadership and Vision,
+Human Capacity, Curriculum, Instruction, and Assessment, Data Privacy and Cybersecurity, and
+Technology, Infrastructure, and Devices.
+
+[graphic] California’s guidance has an emphasis on human connection and mental health, alignment
+to computer science standards requirements, and a focus on data privacy and security.
+
+Process Suggestions for Guidance Issuance (excerpt)
+Source: page 12 [graphic]
+
+[graphic] Potential categories include:
+
+• [graphic] Data privacy and security
+• [graphic] Considerations for procurement of AI-related tools and services
+
+Risks of Non-Action (excerpt)
+Source: page 16 [graphic]
+
+• [graphic] Increased student data privacy violations
+

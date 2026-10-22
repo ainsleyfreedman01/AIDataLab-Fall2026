@@ -1,0 +1,71 @@
+PDF EXCERPT PAGE 1
+  Minneapolis Public Schools AI Web Page: Data
+         and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI), The Source (Minneapolis Public Schools web page). The source has no
+page numbers; locations are given by section. This is a district web page, not a paged document. Ellipses (…) mark omitted
+text.
+
+
+Access to Resources (excerpt)
+Source: web page
+
+For data privacy concerns, some resources may require you to sign in to Google Chrome with your
+MPS email in order to see them.
+
+Approved Software (excerpt)
+Source: web page, Overview
+
+MPS takes the use of AI seriously. Use of AI systems and tools must be safe and effective for
+students and staff. Reference the MPS Approved Software list to see which AI tools have officially
+been approved by MPS.
+
+Note that not all tools are approved for everyone. For example, some tools may only be used at the
+high school level, while other tools may only be used by staff.
+
+Laws and Acts AI Tools Must Follow
+Source: web page, Overview
+
+Use of AI systems and tools must be safe and effective for students and staff. Additionally, we must
+adhere to the following laws/acts:
+
+FERPA - Family Educational Rights and Privacy Act:
+Protects the privacy of student education records & gives parents certain rights regarding student
+education records
+
+AI systems must protect the privacy of student education records and comply with any parental
+consent requirements.
+
+Data must remain within the direct control of MPS.
+
+COPPA - Children’s Online Privacy Protection Act:
+Imposes requirements on websites and online services directed to children under 13 years of age,
+or that collect personal information from a child under 13.
+
+AI chatbots, personalized learning platforms, and other technologies collecting personal information
+and user data on children under 13 must require parental consent.
+
+MN Student Data Privacy Laws
+Learn more on the MPS Staff Intranet
+
+PDF EXCERPT PAGE 2
+Troubleshooting: Tools Not Approved, Blocked Tools, and PII
+Source: web page, Troubleshooting
+
+The tool/site I want to use isn't approved by MPS
+MPS staff may request software by following the process outlined on MPS Digital Resource
+Standards Site .
+
+I can't open ChatGTP
+ChatGTP is not allowed for use at MPS. It does not meet MPS data privacy and security standards.
+As a result, the ChatGTP website is blocked.
+
+What's PII?
+PII stands for personal identifiable information. Working in education means that there are several
+data privacy laws which apply to us and our use of AI tools. Reference our Best Practices guide for
+examples of PII.
+
+Cybersecurity (related content, excerpt)
+Source: web page, Related Content
+
+Protect sensitive information and understand how to prevent digital threats.
+

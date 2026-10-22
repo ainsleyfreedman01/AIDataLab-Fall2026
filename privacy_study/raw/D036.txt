@@ -1,0 +1,42 @@
+PDF EXCERPT PAGE 1
+Celina ISD Artificial Intelligence Web Page: Data
+         and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence in Celina ISD (Celina Independent School District, Texas, web page). The
+source has no page numbers; locations are given by section. Source is a district web page (FAQ-style). Ellipses (…) mark
+omitted text.
+
+
+Is AI safe to use in the classroom?
+Source: web page, FAQ 'Is AI safe to use in the classroom?'
+
+When used responsibly, Artificial Intelligence (AI) can be a safe and valuable tool for learning. Our
+district only allows the use of AI systems that meet strict safety, privacy, and educational standards.
+Additionally, all approved resource providers are required to sign our DPA (Data Privacy
+Agreement). Any AI tools used in our classrooms must comply with federal and state student
+privacy laws, including:
+
+• FERPA (Family Educational Rights and Privacy Act): protects the privacy of student
+  education records
+• COPPA (Children’s Online Privacy Protection Act): applies to online services used by
+  children under 13
+• Texas student data privacy laws: provides additional safeguards around how student data is
+  collected and used
+
+What AI does my child have access to? (excerpt)
+Source: web page, FAQ 'What AI does my child have access to?'
+
+Our district provides students with access to carefully selected, school-approved tools that include
+Artificial Intelligence features to support learning. … In addition, some of the digital tools our
+students already use include built-in AI features, such as writing support, feedback, or tutoring
+assistance. These features are part of platforms that have been reviewed and approved by the
+district.
+
+What policies are in place for AI use? (excerpt)
+Source: web page, FAQ 'What policies are in place for AI use?'
+
+All guardians must agree annually to the Celina ISD Acceptable Use Policy (AUP) as defined in
+CQ(Local). The following Artificial Intelligence clarification is included in the AUP:
+
+… Students, teachers, and staff members must ensure that any AI systems they use are
+age-appropriate and that they do not violate the privacy of other individuals. …
+

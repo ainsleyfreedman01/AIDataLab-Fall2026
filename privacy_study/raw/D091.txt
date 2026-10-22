@@ -1,0 +1,34 @@
+PDF EXCERPT PAGE 1
+   Jackson County Schools Policy 7540.08: Data
+         and Student Privacy Passages
+Excerpted verbatim from Policy 7540.08 Artificial Intelligence (AI) (Jackson County Schools, West Virginia; Neola New
+Policy, Volume 17, No. 2, August 2025). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted
+text. Page numbers are PDF page numbers.
+
+
+Introduction (excerpt)
+Source: PDF page 2
+
+Any use of artificial intelligence technology in the Board’s educational programs or operations must
+be in accordance with State and Federal law as well as Board policies, including but not limited to
+the following: … Policy 8330 – Student Records; Policy 7540.03 – Student Technology Acceptable
+Use and Safety; and Policy 7540.04 – Staff Technology Acceptable Use and Safety.
+
+General Principles: Ethical Use (excerpt)
+Source: PDF page 2
+
+All members of the … community must use AI technologies in ways consistent with institutional
+values, privacy standards, FERPA, copyright laws, and the integrity of employees and students.
+
+Employee Use of AI (excerpt)
+Source: PDF pages 2–3
+
+Employees shall not input sensitive or proprietary information about students, colleagues, or
+institutional operations into AI systems that lack safeguards and policies to protect such data from
+being used in their training models, and if such sensitive or proprietary information will be entered
+into an AI system, employees shall seek the approval of their Principal before doing so.
+
+Employees shall not enter sensitive information, such as personally identifiable data or confidential
+institutional documents, into AI systems. If such information must be used in an AI system, staff
+must seek their supervisor’s approval when doing so.
+

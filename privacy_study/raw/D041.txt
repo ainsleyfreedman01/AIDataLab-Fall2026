@@ -1,0 +1,113 @@
+PDF EXCERPT PAGE 1
+     Cherry Creek AI Guidance: Data and Student
+                 Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) Guidance (Cherry Creek School District, Colorado). The source has no
+page numbers; locations are given by section. Ellipses (…) mark omitted text. This is a web page with audience tabs
+(elementary, middle, high school, educators, administration, support staff, families), FAQs, and a policy list.
+
+
+Guiding Principles (excerpt)
+Source: web page, introduction
+
+Keeping student and staff information safe builds trust and creates a secure environment where
+learning can thrive. When people feel protected, they are more willing to explore, think, and grow.
+
+Guidance for AI Use: Elementary
+Source: web page, tab 'Elementary'
+
+Safe
+Your privacy and safety come first when using AI.
+
+Never type your name, school, or personal information into AI tools. The tools you use at school are
+chosen to help keep your information safe.
+
+Guidance for AI Use: Middle School
+Source: web page, tab 'Middle School'
+
+Safe
+Protect yourself and your data online.
+
+Think carefully about what personal information you share with AI. Only use AI tools approved by
+the school and follow guidelines to keep yourself and others safe.
+
+Guidance for AI Use: High School
+Source: web page, tab 'High School'
+
+Safe
+Be aware of privacy, security, and digital ethics.
+
+Use AI in ways that respect data privacy, school policies and legal standards, digital ethics, and
+your own well-being. Use AI responsibly and be aware of overreliance on AI.
+
+Guidance for AI Use: Educators
+Source: web page, tab 'Educators'
+
+Safe
+Protect student privacy and wellbeing at all times.
+
+Use only district-approved AI tools and never upload student personally identifiable or sensitive
+information into external systems. Protect your own well-being by using AI responsibly and be
+aware of overreliance on AI.
+
+PDF EXCERPT PAGE 2
+Guidance for AI Use: School Administration
+Source: web page, tab 'School Administration'
+
+Safe
+Safeguard privacy, security, and student wellbeing at all times.
+
+Ensure only district-approved AI tools are used and that all privacy, data protection, and security
+requirements are followed. Promptly address any concerns related to misuse, bias, or breaches.
+
+Guidance for AI Use: District Support & Operations Staff
+Source: web page, tab 'District Support & Operations Staff'
+
+Safe
+Protect data privacy and uphold security requirements at all times.
+
+Use only district-approved AI tools and never enter staff or student personal or sensitive information
+into external or non-vetted systems. Safeguarding data supports the wellbeing and trust of the
+Cherry Creek community.
+
+Guidance for AI Use: Families
+Source: web page, tab 'Families'
+
+Safe
+Your child’s safety and privacy are a top priority.
+
+The district reviews AI tools for security, privacy, and fairness before use. Remind your child not to
+share personal information with AI systems at home or at school.
+
+FAQs (excerpt)
+Source: web page, section 'FAQs'
+
+Which AI tools can CCSD employees use?
+CCSD employees should only use AI tools if they’re district-provided or have been approved
+through the district’s review process. When in doubt, don’t use it with student or staff data and ask
+your school/district tech support team.
+
+Which AI tools can high school students use?
+CCSD high school students should only use AI tools that are district-provided and have been
+approved through the district's review process.
+
+Policy: What guides AI use (excerpt)
+Source: web page, section 'Policy: What guides AI use'
+
+Existing Board policies already outline expectations for equity, academic integrity, and student data
+privacy as they relate to AI use.
+
+JRCB – Student Data Privacy (Adopted 8/11/25)
+AI tools must pass a privacy review before use with student information.
+
+PDF EXCERPT PAGE 3
+EHC – Staff Tech Use (DRAFT – Pending Review by BOE)
+Staff may use AI but must protect sensitive data and remain responsible for accuracy and quality.
+
+AI Tools Described as Secure (excerpt)
+Source: web page, section on available tools
+
+• Microsoft Copilot Chat: A secure chat assistant for brainstorming, summarizing long
+  documents, drafting emails, and general chat.
+• Google Gemini: A secure chat partner for creative brainstorming, drafting emails, and
+  simplifying complex topics.
+

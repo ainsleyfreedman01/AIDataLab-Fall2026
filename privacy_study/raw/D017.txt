@@ -1,0 +1,155 @@
+PDF EXCERPT PAGE 1
+ Bellevue School District AI Handbook: Data and
+           Student Privacy Passages
+Excerpted verbatim from Bellevue School District AI Handbook (Bellevue School District, Washington; last updated
+September 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. One
+passage from a two-column table is transcribed from the extracted page text and marked [graphic].
+
+
+Our District Guiding Principles (excerpt)
+Source: page 3
+
+4. Private & Secure by Design: We protect student and staff data by following privacy laws, security
+standards, and district guidelines when using AI tools.
+
+Strategic Alignment (excerpt)
+Source: page 4
+
+• Sustainable and responsible operations, balancing innovation with fiscal responsibility, privacy,
+  and environmental considerations
+
+Privacy
+Source: pages 7–8
+
+How the District Uses AI Safely and Responsibly
+The district may use artificial intelligence tools to support learning, communication, and day-to-day
+operations. When we do, protecting student and staff information is a top priority. Below is a clear
+explanation of how we safeguard data and respect privacy.
+
+Protecting Student and Staff Information
+When AI tools are used, the district takes steps to protect students, staff, and district information
+from misuse, leaks, or unauthorized access. Any use of AI must follow existing district technology
+and privacy rules, as well as federal and state privacy laws, including laws that protect student
+education records.
+
+Using Only the Information That Is Necessary
+We limit the amount of information shared with AI tools.
+
+• Staff are encouraged to use summaries or examples instead of full student records.
+• Whenever possible, information is removed, changed, or made anonymous before it is used.
+• AI tools should be given only what is needed to complete a task, nothing more.
+Keeping AI Tools Secure
+AI tools are not connected to school systems like email, grading systems, or payroll unless the
+district’s IT department has approved it. This helps reduce the risk of data breaches or account
+compromise. All AI use must meet the district’s cybersecurity and technology use standards.
+
+Protecting Personal Information
+
+PDF EXCERPT PAGE 2
+Personal information must always be handled carefully when using AI tools. Personal information
+includes things like:
+
+• Student names, ID numbers, or photos
+• Grades, attendance, or discipline records
+• Health or special education information
+• Staff personnel records
+This type of information is not entered into public or consumer AI tools unless the district has
+approved it. Even small pieces of information can sometimes identify a person when combined with
+other details, so care is taken to avoid that.
+
+NOTE: Microsoft Copilot Chat is the only district-approved AI tool for use with personal, confidential,
+or private information, and staff must not enter this type of information into any other AI tool.
+
+Following Privacy Laws (FERPA)
+All uses of AI follow the Family Educational Rights and Privacy Act (FERPA) and other privacy laws.
+
+• Student education records are only shared when legally allowed—such as with family permission
+  or for a valid educational reason.
+• If a vendor’s AI system uses student data, the vendor must follow strict rules and can only use
+  that data for approved educational purposes under district control.
+Being Transparent with Families
+We believe trust comes from openness.
+
+• The district will clearly explain when AI tools are used, why they are used, and how information is
+  protected.
+Resources:
+• 2022P: Electronic Resources - Student Acceptable Use of District Network
+• 6800.2P: Acceptable Use
+• FAMILY EDUCATIONAL RIGHTS AND PRIVACY
+
+Governance and Oversight: Roles and Responsibilities (excerpt)
+Source: page 9
+
+Staff: Use only district-approved AI tools; Follow district expectations for privacy, safety, and data
+protection; Report concerns, risks, or misuse when identified
+
+Data Governance and Systems
+Source: page 9
+
+Data governance includes key areas such as acceptable use, student records and privacy,
+information security, records management, and incident response. These areas are covered by
+other resources:
+
+• 2022P: Electronic Resources - Student Acceptable Use of District Network
+• 6800.2P: Acceptable Use
+
+PDF EXCERPT PAGE 3
+• 3231P: Student Records
+• FAMILY EDUCATIONAL RIGHTS AND PRIVACY
+
+Overview of AI Tools in Use
+Source: page 9
+
+Bellevue School District uses a set of approved AI tools that have been reviewed for privacy,
+security, educational or operational value, and alignment with district values, and that include
+safeguards for student and staff data. Approved tools include Magic School, Colleague AI and
+Microsoft Copilot. Microsoft Copilot Chat is the only district-approved AI tool for use with personal,
+confidential, or private information, and staff must not enter this type of information into any other AI
+tool.
+
+Staff should not use personal or unapproved AI tools for school or district business unless explicitly
+authorized.
+
+Procurement and Vendor Requirements
+Source: page 10
+
+All AI tools must follow district procurement and vendor review processes.
+
+Before approval, vendors must meet district privacy, security, and legal requirements, including
+signing data privacy agreements and clearly explaining how district data is collected, stored,
+deleted, and protected. Vendors may not use district data to train AI models unless explicitly
+authorized by the district.
+
+AI Tool Evaluation and Approval Process
+• The tool is reviewed for data protection, legal compliance, security, educational or operational
+  value, and equity and accessibility considerations.
+Approval is required before an AI tool is used with students or district data.
+
+Monitoring and Re-evaluating AI Tools
+Approved AI tools are monitored over time for vendor or policy changes, reported concerns, and
+continued alignment with district expectations. If concerns arise or a tool is no longer appropriate for
+district use, it may be restricted, re-evaluated, paused, or removed, and the district will communicate
+expectations to staff, address data retention or deletion, and update the approved tools list.
+
+Risks and Responsibilities in Teaching & Learning (excerpt)
+Source: page 12
+
+Data Privacy: Personally identifiable student information must never be entered into tools that have
+not been reviewed and approved by BSD.
+
+Educator Use of AI (excerpt)
+Source: pages 15–16 [graphic]
+
+Unhelpful Educator Uses
+• [graphic] Entering student PII (personally identifiable information) into non-approved AI tools
+
+PDF EXCERPT PAGE 4
+Educators are responsible for:
+• Maintaining student privacy
+
+Using AI Productively in Assessment & Feedback (excerpt)
+Source: page 16
+
+Data pattern review: Summarizing aggregate (non-PII) assessment data to support instructional
+planning.
+

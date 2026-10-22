@@ -1,0 +1,50 @@
+AI-assisted comparative analysis of student-privacy excerpt documents
+
+Research question: How explicitly do K-12 AI excerpts address model training,
+secondary uses, and retention/deletion of student data?
+
+Corpus: all 184 PDFs present in the supplied Privacy Passages folder.
+Convenience collection of selected excerpts, not a representative sample of US policy.
+One PDF is the counting unit; multiple documents can represent one jurisdiction.
+No policy text from the CSV was used.
+
+Method
+Page-preserving local PDF extraction; editorial introductions and source headings
+excluded from coded body. Original extracted pages retained for auditing.
+Frozen keyword rules v2 identify candidates but do not assign policy meaning.
+The assistant fully reviewed six fresh sampled PDFs; three AI reviewers each
+reviewed a disjoint body-text batch. Each document received one AI review.
+Because only seven definite relevant pairs occurred in the fresh sample, the
+study did not rely on that small retrieval test alone: all extracted bodies
+were reviewed, including no-hit paragraphs.
+Reviews used body text without retrieval flags. No independent human annotation
+or inter-rater reliability has been measured.
+Relevance and treatment coded at paragraph-category level; mixed paragraphs
+retained as mixed rather than simplified into a single prohibition.
+A targeted second AI pass split previously positive training and retention
+paragraphs into atomic quoted provisions. This is refinement, not independent
+validation. It excludes previously uncertain/negative evidence and cannot
+establish exhaustive absence. Original broad coding remains unchanged.
+All yes/uncertain evidence includes a quote checked against the named paragraph.
+Whitespace is normalized for quote matching; this is not original-source verification.
+Document-category presence is counted once; uncertain-only cases shown separately.
+Source function and mandatory language do not establish legal enforceability.
+
+Quality checks
+Fresh six-PDF retrieval evaluation against provisional assistant full-read labels.
+Every document/category no-hit compared with full-read evidence.
+Frozen rule hash, unique document IDs, full review coverage, and quotes checked.
+High shared-text similarity flagged with five-word-shingle Jaccard >=0.70
+for bodies with at least 50 words; this does not establish shared authorship.
+Sensitivity analyses exclude template/curriculum/resource documents, keep one
+document per connected similarity group, and restrict to >=1,000 body characters.
+
+Limits
+AI coding may miss or misinterpret provisions; negative labels are provisional.
+Excerpt selection and extraction can omit relevant context. Not located does not
+mean the original policy or jurisdiction lacks protection.
+Original source authenticity, currency, completeness, and adoption unverified.
+No causal, population-representative, compliance, legal-quality, or outcome claims.
+No significance tests: documents are heterogeneous and not independent jurisdictions.
+Any poster must disclose AI assistance and follow course requirements.
+Independent review and original-source checks are still recommended before submission.

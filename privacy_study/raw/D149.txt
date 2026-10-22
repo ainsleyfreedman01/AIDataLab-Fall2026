@@ -1,0 +1,49 @@
+PDF EXCERPT PAGE 1
+   Pottsgrove SD Policy 815.1: Data and Student
+                Privacy Passages
+Excerpted verbatim from Policy 815.1, Artificial Intelligence (Book Policy Manual, Section 800 Operations; Pottsgrove
+School District, Pennsylvania; last reviewed November 19, 2024). Page numbers refer to the PDF pages of the source file.
+Ellipses (…) mark omitted text.
+
+
+Purpose (excerpt)
+Source: PDF page 1
+
+The board’s purpose of implementing a policy on Artificial Intelligence (AI) is to ensure the ethical
+and responsible use of AI technologies to enhance teaching, learning, and administrative processes
+while safeguarding student privacy and data security.
+
+CIPA Compliance
+Source: PDF page 1
+
+The Director of Technology shall ensure that the District’s internet content and message filters
+prevent users from accessing any AI website, tool, or application that is capable of generating
+obscene or pornographic material on both school district owned devices and on the school provided
+internet.
+
+FERPA Compliance
+Source: PDF page 1
+
+All teachers, administrators, and staff are required to adhere strictly to the regulations outlined in the
+Family Educational Rights and Privacy Act (FERPA) when utilizing any AI resources.
+
+The District prohibits the use of the personally identifiable information of students while using AI
+websites, tools, or applications that have not been pre-approved by the Director of Technology or
+his/her designee. The Director of Technology shall establish a process by which teachers and
+administrators can request the approval of new AI resources. The vetting process shall include a
+review of the tool’s privacy policy, data handling practices, and compliance with FERPA. The
+Director of Technology or designee shall maintain a list of all such approved resources.
+
+Grading Student Work (excerpt)
+Source: PDF page 2
+
+Teachers shall ensure that personally identifiable student records are kept secure when using such
+grading technology.
+
+Professional Development (excerpt)
+Source: PDF page 2
+
+The training should equip educators, administrators, and staff with the knowledge and skills
+necessary to integrate AI tools into their roles in the District while also addressing data privacy, legal
+compliance, and ethical considerations.
+

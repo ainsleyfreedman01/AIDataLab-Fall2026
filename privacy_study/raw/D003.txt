@@ -1,0 +1,85 @@
+PDF EXCERPT PAGE 1
+ABC Unified School District Guide to Ethical and
+Responsible Use of AI: Data and Student Privacy
+                  Passages
+Excerpted verbatim from ABC Guide to Ethical and Responsible Use of AI - PUBLIC (ABC Unified School District,
+California; published Google Doc). The source has no page numbers; locations are given by section. Ellipses (…) mark
+omitted text. The source is a published Google Doc with no page numbers, so sections are located by their headings.
+
+
+What is Generative AI? (excerpt)
+Source: Google Doc, Section 1: Overview
+
+… it's essential to consider the ethical implications and challenges that come with its use, such as
+issues of fairness, privacy, and appropriate content generation …
+
+Objective(s) of This Guide
+Source: Google Doc, Section 1: Overview
+
+Protecting student data is paramount at ABC Unified. We have a strong foundation of data privacy
+practices currently in place for all our solutions. This commitment extends to any AI tools we
+implement, including generative AI. We will continue to prioritize data security and adhere to all
+relevant regulations to ensure your trust and the safety of student information.
+
+Challenges and Considerations: Ethical considerations (excerpt)
+Source: Google Doc, Section 1: Overview
+
+Schools should adhere to the ABC Unified responsible use policies and guidelines to address
+ethical concerns, such as student privacy, content ownership, and the role of AI in education.
+
+Bias and Ethics in AI: Ethical considerations (excerpt)
+Source: Google Doc, Section 3: Teacher Responsibility
+
+Discuss the potential ethical implications of AI in education, such as privacy concerns, data security,
+and the digital divide.
+
+Parents as Partners (excerpt)
+Source: Google Doc, Section 3: Teacher Responsibility
+
+Explain that the AI tools being used in the classroom have been carefully vetted for accuracy, bias,
+and privacy.
+
+Sample Letter to Parents (excerpt)
+Source: Google Doc, Section 3: Teacher Responsibility
+
+Privacy & Security: AI use will align with regulations protecting student data privacy, safety, and
+accessibility.
+
+PDF EXCERPT PAGE 2
+The Vetting Process
+Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom
+
+At ABC Unified, we understand the power of AI to enhance learning, but we prioritize student safety
+and responsible technology use. That's why we take a meticulous approach to vetting all
+applications, especially those incorporating AI. We ensure data privacy compliance by thoroughly
+examining developer policies and adhering to all relevant regulations. We actively seek safeguards
+against bias and inappropriate content …
+
+Vetted Generative AI Tools for Students (excerpt)
+Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom
+
+The following curated list of resources has been reviewed for age-appropriateness and support of
+data privacy. This limited list is not comprehensive, but rather a starting point for our community to
+use.
+
+Gemini can help students grasp concepts by explaining complex topics and generating practice
+materials. … all in a safe and age-appropriate way for users 13 and older.
+
+Current Regulations Relevant to AI in Education
+Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom
+
+United States
+FERPA - AI systems must protect the privacy of student education records and comply with parental
+consent requirements. Data must remain within the direct control of the educational institution.
+
+COPPA - AI chatbots, personalized learning platforms, and other technologies collecting personal
+information and user data on children under 13 must require parental consent.
+
+CIPA - Schools must ensure AI content filters align with CIPA protections against harmful content.
+
+Frequently Asked Questions: Safety and Development (excerpt)
+Source: Google Doc, Section 5: ABC’s Plan for AI Use in the Classroom
+
+Content filtering: Robust platforms block inappropriate content, and teachers actively monitor online
+activity.
+

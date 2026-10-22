@@ -1,0 +1,64 @@
+PDF EXCERPT PAGE 1
+     GCPS Guidance for Human-Centered AI Use:
+        Data and Student Privacy Passages
+Excerpted verbatim from GCPS Guidance for Human-Centered AI Use (Gwinnett County Public Schools, Georgia), web
+page. The source has no page numbers; locations are given by section. This is a web page with no page numbers, so each
+section cites the web page section. Ellipses (…) mark omitted text.
+
+
+Guiding Principles: Equitable and Inclusive (excerpt)
+Source: web page, section 'Guiding Principles'
+
+• Equitable and Inclusive: All students should have access to meaningful and age-appropriate AI
+  tools that are vetted, approved, and inclusively designed with all students in mind.
+
+Guiding Principles: Safe and Secure
+Source: web page, section 'Guiding Principles'
+
+• Safe and Secure: Students and staff should not be put at increased risk by using AI, nor should
+  their personally identifying information be unlawfully shared. We will evaluate both the risks and
+  opportunities of AI.
+
+Guidance for Students: Evaluating AI Tools (excerpt)
+Source: web page, section 'Guidance for Students'
+
+• Evaluating AI Tools: Students should use AI tools with the guidance of trusted adults. Students
+  should evaluate the purpose, safety, and trustworthiness of AI tools before use. Not all AI tools
+  are approved or appropriate for all ages, so be sure to check with your teacher or parent first.
+
+Guidance for Staff: Approved Tools and Vendor Approval (excerpt)
+Source: web page, section 'Guidance for Staff'
+
+Teachers and school leaders should provide guidance and expectations to students on if, how, and
+when they can use safe AI tools in their learning. Reference Third-Party Vendor or the Staff AI
+Resource Center to determine if a tool is approved for use.
+
+• Evaluating AI Tools: Staff should evaluate the purpose, safety, and trustworthiness of AI tools
+  before use. Any AI tools should be approved, based on the audience, using GCPS Third Party
+  Vendor Approval process. Be aware of any age restrictions that might exist for tools.
+
+PDF EXCERPT PAGE 2
+Guidance for Staff: Prohibited AI Use (Privacy)
+Source: web page, section 'Guidance for Staff'
+
+• Compromising Ethics and Privacy: Staff should not use AI in ways that compromise staff or
+  student privacy or lead to unauthorized data collection, as this violates privacy laws and our
+  system’s ethical principles. Staff should never enter personal identifiable information into AI tools.
+• Noncompliance with Existing Policies: Staff should follow Third Party Vendor policies and
+  approved tools list, especially when supporting student use of AI tools. We will evaluate AI tools
+  for compliance with all relevant policies and regulations, such as privacy laws and data
+  governance policies. Be sure to check the approval details as not all tools are approved for all
+  ages or audiences.
+
+Guidance for Parents: Monitor and model (excerpt)
+Source: web page, section 'Guidance for Parents'
+
+• Monitor and model: It is important to supervise your students’ use of AI tools, especially if they
+  are younger. It is great to monitor the tools they are using and model safe and responsible use
+  for them. Not all AI tools are appropriate for all ages.
+
+Who to Contact in GCPS (excerpt)
+Source: web page, section 'Who to Contact in GCPS'
+
+Third-Party approvals of AI tools — Department of Data Governance
+

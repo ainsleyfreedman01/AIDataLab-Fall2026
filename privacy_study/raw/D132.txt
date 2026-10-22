@@ -1,0 +1,176 @@
+PDF EXCERPT PAGE 1
+       Orange County Public Schools AI Guidance
+        Hub: Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence - District Guidance Hub (Orange County Public Schools, Florida). The source
+has no page numbers; locations are given by section. This is a web page (an interactive hub), so there are no page
+numbers. Ellipses (…) mark omitted text. Short labels such as "What this means:" are omitted.
+
+
+Hub Overview: Families and Safety (excerpt)
+Source: web page, Links section
+
+Parent guides, approved tools, and student-data protections
+
+How we protect our network and students, plus policy and request review
+
+Parents and Families: Consumer AI vs. Student Workspace
+Source: web page, section 'Parents and Families'
+
+Your child's school uses protected educational systems that differ from consumer AI applications
+families may use at home.
+
+Consumer AI tools may use data to train models or serve ads. Approved OCPS systems are
+reviewed for privacy, data use, and student protections.
+
+Approved AI Software
+Source: web page, section 'Approved AI Software'
+
+Use the approved lists before adopting an AI tool.
+
+These lists identify AI tools that have moved through district review for instructional fit, privacy, data
+use, and implementation needs.
+
+Safety, Privacy, and Approval Pathways
+Source: web page, section 'Safety'
+
+AI work in OCPS is anchored in human review, student-data protection, monitoring, and a formal
+review pathway for digital tools.
+
+Every AI tool a student uses sits behind layers of district protection. Choose a view, then click
+through each step to see how OCPS protects its network and protects students as they learn with
+AI.
+
+Protecting our network: five layers of network protection
+Every tool is reviewed first — Before an AI tool reaches a classroom, district teams review its
+contract, student-data privacy, cybersecurity, and educational value.
+
+Only tools that meet district standards are allowed. Tools that don't pass are blocked or redirected.
+
+District-managed accounts — Students and staff sign in with their OCPS accounts, so AI access
+runs through district settings and safeguards instead of personal consumer accounts.
+
+PDF EXCERPT PAGE 2
+School AI use happens inside a protected educational workspace, not the open consumer version of
+a tool.
+
+Content filtering — District filtering screens web traffic on the district network, blocking
+inappropriate content and AI tools that have not been approved.
+
+Monitoring for safety — Activity on district resources may be monitored for compliance and safety,
+helping staff notice and respond to concerns.
+
+There is no expectation of privacy on district systems. That visibility is what lets adults step in when
+something looks wrong.
+
+Student data stays protected — Approved enterprise AI tools do not use OCPS data to train
+public AI models, and sensitive information may only be entered into tools approved for that type of
+data.
+
+At the center of every layer is your student and their information.
+
+Protecting students using AI: five steps of student protection
+Age-appropriate AI experiences — Student tools, such as the Gemini youth experience, add
+safeguards and age-aware responses designed for learners under 18.
+
+Personal information stays private — Students learn not to share personal or confidential
+information with AI, and approved tools are vetted for how they handle student data.
+
+Privacy is protected by both the tool and the student's own habits.
+
+Adults stay in the loop — Teachers review student work and AI outputs, and important decisions
+about students are always made by people, never by AI.
+
+Guardrails: Data Protection, Enterprise Tools, Monitoring
+Source: web page, Safety section (guardrail cards)
+
+Data Protection — Confidential data, sensitive student records, and PII may only be entered into
+tools approved for that data classification.
+
+Enterprise Tools — Staff use District-vetted, secure AI systems that do not use OCPS data to train
+public models.
+
+Monitoring — Users do not have an expectation of privacy on District resources. AI activity may be
+monitored for compliance and safety.
+
+Professional Learning — The District makes professional learning focused on AI literacy, data
+privacy, and ethical integration available to staff.
+
+AI safety and security — Tools are evaluated for contracts, data privacy, cybersecurity, system
+compatibility, educational value, filtering, and monitoring needs.
+
+• Contractual protection
+• Student-data privacy
+• Filtering and monitoring
+
+PDF EXCERPT PAGE 3
+Software and AI Request Process (excerpt)
+Source: web page, Safety section (eight review steps)
+
+IT and governance review — Cybersecurity, compatibility, and data privacy are evaluated.
+
+Legal review — Terms are checked for FERPA, data use, public records, and intellectual property
+concerns.
+
+Decision — Approved tools are added to the list; denied tools are blocked or redirected.
+
+Taxonomy of Scaffolded AI Tools (excerpt)
+Source: web page, Safety section
+
+Pattern detection, student risk flagging, enrollment forecasting, and operational dashboards.
+
+Gemini Youth Experience
+Source: web page, section 'Student experience'
+
+The Gemini Youth Experience is designed for students under 18 with added safeguards, age-aware
+responses, and privacy protections that differ from consumer AI access.
+
+Protected environment — Student use is connected to educational accounts and district-managed
+controls rather than general consumer access.
+
+Google Search AI Mode
+Source: web page, section 'Search'
+
+Privacy, monitoring, safe search, and technical limits.
+
+Search has evolved. Google Search AI Mode is different from District-approved instructional AI
+platforms, so students and staff need clear expectations for privacy, monitoring, and verification.
+
+Consumer vs. student experience — Consumer AI experiences may use data differently.
+OCPS-managed student accounts and approved tools are reviewed for student privacy and district
+safeguards.
+
+Foundations: What is AI? (excerpt)
+Source: web page, section 'Foundations'
+
+The value of AI depends on the instructional, privacy, and governance systems around it.
+
+Stakeholder Feedback Summary (excerpt)
+Source: web page, section 'Stakeholder Summary'
+
+Districts need approval pathways, privacy review, classroom-use guidance, audit routines, staff
+training, and model checks that evolve as tools change.
+
+Teachers and Staff (excerpt)
+Source: web page, section 'Teachers and Staff'
+
+AI may support staff workflow, but educators remain responsible for verification, professional
+judgment, instructional quality, data privacy, and fairness.
+
+PDF EXCERPT PAGE 4
+AI Literacy (excerpt)
+Source: web page, section 'AI literacy'
+
+Recognize AI, protect privacy, question outputs, and use tools only when authorized.
+
+Set governance, review data practices, and align tools to district goals.
+
+Understand the difference between consumer AI and protected educational systems.
+
+Using AI Wisely for Students: the PAUSE Check (excerpt)
+Source: web page, section 'Students'
+
+Students may use AI only when authorized by the instructor and must verify, disclose, and protect
+private information.
+
+S — Safe? Have I protected confidential data and personal information?
+

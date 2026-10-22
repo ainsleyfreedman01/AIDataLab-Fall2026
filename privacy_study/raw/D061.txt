@@ -1,0 +1,56 @@
+PDF EXCERPT PAGE 1
+       Fayette County (KY) AI Guidance: Data and
+               Student Privacy Passages
+Excerpted verbatim from Guidance for the Use of Artificial Intelligence (Fayette County Public Schools, Kentucky; last
+revised August 2024). Page numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text. The PDF's
+text layer drops the letters “ff” and “fi” (for example “sta ” for “staff”), so sentences containing those words were transcribed
+from the rendered page and are marked [graphic]. Footnote numbers in the source are omitted from those passages.
+
+
+Purpose (excerpt)
+Source: PDF page 2
+
+This guidance complements existing expectations and policies for technology use, data protection,
+and academic integrity.
+
+Guiding Principles for AI Use (excerpt)
+Source: PDF page 2
+
+The following principles guide the appropriate and safe use of AI and address current and future
+educational goals, academic integrity, and security.
+
+We will use AI as it aligns to educational goals. … We aim to reduce barriers to AI tools, while
+safeguarding student information and privacy, to provide equitable access to this technology.
+
+[graphic] We will ensure AI use aligns to existing policies and guidance. AI is one of many
+technologies used in schools and it is developing at a rapid rate. All AI tools used should adhere to
+state and federal privacy laws, such as the Family Educational Rights and Privacy Act (FERPA), the
+Children’s Online Privacy Protection Act (COPPA), and Kentucky House Bill 5 (2015). We will also
+monitor AI usage to ensure it aligns with the district Acceptable Use Policy for both staff and
+students, as well as guidance on academic integrity in the Student Code of Conduct.
+
+… AI literacy instruction and support will include how to use AI to support learning, when to use it,
+how it works, and how to evaluate tools for accuracy, bias, and information security.
+
+Responsible Use of AI Tools: Student Learning (excerpt)
+Source: PDF page 3
+
+Foster Responsible Use Students will become discerning AI users, fostering responsible use
+through evaluating outputs, understanding data security, and maintaining academic integrity.
+
+Data Security Students will develop an understanding of how data is being used in order to foster
+responsible data use and protect private information.
+
+Responsible Use of AI Tools: Teacher Support (excerpt)
+Source: PDF page 5
+
+[graphic] Staff will review information entered in AI tools to ensure student privacy and protect
+sensitive information.
+
+PDF EXCERPT PAGE 2
+Management and Operations (excerpt)
+Source: PDF page 6
+
+[graphic] AI will only be used in ways that protect student and staff privacy and prevent unauthorized
+data collection.
+

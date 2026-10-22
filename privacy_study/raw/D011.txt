@@ -1,0 +1,248 @@
+PDF EXCERPT PAGE 1
+         Arkansas Planning Guide for AI: Data and
+                Student Privacy Passages
+Excerpted verbatim from Planning Guide for AI: A Framework for School Districts (Virtual Arkansas / Virtual Learning
+Leadership Alliance, in collaboration with Michigan Virtual; modified from the Michigan Virtual original, © 2023 Michigan
+Virtual University). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. Because the
+guide repeats privacy and security themes across many sections and appendices, each appearance is quoted in its own
+section. Printed page numbers match the PDF page numbers.
+
+
+AI Integration Framework Rubric: Policy, Ethical, & Legal
+Considerations (excerpt)
+Source: page 6 [graphic]
+
+[graphic] Implementing
+[graphic] The district is establishing policies, reviewing ethical guidelines, and strengthening a legal
+framework to address the challenges associated with AI technologies, including student privacy,
+data protection, and responsible AI practices.
+
+[graphic] Innovating
+[graphic] The district has adopted Board-approved policies, robust ethical guidelines, and a strong
+legal framework, demonstrating a commitment to accountability, data privacy, compliance, and
+continuous improvement in AI.
+
+AI Integration Framework Rubric: Student Use (excerpt)
+Source: page 6 [graphic]
+
+[graphic] Innovating
+[graphic] Most students utilize AI to support their learning goals, critically assessing AI’s societal
+impact, including biases, privacy concerns, and fairness issues, while making informed judgments
+about the authenticity and origin of content.
+
+Address Potential Concerns (excerpt)
+Source: page 9
+
+Integrating AI may generate concerns within the school community, including fears related to
+student plagiarism or cheating. Other concerns may include fears of job displacement, ethical
+considerations, data privacy, and biases in AI algorithms.
+
+Policy, Ethical, & Legal Considerations
+Source: page 12
+
+School leaders must prioritize policy, ethics, and legal considerations when integrating AI into
+educational practices to create a safe, effective, and inclusive learning environment. Understanding
+relevant laws, ethical concerns, compliance with data protection regulations, and engaging legal
+expertise is crucial to protect stakeholders’ interests and mitigate potential risks associated with AI
+integration.
+
+Develop Policies and Guidelines
+
+PDF EXCERPT PAGE 2
+Establishing comprehensive policies and guidelines is essential for systematically addressing the
+ethical, legal, and data privacy dimensions of AI usage. … They should also address data privacy,
+informed consent, algorithmic transparency, and accountability issues. By developing clear policies,
+districts can provide guidance to educators, students, and other stakeholders, ensuring responsible
+and ethical AI use.
+
+Address Legal Risks and Challenges; Potential Risks
+Source: page 13
+
+Integrating AI in educational environments brings potential legal risks and challenges that must be
+proactively addressed. These may include concerns regarding data privacy and security
+accessibility and the impact of AI on district employment and workforce dynamics. Engaging in risk
+assessment and mitigation strategies is essential to safeguard students’ privacy and ensure the
+responsible and unbiased use of AI technologies.
+
+• If schools lack proper vetting and oversight, they may be at risk of unauthorized access, data
+  breaches, or misuse of sensitive information, compromising the privacy and security of students
+  and staff.
+
+Professional Learning: Empower Educators to Integrate AI Ethically
+(excerpt)
+Source: page 18
+
+Professional development programs should explore ethical considerations related to AI, such as
+privacy, bias, and responsible AI use.
+
+Student Use: Establish Expectations for Ethical AI Use (excerpt)
+Source: page 21
+
+This can include discussions on privacy, bias, and the responsible use of AI tools. By providing clear
+guidelines, students can develop a sense of digital citizenship and responsible AI usage.
+
+Student Use: Potential Risks (excerpt)
+Source: page 21
+
+• Districts should avoid the perception of overreliance on AI tools or of constant monitoring by AI
+  systems with which students interact, which could create stress, anxiety, or a sense of
+  surveillance.
+
+Conclusion (excerpt)
+Source: page 26
+
+This should include the development of comprehensive policies, guidelines, and legal frameworks to
+ensure the responsible and unbiased use of AI while also prioritizing equity, data privacy, and valid
+assessments.
+
+PDF EXCERPT PAGE 3
+Appendix A: Policy Considerations (excerpt)
+Source: page 28
+
+Districts will likely need to implement policies that address or take into consideration the following
+questions:
+
+• What data will be collected, and how will it be used and protected? School board members must
+  inquire about the types of data AI systems will collect and ensure adequate data protection
+  measures are in place.
+• What privacy protocols are in place to protect student and staff data? Policies concerning privacy
+  measures will help leaders assure the community that data security is a top priority.
+• What processes will be in place for stakeholders to demonstrate consent for use of these tools?
+  Develop guidelines for obtaining informed consent from students and parents when using AI
+  technologies that may collect personal data or make decisions impacting students’ educational
+  journeys.
+
+Appendix B: Recommended Language for Existing AUP (excerpt)
+Source: page 30
+
+• Policy Statement: Responsible Use of AI: Users must use AI technologies in a responsible
+  and ethical manner, respecting the rights and privacy of individuals and ensuring compliance
+  with applicable laws and regulations.
+• Data Privacy and Security: Users must protect the privacy and security of personal and
+  confidential data when using AI tools. It is important to ensure that any data collected or
+  processed by AI technologies are securely stored, transmitted, and used in accordance with
+  relevant data protection laws and district policies.
+• Ethical Considerations: Users must consider the ethical implications of AI technologies,
+  including issues related to privacy, consent, dignity, and the well-being of individuals.
+• Compliance with Existing Policies: The use of AI technologies must comply with all existing
+  district policies, including but not limited to the AUP, data privacy policies, and student code of
+  conduct.
+
+Appendix B: Recommended Language for Existing AUP, Closing
+(excerpt)
+Source: page 31
+
+This addendum seeks to balance the benefits of AI integration with the safeguarding of student
+privacy, fairness, and transparency.
+
+PDF EXCERPT PAGE 4
+Appendix C: Policy, Ethical, & Legal Considerations, Key Action
+Considerations for Educators (excerpt)
+Source: page 33
+
+• Establish Ethical Guidelines and Policies for AI Use: … Educators should advocate for
+  privacy protection, data security, transparency in algorithmic decision-making, and mitigating
+  bias in AI systems.
+• Promote Digital Citizenship and Responsible AI Use: … Educators should engage students
+  in discussions about privacy, bias, fairness, and the responsible use of AI technologies.
+
+Appendix C: Discussion Prompts for Local Planning (excerpt)
+Source: page 34
+
+• What policies, guidelines, and legal considerations should be in place to address the ethical,
+  legal, and data privacy dimensions of AI usage?
+
+Appendix C: Student Use, Promote Ethical AI Use (excerpt)
+Source: page 37
+
+• Promote Ethical AI Use: Educators should establish guidelines and promote ethical AI use
+  among students. This includes discussing responsible practices, privacy considerations, and the
+  potential biases and limitations of AI algorithms.
+
+Appendix C: Business & Technology Operations (excerpt)
+Source: page 39
+
+• Ensure Technology Ecosystem Can Support AI: … If needed, they should make updates to
+  the networking infrastructure, devices, software, and data security measures needed to support
+  AI integration for educational purposes as well as for business operations.
+
+Appendix D: Portrait of AI Integration, Policy, Ethical, & Legal
+Considerations (excerpt)
+Source: page 41
+
+• Educators and staff members are knowledgeable about their responsibilities regarding student
+  data privacy and protection in the context of AI implementation.
+• The district has robust data governance practices in place to ensure the responsible and secure
+  use of AI-generated data.
+
+Appendix D: Portrait of AI Integration, Business & Technology
+Operations (excerpt)
+Source: page 43
+
+• The district has systems in place to ensure the security and privacy of sensitive administrative
+  data when using AI technologies.
+
+PDF EXCERPT PAGE 5
+Appendix E: AI Risk Assessment, Data Privacy and Security
+Source: page 44
+
+• Are robust data protection measures in place to safeguard sensitive student and staff data?
+• Is regular security auditing conducted to identify and address vulnerabilities?
+• Are clear policies and procedures established for data handling and consent?
+
+Appendix F: Common Pitfalls, Leadership & Vision (excerpt)
+Source: page 46
+
+• Underestimating the Importance of Data Governance: Neglecting robust data governance
+  practices can lead to data breaches, privacy violations, and misuse of student information.
+  Implement clear policies and protocols for data collection, storage, usage, and protection to
+  safeguard student privacy and maintain data security.
+
+Appendix F: Common Pitfalls, Policy, Ethical, & Legal Considerations
+(excerpt)
+Source: page 46
+
+• Overlooking Data Privacy and Security: Neglecting data privacy and security can lead to
+  breaches and violations of student privacy. Avoid collecting more data than necessary and
+  ensure secure storage and handling of student information. Regularly review and update security
+  protocols to align with evolving best practices.
+
+Appendix F: Common Pitfalls, Assessments (excerpt)
+Source: page 47
+
+• Disregarding Data Privacy and Security: Prioritize the protection of student data and ensure
+  compliance with relevant privacy laws and regulations. Use secure AI tools and platforms that
+  safeguard sensitive information and adhere to data protection guidelines.
+
+Appendix F: Common Pitfalls, Student Use (excerpt)
+Source: page 48
+
+• Neglecting Privacy and Security: Prioritize student privacy and data security when integrating
+  AI tools and systems. Implement measures to protect students’ personal information and ensure
+  compliance with data protection regulations. Regularly review and update security protocols to
+  safeguard student data.
+
+Appendix F: Common Pitfalls, Business & Technology Operations
+(excerpt)
+Source: page 49
+
+• Overlooking Data Privacy and Security: Avoid neglecting data privacy and security
+  considerations when implementing AI in business operations. Take proactive measures to
+  protect sensitive student and staff information, ensuring compliance with relevant data protection
+  regulations and industry best practices.
+
+PDF EXCERPT PAGE 6
+Appendix F: Common Pitfalls, Outreach (excerpt)
+Source: page 49
+
+• Neglecting privacy and security: Do not overlook the importance of addressing privacy
+  concerns related to AI implementation. Clearly communicate data security measures and
+  protocols.
+
+Appendix G: Glossary of Terms, AI Ethics (excerpt)
+Source: page 51
+
+AI Ethics: The study and implementation of ethical principles in the design, development, and
+deployment of AI technologies. AI ethics in education ensures fairness, transparency, and privacy in
+AI-based educational solutions.
+

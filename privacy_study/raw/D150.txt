@@ -1,0 +1,82 @@
+PDF EXCERPT PAGE 1
+    Quaker Valley Generative AI Policy: Data and
+            Student Privacy Passages
+Excerpted verbatim from Policy 815.1 – Use of Generative Artificial Intelligence in Education (Quaker Valley School District,
+Pennsylvania; Book Policy Manual, status "Adopt / Second Reading"). Page numbers refer to the PDF pages of the source
+file. Ellipses (…) mark omitted text. The source is a second-reading draft with visible editing remnants; passages are quoted
+as the text appears. Reference-number footnote markers are omitted.
+
+
+Authority (excerpt)
+Source: PDF page 1
+
+The Board directs that the use of Generative AI in the educational and workplace environment shall
+be limited to approved purposes and shall comply with applicable state and federal laws,
+regulations, Board policies, administrative regulations and school rules including, but not limited to,
+the Family Educational Rights and Privacy Act (FERPA), the Individuals with Disabilities Education
+Act (IDEA), the Americans with Disabilities Act (ADA), the Children’s Internet Protection Act (CIPA),
+the Children’s Online Privacy Protection Act (COPPA), as well as Board policies related to …
+student records, personnel records, … data security …
+
+The District shall not be responsible for any inaccuracies, data loss, dissemination, alteration, or
+unauthorized charges resulting from the use of Generative AI tools.
+
+Definitions (excerpt)
+Source: PDF page 2
+
+Personally Identifiable Information (PII) - Information that identifies or could reasonably identify a
+student or employee, including information protected under FERPA, IDEA, state law, personnel
+confidentiality requirements, or District policy.
+
+Training Data – the collection of information used to teach an AI model how to make predictions,
+decisions or recognize patterns.
+
+Delegation of Responsibility (excerpt)
+Source: PDF pages 2–3
+
+Procured Generative AI tools and resources used in district schools and programs shall be
+evaluated and authorized on an ongoing basis for age-appropriateness, bias, privacy protections,
+accessibility standards and data security.
+
+The District prohibits the use of personally identifiable information of students and employees while
+using Generative AI websites, tools, or applications, not specifically procured by the District.
+
+The District prohibits the use of personally identifiable information of students and employees while
+using Generative AI websites, tools, or applications that have been procured by the District unless
+specific authorization has been granted by the Superintendent, or designee.
+
+The vetting process shall include a review of the tool’s privacy policy, data storage practices,
+training and data policies, and compliance with FERPA.
+
+PDF EXCERPT PAGE 2
+The district solicitor, in coordination with the Director of Innovation and/or the Director of IT, shall
+evaluate new and existing vendor contracts , collective bargaining agreements and related
+agreements for impacts related to district use of Generative AI.
+
+FERPA Compliance
+Source: PDF page 3
+
+All teachers, administrators, and staff are required to adhere strictly to the regulations outlined in the
+Family Educational Rights and Privacy Act (FERPA) when utilizing any Generative AI resources.
+Use of student information in Generative AI shall comply with FERPA and the district’s Generative
+AI approval procedures established under this policy.
+
+Grading Student Work (excerpt)
+Source: PDF page 4
+
+Teachers shall ensure that personally identifiable student information and records are kept secure,
+in compliance with FERPA, when using such Generative AI technology.
+
+Professional Development (excerpt)
+Source: PDF page 4
+
+Where applicable, and when appropriate, the District shall provide professional development on the
+appropriate use of Generative AI, focusing on instructional integration, data privacy, legal
+compliance, and ethics.
+
+Generative AI Use in Operations (excerpt)
+Source: PDF page 5
+
+Employees shall not input confidential or personally identifiable district data into any Generative AI
+tool unless explicitly authorized and approved through district procedures.
+

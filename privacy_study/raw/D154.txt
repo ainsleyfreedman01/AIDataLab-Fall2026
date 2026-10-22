@@ -1,0 +1,60 @@
+PDF EXCERPT PAGE 1
+    Richland One Regulation 6325 - Artificial
+Intelligence: Data and Student Privacy Passages
+Excerpted verbatim from Regulation 6325 - Artificial Intelligence (Richland School District One, adopted October 15, 2025).
+The source has no page numbers; locations are given by section. Web page; ellipses (…) mark omitted text. Original
+typographical errors from the web page (such as 'Al' for AI and 'PIT'/'PPI' for PII) are preserved.
+
+
+Staff and Student Privacy; PII (excerpt)
+Source: web page
+
+The Superintendent or designee is authorized to develop regulations to implement this policy. The
+regulation shall incorporate additional information regarding staff and student privacy, promote
+academic integrity and provide students with developmentally appropriate instruction on the ethical
+use of AI. … Personally identifiable information (PIT) and confidential information about students
+and employees should never be input into any Al system without prior authorization. PPI includes,
+but is not limited to, a person’s name, address, email address, telephone number, Social Security
+number, or other personally identifiable information. Confidential information includes, but is not
+limited to, information in a student’s education record, such as their grades and information about an
+Individualized Education Plan (IEP).
+
+Student Data Safety, FERPA and COPPA
+Source: web page
+
+The safety of student data is of the utmost importance. The school district shall adhere to federal
+and state regulations, which include:
+
+FERPA (The Family Educational Rights and Privacy Act): FERPA is a federal law that protects the
+privacy of student educational records. It requires schools to obtain written permission from the
+parent or eligible student before disclosing personally identifiable information from the student’s
+educational records, except in certain circumstances.
+
+COPPA (The Children’s Online Privacy Protection Act): COPPA is a federal law that imposes
+specific requirements on operators of websites or on1ine services directed to children under 13
+years of age and on operators of other websites or online services that have actual knowledge that
+they are collecting personal information online from a child under 13 years of age.
+
+The district will implement and maintain reasonable security procedures and practices to protect
+student data collected by AI systems from unauthorized access, destruction, use, modification or
+disclosure in accordance with FERPA and COPPA. When contracting with third party vendors
+providing AI systems or services, the district shall ensure that the vendor complies with all
+applicable FERPA and COPPA regulations and maintains appropriate safeguards to protect student
+data privacy and security.
+
+Inappropriate Uses of AI (excerpt)
+Source: web page
+
+Inappropriate uses of AI can include:
+
+PDF EXCERPT PAGE 2
+• Using AI to collect, store or analyze student data without explicit consent and clear educational
+  purpose. Student privacy rights (e.g., FERPA, COPPA) must be maintained;
+• Allowing AI to learn passwords, confidential or proprietary or sensitive district data.
+
+Acceptable Use Policy (excerpt)
+Source: web page
+
+Before a student is authorized to use the district’s technological resources, the student and his/her
+guardian will sign the Acceptable Use Policy in accordance with Policy and Regulation 6320.
+

@@ -1,0 +1,311 @@
+PDF EXCERPT PAGE 1
+      Louisiana AI in Schools Guidance: Data and
+              Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence in Louisiana Schools: Guidance for K-12 Schools (Louisiana Department of
+Education, Fall 2026, updated 9.3.26). Page numbers match the document's own page numbering. Ellipses (…) mark
+omitted text. Passages marked [graphic] were transcribed from table or graphic layouts and were not checked
+automatically; table cells are shown with the row label in bold followed by the cell text.
+
+
+Guiding Principles (excerpt)
+Source: page 2
+
+• Data Privacy and Security: Robust data privacy and security measures must be in place to
+  protect student and staff information and ensure compliance with relevant regulations.
+
+What Is AI? (excerpt)
+Source: page 3
+
+• Personalize learning by supporting differentiated instruction based on students’ learning needs,
+  while preserving teacher judgment and student privacy.
+
+A Shared Responsibility: Ensuring Safe Use of AI in Schools
+Source: page 3
+
+The integration of AI also introduces new considerations for student safety, especially concerning
+data privacy and cybersecurity. Ensuring the safe use of AI in schools is a shared responsibility
+among the State, educators, school leaders, families, students, technology providers, and other
+partners. Through these collective efforts, the LDOE seeks to foster a learning environment where
+AI is leveraged responsibly to empower Louisiana students.
+
+Awareness and Foundations: Transparency and Stakeholder
+Engagement (excerpt)
+Source: page 6 [graphic]
+
+[graphic] Transparency and Stakeholder Engagement — School systems should proactively
+engage stakeholders in discussions about the integration of AI in K-12 classrooms. This includes
+providing clear, accessible information about the specific AI tools being used, their purpose,
+potential benefits and risks, and measures taken to ensure student privacy and data security. Figure
+A3 provides a sample letter for communication with families.
+
+Training and Support: Educational Technology Staff Members
+(excerpt)
+Source: page 7 [graphic]
+
+[graphic] Educational Technology Staff Members — Educational technology staff members who
+support K-12 classrooms should receive high-quality professional learning on integrating AI
+technologies in schools, data security and privacy, and troubleshooting technical issues. Including
+educational technology leaders in an advisory team to inform the integration of AI in education is
+crucial for ensuring safety and data privacy.
+
+PDF EXCERPT PAGE 2
+AI Competencies by Grade Band: Grades 3–5, Responsible Use and
+Critical Thinking (excerpt)
+Source: page 11
+
+• Discuss responsible AI use by recognizing basic considerations related to fairness, privacy, and
+  accuracy.
+• Identify what personal information should or should not be shared when using AI tools.
+
+AI Competencies by Grade Band: Grades 6–8, Responsible Use and
+Critical Thinking (excerpt)
+Source: page 12
+
+• Discuss ethical considerations in AI, including privacy and digital safety.
+
+AI Competencies by Grade Band: Grades 9–12 (excerpt)
+Source: page 13
+
+Responsible Use and Critical Thinking
+• Analyze how AI systems handle personally identifiable information (PII), evaluate trade-offs
+  between personalization and privacy, and recommend appropriate safeguards in AI applications.
+Pathways and Partnerships for the Future
+• Understand regulatory, privacy, and intellectual property considerations in AI use.
+
+Responsible Use and Critical Thinking
+Source: page 14
+
+Educators and school systems should consider privacy, security, and legal requirements when
+using AI, while thoughtfully weighing both the benefits and the tradeoffs of applying AI to specific
+tasks. The use of AI should be accompanied by ongoing attention to safety, compliance, and rich
+philosophical discussions of its impact on individuals, communities, and society.
+
+School and System Leader Competency: Follow applicable laws and privacy protections, and
+ensure transparency in AI adoption, while weighing tradeoffs.
+
+Teacher Competency: Guide students in ethical AI use, protect privacy, uphold academic integrity,
+and maintain educator professional autonomy.
+
+Student Competency: Evaluate AI outputs, protect personal information, and consider ethical
+impacts.
+
+[graphic] Data Sharing Agreements — In compliance with R.S. 17:3913, Data-Sharing
+Agreements (DSAs) between AI vendors and school systems must be crafted to ensure compliance
+with privacy regulations and safeguard sensitive student information, including video and audio
+recordings, among other data. The LDOE website provides more information regarding DSAs.
+
+[graphic] Monitoring Use — Schools should have clear directives on how AI-driven technologies
+are to be used and monitored in the classroom. Teachers and facilitators should actively monitor
+student usage of software and devices to ensure a focused and productive learning environment.
+
+PDF EXCERPT PAGE 3
+This includes regular check-ins and feedback within educational software, utilizing screen-sharing
+tools, and reviewing student progress. Classrooms should be arranged to allow for greater visibility
+of student screens. School leaders should ensure that faculty and staff members are familiar with
+the educational software and tools available to them to monitor students’ use.
+
+AI Use Shared Agreements (excerpt)
+Source: page 17 [graphic]
+
+[graphic] Student privacy comes first. — Do not enter personally identifiable information (PII),
+including student names, IDs, IEP/504 information, health or discipline information, identifiable
+student work, or other sensitive data into AI tools unless the tool has been approved for that specific
+use and the school system has verified data protections.
+
+AI Use Decision Tree (excerpt)
+Source: page 18 [graphic]
+
+[graphic] Before using AI for any lesson, assignment, assessment, workflow, or student activity, ask
+the following questions.
+
+• [graphic] 1. Does this AI use protect student privacy and avoid PII or other sensitive data? NO:
+  STOP–Do not use AI until privacy concerns are addressed.
+• [graphic] 6. Is the AI tool approved and appropriate under local policy, procurement, privacy,
+  accessibility, age, and security requirements? NO: Use an approved tool or obtain required
+  approval.
+
+Universal AI Tools in K-12 Schools: K-12 Implementation Notes
+(excerpt)
+Source: page 19
+
+• Any student-facing use must follow age, consent, privacy, and state requirements in addition to
+  local policy requirements or restrictions.
+• School systems should review current terms, age requirements, approved access models, and
+  privacy protections before any use, noting that some consumer accounts are limited to users age
+  18 or older.
+• Confirm locally which OS experiences are enabled for use, whether users have approved school
+  accounts, and whether appropriate data protections are applied. When using enterprise
+  accounts, ensure that data protection includes safeguards to ensure that prompts and responses
+  are not used to train foundation models.
+
+Evaluating AI Technology (excerpt)
+Source: page 21
+
+Overview
+As AI tools become more widely available for teaching, learning, and school operations, school
+systems must ensure they are implemented in ways that protect student data, support educators’
+decision-making, and align with HQIM.
+
+PDF EXCERPT PAGE 4
+The rubric is designed to support collaborative review by individuals with expertise in instructional
+practice, technology systems, and data privacy.
+
+How should this rubric be used? (excerpt)
+2. Verify Required Conditions: Before completing the evaluation rubric, the review team may confirm
+that the proposed AI tool meets baseline requirements related to student and employee data
+privacy, cybersecurity, and system compatibility.
+
+5. Monitor and Reevaluate: If the AI tool is adopted or piloted, the system may periodically review its
+use and impact. Ongoing monitoring can help ensure that data protections remain in place and that
+the tool continues to support instructional goals.
+
+AI Technology Evaluation Rubric (excerpt)
+Source: page 22
+
+These sections guide school systems in considering factors related to data protection, instructional
+integrity, product usability, educator support, and system-level oversight when evaluating
+AI-enabled tools. The results of this rubric should be considered alongside existing school system
+technology review processes, instructional priorities, and applicable policies related to student data
+privacy, cybersecurity, and instructional materials.
+
+AI Technology Evaluation Rubric, Section 1: Safety, Security, and
+Product Access
+Source: pages 22–24 [graphic]
+
+Data Sharing Agreement (DSA)
+• [graphic] Is there a DSA procedure in place, if needed, that includes permitted data uses,
+  confidentiality, redisclosure limits, subprocessors, breach and incident notification,
+  retention/deletion, data return, certified deletion, audit or verification rights, encryption, access
+  controls, secure transfer, and vendor personnel access?
+• [graphic] Is the vendor willing to sign the DSA according to any additional school system-required
+  conditions?
+• [graphic] Has the school system consulted legal counsel and the technology team?
+Data Collection, Storage, and Use
+• [graphic] What types of student, employee, or user data does the AI tool collect?
+• [graphic] Does the vendor clearly explain how collected data will be used within the product?
+• [graphic] How is collected data stored and protected, and what security measures are in place?
+• [graphic] Does the vendor provide clear policies for how long data is retained and when it will be
+  deleted?
+• [graphic] Is there confirmation that identifiable student, employee, or user data is not used for
+  model training, product improvement, analytics, or future AI model development unless expressly
+  authorized through the school system’s legal/privacy process? Can the school system opt out of
+  model training or secondary data use?
+
+PDF EXCERPT PAGE 5
+• [graphic] If the AI tool collects or uses student data in ways that may require parental consent,
+  does the vendor provide clear information and processes that allow school systems to obtain and
+  manage that consent?
+Student Data Privacy Compliance
+• [graphic] Does the vendor demonstrate compliance with applicable student data privacy laws and
+  policies and provide clear documentation of data handling practices?
+• [graphic] Upon termination or non-renewal, does the vendor return all school-system data in a
+  usable format and certify deletion within a defined period, including deletion from backups,
+  subprocessors, derived datasets, and any model-training corpora where applicable?
+• [graphic] How will the school system ensure secure data storage practices, obtain parental
+  consent when necessary, and provide transparency when AI systems collect, process, and utilize
+  student data?
+• [graphic] Do dashboards, reports, exports, and sharing features include controls such as
+  role-based access, least privilege, export restrictions, masking or aggregation, audit logs, secure
+  downloads, external sharing controls, and the ability to disable unnecessary reports or exports?
+Cybersecurity
+• [graphic] Does the vendor provide documentation of security practices such as System and
+  Organization Controls 2 (SOC 2) or similar cybersecurity standards?
+• [graphic] Has this documentation been reviewed by the system’s technology experts and legal
+  counsel?
+Authentication
+• [graphic] Does the tool support school system authentication methods such as Single Sign-On
+  (SSO) or other secure login processes?
+Transparency and Human Oversight (excerpt)
+• [graphic] Are safeguards in place to prevent harmful, biased, or inappropriate AI-generated
+  content, including processes and timelines for AI-specific incidents, prompt injection, jailbreaks,
+  data poisoning, harmful outputs, model drift, vendor breach, unauthorized disclosure, and misuse
+  of data?
+• [graphic] Does the vendor identify all underlying AI/foundation models, model owners, hosting
+  and processing locations, and subprocessors? Can the vendor confirm that no component is
+  owned by, controlled by, or transmits data to a foreign adversary or nation-state entity, and that
+  the tool is not on any applicable federal or state prohibited-software list?
+
+AI Technology Evaluation Rubric, Section 5: Administrative Controls,
+Communication (excerpt)
+Source: page 27 [graphic]
+
+• [graphic] If parent/guardian communication is available, are safeguards in place to ensure
+  communication aligns with school system policies and protects student privacy?
+
+PDF EXCERPT PAGE 6
+Relevant Laws and Policies
+Source: page 28 [graphic]
+
+The integration of AI in Louisiana K-12 schools requires an understanding of existing laws and
+policies that govern student rights, data protection, and the use of technology. LDOE recommends
+that all school systems consult their legal counsel before integrating any technologies that could
+compromise student or employee privacy.
+
+[graphic] Family Educational Rights and Privacy Act (FERPA) — School systems should use
+due diligence when integrating AI technologies in K-12 classrooms to ensure the protection of
+students’ educational records. Student data should not be stored or utilized with AI technologies in a
+way that risks the privacy of protected student information.
+
+[graphic] Louisiana’s Employee Information Laws – LA R.S. 17:3884; LA R.S. 17:440 — LA
+R.S. 17:3884 protects school employees’ personally identifiable evaluation data and results,
+including but not limited to student learning targets, teacher observations, and value-added teacher
+assessment data. LA R.S. 17:440 prohibits the use of Social Security numbers as a personal
+identifier for school personnel. School systems should use due diligence when integrating AI
+technologies into these processes to protect employee information.
+
+[graphic] Children's Internet Protection Act (CIPA) — CIPA relates to AI use in schools by
+requiring school systems receiving E-rate discounts to protect students from harmful material,
+including when AI systems access or filter online content. This includes filtering content on school
+networks and devices and ensuring that students' online activities are monitored to maintain a safe
+and secure online environment.
+
+[graphic] Children's Online Privacy Protection Rule (COPPA) — COPPA generally requires
+covered operators to obtain verifiable parental consent before collecting personal information from
+children under 13. Schools may consent on a parent’s behalf when an AI tool collects information
+solely for a school-authorized educational purpose, but the operator remains responsible for
+COPPA compliance.
+
+[graphic] Individuals with Disabilities Education Act (IDEA) — Emerging AI technologies have
+the potential to serve students with disabilities by offering innovative ways to enhance their
+education. However, such technologies should be used only if they do not interfere with eligible
+students’ safety, privacy, and access to a free appropriate public education.
+
+[graphic] Louisiana’s Student Transparency and Privacy Laws – LA R.S. 17:3913; LA R.S.
+17:3914 — LA R.S. 17:3913 pertains to transparency in educational practices. This law emphasizes
+transparency by requiring educational institutions to disclose information and processes related to
+educational policies and practices. LA R.S.17:3914 focuses on student information; privacy;
+legislative intent; definitions; prohibitions; parental access; and penalties.
+
+PDF EXCERPT PAGE 7
+Glossary of Common Terms (excerpt)
+Source: pages 29–30 [graphic]
+
+[graphic] Cybersecurity — Cybersecurity is the practice of protecting systems, networks, and data
+from unauthorized access, use, disclosure, disruption, modification, or destruction. AI plays an
+increasingly important role in cybersecurity by helping to analyze vast amounts of data to identify
+threats, automate security tasks, and improve overall security posture.
+
+[graphic] Data governance — The process of managing the availability, usability, integrity, and
+security of the data in enterprise systems is based on internal data standards and policies that also
+control data usage. Effective data governance ensures that data is used properly and ethically.
+
+[graphic] Data privacy — The aspect of digital technology that deals with the proper handling,
+processing, and storage of personal information to protect student and staff privacy and comply with
+legal standards.
+
+[graphic] Generative AI — AI that produces new content, such as text, images, audio, video, code,
+or simulations, in response to user inputs. Its use raises considerations related to accuracy, privacy,
+and academic integrity.
+
+Sample Family Letter (excerpt)
+Source: page 31
+
+Privacy and Security: AI use will align with regulations protecting student data privacy, safety, and
+accessibility.
+
+We remind parents and guardians that AI tools may have age restrictions. For example, ChatGPT
+currently requires users to be at least 13 years old and requires parental or legal guardian consent
+for students between the ages of 13 and 18. The website warns that “ChatGPT may produce output
+that is not appropriate for all audiences or all ages, and educators should be mindful of that while
+using it with students or in classroom contexts.”
+

@@ -1,0 +1,186 @@
+PDF EXCERPT PAGE 1
+    Idaho Generative AI in Education Framework:
+        Data and Student Privacy Passages
+Excerpted verbatim from Generative Artificial Intelligence in Education Framework (Idaho State Department of Education,
+2026), including the appendix with the Idaho School Boards Association draft policy and sample letter home. Page numbers
+match the document's own page numbering. Ellipses (…) mark omitted text. Numbered lists in the source are shown as
+bullets. Bracketed text in the draft policy appears exactly as printed in the source.
+
+
+Letter from the Superintendent (excerpt)
+Source: page 1
+
+Just as importantly, we have a responsibility to ensure that AI is introduced in developmentally
+appropriate ways, to protect student privacy, and to reflect the trust parents place in our public
+schools.
+
+Guiding Principles (excerpt)
+Source: page 5
+
+The goal is not simply to adopt AI, but to ensure it is implemented in ways that support student
+success, strengthen teaching and learning, protect privacy, and reflect Idaho’s values.
+
+Guiding Principles: AI usage will prioritize ethics, legality and safety.
+Source: page 6
+
+Idaho will put protecting personal identifiable information (PII) first. All AI tools and resources must
+comply with protection laws. No PII should ever be uploaded or used within an AI system without
+understanding the protections that are in place to keep individuals safe. Idaho districts, schools, and
+charters will be expected to ensure that all resources protect student data through appropriate
+safeguards and procedures. (Netskope, 2026)
+
+AI as an instructional tool (excerpt)
+Source: page 9
+
+Student identifiable data should not be entered into any AI tool that is not secure and fully compliant
+with FERPA, COPPA, and any other national or state laws regarding student data privacy and use.
+Keeping student data safe and private is essential.
+
+K-2 Guidance and Instructional Ideas (excerpt)
+Source: page 9
+
+• Help students understand what identifiable data vs. non-identifiable data is.
+
+PDF EXCERPT PAGE 2
+Safe Boundaries and Limitations of AI (excerpt)
+Source: page 12
+
+Implementation of AI in the classroom must be done in a safe manner. It is important for educators
+to first understand how a tool works and how it collects and stores data. Student identifiable data
+should never be entered into AI tools without a clear understanding of the safeguards the tool
+provides. This includes student names, specific accommodations, and any other personally
+identifiable information.
+
+Platform Purchasing (excerpt)
+Source: page 15
+
+When choosing a tool for a district, school, or charter, it is important to have a cybersecurity mindset
+in place. Like any technology tool or platform, when adopting AI platforms, there should always be a
+vetting process.
+
+Platform Purchasing: Vendor Questions and Data Privacy
+Agreements
+Source: page 16
+
+Key things that should be addressed when talking with a vendor are:
+• How is our data being used within the system?
+• How is user data collected, analyzed, shared, or used to ensure data isn’t being used for training
+  purposes?
+• What data is retained, who has access to it, and when is it deleted?
+• How are you keeping student and teacher data safe?
+• Is your tool compliant with COPPA, FERPA, PPRA, CIPA, IDEA, Title VI, your state student data
+  privacy laws, and any state AI legislation?
+After a tool is selected, a district, school or charter should always require a Data Privacy Agreement
+(DPA) with the vendor. This protects the district, school, or charter through a legally binding contract
+to ensure that all sensitive data is handled with care and oversight.
+
+Some key components to make sure are a DPA are:
+• Data ownership
+• Data use limitations
+• Types of data covered
+• Compliance requirements
+• Data security measures
+• Data retention and deletion process
+
+PDF EXCERPT PAGE 3
+Idaho School Boards Association DRAFT Policy: Purpose (excerpt)
+Source: page 21
+
+It is also intended to help inform the District community about issues to be aware of regarding
+generative AI tools, such as data privacy concerns, their potential to provide inaccurate or
+inappropriate responses, and the fact it is not possible to own or copyright material created using
+such tools.
+
+Idaho School Boards Association DRAFT Policy: Approved
+Generative AI Tools
+Source: pages 21–22
+
+The Superintendent, or their designee, may create a list of District-approved generative AI tools.
+Before approving such tools, the [SELECT ONE: Superintendent or their designee OR IT
+department OR ____________________] shall review and understand each tool’s terms of service
+and privacy policy and ensure the use of the tool is compatible with District policy and laws related
+to student privacy, data security, and other applicable requirements. The Superintendent or their
+designee may grant approval on a case-by-case basis of generative AI tools not yet given general
+approval. The Superintendent may also require a data protection agreement between the District
+and any software tool covered by this policy.
+
+When considering purchasing access to a generative AI tool, the District shall consider what
+purpose they want the tool to serve and how training and support will be provided to those who use
+the tool. The District shall require a data privacy agreement (DPA) with any vendor their contract
+with to access a generative AI tool to protect sensitive student, staff, and District data.
+
+Matters that should be considered when selecting a provider of an AI service include:
+
+• How the District’s data will be used, consistent with IC 33-133;
+• How any user data collected will be analyzed, shared, or used and whether the provider can
+  ensure the data is not used for AI model training;
+• What kinds of data the provider keeps, how long it is kept, and who will have access to it;
+• Measures they take to protect student and staff data; and
+• Whether the tool complies with the requirements of the Children’s Online Privacy Protection Act
+  (COPPA), the Family Educational Rights and Privacy Act (REPA), the Protection of Pupil Rights
+  Amendment (PPRA), the Children’s Internet Protection Act (CIPA), the Individuals with
+  Disabilities Education Act (IDEA), Title VI, Idaho student data privacy laws, and any Idaho AI
+  legislation.
+
+Idaho School Boards Association DRAFT Policy: Use by Staff
+(excerpt)
+Source: page 22
+
+For generative AI tools that require an account, staff shall maintain separate accounts for work and
+personal uses and shall inform their supervisor of any work-related accounts created. Personal
+generative AI accounts shall not be used on District equipment or a District-provided internet
+connection.
+
+PDF EXCERPT PAGE 4
+Staff shall not use any of the following in prompts for an AI tool or otherwise upload the following to
+an AI tool unless the Superintendent or their designee provides specific permission to do so:
+
+• Personally identifiable information;
+• Sensitive or confidential student or personnel records; or
+• Any copyrighted material.
+
+Idaho School Boards Association DRAFT Policy: Staff Professional
+Development (excerpt)
+Source: page 23
+
+The District may provide professional development to educators, administrators, and support staff
+on generative AI, including on such topics as ethical use, the abilities and limitations of such tools,
+how to evaluate their output, monitoring student use, data and confidentiality issues, and possible
+in-class uses.
+
+Idaho School Boards Association DRAFT Policy: Use by Students at
+the Direction of Staff (excerpt)
+Source: page 23
+
+The Superintendent shall delegate staff to provide students with instruction on generative AI tools,
+including on:
+
+• The importance of not sharing personal information when using such tools;
+• Confidentiality and safety considerations; and
+[SELECT ONE: Parent consent shall be required before students are directed to use generative AI
+tools in any school activity or assignment. OR The District shall obtain parent consent for student
+use of generative AI tools whenever such permission is required by the tool’s terms of service.]
+Students should not be penalized for refusal to use such tools. For any such activity or assignment,
+students will be directed to use only tools that have been approved by the District.
+
+Idaho School Boards Association DRAFT Policy: Student-Chosen
+Use of AI Tools (excerpt)
+Source: page 24
+
+Staff will not knowingly allow students to use AI tools in ways that violate their terms of service, such
+as use without parent permission or use of an account shared between many people when
+prohibited. Teachers shall take reasonable steps to prevent use of generative AI tools in ways that
+undermine learning and assessment or create safety and/or confidentiality concerns.
+
+Sample Letter Home (TeachAI, 2025) (excerpt)
+Source: page 26
+
+Privacy & Security: AI use will align with regulations protecting student data privacy, safety, and
+accessibility.
+
+We remind parents and guardians that many AI tools may have age restrictions, and when using AI
+tools at home, it is important to be aware of this. All tools used in school will have appropriate
+
+PDF EXCERPT PAGE 5
+security measures in place to keep students and their data safe.
+

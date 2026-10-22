@@ -1,0 +1,60 @@
+PDF EXCERPT PAGE 1
+   Kentucky AI Guidance Brief: Data and Student
+                Privacy Passages
+Excerpted verbatim from Artificial Intelligence Guidance Brief (Kentucky Department of Education, 2024). Page numbers
+match the document's own page numbering. Ellipses (…) mark omitted text. Superscript numbers are footnote markers
+copied from the source.
+
+
+Guiding Questions for AI Integration (excerpt)
+Source: page 3
+
+• Am I feeding any sensitive or personal information/ data to an AI that it can use or share with
+  unauthorized people in the future?
+• Is this AI part of our enterprise, KETS, or KDE ecosystem, or is it a third-party tool offered by
+  someone we may not be familiar with (or have a relationship with)?
+• Does this AI bot want me to give it permissions to access all of my account information or act like
+  it is me?
+• If the tool is “free” to use, then am I the payment? (my data, district data, or other datasets of
+  which I have access - beware of freemium models)
+
+Unpacking the Master Plan Statement: Safe and Responsible
+(excerpt)
+Source: page 8
+
+Ensuring the safe and responsible use of such tools means embedding transparency, data
+protection measures, fairness, non-discrimination, ethical practices, and continuous monitoring into
+the day-to-day operations of these AI-enabled systems.
+
+Guiding Principles: Transparency and Accountability (excerpt)
+Source: page 9
+
+When AI tools are used, students, teachers, and parents should be informed how the
+vendor-provided application works and what data they collect and/or store. This is especially
+important when the data is sensitive.
+
+Guiding Principles: Privacy and Data Protection
+Source: page 10
+
+All AI application usage should adhere to state and federal privacy laws, such as the Family
+Educational Rights and Privacy Act (FERPA)⁵, the Children's Online Privacy Protection Act
+(COPPA)⁶, and Kentucky House Bill (HB) 5 (2015)⁷. Student and educator data should always be
+treated with utmost confidentiality and security.
+
+PDF EXCERPT PAGE 2
+Guiding Principles: Data Quality and Integrity (excerpt)
+Source: page 10
+
+The KDE will hold to our data governance and data quality standards and partner with experts when
+appropriate to identify continued development of data best practices when using created or curated
+AI systems.
+
+Online, Virtual & Remote Learning: Policy-in-Action Spotlight
+(excerpt)
+Source: page 13
+
+Online/virtual programs incorporating AI tools have a crucial responsibility: safeguarding
+content/curriculum through rigorous vetting and adhering to data security standards. Resources and
+oversight models can empower these programs to fulfill this duty, ensuring vendor AI integrations
+enhance learning while protecting sensitive information.
+

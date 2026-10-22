@@ -1,0 +1,33 @@
+PDF EXCERPT PAGE 1
+        Rochester City SD AI Guidelines: Data and
+               Student Privacy Passages
+Excerpted verbatim from District AI Guidelines (Rochester City School District, Google Sites web page). The source has no
+page numbers; locations are given by section. Ellipses (…) mark omitted text. The source is a web page without page
+numbers; emphasis and emoji icons in the source are not reproduced.
+
+
+Data Privacy and Security
+Source: web page, section 'Data Privacy and Security'
+
+Protecting the privacy and security of student and staff data is a non-negotiable requirement for AI
+tool usage in RCSD, mandated by NYS Education Law 2-D and district regulation. Compliance with
+federal laws such as the Family Educational Rights and Privacy Act (FERPA), the Children's Online
+Privacy Protection Act (COPPA), and the Children's Internet Protection Act (CIPA) is also essential.
+The District Data Protection Officer will oversee compliance in this area.
+
+When considering or using AI tools, pay close attention to:
+• Personally Identifiable Information (PII): NEVER input student or staff PII unless the tool is
+  district-approved with a compliant data privacy agreement in place.
+• Data Collection and Usage: Understand exactly what data is collected (PII, usage data, etc.)
+  and ensure its use is clearly defined and limited to educational purposes.
+• Data Security Measures: Approved tools must use strong security (encryption, access controls)
+  to protect data.
+• Compliance with Regulations: Verify that the tool explicitly complies with NYS Education Law
+  2-D, FERPA, COPPA, and CIPA.
+• Parental Consent and Control: Understand the tool's process for parental consent and their
+  ability to review or delete a child's data (especially for students under 13).
+• Transparency: Privacy policies must be clear and accessible.
+• Data Retention and Deletion: Be aware of data retention periods and secure deletion
+  procedures.
+Report any data privacy concerns immediately to the Data Privacy Officer.
+

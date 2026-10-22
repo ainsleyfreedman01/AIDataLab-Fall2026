@@ -1,0 +1,24 @@
+PDF EXCERPT PAGE 1
+        PAUSD Generative AI Guidance: Data and
+              Student Privacy Passages
+Excerpted verbatim from Generative AI Guidance (Palo Alto Unified School District, Google Doc exported as PDF). Page
+numbers refer to the PDF pages of the source file. The CSV row is a landing page; the passages come from the linked
+Google Doc 'PAUSD Generative AI Guidance'.
+
+
+Objectives: Security and Privacy
+Source: page 2
+
+Security and Privacy: We promote trust within our systems by maintaining industry-standard data
+safeguards and compliance with California student data privacy laws to protect student data and
+keep students safe.
+
+Questions for Further Discussion (excerpt)
+Source: page 3
+
+5. How can we adapt and evolve our data protection and privacy measures to align with the
+integration of generative AI in our educational environment?
+
+10. What level of teacher monitoring is appropriate when integrating generative AI, and how can we
+support educators in developing the necessary monitoring skills?
+

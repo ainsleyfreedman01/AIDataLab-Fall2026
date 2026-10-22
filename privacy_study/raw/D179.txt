@@ -1,0 +1,205 @@
+PDF EXCERPT PAGE 1
+     West Virginia AI Guidance: Data and Student
+                  Privacy Passages
+Excerpted verbatim from Guidance, Considerations, and Intentions for the Use of Artificial Intelligence in West Virginia
+Schools, Version 1.2 (West Virginia Department of Education, March 2025). Page numbers match the document's own
+page numbering. Ellipses (…) mark omitted text. Two paragraphs on page 27 sit beside a sidebar that interleaves with them
+in the text extraction, so they were transcribed from the rendered page and are marked [graphic]. The educator and district
+versions of the guiding principle on existing policies are both given because their wording differs.
+
+
+Plan of Action (excerpt)
+Source: page 7
+
+• Safeguarding student wellbeing and data privacy in AI usage
+
+Statement of Need (excerpt)
+Source: page 7
+
+… Predictable risks include over-reliance on AI technologies, challenges to independent and
+creative thinking, reduced social interactions, privacy and safety issues, furthering of digital divides,
+as well as plagiarism and cheating.
+
+Why talk about AI now? (excerpt)
+Source: page 8
+
+Clear, student privacy-centered policies are essential to ensure developmentally appropriate access
+for all students.
+
+Responsible Use of AI Tools (excerpt)
+Source: page 12
+
+… Simultaneously, school districts are tasked with adhering to relevant legal standards concerning
+data protection and student data privacy. …
+
+District Management and Operations: Learning Management Systems
+(excerpt)
+Source: page 12
+
+Learning Management Systems (LMSs): AI that is natively incorporated into learning management
+systems by the system vendor has the potential to help analyze student performance data to
+provide insights to educators, helping them tailor instruction or interventions. These types of AI will
+fall under the memorandum of understanding (MOU) between the district and the system vendor,
+thus allowing the analysis of data by the AI, but also protecting student data. …
+
+PDF EXCERPT PAGE 2
+Guiding Principles for AI Use by Educators (excerpt)
+Source: page 14
+
+I reaffirm adherence to existing policies and regulations. AI is one of many technologies used in
+classroom instruction, and I will use it in alignment with existing policies and regulations to protect
+student privacy, ensure accessibility to those with disabilities, and protect against harmful content. I
+will not share personally identifiable information with consumer-based AI systems. I understand that
+there is a difference between AI that is integrated into technologies purchased by my district, such
+as our LMS or an assessment platform, and a consumer-based AI system that I purchase or access
+on my own. I will thoroughly evaluate existing and future technologies and address any gaps in
+compliance that might arise.
+
+A Variety of Different AI Platforms (excerpt)
+Source: page 22
+
+… It is necessary to review the terms and conditions for each system and review county school
+district policies before using that system. …
+
+Existing Policies (excerpt)
+Source: page 23
+
+• 4350 – Procedures for the Collection, Maintenance and Disclosure of Student Information
+
+Guiding Principles for School and District AI Use (excerpt)
+Source: page 23
+
+We reaffirm adherence to existing policies and regulations. AI is one of many technologies that may
+be used in West Virginia schools, and its use will align with existing policies and regulations to
+protect student privacy, ensure accessibility to those with disabilities, and protect against harmful
+content. We will not share personally identifiable information with consumer-based AI systems. We
+will thoroughly evaluate existing and future technologies and address any gaps in compliance that
+might arise.
+
+Prohibited Use of AI Tools: Teacher Support (excerpt)
+Source: page 25
+
+Privacy concerns: AI tools will not be used to monitor classrooms for accountability purposes, such
+as analyzing teacher-student interactions or tracking teacher movements, which can infringe on
+students’ and teachers’ privacy rights and create a surveillance culture.
+
+Prohibited Use of AI Tools: School Management and Operations
+Source: page 26
+
+Compromising Privacy: The county school district or school will not use AI in ways that compromise
+teacher or student privacy or lead to unauthorized data collection, as this violates privacy laws and
+our system’s ethical principles. WVBE Policy 2460 requires that counties are responsible for
+ensuring that COPPA, CIPA, and FERBA are not violated. … See the Security, Privacy, and Safety
+section for more information.
+
+PDF EXCERPT PAGE 3
+Noncompliance with Existing Policies: We will evaluate AI tools for compliance with all relevant
+policies and regulations, such as privacy laws and ethical principles. We will review the terms and
+conditions for all AI tools to review if/how personal information is used to ensure that personal data
+remains confidential and isn’t misused.
+
+Protecting Student Privacy and Safety: Security, Privacy, and Safety
+Source: page 27
+
+[graphic] AI is a technology tool similar to other educational/instructional technologies. Its powerful
+implications and novel uses will require more time and experience to fully integrate responsibly.
+However, planning for the use of AI should be approached in a manner similar to planning for other
+educational technologies. District and school staff should be able to clearly articulate the needs and
+uses for AI tools, plan for systematic implementations, monitor uses and impacts, and adjust plans
+as needed in response to outcomes and user feedback. As part of these planning processes,
+student and staff privacy must be considered at every step along the way to ensure safety and
+security.
+
+[graphic] AI systems, especially those used in education, require extensive data to operate
+efficiently. In an educational setting, these data could include sensitive information about students
+like learning patterns, academic achievements, and personal details. The foremost ethical concern
+is student privacy, and districts need to ensure that such sensitive data is handled with utmost care.
+Obtaining parental consent is crucial, but it is also important to recognize that even with consent,
+using identifiable data in public AI models is not advisable. Any data information inputted into the AI
+model, including prompts, has the potential to be incorporated into the model’s future iterations and
+potentially shared with other users. Hence, strict policies, consideration, and discretion are essential
+when integrating AI in educational settings to safeguard against any privacy breaches or misuse of
+student data.
+
+Schools should implement reasonable security measures to secure AI technologies against
+unauthorized access and misuse. These measures may include (1) cataloging the tools used, their
+purposes/functions, and the information required (e.g., information about individuals, prompts or
+questions, aggregate data); (2) establishing rules or criteria for who can use AI tools for what
+purposes and/or creating school-specific guidelines for use of AI tools; and (3) maintaining
+up-to-date information about the technical details and security implications of the tools in use. All AI
+systems deployed within the school should be evaluated for compliance with relevant laws and
+regulations, including those related to data protection, privacy, and students’ online safety. Schools
+and districts should also ensure that staff are adequately trained for how to securely and
+successfully use AI tools from both cybersecurity and instructional perspectives.
+
+Staff and students are prohibited from entering confidential or personally identifiable information into
+unauthorized AI tools, such as those without approved data privacy agreements. Sharing
+confidential or personal data with an AI system could violate privacy if not properly authorized (with
+appropriate consent, as needed) or if information is not provided via approved procedures.
+
+PDF EXCERPT PAGE 4
+Special Consideration: Student Age
+Source: page 28
+
+Every technology has a set of terms and conditions which must be reviewed. When considering the
+use of generative AI technologies – for example, ChatGPT, with students under the age of 18 –
+several key considerations should be addressed:
+
+• First, explicit parental/guardian permission must be obtained for students under 18, ensuring that
+  parents/guardians are fully informed about the nature, capabilities, and limitations of the AI
+  technology, as well as the data privacy and security measures in place.
+• It should be noted that specialists in the field of classroom AI have advised that students should
+  ideally be at least 13 years old to utilize AI technology.
+• For students under the age of 13, special attention is needed due to stricter laws like the
+  Children’s Online Privacy Protection Act (COPPA). Additionally, the use of AI should be closely
+  monitored by educators to ensure that the content and interaction are age-appropriate, respectful
+  of privacy, and aligned with educational goals.
+
+Sample Considerations for Existing School and District Policies
+(excerpt)
+Source: page 29
+
+Guidelines should be incorporated into existing district and school policies. Below are examples of
+language relevant to responsible use policies, privacy policies, and academic integrity policies.
+
+Privacy Policy: AI & Data Collection
+Source: page 29
+
+• Data Collection: Parents, guardians, and students will be informed of specific data collection
+  initiatives, and where applicable, consent will be sought. All AI-driven data collection will adhere
+  to local data protection regulations and best practices.
+• Third-Party AI Tools: Schools may develop an approved list of AI tools which should always be
+  consulted. Unauthorized AI tools might not adhere to data privacy standards.
+• Personal Information: Staff and students should never input personal, sensitive, or confidential
+  data into any AI system without prior authorization, including any data related to student
+  education records.
+
+AI Companion Apps: Understanding the Risks (excerpt)
+Source: page 32
+
+… These risks include privacy concerns, exposure to inappropriate content, and potential
+dependency on the app for emotional needs. … The collection and storage of sensitive user data by
+these apps further heightens concerns, as this information may be vulnerable to misuse or
+insufficient protection.
+
+PDF EXCERPT PAGE 5
+AI Companion Apps: Potential Risks (excerpt)
+Source: page 32
+
+5. Insufficient Privacy Protections: Many apps lack adequate regulation and fail to meet basic
+privacy standards, putting users’ sensitive and personal data at risk of misuse or exploitation.
+
+AI Companion Apps: Recommendations for Schools and Families
+(excerpt)
+Source: page 33
+
+… Highlight key concerns, such as privacy, app addiction, and social development challenges, and
+teach families to recognize signs of misuse.
+
+Glossary: Data Privacy
+Source: page 40
+
+Data Privacy: The aspect of handling, processing, and storing personal and sensitive data with
+confidentiality and security. In AI, this involves ensuring that data used for training and operating AI
+systems is protected from unauthorized access and misuse.
+

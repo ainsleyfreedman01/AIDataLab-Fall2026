@@ -1,0 +1,243 @@
+PDF EXCERPT PAGE 1
+          Washington OSPI AI Guidance: Data and
+                Student Privacy Passages
+Excerpted verbatim from Human-Centered AI Guidance for K–12 Public Schools, Version 3.0 (Washington Office of
+Superintendent of Public Instruction, July 1, 2024). Page numbers match the document's own page numbering. Ellipses
+(…) mark omitted text. Passages marked [graphic] come from two-column layouts whose plain text extraction interleaves
+the columns; they were reassembled in reading order, not copied from an image. Sample policies in Section 2 (pages
+22–24) are model language the guidance offers to districts.
+
+
+Executive Summary: In This Guidance (excerpt)
+Source: page 6
+
+[graphic] Guidance: Provides considerations for creating human-centered AI learning environments,
+implementing AI in student learning, and protecting sensitive and confidential data.
+
+Understanding Artificial Intelligence (excerpt)
+Source: page 7
+
+It is the responsibility of the education community to carefully and strategically understand how
+these products work, what data is collected, and where information is sourced.
+
+Key facets of these tools already apply to concerns such as student data privacy, plagiarism,
+cyberbullying, and digital literacy, and can be called out within existing and corresponding policies.
+
+AI in Education: A Human-Centered Approach (excerpt)
+Source: page 8
+
+• Ensuring ethical, equitable, and safe use of AI by protecting the privacy and security of data,
+  addressing potential biases and harms, and promoting digital citizenship and responsibility.
+
+Potential Risks That Need to Be Mitigated When Using AI in
+Education (excerpt)
+Source: page 10
+
+• Unauthorized access to protected user information and unauthorized data collection
+It is the responsibility of every parent/guardian, policymaker, teacher, administrator, and support
+staff member to ensure that the use of this transformative new technology and its future is regularly
+reviewed to ensure equity of access, data privacy, and safe and ethical usage are maintained at all
+levels.
+
+Principles and Values: Safe and Secure
+Source: page 11
+
+Safe and Secure: Students should not be put at further risk by using AI nor should their personally
+identifying information be unlawfully shared.
+
+PDF EXCERPT PAGE 2
+Guidance: A Human-Centered Approach to AI (excerpt)
+Source: page 12
+
+• Ensuring ethical, equitable, and safe use of AI by protecting the privacy and security of data,
+  addressing potential biases and harms, and promoting digital citizenship and responsibility.
+
+Sensitive and Confidential Data
+Source: page 13
+
+Ensure that your LEA AI use complies with student/personal privacy and data protection laws. Be
+aware of and follow any age restrictions for the use of all AI tools and resources.
+
+• Before sharing private data, ensure that the AI tool meets the following requirements:
+• Family Education Rights and Privacy Act (FERPA) requires that schools not disclose personal
+  identifying information of a minor or eligible student without express written consent of the parent
+  or eligible student.
+• Children’s Online Privacy Protection Act (COPPA) requires schools to obtain parental consent
+  before allowing students under 13 to use online services that collect, use, or disclose personal
+  information.
+• Children’s Internet Protection Act (CIPA) requires that schools implement an internet safety
+  policy that includes protective measures to block or filter access to obscene or harmful content.
+• Have a clear understanding of your data collection processes. Update policies to include the use
+  of and considerations for using AI.
+• Give users options to opt-out or delete their data if they want.
+
+Policy: Building Human-Centered AI Policies (excerpt)
+Source: page 14
+
+• AI Inquiry and Input Review: Require human input of data with clear mandates that staff and
+  students should never input personal, sensitive, or confidential data, including any data related to
+  student education records, into any AI system without first ensuring that the system meets
+  FERPA, COPPA, and CIPA requirements. Emphasize the need for review prior to finalizing any
+  information into a system that learns from data entered.
+
+PDF EXCERPT PAGE 3
+Policy: Updates for Existing Policies (excerpt)
+Source: page 15
+
+• Data Collection: Parents, guardians, and students must be informed of specific data collection
+  activities or potential risk, where applicable, with consent required. All AI-driven data collection
+  must adhere to local data protection regulations, best practices, and community standards.
+• Third-Party AI Tools: The district’s approved list of AI software and tools should always be
+  reviewed and updated. Unauthorized AI software and tools (including updates) might not adhere
+  to the district’s data privacy standards and practices.
+• Personal Information: Staff and students should never input personal, sensitive, or confidential
+  data into any AI system without prior parental or guardian authorization, including any data
+  related to student education records. Personnel must adhere to the FERPA, COPPA, and CIPA
+  when entering information.
+
+Policy Samples (excerpt)
+Source: page 21
+
+These samples illuminate approaches to harnessing AI’s potential while addressing ethical, safety,
+and privacy considerations inherent in its use.
+
+Sample Language for Responsible Use Policy: Inappropriate Use
+(Edmonds SD) (excerpt)
+Source: page 22
+
+In addition to those uses which violate this document (#), the following are prohibited uses of
+Artificial Intelligence:
+
+• Use of Artificial Intelligence with confidential student or staff personal information.
+
+Sample Student AI Code of Conduct (excerpt)
+Source: page 23
+
+• Respect Others: I will not use AI to harm, deceive, or disparage others. I will always respect
+  others’ privacy and dignity.
+• Protect Privacy: I will be mindful of my own and others’ privacy when using AI. I will not share
+  personal information with AI without appropriate consent and understanding of how the data will
+  be used.
+• Report Concerns: I will report any concerns or potential breaches of this pledge to a teacher or
+  school administrator immediately.
+
+PDF EXCERPT PAGE 4
+Sample Professional Ethics for Educators: Protect Student Privacy
+and Data
+Source: page 24
+
+• Establish safeguards to make certain that student data collected, used, and stored is secure and
+  with appropriate consent.
+• Confirm that any data collected does not violate current regulations relevant to education and
+  student data privacy.
+Considerations: When kids are not quite ready to speak up for themselves or handle AI tools alone,
+schools should establish strong partnerships with parents to proactively encourage the development
+of students’ critical thinking skills. Together, parents and school communities should help kids
+understand how their data is collected and used by AI, whether it’s at school, home, or even with
+toys meant for learning and fun. It’s all about making sure kids stay safe and develop critical thinking
+skills around their personal data privacy.
+
+Current regulations relevant to the use of AI in education (excerpt)
+• FERPA - AI systems must protect the privacy of student education records and comply with
+  parental consent requirements. Data must remain within the direct control of the educational
+  institution.
+• COPPA - AI chatbots, personalized learning platforms, and other technologies collecting
+  personal information and user data on children under 13 must require parental consent.
+• CIPA - Schools must ensure AI content filters align with CIPA protections against harmful
+  content.
+
+Section 3 Introduction (excerpt)
+Source: page 28
+
+Using AI also comes with risks that must be mitigated to protect student privacy, prevent biases and
+inequities, and embrace human intelligence and empowerment.
+
+Local Education Agency Leaders (excerpt)
+Source: pages 33–34
+
+When educators and students are accessing AI tools, it is crucial that these tools protect student
+data and improve student outcomes while allowing the opportunity for increased efficiency and
+enhanced educational experiences.
+
+AI Policies Review and Updates (page 33)
+• [graphic] Encourage regular reviews and updates to LEA policies to ensure ethical and
+  responsible AI tool use while complying with regulations like FERPA, COPPA, and CIPA.
+Student Privacy and Data Security (page 34)
+• [graphic] Continue to evaluate the need to balance data demand with student privacy concerns.
+• [graphic] Continue to support technology leadership in addressing risks of data breaches and
+  external sharing of student or staff information.
+
+PDF EXCERPT PAGE 5
+• [graphic] Continue to review implemented software that does not promote student profiling and
+  surveillance.
+• [graphic] Provide students with grade-level appropriate instruction in thinking critically about their
+  digital security.
+Lead the Vetting of AI Tools (page 34)
+• [graphic] Ensure software companies’ Data Privacy Agreements (DPAs) are verified.
+• [graphic] Validate that companies are COPPA, CIPA, and FERPA compliant.
+• [graphic] Continue to insist on encryption and security measures and verify that LEA IT staff are
+  comfortable with these procedures.
+
+Information Technology/Education Technology Leaders (excerpt)
+Source: page 35
+
+Implementation of this technology comes with great responsibility in selecting the right tools to
+safeguard student information.
+
+Security and Privacy
+• [graphic] Prioritize security and data privacy.
+• [graphic] Implement vetting procedures requiring vendors to notify the district when updates
+  include AI changes are made.
+• [graphic] Ensure that the software’s security features and encryption comply with regulations
+  (e.g., FERPA, CIPA, and COPPA).
+• [graphic] Confirm that the software vendor follows best practices in protecting student data.
+
+Educators: Evaluating Student Work (excerpt)
+Source: page 38
+
+When weighing whether to use AI to evaluate student work, educators are asked to consider the
+following:
+
+• Make sure the student work does not have personally identifiable student information.
+• Communicate with students that you will be leveraging AI to evaluate their work.
+
+Students (excerpt)
+Source: page 39
+
+Plus, the companies that make AI might collect your personal information without you knowing it!
+
+Think like a detective. You want information from the AI, but you also have questions to ask
+yourself, such as:
+
+• What kind of information is the AI using to learn?
+• Does the application ask for personal information that you would not normally give to a stranger?
+
+PDF EXCERPT PAGE 6
+Family and Community Members (excerpt)
+Source: page 41
+
+This might be a completely innocuous scenario. But consider what you may have agreed to in the
+disclaimer. What data is the site extracting when it scans your face? You may have provided
+biometric data not unlike the facial IDs used to unlock many smart phones. Your likeness may be
+shared with third party sites. Some form of AI is probably used to align the virtual glasses model with
+your face and is, as far as you can verify, just a neat, useful tool. But is the convenience worth what
+you may be giving up? How might these considerations apply to other tools you have used?
+
+AI in Education FAQ (excerpt)
+Source: pages 44–46
+
+Introduction (page 44)
+Alongside the excitement, OSPI cautions about issues such as privacy and equity.
+
+Are There Any Risks or Challenges Associated with AI in Education? (page 46)
+• Data privacy and security
+What Are the Ethical Considerations of Using AI in Education? (page 46)
+• Data privacy and security
+
+AI Integration: Leadership Checklist, Step 2 (excerpt)
+Source: page 47
+
+Work with stakeholders within your LEA to identify AI tools that your LEA will support. Consider:
+
+• The data privacy policies of the AI tools under consideration
+

@@ -1,0 +1,87 @@
+PDF EXCERPT PAGE 1
+    Stillwater Public Schools AI Tools Page: Data
+            and Student Privacy Passages
+Excerpted verbatim from AI Tools (Stillwater Public Schools, Oklahoma), web page. The source has no page numbers;
+locations are given by section. This is a web page (marked 'OLD PAGE' in its heading), so there are no page numbers.
+Ellipses (…) mark omitted text.
+
+
+Introduction (excerpt)
+Source: web page, introduction
+
+These secure, district-approved tools are part of our Google Workspace for Education accounts and
+are designed to support innovation and learning.
+
+Our Commitment to Safety and Integrity (excerpt)
+Source: web page, section 'Our Commitment to Safety and Integrity'
+
+Your child’s safety is our top priority. Both Gemini and NotebookLM are classified as Google Core
+Services. This means student data, chats, and files are never shared outside our district or used to
+train AI models.
+
+General Questions & District Vision: Approved Tools (excerpt)
+Source: web page, section 'General Questions & District Vision'
+
+Which AI tools, if any, have been approved for use by the district?
+Google's Gemini and NotebookLM are approved as Core Services within our Google Workspace for
+Education accounts for all staff and for students in grades 6-12. Generative AI elements within other
+district-approved curriculum tools such as Adobe, Canvas, and Google Classroom are also
+approved as part of the comprehensive evaluation each tool undergoes before approval. Other tools
+must be evaluated and approved by the district before use.
+
+Data Privacy & Security
+Source: web page, section 'Data Privacy & Security'
+
+How is our district protecting student data when AI tools are used?
+We only approve AI tools that meet our standards for data privacy. Our approved tools (Gemini,
+NotebookLM) are “Core Services” in our Google Workspace, meaning they follow the same strict
+privacy rules as Google Drive and Gmail.
+
+Do the AI tools used by the district comply with federal and state privacy laws like FERPA
+(Family Educational Rights and Privacy Act) and COPPA (Children's Online Privacy
+Protection Act)?
+Yes. Our district policy (EFEAA) requires all AI tools to comply with data privacy laws. The Google
+Workspace for Education Core Services we use are governed by a robust privacy policy that affirms
+their compliance with laws like FERPA and COPPA.
+
+What student information (Personally Identifiable Information or PII) is being collected by
+these AI tools, and why?
+
+PDF EXCERPT PAGE 2
+Google's Core Services for Education, which include Gemini and NotebookLM, do not collect PII for
+commercial purposes. Like other Google Workspace apps, they process data to provide the service
+(e.g., to process a prompt and return an answer) but this data is not used for advertising or other
+commercial intentions.
+
+Who owns the data that students input into AI platforms?
+For our district's approved Google Core Services, Google's policy states that “Schools, not Google,
+own their student and faculty data.”
+
+Is student data being used to train AI models?
+No. For our approved Google Workspace Core Services (Gemini and NotebookLM), student chats,
+prompts, and uploaded files are never used to train AI models and are never shared outside the
+district.
+
+What security measures are in place to prevent data breaches related to AI tools?
+Our approved AI tools are part of the Google Workspace for Education, which is built with strong,
+multi-layered security features, including data encryption and multi-factor authentication, to protect
+data from threats.
+
+Support for Teachers & Staff (excerpt)
+Source: web page, section 'Support for Teachers & Staff'
+
+What guidelines are teachers following for using AI to communicate with parents or assess
+student work?
+Staff must use district-approved tools, supervise student use, and never upload confidential or
+sensitive student information (like grades or PII) into an AI tool. They must also carefully evaluate
+any AI-generated content for accuracy and appropriateness before using it.
+
+Broader Impacts & Future Planning: Reviewing and Approving New
+AI Tools (excerpt)
+Source: web page, section 'Broader Impacts & Future Planning'
+
+How does the district review and approve new AI tools for classroom use?
+Approved tools are determined by district personnel after a review of their security, privacy, data
+usage, and academic integrity standards. Staff are not permitted to use or have students sign up for
+unapproved AI platforms.
+

@@ -1,0 +1,50 @@
+PDF EXCERPT PAGE 1
+    Ann Arbor AI Bill of Rights: Data and Student
+                 Privacy Passages
+Excerpted verbatim from AAPS AI Bill of Rights, 7th DRAFT (Ann Arbor Public Schools, Michigan; March 2026). Page
+numbers refer to the PDF pages of the source file. Ellipses (…) mark omitted text. The document is a draft. The
+summary-table rows on PDF page 2 are transcribed from the rendered page and are marked [graphic]; list labels such as
+"4." and "a." are omitted.
+
+
+Summary of Student Rights & Responsibilities: Privacy and Ethical
+Use
+Source: PDF page 2 (table row) [graphic]
+
+[graphic] Privacy and Ethical Use: Students have the right to protect their personal data and creative
+works, learn ethical AI practices, and use district-provided AI tools responsibly to enhance learning.
+
+Summary of Staff/District Rights & Responsibilities (excerpt)
+Source: PDF page 2 (table rows) [graphic]
+
+[graphic] Equity and Accessibility for All: Staff and the District are committed to ensuring equity and
+accessibility by using district-approved AI tools that protect personal information, are monitored for
+student usage, and create adaptable learning paths for diverse needs.
+
+[graphic] Privacy and Ethical Use: Staff and the District are committed to maintaining privacy and
+ethical AI use by maintaining privacy and ethical AI use by disclosing applications, safeguarding
+data, and addressing emerging challenges to support teaching and learning.
+
+Student Rights: The Right to Privacy and Ethical Use
+Source: PDF page 3
+
+• Students have the right to protect their personal data and creative works from unauthorized AI
+  training or exploitation while using district-provided AI tools.
+• Students have the right to learn how to protect their personal information, which emphasizes
+  ethical AI use.
+
+Staff/District Rights: Privacy and Ethical Use (excerpt)
+Source: PDF page 5
+
+• Staff have the right to data privacy and control over how AI interacts with their personal and
+  professional information in the same way as any other district-provided tool.
+
+Staff/District Responsibilities (excerpt)
+Source: PDF page 6
+
+• Staff will only use district-approved AI tools, ensuring the protection of personal information
+• Staff will avoid the use of AI tools that have not been vetted and approved by the District to
+  protect student privacy and guard against bias.
+• The District will maintain systems addressing emerging AI-related challenges, including, but not
+  limited to, student misuse, data privacy concerns, and maintaining academic integrity.
+

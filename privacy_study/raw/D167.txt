@@ -1,0 +1,62 @@
+PDF EXCERPT PAGE 1
+Taliaferro County School District AI Use Policies
+  (Draft): Data and Student Privacy Passages
+Excerpted verbatim from AI Use Policies for Educators and Students (Draft March 2024, Taliaferro County School District,
+Georgia). The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text. The source is a
+web page containing two draft policies, one for educators and one for students.
+
+
+AI Use Policy for K-12 Educators: Policy Statement (excerpt)
+Source: web page, 'AI Policy for Educators'
+
+This policy outlines the acceptable and unacceptable uses of AI in our K-12 educational
+environment. Our goal is to harness AI's potential to enhance educational outcomes while
+safeguarding our students' privacy, security, and well-being.
+
+Inappropriate Uses of AI in Education: Violating Privacy and Data
+Security
+Source: web page, 'AI Policy for Educators'
+
+AI must not be used to collect, store, or analyze student data without explicit consent and a clear
+educational purpose. It is inappropriate to use AI tools that infringe on students' privacy rights or fail
+to comply with data protection laws (e.g., FERPA, COPPA).
+
+Educators: Conclusion (excerpt)
+Source: web page, 'AI Policy for Educators'
+
+AI presents significant opportunities for enhancing K-12 education but must be used with careful
+consideration to ethical, privacy, and educational standards.
+
+AI Use Policy for Students: Purpose (excerpt)
+Source: web page, 'AI Policy for Students'
+
+The aim is to ensure that students engage with AI technologies responsibly, ethically, and effectively
+to enhance their learning experiences while safeguarding their privacy and well-being.
+
+Responsible AI Use: Ethical Conduct (excerpt)
+Source: web page, 'AI Policy for Students'
+
+Students are expected to use AI technologies ethically, respecting copyright laws, privacy norms,
+and the intellectual property rights of others.
+
+Responsible AI Use: Privacy and Data Protection
+Source: web page, 'AI Policy for Students'
+
+Students must be cautious when interacting with AI tools that require personal information. Sharing
+sensitive or personal data without proper authorization or oversight is prohibited. Students should
+understand the risks and implications of data sharing and seek guidance from teachers when
+necessary.
+
+PDF EXCERPT PAGE 2
+Responsible AI Use: Safety and Security (excerpt)
+Source: web page, 'AI Policy for Students'
+
+They should immediately report any security breaches, suspicious activities, or exposure to
+inappropriate content encountered during AI use to school authorities.
+
+Monitoring and Compliance (excerpt)
+Source: web page, 'AI Policy for Students'
+
+The school will monitor the use of AI technologies to ensure compliance with this policy. Monitoring
+will be conducted in an ethical manner, respecting the privacy and rights of students.
+

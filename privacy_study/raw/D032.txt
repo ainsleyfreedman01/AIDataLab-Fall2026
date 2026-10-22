@@ -1,0 +1,155 @@
+PDF EXCERPT PAGE 1
+        Campbell County SD1 Technology Policies
+         7100/7100-R: Data and Student Privacy
+                       Passages
+Excerpted verbatim from Technology Policies 7100/7100-R, including AI platforms, and Student Use of Electronic and
+Recording Devices 5330 (Campbell County School District 1, Wyoming; web page). The source has no page numbers;
+locations are given by section. Ellipses (…) mark omitted text. The source is a web page that combines several policies and
+regulations. The legal-reference line appears under each policy and is quoted once.
+
+
+Technology 7100: Definitions (excerpt)
+Source: web page, section 'Technology - 7100'
+
+COPPA (Children's Online Privacy Protection Act): A law created to protect the privacy of children
+under 13.
+
+CIPA (Children's Internet Protection Act): A law requiring K-12 schools and libraries in the United
+States to use Internet filters and implement other measures to protect children from harmful online
+content as a condition for federal funding.
+
+Technology 7100: Legal References (excerpt)
+Source: web page, section 'Technology - 7100'
+
+LEGAL REFERENCE(S): Children's Online Privacy Protection Act (COPPA), Children’s Internet
+Protection Act, 47 U.S.C. §254 (CIPA); The Family Educational Rights and Privacy Act (FERPA) (20
+U.S.C. § 1232g; 34 CFR Part 99) and International Standards Organization (ISO 27002).
+
+Student Resource Access: Accounts, Approved Apps and AI
+Platforms (Section 1)
+Source: web page, section 'Student Resource Access - Section 1'
+
+Every student will be provided a username and password, providing access to Google Services.
+
+A list of District approved Apps for Google, Apple, and Chromebook devices are available for review
+at the educational technology department.
+
+Schoology is the District’s Learning Management System … All students will have an account with a
+username and password. Internal communication will be managed to allow students and guardians
+to communicate with the classroom teacher but not with other members of the system.
+
+The District permits students to use approved Artificial Intelligence (AI) tools to enhance learning
+and practice skills, not to replace the student’s own effort or critical thinking. All AI tools must be
+age-appropriate and used under the guidance of a teacher. To protect student privacy, only AI tools
+that have been officially vetted and approved, which guarantee that student data is not used to train
+the AI mode and comply with all applicable privacy laws (e.g. FERPA, COPPA) may be used.
+
+PDF EXCERPT PAGE 2
+Filtering and Monitoring: Expectation of Privacy (Section 2)
+Source: web page, section 'Filtering and Monitoring - Section 2'
+
+At any time and without prior notice, Campbell County School District (CCSD) reserves the right to
+monitor, inspect, copy, review, and store any and all usage of technology devices, digital resources,
+and network infrastructure, along with information technology and any information sent or received
+in connection with this usage. Staff and students should not have any expectation of privacy
+regarding such materials.
+
+Filtering and Monitoring: Monitoring (Section 2)
+Source: web page, section 'Filtering and Monitoring - Section 2'
+
+The District monitors the use of its network to protect the integrity and optimal operation of all
+computer and system networks. There is no expectation of privacy related to information stored and
+transmitted over the District network. The information on the network in general files and email is not
+private and is subject to review.
+
+Technicians and computer system administrators have full access rights to the storage devices they
+manage as part of their duties. Routine maintenance and monitoring of the system could lead to the
+discovery that a user has or is violating District policies, state laws, or federal laws. Search of
+particular files of a user could be conducted if there was reasonable suspicion that a user has
+violated the law or Campbell County School District policies.
+
+Technology Acceptable Use: Unacceptable Uses of Technology
+Resources (excerpt, Section 3)
+Source: web page, section 'Technology Acceptable Use - Section 3'
+
+• Harassing, insulting, or bullying others; or sexual harassment posting of private or personal
+  information about another person (See Policy 4374, Title IX Sexual Harassment; and Policy 5276
+  and Administrative Regulation 5276-R, Bullying);
+• “Hacking” or unauthorized access in an attempt to gain access to restricted files, other devices,
+  or computer systems;
+• Accessing, modifying, or deleting digital information that belongs to others;
+
+Technology Acceptable Use: Digital Citizenship (excerpt, Section 3)
+Source: web page, section 'Technology Acceptable Use - Section 3'
+
+• Student users will not reveal personal addresses, phone numbers, or any other personal
+  information, for themselves or others.
+• Staff users will not reveal personal addresses, phone numbers, or any other personal
+  information, for students, or colleagues.
+• Users will not give their username or password to any other person, or use the username or
+  password of someone else to access any part of the system.
+
+PDF EXCERPT PAGE 3
+Technology Acceptable Use: Digital-Age Communication and
+Collaboration Tools (excerpt, Section 3)
+Source: web page, section 'Technology Acceptable Use - Section 3'
+
+Digital-age communication and collaboration tools are not guaranteed to be private.
+
+Inappropriate use of communication and collaboration tools includes but is not limited to:
+
+• Violations or other’s privacy;
+
+Technology Acceptable Use: Student Password Requirements
+(Section 3)
+Source: web page, section 'Technology Acceptable Use - Section 3'
+
+As part of Digital Citizenship training, student password requirements will be as follows:
+
+• Grades JK-6 – Passwords will be established and managed by the District.
+• Grades 7-8 – Passwords can be created by students with District support
+• Grades 9-12 – Passwords are required to be changed by students annually
+
+Student Images and Products for Educational Use (Section 3)
+Source: web page, section 'Technology Acceptable Use - Section 3'
+
+The District through the use of technology provides students with enriching and innovative
+opportunities. As the audience we communicate with expands, students may have the opportunity
+to have their photograph, video, recording, and/or student digital projects shared or published on
+websites and other media, or through the District.
+
+Unless otherwise noted in Student Policy 5147-Student Records, the following will apply:
+
+• No portrait style photographs or photographs containing personal identifiers will be allowed.
+• Students’ last names are never published.
+• Students’ home addresses, email addresses, or phone numbers are never published.
+
+Student Use of Electronic and Recording Devices 5330: Expectation
+of Privacy
+Source: web page, section 'Student Use of Electronic and Recording Devices - 5330'
+
+Taking photos or making audio or video recordings without permission in any context in which the
+person has a reasonable expectation of privacy such as private offices, restrooms, changing rooms,
+labs, classrooms, and conference rooms is prohibited. Only persons authorized by the building
+administrator will be allowed to photograph or record in restricted areas for specific purposes. These
+persons might include media or yearbook photojournalists.
+
+It is also not acceptable to publish pictures or recordings taken in an inappropriate situation or
+generated using AI or other electronic platforms. In other words, a picture or recording taken under
+prohibited conditions is also prohibited from being published. This includes pictures taken off district
+property and brought to the district for distribution. Transmission on the Internet constitutes
+publication. … The use of electronic devices to transmit or record images or conversations without
+
+PDF EXCERPT PAGE 4
+explicit permission and acknowledgment of all parties is prohibited. Exceptions for law enforcement
+purposes may be granted. Any other exceptions must comply with applicable policies and laws and
+be approved by the Superintendent or designee.
+
+Student Use of Electronic and Recording Devices 5330: Use in
+Classes, Exams, and Meetings (excerpt)
+Source: web page, section 'Student Use of Electronic and Recording Devices - 5330'
+
+Written permission must be obtained prior to recording or transmitting someone's image or speech
+over the airwaves, on the web, as part of a class assignment, or any district-sponsored activity or
+program.
+

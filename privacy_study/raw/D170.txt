@@ -1,0 +1,43 @@
+PDF EXCERPT PAGE 1
+Union County (KY) About Digital Classrooms: AI
+    in Education: Data and Student Privacy
+                   Passages
+Excerpted verbatim from About Digital Classrooms - AI in Education (Union County Public Schools, Kentucky). The source
+has no page numbers; locations are given by section. Ellipses (…) mark omitted text. This is a web page that mostly
+describes Chromebooks and AI benefits; only security and student-data passages are included, as brief excerpts.
+
+
+What are Chromebooks? Cloud-Centric Storage and Enhanced
+Security (excerpt)
+Source: web page, section 'What are Chromebooks?'
+
+Cloud-Centric Storage:
+Google provides 100 GB of cloud storage with each Chromebook, which ensures that files are
+securely stored and accessible from any internet-connected device. This approach minimizes the
+risk of data loss and simplifies access to work across different devices.
+
+Enhanced Security:
+Chrome OS is built with multiple layers of security, including automatic updates and sandboxing,
+which isolates apps and processes to prevent malware from spreading. These features make
+Chromebooks a secure option for handling sensitive information and performing online tasks.
+
+Regular Updates:
+Chrome OS is updated automatically, ensuring that users benefit from the latest features and
+security improvements without needing to perform manual upgrades.
+
+The Role of Artificial Intelligence in Education: Use of Student Data
+(excerpt)
+Source: web page, section 'Impact on Students' and 'Impact on Teachers'
+
+Personalized Learning:
+AI enables personalized learning experiences by analyzing individual student data to tailor
+educational content and assessments to their unique needs and learning styles.
+
+Data-Driven Insights:
+AI tools can analyze large volumes of data to provide insights into student performance and learning
+patterns.
+
+Predictive Analytics:
+AI can use predictive analytics to forecast student outcomes and identify potential issues before
+they arise.
+

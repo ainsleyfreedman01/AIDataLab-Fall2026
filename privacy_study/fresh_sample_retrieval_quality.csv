@@ -1,0 +1,4 @@
+"category","sample_documents","sampled_paragraphs","true_positive","false_positive","false_negative","uncertain_pairs","precision","recall","reference"
+"model_training",6,81,1,0,0,0,1,1,"provisional_AI_full_read_labels_not_human_gold"
+"sharing_secondary_use",6,81,3,7,0,1,0.3,1,"provisional_AI_full_read_labels_not_human_gold"
+"retention_deletion",6,81,3,0,0,0,1,1,"provisional_AI_full_read_labels_not_human_gold"

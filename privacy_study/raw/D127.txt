@@ -1,0 +1,20 @@
+PDF EXCERPT PAGE 1
+New Jersey AI in Education Web Page: Data and
+          Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence in Education (New Jersey Department of Education, web page). The source
+has no page numbers; locations are given by section. Source is a state web page. The page contains only passing
+privacy-related content.
+
+
+AI in K-12 Educational Settings (excerpt)
+Source: web page, overview
+
+Predictive AI, from “predict”, analyzes patterns in data to identify trends, risks, or likely outcomes
+(e.g., attendance or engagement indicators).
+
+Build Foundational AI Literacy (excerpt)
+Source: web page, principles
+
+Before using AI tools, students should understand how AI works and recognize its opportunities,
+risks, and limitations.
+

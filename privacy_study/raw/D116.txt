@@ -1,0 +1,155 @@
+PDF EXCERPT PAGE 1
+Missouri AI Guidance: Data and Student Privacy
+                  Passages
+Excerpted verbatim from Artificial Intelligence Guidance for Local Education Agencies, Version 1.0, 2025-26 (Missouri
+Department of Elementary and Secondary Education). Page numbers match the document's own page numbering. Ellipses
+(…) mark omitted text. The PDF's text layer has doubled letters in many lines, so passages marked [graphic] were
+transcribed from the rendered pages rather than from the extracted text.
+
+
+Introduction (excerpt)
+Source: page 5
+
+… manner that enhances teaching and learning while maintaining student safety, data privacy, and
+academic integrity.
+
+… professional development, instructional best practices, data privacy, and policy development.
+
+Introduction (excerpt)
+Source: page 6
+
+This guidance enhances existing policies on technology use, data protection, academic integrity,
+and student support.
+
+Challenges and Benefits of AI in Education (excerpt)
+Source: page 8 [graphic]
+
+[graphic] With that comes concerns about equity, data privacy, and the potential for over-reliance on
+technology.
+
+Building-level (Schools and Administrators), Challenges (excerpt)
+Source: page 9
+
+• AI may violate copyright and intellectual property laws. Additionally, AI models often process
+  sensitive data, raising concerns about compliance with regulations of Europe's General Data
+  Protection Regulation (GDPR) or the Health Insurance Portability and Accountability Act
+  (HIPAA).
+
+District-Level (Leadership and Policy), Challenges
+Source: pages 9–10 [graphic]
+
+[graphic] Data privacy is a significant concern considering advancements in computer science and
+AI. To maintain the privacy and security of student data, the following actions must be considered:
+
+• Evaluate the security protocols of the AI system, including encryption, authentication, and
+  authorization processes, to safeguard against data breaches and cyber threats. There are
+  various national organizations that have information on specific AI systems privacy and security
+  standards.
+• Define clearly what constitutes personally identifiable information for students, educators, and
+  schools and remind users that this information should not be used with generative AI tools.
+
+PDF EXCERPT PAGE 2
+• Provide all users explicit training on protecting data privacy, including reminders of what qualifies
+  as personally identifiable information.
+• Avoid including identifiable student information when entering data into AI systems.
+• Obtain explicit parental/guardian permission for students under 18, ensuring that
+  parents/guardians are fully informed about the nature, capabilities, and limitations of the AI
+  technology, as well as the data privacy and security measures in place.
+• Many generative AI tools have age restrictions on usage, usually on students under the age of
+  13.
+• [graphic] Free tools often come with tradeoffs in regard to privacy, security, and safety of your
+  data. Know those risks before you log on.
+
+Addressing Common Challenges: Data Privacy
+Source: page 11
+
+• Data Privacy
+• Concern: Educators have concerns over how student data is collected, stored, and used by AI
+  systems, raising privacy and security issues.
+• Response: Educators must teach students to be cautious about the information that they include
+  in their prompts. Prompts should never contain personal data. It is also important that educators
+  are aware of the age restrictions and data policies of any AI tools that they use with students.
+• Response: On the LEA level, LEAs should not allow their data or information to be used to train
+  the vendor’s models. This can be negotiated with the vendor. Know how your data will be used.
+  Guardrails can be in place to keep your data safe. Guardrails are protocols and tools used to
+  make sure AI systems operate within legal and technical boundaries.
+
+Best Practices for Implementing AI in Education: Responsible
+Implementation (excerpt)
+Source: page 12 [graphic]
+
+[graphic] When leveraging AI, ensure data privacy compliance, data retention, and robust security
+measures to protect student information.
+
+Human Oversight (excerpt)
+Source: page 14
+
+• Monitor student interaction with AI: Educators should observe and monitor how students
+  interact with AI, in addition to evaluating AI results.
+
+AI Policies: Regulations
+Source: page 17
+
+[graphic] Several regulations are relevant to the use of AI:
+
+• Family Educational Rights and Privacy Act (FERPA) — AI systems must protect the privacy of
+  student education records and comply with parental consent requirements.
+
+PDF EXCERPT PAGE 3
+• Children’s Online Privacy Protection Act (COPPA) — AI chatbots, personalized learning
+  platforms, and other technologies collecting data on children under age 13 must adhere to
+  COPPA.
+• Children’s Internet Protection Act (CIPA) — Schools must ensure that AI content filters align with
+  CIPA protections against harmful content.
+
+AI Policies: Data Privacy
+Source: pages 17–18 [graphic]
+
+[graphic] Data privacy is a significant concern when considering advancements in computer science
+and AI. To maintain the privacy and security of student data, the following actions must be
+considered:
+
+• Evaluate the security protocols of the AI system, including encryption, authentication, and
+  authorization processes, to safeguard against data breaches and cyber threats.
+• Define clearly what constitutes personally identifiable information for students, educators, and
+  schools and remind users that this information should not be used with generative AI tools.
+• Provide all users explicit training on protecting data privacy, including reminders of what qualifies
+  as personally identifiable information.
+• Avoid including identifiable student information when entering data into AI systems.
+• Obtain explicit parental/guardian permission for students under 18, ensuring that
+  parents/guardians are fully informed about the nature, capabilities, and limitations of the AI
+  technology, as well as the data privacy and security measures in place.
+• [graphic] Many AI services assert that they safeguard your data or do not gather it, yet it is wise
+  for your organization to verify if these safeguards exist. Generally, it is more reliable to believe
+  the promises of larger or reputable AI tools like ChatGPT, Copilot, or Gemini, rather than an
+  unknown tool discovered on the internet.
+
+Cyclical Process (excerpt)
+Source: page 18 [graphic]
+
+[graphic] As AI technology rapidly evolves, regularly reviewing and updating policies allows LEAs to
+integrate the latest advancements, manage potential risks like bias and privacy concerns, and
+remain compliant with evolving regulations.
+
+PDF EXCERPT PAGE 4
+Procurement
+Source: page 18 [graphic]
+
+[graphic] When procuring AI tools for education, ensure that all purchases align with defined
+educational goals that support teaching, learning, and equitable student outcomes. Privacy and
+ethics must be prioritized by selecting vendors that comply with data security standards and ethical
+guidelines for AI use in schools. AI tools must align with all state and federal data privacy laws.
+Evaluating AI vendors' security protocols and policies will help to protect students and educators.
+Engaging stakeholders in the procurement process ensures the tools meet diverse needs and
+address potential concerns. Including teachers will ensure buy-in and use within the classroom.
+Informational technologists should always play a part in procurement to maintain data security
+standards and guidelines. Develop a pilot testing protocol for introducing new AI platforms or
+AI-integrated products. Ongoing monitoring of AI systems is vital to assess effectiveness and
+maintain compliance with evolving regulations.
+
+Productivity and Efficiency (excerpt)
+Source: page 19 [graphic]
+
+[graphic] As security remains a paramount concern, care must be taken to safeguard sensitive
+student information through advanced data protection protocols.
+

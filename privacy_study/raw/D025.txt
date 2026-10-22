@@ -1,0 +1,357 @@
+PDF EXCERPT PAGE 1
+        Broward Powered by AI Website: Data and
+               Student Privacy Passages
+Excerpted verbatim from Broward Powered by AI (Broward County Public Schools, browardschools.ai, web page content as
+captured Sept. 2026). The source has no page numbers; locations are given by section. This is a web page (a multi-section
+district hub site), so no page numbers are given; each passage is labelled with the site section it comes from. Ellipses (…)
+mark omitted text. Repeated material (the same data-privacy and no-model-training statements recur in several sections) is
+quoted once or in the most complete form.
+
+
+Landing Page Introduction (excerpt)
+Source: web page, header / landing section
+
+See how BCPS uses AI responsibly across teaching, learning, and operations: real governance,
+clear transparency, human oversight at every step, and strong protections for student data, all
+backed by public evidence you can check.
+
+Recent Updates: Board Action on AI Policy (excerpt)
+Source: web page, section 'What's new'
+
+The School Board adopted the District’s Artificial Intelligence Policy on September 15, with
+guardrails for student and staff data, teacher control of classroom AI use, and real-time safety
+monitoring on every student-facing tool.
+
+Our Principles: Artificial Intelligence Leadership Framework (excerpt)
+Source: web page, section 'Our approach' (AILF 1)
+
+AILF 1 AI for Ethical and Responsible Leadership
+Safeguards: protect student and staff data privacy in all AI applications; …
+
+Approved Tools: Only Reviewed, District-Approved Tools
+Source: web page, section 'Approved tools'
+
+Broward uses an approved-tools-only model. Student and staff information is never entered into
+tools that have not been reviewed. Each approved tool clears privacy, security, and accessibility
+review first.
+
+Microsoft Copilot (tool card)
+• An AI assistant inside the district's protected Microsoft environment, with enterprise data
+  protection enabled.
+• Enterprise data protection enabled
+• Not used to train public AI models on school data
+MagicSchool AI (tool card)
+• Student data is never used to train AI models, and the district owns all of it
+How a tool gets approved
+Every tool passes the same review before it reaches a classroom.
+
+PDF EXCERPT PAGE 2
+• Privacy review Signed data privacy agreement, FERPA check, and an independent privacy
+  rating.
+• Security review Independent security audit, encryption, and breach-notification terms.
+Student-facing tools are also stress-tested before students use them. The District's testing rubric
+scores how a tool refuses unsafe requests, redirects students to safe alternatives, keeps a
+conversation from being steered off course, protects privacy, and flags concerns for adult review.
+
+Family Guide & FAQ: Our Commitment and What We Know Today
+(excerpt)
+Source: web page, section 'Family Guide & Frequently Asked Questions'
+
+Student privacy, safety, transparency, and accountability remain district priorities.
+
+Our goal is to prepare students for the future while protecting safety, privacy, human relationships,
+and meaningful learning experiences.
+
+Student privacy, safety, transparency, and accountability are district priorities.
+
+Approved district tools are different from open public tools such as ChatGPT or Google Artificial
+Intelligence features. Open public tools are not approved by the district for student-facing
+instructional use.
+
+Based on current district requirements and practices, student information entered into approved
+tools must remain within the Broward County Public Schools environment; student information is not
+used to train district-approved Artificial Intelligence models.
+
+Approved Tool Snapshot: Open Public Tools (excerpt)
+Source: web page, FAQ section, 'Approved tool snapshot' table row
+
+The district is reviewing controls for access to open public tools on school-issued devices, including
+devices used on non-school networks.
+
+Frequently Asked Questions: Privacy, Data, and Monitoring
+(excerpts)
+Source: web page, FAQ section, questions 9, 18-23, 29, 32, 43, 48-50, 54, 60-63, 71, 74
+
+9. How are teachers trained?
+… Specific to Artificial Intelligence, current and planned training includes responsible use, ethics,
+privacy, instructional best practices, human oversight, and guidance on when Artificial Intelligence
+should and should not be used.
+
+18. How are Artificial Intelligence tools selected and approved?
+District-approved tools are reviewed for instructional value, privacy, safety, accessibility, age
+appropriateness, teacher training needs, responsible use, and alignment with district goals.
+
+19. What are real-time threat detection and real-time moderation?
+Real-time threat detection means a tool can alert adults quickly if a student interaction includes
+serious concerns such as self-harm or threats to others. Real-time moderation means the tool
+
+PDF EXCERPT PAGE 3
+redirects or stops conversations that move into unsafe, inappropriate, or overly personal areas.
+
+20. Who receives student safety alerts?
+For approved student-facing tools, teachers receive alerts when a serious threat is detected.
+Depending on the level of concern, the alert may also be escalated to administrators and other
+trained personnel.
+
+21. How is student information protected?
+The district reviews approved tools for privacy and security requirements. Relevant protections
+include the Family Educational Rights and Privacy Act (FERPA), the Children’s Online Privacy
+Protection Act (COPPA), and the Protection of Pupil Rights Amendment (PPRA). Florida protects
+K-12 student data through the Student Online Personal Information Protection Act (Florida
+SOPIPA), State Board of Education Rule 6A-1.09550, and the Florida Information Protection Act
+(FIPA). Student information in approved tools stays within the Broward County Public Schools
+environment and is not used to train Artificial Intelligence.
+
+22. Do student interactions train the Artificial Intelligence models?
+No. Under current district requirements, approved Broward County Public Schools tools must not
+use our students’ interactions to train Artificial Intelligence models.
+
+23. Are ChatGPT, Google AI, or other open tools used?
+Open public tools such as ChatGPT and Google Artificial Intelligence features are not approved by
+Broward County Public Schools as student-facing instructional tools. They may still be accessible
+outside district-controlled settings. The district is reviewing controls for open public tools on
+school-issued devices, including devices used on home networks. Access may be more difficult to
+control when students use devices on home networks. Families are encouraged to remind students
+to use only teacher-directed, district-approved tools for schoolwork and to discuss safe, responsible
+technology use at home.
+
+29. Will students be taught about the risks and limits of Artificial Intelligence?
+… This includes checking accuracy, avoiding overreliance, protecting privacy, using tools ethically,
+and verifying generated information.
+
+32. What would cause the district to stop using a tool?
+… If evidence and data show that a tool does not support district goals, improve learning, protect
+students, or meet safety and privacy requirements, the district reconsiders, adjusts, replaces,
+suspends, or discontinues its use.
+
+43. Are teachers being trained to use Artificial Intelligence responsibly and effectively?
+Yes. The district is providing professional learning focused on responsible use, privacy, safety,
+instructional quality, and human oversight. …
+
+48. Do students use their own district login when accessing approved Artificial Intelligence
+tools?
+Approved tools are made available through the student access portal, known as Clever. Students
+can access only the tools available for their grade level and instructional setting. Some features
+
+PDF EXCERPT PAGE 4
+must also be assigned or enabled by a teacher.
+
+49. Is a student’s work in MagicStudent private?
+MagicStudent is not currently available to Broward County Public Schools students. Information
+entered into approved tools stays within the district environment and is not used to train Artificial
+Intelligence models. Approved tools allow authorized teachers or administrators to review student
+activity for instruction, safety, and appropriate use.
+
+50. Are students’ Individualized Education Programs (IEP) entered into MagicSchool?
+At this time, details from a student’s Individualized Education Program are not automatically loaded
+into MagicSchool. The district currently has this feature turned off. The district team is reviewing
+features and processes to ensure that, if activated, the feature will align with district and state
+standards and follow Broward County Public Schools privacy requirements.
+
+54. How will the district respond if state law requires parent permission before students use
+Artificial Intelligence?
+The district will follow any final legal and policy requirements. The Broward Powered by AI site is
+intended to provide parent notices, available choices, contacts, and updates. Because requirements
+may change, families will receive clear information before any student-facing Artificial Intelligence
+tool is introduced. …
+
+60. Do approved Artificial Intelligence tools allow adults to review what students enter, and
+who can see it?
+Approved student-facing tools include monitoring, moderation, and flagging features. Teachers
+oversee student use, and safety concerns are shared with appropriate school administrators. The
+exact level of visibility depends on the tool and the educational or safety purpose. Student
+information is protected, remains within the district environment, and is shared only with authorized
+staff who need it.
+
+61. Can parents review their child’s prompts and work in approved Artificial Intelligence
+tools?
+As with other student work, parents may ask the teacher or school to explain how a tool is being
+used and may ask questions about their child’s work.
+
+62. Will parents need to give permission before schools use Artificial Intelligence with their
+child?
+The district will follow final state law, School Board policy, and district procedures. Current family
+resources are designed to provide notice, available choices, contacts, and updates. Because
+requirements may change, families will receive clear information before a student-facing tool is
+introduced. …
+
+63. Who trains the Artificial Intelligence systems used by Broward County Public Schools?
+Artificial Intelligence models are developed and trained by vendors using large data sets before the
+district approves them. Broward County Public Schools reviews tools for privacy, safety,
+accessibility, reliability, and instructional value. District-approved tools do not use Broward County
+Public Schools students or their data to train Artificial Intelligence models.
+
+PDF EXCERPT PAGE 5
+71. Will students learn how Artificial Intelligence works, including generative Artificial
+Intelligence and Artificial Intelligence agents, rather than only learning how to use it as a
+productivity tool?
+… Through age-appropriate activities, students learn about patterns, data, predictions, checking
+information, privacy, fairness, and how technology can help solve problems. …
+
+74. How does Broward County Public Schools help ensure that Artificial Intelligence
+image-generation tools are safe for students?
+… As with all district-approved Artificial Intelligence tools, human oversight, transparency, privacy,
+and age-appropriate use remain essential expectations.
+
+Myths vs. Facts (excerpt)
+Source: web page, FAQ section, 'Myths vs. facts'
+
+Myth: Student data is used to train district-approved Artificial Intelligence tools.
+Under current district requirements, student information in approved tools must remain within the
+Broward County Public Schools environment and cannot be used to train Artificial Intelligence
+models.
+
+Myth: The district is relying only on vendors to decide whether tools are safe.
+The district reviews student-facing tools for instructional value, privacy, safety, and other
+requirements, and performs its own rigorous vetting process, including adversarial prompting,
+real-time threat detection, and real-time moderation for student-facing tools.
+
+School Board Resolution No. 26-132 (excerpt)
+Source: web page, Resolution text (March 10, 2026)
+
+WHEREAS, SBBC is committed to leveraging AI to personalize instruction, streamline educational
+practices, and prepare students for the demands of a technology-driven world, while safeguarding
+privacy, closing the digital divide, promoting digital citizenship, and expanding opportunities for
+critical thinking and innovation; and
+
+WHEREAS, SBBC is committed to ensuring that AI technologies are implemented with appropriate
+human oversight and in accordance with ethical guidelines to safeguard against plagiarism, bias,
+and misuse of AI in academic work, and to protect students' and educators' data privacy; and
+
+AI Literacy: What Students Learn (excerpt)
+Source: web page, section 'AI literacy' (grade-band list)
+
+High
+• Judge AI against fairness, transparency, accountability, and privacy.
+
+Family AI Toolkit (excerpt)
+Source: web page, section 'AI literacy' (Family AI Toolkit)
+
+• Protect privacy No names, addresses, or photos go into AI tools.
+
+PDF EXCERPT PAGE 6
+AI Liaisons and AI in the Classroom: For Parents and Guardians
+(excerpt)
+Source: web page, section 'AI in the Classroom: for teachers and students'
+
+Your responsibilities
+• Protect privacy: don't share personal information with AI tools
+Your rights (excerpt)
+• Opportunities to opt in or out where applicable
+
+Parent Resources: How Student Data Is Protected
+Source: web page, section 'Parent Resources'
+
+The protections behind every AI decision. Read the plain-language answer first, then open the full
+document. The School Board of Broward County adopted the District’s Artificial Intelligence Policy,
+Policy 7540.08, at its September 15, 2026 meeting.
+
+… It ensures AI is used responsibly and ethically, with guardrails in place to protect student and
+staff data, and includes provisions to ensure teachers control how AI is used in their classrooms and
+that parents are informed and given agency in how their children learn and use AI. Of particular note
+is the guarantee that all student-facing generative AI tools need to provide real-time threat detection,
+escalation, and moderation, …
+
+Sample answers for layout. Final wording to be confirmed by BCPS legal and data governance,
+including any Florida-specific privacy law.
+
+What information is collected, and why?
+Approved tools collect only what is needed to deliver the educational service. Information is used for
+that purpose alone, not for advertising or any unrelated commercial use.
+
+Where is data stored, and who has access?
+Data stays within the district's protected systems and approved vendor environments governed by
+data privacy agreements. Access is limited by role to the staff who need it for instruction and
+support.
+
+Can AI train on my child's information?
+No. Approved tools are configured so student and staff information is not used to train public AI
+models. This is a condition of approval for every tool listed on this site.
+
+What are my rights as a parent?
+Parents have the right to know what AI tools are being used in their child's education and how they
+are being used, and to request that their child be excluded from the use of AI where practicable.
+Under FERPA you may also inspect and review your child's education records and request
+corrections; under PPRA, certain surveys require notice and the chance to opt out.
+
+How are tools checked before students use them?
+All student-facing tools are subjected to a rigorous review process to ensure they include
+protections beyond the already stringent BCPS data privacy and security provisions. Each tool must
+
+PDF EXCERPT PAGE 7
+demonstrate real-time threat detection and moderation, with immediate notification to teachers and
+administrators of any inappropriate usage. Vendors also sign data privacy agreements and must
+meet COPPA requirements for younger students; approved tools may not sell student data or use it
+for targeted advertising.
+
+The laws that protect your child
+• FERPA Federal law giving parents rights over education records and control of personal
+  information.
+• COPPA Federal rule protecting the online data of children under 13. Vendors must comply.
+• PPRA Requires notice and opt-out for certain surveys on sensitive topics.
+• State privacy law Limits how education vendors use student data, including a ban on selling it.
+Your choices
+Questions and opt-out
+Families can ask how AI is used in their child's classroom and learn about available choices.
+
+Family Forum #1: What the Forum Covered (excerpt)
+Source: web page, Community Engagement, 'Family Forum #1 — July 29, 2026'
+
+Before an AI tool can be used with students, it must pass extensive privacy, security, moderation,
+and safety reviews. District leaders shared that approved tools such as MagicSchool and
+MagicStudent have monitoring features, real-time safeguards, and meet student-privacy compliance
+requirements.
+
+Family Forum #2: Safety and Digital Citizenship (excerpt)
+Source: web page, Community Engagement, 'Family Forum #2 — August 27, 2026'
+
+Students learn to protect personal information, ask an adult before using unfamiliar technology,
+communicate respectfully, and check information before sharing it. Families can reinforce these
+habits through simple conversations at home.
+
+SPARK Initiative (excerpt)
+Source: web page, Recent Updates, 'Broward selected for Impact Florida's SPARK cadre'
+
+Through the program, district teams work on both policy governance and practice: developing or
+refining guidance on ethics, data privacy, procurement, academic integrity, and responsible use, …
+
+MagicSchool & MagicStudent Readiness, Safeguards, and
+Implementation (excerpt)
+Source: web page, section 'Accountability'
+
+The Division of Academics' response to School Board Agenda Item 1 concerns about MagicSchool
+AI, MagicStudent, student safety, data privacy, teacher control, parent transparency, training, and
+accountability.
+
+The evidence shows Broward County Public Schools has already established the core privacy,
+contractual, training, and oversight structures needed to proceed responsibly. …
+
+PDF EXCERPT PAGE 8
+Flagging is a separate, back-end administrative notification layer, with sensitivity configurable by the
+District. …
+
+Grounding Sources: Student Privacy Laws (excerpt)
+Source: web page, section 'How this was built'
+
+• Student Privacy laws FERPA, COPPA, PPRA, and state student data privacy statutes.
+• Student Data Privacy Consortium National Data Privacy Agreement and vendor review
+  practice.
+
+For Staff and Leaders: Role-Based Guidance (excerpt)
+Source: web page, section 'For staff and leaders'
+
+For clerical staff: DO NOT
+• Handle or store confidential data outside authorized systems
+For specialists and facilitators: DO NOT
+• Input confidential student, staff, or district data into unapproved tools
+

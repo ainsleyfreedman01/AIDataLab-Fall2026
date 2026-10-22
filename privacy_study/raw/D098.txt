@@ -1,0 +1,35 @@
+PDF EXCERPT PAGE 1
+           Long Beach USD AI Web Page: Data and
+                 Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence (AI) (Technology & Information Services, Long Beach Unified School District,
+California; web page). The source has no page numbers; locations are given by section. Ellipses (…) mark omitted text.
+This is a web page, so there are no page numbers. The age-appropriateness paragraph appears twice on the page (a short
+and a fuller version); only the fuller version is quoted.
+
+
+Guiding Principles: We protect safety, privacy and data
+confidentiality
+Source: web page, section 'Guiding Principles'
+
+We protect safety, privacy and data confidentiality. AI is one of many technologies used in our
+schools, and its use aligns with existing privacy and data confidentiality policies. We understand the
+risks of AI and take care to keep confidential student and employee data out of public models and to
+secure the use of AI within our environment.
+
+Responsible Use of AI (excerpt)
+Source: web page, section 'Responsible Use of AI'
+
+Staff are encouraged to explore, learn, and use AI tools in accordance with existing laws, District
+policies and guidelines. Each user bears the responsibility to ensure compliance with applicable
+laws and policies regarding data security and privacy. AI users are also responsible for reviewing all
+AI-generated output before use.
+
+Age appropriateness
+Source: web page, section 'Tips for Teachers / Tips for Students'
+
+In accordance with Federal CIPA and COPPA regulations, most common consumer-grade GenAI
+tools, such as ChatGPT and Google Gemini, are not suitable for use by students under age 13.
+Education-specific GenAI tools may be appropriate for use by students under age 13, subject to
+approval of the Chief Academic Officer and General Counsel, and/or their designees. … A list of
+authorized applications and tools will be provided on the LBUSD website.
+

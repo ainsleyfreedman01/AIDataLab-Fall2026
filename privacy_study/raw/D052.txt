@@ -1,0 +1,71 @@
+PDF EXCERPT PAGE 1
+      Daviess County AI Resource Page: Data and
+              Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence Resource Page (DCPS Tech Help, Daviess County Public Schools,
+Kentucky). The source has no page numbers; locations are given by section. This is a web page (a Google Sites resource
+page). Ellipses (…) mark omitted text.
+
+
+Short Version (excerpt)
+Source: web page, section 'Short Version'
+
+We maintain data privacy-controlled environments.
+
+DCPS Early Approach (excerpt)
+Source: web page, section 'DCPS Early Approach'
+
+The principle areas of focus we pulled from those early guidance documents centered on Alignment
+of the AI Model to Educators' Vision for Learning Safe and Effective Systems Algorithmic
+Discrimination Protections Data Privacy and Human Oversight
+
+Concerns and Dangers (excerpt)
+Source: web page, section 'Concerns and Dangers'
+
+We look into ethical considerations, the potential for academic dishonesty, the presence of bias in AI
+tools, and the crucial issue of student data privacy. By understanding these concerns, teachers, and
+administrators can make informed decisions about using AI responsibly and creating a safe and
+enriching learning environment for all students.
+
+Data Privacy
+Blog post: AI Tools and Student Data Privacy by Eric Curts in Control Alt Achieve: transforming
+education with technology posted on 13 March 2024
+
+AI Tools to Consider
+Source: web page, section 'AI Tools to Consider'
+
+The next sections are separated purposefully. It is important to understand why. As outlined above
+in the section on Concerns and Dangers, we have to remain mindful of sharing private student
+information, focus on instructional value, and only then, look for teacher productivity assistants.
+
+Contracted Provider: SchoolAI and Google Gemini
+SchoolAI is uniquely FERPA, COPPA, and SOC2 compliant. Data is processed in the US.
+Engineering and development staff are in-house and on-site.
+
+SchoolAI has contracted agreements with large language model providers such as OpenAI and
+Microsoft that ensure personal student data is not saved or used by third-parties to train or refine
+future models.
+
+SchoolAI does not sell student data and prohibits behavioral tracking.
+
+PDF EXCERPT PAGE 2
+Likewise, Google Gemini Education protects adult user data with the Google Workspace for
+Education's Terms of Service we already have. However, it is only available for adults for now. It will
+be available to students in the future as they develop transparency tools for school leaders and
+guardians.
+
+Approved by Terms of Service and Privacy Policy Provider:
+MagicSchool is available in our high schools based on the age of 13 for use only when a teacher
+provides the link.
+
+BriskAI is available in our high schools based on the age of 13 for use only when a teacher provides
+the link.
+
+Disclaimer: District technology leaders are not endorsing specific tools on the following lists. Please
+consider the rubric and data privacy factors previously mentioned.
+
+Now What? (excerpt)
+Source: web page, section 'Now What?'
+
+Don't be scared to use AI professionally and instructionally as long as you're protecting student
+data.
+

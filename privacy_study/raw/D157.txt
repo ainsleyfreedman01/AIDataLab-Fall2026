@@ -1,0 +1,30 @@
+PDF EXCERPT PAGE 1
+      SMUHSD Artificial Intelligence in Education:
+         Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence in Education (San Mateo Union High School District web page, updated May
+14, 2026). The source has no page numbers; locations are given by section. This is a district web page rather than a formal
+policy. Ellipses (…) mark omitted text.
+
+
+May 14, 2026 Update: Priorities for Summer/Fall 2026 (excerpt)
+Source: web page, section 'May 14, 2026 Update'
+
+• Establish Approved AI Tool List: Create and distribute an Approved AI Tool List to ensure all
+  platforms used in classrooms meet District standards for privacy, safety, and equity.
+
+Our Key Principles: Data Privacy (excerpt)
+Source: web page, section 'Our Key Principles'
+
+Data Privacy: Protecting the privacy of students and staff is paramount. We advise against inputting
+personally identifiable information (PII) into AI systems.
+
+Data Privacy and Security
+Source: web page, section 'Data Privacy and Security'
+
+Ensuring data privacy and security is paramount when using GenAI tools. It is essential to avoid
+inputting any personally identifiable information (PII) or confidential information into AI systems to
+safeguard privacy. This includes student and staff contact information, demographic information and
+rosters. By strictly adhering to this guideline, we can utilize GenAI technologies effectively while
+protecting the integrity of personal data, since we have no control over the data once it is in those
+systems.
+

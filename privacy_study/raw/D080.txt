@@ -1,0 +1,271 @@
+PDF EXCERPT PAGE 1
+    Houston ISD AI Guidebook: Data and Student
+                Privacy Passages
+Excerpted verbatim from Houston ISD AI Guidebook, Version 2 (Houston Independent School District, last updated January
+23, 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. Passages marked
+[graphic] were transcribed from multi-column or table layouts in the original that the text extraction jumbled.
+
+
+Introduction (excerpt)
+Source: page 3 [graphic]
+
+[graphic] By proactively addressing concerns around data privacy, academic integrity,
+age-appropriate access, and ethical AI development and use, the district aims to harness the
+benefits of this transformative technology while mitigating risks.
+
+[graphic] The district prioritizes the safety and security of our students and staff alongside the
+opportunity for engagement with technology of the future.
+
+Our “Why” and Future Aspirations: Opportunities (excerpt)
+Source: page 4 [graphic]
+
+• [graphic] Students below 8th grade will engage with generative AI Chatbots through teacher
+  modeling only. Furthermore, they can interact with educational tools with AI capabilities, such as
+  Amira or Microsoft Reading Coach
+• [graphic] Students 8th grade and above who have parental consent will engage with generative
+  AI Chatbots in both a Teacher-guided and/or supervised manner
+
+District Initiatives to Increase AI Literacy: FutureReady Cohort
+(excerpt)
+Source: page 5
+
+The training ensures all staff understand the district’s overall AI strategy and implementation ,
+covering critical areas such as defining GenAI, discussing its ethical implications, exploring use
+guidelines, and prioritizing safety and privacy concerns.
+
+Houston ISD Generative AI Guiding Principles: Focusing on Safety &
+Privacy
+Source: page 7 [graphic]
+
+[graphic] Focusing on Safety & Privacy
+
+[graphic] AI use must align with existing regulations to protect student data privacy, including federal
+laws such as the Family Educational Rights and Privacy Act (FERPA) and the Children’s Online
+Privacy Protection Act (COPPA). We will not share personally identifiable information with
+consumer-based AI systems and will ensure parental consent for student use.
+
+[graphic] To uphold evaluation, accountability, and transparency with generative AI, Houston ISD
+will implement clear processes to monitor and analyze AI outputs for accuracy, track AI usage data,
+and require proper disclosure when AI tools are leveraged for assignments or content creation.
+
+PDF EXCERPT PAGE 2
+Generative AI Use Guidelines for All Stakeholders
+Source: page 8 [graphic]
+
+[graphic] The following five core guidelines serve as mandatory standards that all stakeholders
+within the district, including faculty, staff, and students, must adhere to when engaging with
+generative AI platforms. These guidelines are essential safeguards designed to protect individual
+privacy, maintain data security, combat inaccuracy and bias, and uphold academic and professional
+integrity.
+
+[graphic] Five General Core Use Guidelines For All Stakeholders: Students and Staff
+[graphic] 01 Keep Data Private: Students and staff should use enterprise-level generative AI tools.
+If staff elect to use consumer-based AI platforms, staff should never input personal, sensitive or
+confidential data into any system.
+
+[graphic] 02 Ensure Parental Consent: Maintain awareness of age restrictions on generative AI
+tools, as some restrict usage to those 18 years of age and older, while others permit access from
+age 13 with parental consent. Ensure parental consent has been obtained and documented before
+using these tools.
+
+[graphic] 03 Use Secure Devices and Vetted Programs: Use secure devices when accessing AI
+tools. Make sure the device you are using is protected with the latest security updates, firewalls, and
+antivirus software. Furthermore, staff and students should use only approved generative AI tools
+and programs (See the list of approved programs on page 15).
+
+Generative AI Use Guidelines for Students (excerpt)
+Source: page 9 [graphic]
+
+[graphic] Students below 8th grade are prohibited from accessing generative AI tools on school
+devices or networks, with the exception of district approved educational tools that incorporate
+artificial intelligence technology (i.e. Amira Learning and Microsoft Reading Coach). Although
+teachers may choose to utilize GenAI tools in the classroom for instruction or demonstration
+purposes, students below 8th grade shall have no direct, unsupervised access to the technology on
+Houston ISD networks or devices.
+
+[graphic] Students 8th grade and above may access generative AI tools for approved educational
+purposes under the following conditions:
+
+• [graphic] Parental Consent: Parents/Guardians must provide written consent allowing their child
+  to access generative AI tools for educational use.
+• [graphic] Teacher Permission: The student must receive prior approval from their teacher
+  outlining the permitted educational task(s) for each use of generative AI.
+• [graphic] Responsible and Ethical Use: Students must use generative AI responsibly at all
+  times, adhering to all district technology usage policies.
+[graphic] I cannot… (8th grade and above)
+• [graphic] Access generative AI tools without parent/guardian consent and teacher approval for
+  each use.
+
+PDF EXCERPT PAGE 3
+• [graphic] Use generative AI in a way that violates data privacy, academic integrity, or district
+  policies.
+[graphic] Personal vs. School Use
+[graphic] Houston ISD reserves the right to monitor student use of generative AI on its devices and
+networks. Violations of district use guidelines, as outlined below, may result in disciplinary action.
+
+Student Use Guidelines: Safety & Responsible Use
+Source: page 11 [graphic]
+
+[graphic] Students must use generative AI tools in a safe, responsible manner that protects the
+privacy and well-being of themselves and others. Under no circumstances should students input
+personally identifiable information (PII) about themselves, classmates, teachers, or any other
+individuals into an AI system. This includes (but is not limited to):
+
+• [graphic] Full names
+• [graphic] Addresses
+• [graphic] Phone numbers
+• [graphic] ID numbers
+
+Generative AI Use Guidelines for Staff: Staff Use Guidelines (excerpt)
+Source: page 13 [graphic]
+
+[graphic] Supervise Student Access & Use
+• [graphic] Ensure students have obtained proper parental consent prior to providing students
+  access to district approved generative AI tools
+• [graphic] Monitor use frequently and address flags for inappropriate use (refer to guidance on
+  consequences in Student Table)
+[graphic] Prioritize Safety and Data Security
+• [graphic] Never enter personally identifiable information (PII) into an AI tool. The definition of
+  what constitutes PII can be found in Board Policy FL (Local).
+• [graphic] Review and comply with the district’s Acceptable Use Guidelines for all AI tools used in
+  the classroom
+• [graphic] Do not use unvetted AI tools without confirming FERPA and COPPA compliance
+• [graphic] Explicitly teach students to protect their own data privacy when using generative AI
+
+A Note on Approved AI Tools for Classroom and Instructional Use
+Source: page 14
+
+Teachers are prohibited from using any other generative AI tools directly with students unless the
+tool has gone through the district's vetting and approval process.
+
+The IT department will thoroughly vet the proposed tool for safety, privacy, accuracy, accessibility
+and alignment with curriculum standards before granting approval.
+
+[graphic] Staff Use of AI for Personal Productivity
+
+PDF EXCERPT PAGE 4
+However, staff are required to maintain rigorous privacy and security practices when using AI tools
+that may involve any student or staff data. Violations of data privacy policies may result in
+disciplinary action consistent with district procedures.
+
+Consequences for Improper Use: Staff (excerpt)
+Source: page 15 [graphic]
+
+[graphic] Teacher violates student privacy by entering personally identifiable information (PII) into an
+AI tool — Mandatory retraining on data privacy and district technology policies. Notification of the AI
+Support Team: AI_Support_Team@houstonisd.org
+
+Houston ISD Vetted Generative AI Tools List
+Source: pages 16–17
+
+HISD uses a federated AI approach—deploying different AI platforms for different purposes (such
+as reasoning, workflow automation, or curriculum support). This ensures stronger security, avoids
+vendor lock-in, and allows each tool to operate within the most appropriate protected environment.
+
+[graphic] ChatGPT and Microsoft Copilot are powered by OpenAI’s GPT models while Google
+Gemini is powered by Google’s Gemini models. These generative AI tools sit within the Houston
+ISD domain. They are enterprise generative AI tools, which means that chat history is not used to
+train the models. We highly recommend these tools above as an alternative to the consumer
+versions of the AI tools. HISD has signed Data Sharing Agreements with OpenAI, Google, and
+Microsoft.
+
+[graphic] Microsoft 365 Copilot — Rationale for Selection: This generative AI tool sits within the
+Houston ISD domain and plugs into the Microsoft suite of productivity tools including Word,
+Powerpoint, Teams, and Outlook. Through the plug-in, the tool has access to all data stored within
+the Microsoft suite of programs and can answer questions using that data as an input. It is an
+enterprise generative AI tool, which means that any sensitive data that is shared with this tool does
+not get shared back with the AI for training purposes.
+
+Monitoring Tools and Processes
+Source: page 18 [graphic]
+
+[graphic] To ensure the responsible and secure implementation of generative AI across the District,
+HISD employs preventative controls designed to block the movement of sensitive data before
+exposure occurs, in addition to monitoring and alerting mechanisms.
+
+[graphic] Data Loss Prevention — Flags movement of sensitive data
+
+[graphic] Pop-Up Notification when users access consumer-based AI platforms — Reinforces
+organization’s acceptable use guidelines, especially when dealing with Consumer-based AI tools
+
+[graphic] Usage Tracking Software — Provides IT with visibility into user traffic to AI-powered web
+tools to inform updated user support and policy
+
+[graphic] AI Support Team Referral Form — A mechanism for staff to refer issues to the AI
+Support and Data Governance Team. Issues include but are not limited to:
+
+• [graphic] Inappropriate Student or Staff Use
+
+PDF EXCERPT PAGE 5
+• [graphic] Requests for new tools
+• [graphic] Request for a pilot
+• [graphic] Data Breach
+
+AI Support Team Overview and AI in Board Policy (excerpt)
+Source: page 19 [graphic]
+
+[graphic] Key Monitoring responsibilities include:
+
+• [graphic] Reviewing usage tracking reports to understand organizational access to generative AI
+  platforms
+• [graphic] Monitoring security / data breaches collected through loss prevention software and
+  determine appropriate response
+[graphic] FL — This policy clarifies the importance of protecting personally identifiable information,
+especially when using generative AI tools
+
+Frequently Asked Questions: Students (excerpt)
+Source: page 20
+
+What happens if my parent or guardian does not provide permission for me to use
+generative AI?
+We respect the decisions that parents or guardians make for their children. If you are not given
+permission to access generative AI, your teacher will work with you to make sure you have the
+support you need to learn and complete your assignments.
+
+Frequently Asked Questions: Staff (excerpt)
+Source: page 21
+
+How do I know which of my students has permission to access generative AI?
+The Central Office team will manage student access to generative AI tools based on age and
+parental consent. Additionally, each campus is responsible for keeping a record of parent
+permission decisions granted for AI tool usage. Before a teacher brings generative AI into the
+classroom, please ensure that you review student permission.
+
+Do I have to use Microsoft Copilot Chat, Google Gemini, or ChatGPT Edu? Can I use
+generative AI Chatbots that I’ve paid for myself to support my work?
+We highly recommend our staff not use consumer chatbots for work-related activities. Sensitive
+data is not protected in a way that complies with FERPA policy. For example, if you uploaded a data
+file into your personal ChatGPT for analysis that includes student ID numbers and names, you have
+now violated HISD Data privacy policies. Microsoft Copilot Chat, Google Gemini, and ChatGPT Edu
+reside within the HISD domain and protects sensitive data. We trust that our employees will use
+their best efforts to access the enterprise-level generative AI tools to support their efficiency and
+productivity in a way that keeps district data private and secure.
+
+How is AI used in Houston ISD, and is it considered a system of record?
+
+PDF EXCERPT PAGE 6
+AI tools in Houston ISD are not systems of record and function only as professional planning and
+drafting environments. All AI-assisted work is pre-decisional, requires human review, and any
+finalized or official materials must be stored in HISD-approved systems (e.g., email, SharePoint,
+OneDrive, SIS, ERP).
+
+Frequently Asked Questions: Families
+Source: page 22
+
+Are generative AI tools appropriate for my child, especially if they are 8th grade or above?
+Generative AI tools have different age restrictions. At this time, Houston ISD will provide access to
+Google Gemini to students, 8th grade and above who have obtained parental consent. The district
+will prioritize responsible use training for both students and staff as well as support students if
+content is returned that is inappropriate.
+
+Is my student’s data protected while using generative AI tools?
+Student data protection is a top priority in Houston ISD. If a student uses consumer-based AI tools
+(such as public versions of ChatGPT) outside of district-managed platforms, any information
+entered may be shared with the company that operates the tool.
+
+Houston ISD provides access to secure, district-managed AI environments, including the enterprise
+version of Google Gemini for staff and students ages 13 and older. These tools do not use student
+or staff data to train external AI models and operate within HISD’s security and privacy
+requirements, including access controls, monitoring, and safeguards designed to prevent the
+exposure or misuse of sensitive information.
+

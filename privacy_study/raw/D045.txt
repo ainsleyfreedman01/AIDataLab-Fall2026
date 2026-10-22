@@ -1,0 +1,94 @@
+PDF EXCERPT PAGE 1
+Colorado AI Roadmap: Data and Student Privacy
+                 Passages
+Excerpted verbatim from Colorado Roadmap for AI in K-12 Education: Guidance for Integrating AI into Teaching and
+Learning (Colorado Education Initiative with the Colorado Department of Education, August 2024). Page numbers match
+the document's own page numbering. Ellipses (…) mark omitted text. The document is laid out in two columns, so several
+passages were transcribed from the rendered page and are marked [graphic].
+
+
+Dear Colorado Educators, Stakeholders, and Community Members
+(excerpt)
+Source: page 3 [graphic]
+
+[graphic] We acknowledge the challenges associated with the rapid spread of AI-enabled tools,
+including concerns about data privacy, bias, and the role of human interaction in education.
+
+Reshaping Teaching and Learning: AI Literacy (excerpt)
+Source: page 8 [graphic]
+
+[graphic] It’s crucial for students to grasp important concepts like AI “hallucinations,” data privacy,
+and the potential for bias in AI.
+
+Integrating Tools for Instruction and Curriculum (excerpt)
+Source: page 12 [graphic]
+
+[graphic] For a resource to be usable, it must be safe and aligned with policies and practices.
+Evaluation of resources for use in education could happen at the classroom level, the school level,
+or the district level. While safety and privacy are crucial considerations provided by many
+companies, they constitute only a part of the broader decision-making process when choosing a
+resource.
+
+Ethical Considerations and Bias Mitigation (excerpt)
+Source: page 16 [graphic]
+
+[graphic] Implement a robust framework for ethical AI use in schools that includes guidelines on
+data privacy, bias mitigation, and the equitable use of AI.
+
+Developing Policy for Transparent and Ethical Use
+Source: page 17
+
+Colorado’s unique local control context empowers local school districts to adopt their own policies,
+limiting the state department of education’s ability to dictate local technology policies. Even so,
+Colorado’s current Student Data Privacy rules are among the most protective in the nation. The
+policies and practices to safeguard students largely already exist, and can benefit from regular
+review as technology advances.
+
+PDF EXCERPT PAGE 2
+Policy Recommendations: Student Data Privacy
+Source: page 18 [graphic]
+
+[graphic] Regular policy and vendor contract review will be ongoing. In doing so, understanding the
+data usage in AI model training is crucial, as policies must reflect the iterative and generative nature
+of AI tools. This involves proactively using certain student information to train AI tools while ensuring
+bias elimination. Transparency in how data is used to produce outputs from prompts is essential.
+Clear communication about what data is being used, its storage duration, and data sharing practices
+with subcontractors or partners enhances data transparency. Additionally, considering how APIs
+function as gatekeepers for data usage by providers is vital for effective data utilization.
+
+Guiding Tenets: First Draft Thinking (excerpt)
+Source: page 18 [graphic]
+
+[graphic] Encourage a “first draft thinking” approach that fosters a sense of safety to explore and
+experiment with AI tools, protecting personally identifiable information and guarding against bias.
+
+Guiding Tenets: Promote a Positive Approach (excerpt)
+Source: page 18 [graphic]
+
+[graphic] This positive approach encourages exploration, experimentation, and innovation while
+maintaining safeguards to protect privacy and ensure ethical use.
+
+Guiding Tenets: Regular Review and Updates (excerpt)
+Source: page 18 [graphic]
+
+[graphic] If a separate AI policy is created at a state, district, or school level, it should align with
+current privacy and security policies and be subject to regular reviews to ensure its continued
+relevance and effectiveness.
+
+Policy Recommendations: Procurement (excerpt)
+Source: page 18 [graphic]
+
+[graphic] While learning about AI tools in education, it is advisable to avoid long-term vendor
+contracts and instead opt for pilot windows to test these tools.
+
+Teacher Use of AI (excerpt)
+Source: page 19 [graphic]
+
+[graphic] Providing AI literacy training is also crucial; teachers should be educated on data privacy,
+ethics, and responsible AI use.
+
+Next Steps: Recommendations to School Districts (excerpt)
+Source: page 20
+
+• Review and augment existing data privacy policies and vendor agreements.
+

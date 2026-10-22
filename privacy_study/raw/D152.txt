@@ -1,0 +1,44 @@
+PDF EXCERPT PAGE 1
+   Rapides Parish School Board Policy EFAB (AI
+    Acceptable Use): Data and Student Privacy
+                    Passages
+Excerpted verbatim from Policy EFAB - Employee and Student Acceptable Use Policy for Artificial Intelligence (Rapides
+Parish School Board, Louisiana, new policy November 2025). Page numbers match the document's own page numbering.
+Ellipses (…) mark omitted text. The source text renders 'AI' as 'Al' in several places; this is reproduced as printed.
+
+
+Privacy, Security, and Data Protection
+Source: pages 2–3
+
+• Users must be aware of data privacy concerns with Al tools, especially regarding the handling of
+  personal and sensitive information.
+• Personally identifiable information, confidential information and/or sensitive information should
+  never be shared with an Al tool unless such sharing is explicitly approved by the School Board.
+• All Al tools must comply with the Family Educational Rights and Privacy Act (FERPA), the
+  Children's Online Privacy Protection Act (COPPA) and other relevant privacy laws.
+• Students under age thirteen (13) may only use Al tools compliant with COPPA and explicitly
+  approved by the School Board.
+• The Information Technology Department ensures that Al tools employed have robust security
+  measures to protect user data from unauthorized access.
+• Users are expected to be aware of and comply with the terms and conditions of all Al tools,
+  specifically with respect to age requirements.
+• The Information Technology Department conducts regular security assessments of Al
+  technologies to safeguard against vulnerabilities.
+
+Deepfake and Non-Consensual Intimate Imagery
+Source: page 3
+
+• The use of AI technology to create Deepfake or Non-Consensual Intimate Imagery (NCII) are
+  subject to Policy JCDAF on bullying and Policy GAEAA on sexual harassment or other forms of
+  harassment.
+
+Monitoring and Enforcement (excerpt)
+Source: page 4
+
+• The School Board reserves the right to monitor the use of Al tools to ensure compliance with this
+  policy.
+• This may include real-time monitoring of network activity and/or maintaining a log of Internet
+  activity for later review.
+• Users should have no expectation of privacy when using School Board technology or networks.
+  All activity may be monitored to ensure compliance with this policy.
+

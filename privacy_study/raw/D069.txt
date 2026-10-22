@@ -1,0 +1,72 @@
+PDF EXCERPT PAGE 1
+    Georgia AI for Educators Guidance: Data and
+             Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence for Educators Endorsement and Micro-Endorsement: Guidance for Educator
+Preparation Providers, Version 1.0 (Georgia Professional Standards Commission, Educator Preparation Rule 505-3-.114,
+June 2026). Page numbers match the document's own page numbering. Ellipses (…) mark omitted text. This is guidance
+for educator preparation programs; passages are the endorsement standards that mention privacy or data.
+
+
+Standard Two: Implementation and Sustained Use of AI (excerpt)
+Source: page 6
+
+The candidate evaluates, selects, and implements AI tools using evidence-based criteria that
+prioritize pedagogy, privacy, and long-term viability.
+
+• Candidates will demonstrate the ability to plan for and implement criterion for selecting AI tools
+  that prioritize age-appropriateness, accessibility, usability, privacy, data security, and
+  transparency in vendor data practices.
+
+Standard Three: Responsible and Ethical Use of AI (excerpt)
+Source: page 7
+
+• Candidates will demonstrate an understanding of current compliance with federal, state, and
+  local regulations and policies regarding student data, privacy, consent, age restrictions, and AI
+  use, including FERPA, COPPA, and CIPA.
+• Candidates will demonstrate the importance of informed consent when AI tools are used with
+  students, student data, families, or externally managed platforms, consistent with local, state,
+  and federal guidelines.
+• Candidates will demonstrate the ability to maintain legal and ethical data practices, including
+  data minimization, de-identification, appropriate data entry, and avoidance of personally
+  identifiable student information in unapproved tools.
+
+Standard Seven: AI and Data Literacy (excerpt)
+Source: page 9
+
+• Candidates will demonstrate the ability to implement ethical data practices when using AI for
+  educational data analysis, including data minimization, de-identification, appropriate data entry,
+  and avoidance of personally identifiable student information in unapproved tools.
+
+Standard Eight: Digital Citizenship and Learner Use of AI (excerpt)
+Source: page 10
+
+• Candidates will demonstrate the ability to design and implement instruction that teaches students
+  to protect personal data, avoid entering sensitive information, recognize unsafe AI practices, and
+  seek adult guidance when needed.
+
+PDF EXCERPT PAGE 2
+Standard Nine: Advocate and Model Ethical AI Practices (excerpt)
+Source: pages 10–11
+
+• Candidates will demonstrate the ability to design and lead professional learning on responsible
+  AI use, including instructional applications, privacy, accessibility, bias, academic integrity, and
+  classroom implementation.
+• Candidates will demonstrate how policies and guidelines inform approved tools, classroom
+  routines, data privacy practices, communication, and responsible AI implementation.
+• Candidates will demonstrate the ability to model and advocate for transparent and ethical AI use
+  for students and colleagues, including disclosure, attribution, verification, and responsible
+  handling of student data.
+• Candidates will demonstrate the ability to construct and enact strategies for communicating and
+  collaborating with colleagues, families, caregivers, and stakeholders about ethical and effective
+  AI use, including instructional purposes, student privacy, approved tools, safeguards, and
+  alignment with local, state, and federal guidelines.
+
+Standard Ten: Professional Practice in AI Innovation (excerpt)
+Source: pages 11–12
+
+• Candidates will demonstrate the ability to critique and evaluate emerging AI tools for instructional
+  value, privacy, accessibility, bias, accuracy, cost, sustainability, and alignment with school or
+  district policies.
+• Candidates will demonstrate the ability to revise instructional practices as AI tools, privacy terms,
+  accessibility features, district policies, and research findings change over time.
+

@@ -1,0 +1,48 @@
+PDF EXCERPT PAGE 1
+    Connecticut Commission for Educational
+  Technology AI Page: Data and Student Privacy
+                   Passages
+Excerpted verbatim from Artificial Intelligence (AI) (Connecticut Commission for Educational Technology, web page). The
+source has no page numbers; locations are given by section. This is a web page with numbered sections, so there are no
+page numbers. Ellipses (…) mark omitted text. Linked text (for example the Student Data Privacy web page) appears as
+plain text.
+
+
+3: Instructional and Decision-Making Best Practices (excerpt)
+Source: web page, section 3
+
+Privacy and Data Collection: As part of the selection process and in ongoing use, schools should
+assess the breadth and type of data that AI-powered tools collect. Public schools must adhere to
+Connecticut’s data privacy laws, with guidance on doing so available through the Commission’s
+Student Data Privacy Web page. The Connecticut Educational Software Hub, powered by
+LearnPlatform, offers details on thousands of instructional apps to assist with this process.
+
+Incident Reporting: Considering appropriate and ethical use of AI tools, schools should consider
+broadening existing incident-reporting protocols to include misuse of technology. For example, AI
+tools can be used to create so-called “deep fakes,” highly realistic but unauthorized images, audio,
+or other content.
+
+4: Risks: Bias (excerpt)
+Source: web page, section 4
+
+Especially for high-stakes systems that manage large swaths of student or sensitive employee data,
+and which leaders use to make decisions about instruction, advancement, etc., districts should
+engage with providers of such systems to get additional details on training data and algorithms.
+
+5: Policy and Guidance (excerpt)
+Source: web page, section 5
+
+Ways of addressing plagiarism and cheating, harassment, bullying, and data privacy should remain
+consistent, even if new technologies may introduce new challenges of understanding and
+application.
+
+• Federal legislation and guidance governing educational technology and student privacy (CIPA,
+  COPPA, FERPA, and IDEA).
+• State statute governing student data privacy (CGS §§ 10-234aa-dd) and the Commission’s
+  resource page on the topic.
+
+6: Resources (excerpt)
+Source: web page, section 6
+
+Privacy Technical Assistance Center
+

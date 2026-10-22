@@ -1,0 +1,128 @@
+PDF EXCERPT PAGE 1
+   Utah AI Framework: Data and Student Privacy
+                   Passages
+Excerpted verbatim from Artificial Intelligence Framework for Utah P-12 Education: Guidance on the Use of AI in Our
+Schools (Utah State Board of Education, March 2026). Page numbers match the document's own page numbering. Ellipses
+(…) mark omitted text. Legal citations (U.S.C., C.F.R.) listed under the statutes are omitted.
+
+
+Purpose (excerpt)
+Source: page 3
+
+Achieving a balance between delivering leading-edge education and safeguarding student
+information requires collaboration among experts in education and cybersecurity. Providing
+unrestricted access falls short of providing needed protection.
+
+Instead, a balanced and informed approach is preferred, encompassing both maximizing learning
+and attending to security measures.
+
+Scope (excerpt)
+Source: page 4
+
+This guidance complements existing policies on technology use, data protection, academic integrity,
+and student support.
+
+Existing Policies (excerpt)
+Source: pages 4–5
+
+The following existing policies inform this AI Framework:
+
+Federal Code and Regulations
+• Children’s Online Privacy Protection Rule (COPPA)
+• Family Educational Rights and Privacy Act (FERPA)
+• Privacy Act of 1974
+• Protection of Pupil Rights Amendment (PPRA)
+Utah State Code
+• Utah State Code §53E-9-3 regarding Student Data Protection
+• Utah State Code §53E-9-2 regarding Student Data Privacy aka “Utah FERPA”
+• Utah State Code §63G-2 Governmental Records and Management Act (GRAMA)
+• Government Data Privacy Act
+Utah Administrative Code
+• Utah Admin Code R277-487 regarding Student Data Protection
+USBE Policy
+• Student Data Privacy
+Industry Standards
+
+PDF EXCERPT PAGE 2
+• Cybersecurity Frameworks:
+
+Guiding Principles for AI Use (excerpt)
+Source: page 6
+
+The following principles guide the appropriate and safe use of AI and address current and future
+educational goals, teacher and student agency, academic integrity, and security.
+
+2. We reaffirm adherence to existing policies and regulations. AI is one of many technologies
+used in our schools, and its use will align with existing regulations to protect student privacy, ensure
+accessibility to those with disabilities, and protect against harmful content. We will not share
+personally identifiable information with consumer-based AI systems. We will thoroughly evaluate
+existing and future technologies and address any gaps in compliance that might arise.
+
+Guiding Principles for AI Use, Principle 8 (excerpt)
+Source: page 7
+
+When students leave a school device, network, or account they may have access to AI tools.
+
+Responsible Use of AI Tools (excerpt)
+Source: page 8
+
+Teachers will clarify if, when, and how AI tools will be used, with input from students and families,
+while the school system will ensure compliance with applicable laws and regulations regarding data
+security and privacy.
+
+Responsible Use of AI Tools: Safety Alerts (excerpt)
+Source: page 10
+
+• Safety Alerts: AI could have the ability to monitor written student communications on LEA
+  provided accounts. For instance, when students convey distress in their messages, the
+  technology can analyze these communications and alert designated school personnel to provide
+  timely support.
+
+Responsible Use of AI Tools: Supporting Community and Family,
+Data Collection
+Source: page 10
+
+• Data Collection: Parents, guardians, and students should be informed of specific data collection
+  initiatives, and where applicable, consent will be sought. All AI-driven data collection will adhere
+  to local data protection regulations and best practices.
+
+PDF EXCERPT PAGE 3
+Prohibited Use of AI Tools: Privacy
+Source: pages 11–12
+
+• Privacy concerns: The use of AI is required to adhere to state and Federal privacy laws.
+• Compromising Privacy: The education system will not use AI in ways that compromise teacher
+  or student privacy or lead to unauthorized data collection, as this violates privacy laws and our
+  system’s ethical principles. See the Security, Privacy, and Safety section below for more
+  information.
+• Noncompliance with Existing Policies: We will evaluate AI tools for compliance with all
+  relevant policies and regulations, such as privacy laws and ethical principles. AI tools will be
+  required to detail if/how personal information is used to ensure that personal data remains
+  confidential and isn’t misused.
+
+Special Consideration: Security, Privacy, and Safety
+Source: page 13
+
+We will implement reasonable security measures to secure AI technologies against unauthorized
+access and misuse. All AI systems deployed within the school will be evaluated for compliance with
+relevant laws and regulations, including those related to data protection, privacy, and students’
+online safety. For example, providers will make it clear when a user is interacting with an AI versus a
+human. Staff and students are prohibited from entering confidential or personally identifiable
+information into unauthorized AI tools, such as those without approved data privacy agreements.
+This extends to contracted vendors and other third parties. Sharing confidential or personal data
+with an AI system could violate privacy if not properly disclosed and consented to.
+
+Glossary (excerpt)
+Source: pages 15–16
+
+• Data Disposition: The process of disposing of data when it is no longer needed, ensuring it is
+  securely destroyed or transferred according to policy.
+• Data Privacy Agreement (DPA): An agreement between a local education agency (LEA) and a
+  vendor which establishes data privacy and security protections for student data. Data privacy
+  agreements are +-the primary method used for meeting Utah’s law requiring documentation of
+  certain data protections in a contract.
+• Responsible Use of AI: The ethical and compliant use of AI tools to ensure data transparency,
+  security, privacy, and more.
+• Walled Garden: A closed ecosystem where the provider has total control over applications,
+  content, and media, restricting access to data.
+

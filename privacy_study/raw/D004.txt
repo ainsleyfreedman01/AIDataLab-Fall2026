@@ -1,0 +1,76 @@
+PDF EXCERPT PAGE 1
+  Academy District 20 AI Quick Start Guide: Data
+        and Student Privacy Passages
+Excerpted verbatim from AI Quick Start Guide (Academy District 20, Colorado), web page. The source has no page
+numbers; locations are given by section. This is a web page, so there are no page numbers. Ellipses (…) mark omitted text.
+
+
+Common AI Chatbots and Their Status (excerpt)
+Source: web page, section 'Chatbots Are AI Tools'
+
+Common AI chatbots and their current status for ASD20 students include:
+
+• ChatGPT: Blocked and not approved for ASD20 student use.
+• Microsoft Copilot: Not approved for ASD20 student use.
+• Google Gemini: Approved only for ASD20 high school students using the district enterprise
+  version.
+• MagicSchool AI Learning Assistant: Approved for ASD20 students at all grade levels when a
+  teacher provides access.
+
+How D20 Developed Its Approach (excerpt)
+Source: web page, section 'D20's Approach to AI'
+
+• AI should be used ethically, legally and in accordance with District 20 policies, with appropriate
+  data protection.
+
+Recommended Tools (excerpt)
+Source: web page, section 'D20's Approach to AI'
+
+MagicSchool is the district-recommended AI tool approved for students at all grade levels. …
+Teachers can view every student interaction with MagicSchool.
+
+Google Gemini was approved for students in D20 high schools beginning in August 2026. Students
+must use the district enterprise version by signing in with their D20 account.
+
+D20 carefully reviews approved digital tools, including tools with AI features, to help protect student
+data privacy.
+
+ChatGPT and ASD20 Students (excerpt)
+Source: web page, section 'D20's Approach to AI'
+
+ChatGPT is blocked and is not approved for ASD20 student use. OpenAI's current terms allow
+users age 13 and older, with parent or legal guardian permission required for users under 18.
+Meeting those age requirements does not constitute district approval.
+
+Accessing Google Gemini (excerpt)
+Source: web page, section 'D20's Approach to AI'
+
+Students in grades 9–12 may use the enterprise version of Google Gemini. This is the
+district-approved version and provides data protections through the district account.
+
+PDF EXCERPT PAGE 2
+Students are using the correct version when they are signed in with their D20 email address.
+
+Accessing MagicSchool (excerpt)
+Source: web page, section 'D20's Approach to AI'
+
+Students can access only the digital rooms their teachers provide. Teachers control which tools are
+available in each room.
+
+Teachers can view every interaction between students and MagicSchool.
+
+Risks Associated with AI (excerpt)
+Source: web page, section 'AI Literacy and Student Use'
+
+AI risks include:
+
+• Safety and data privacy concerns.
+
+Protect Personal Information
+Source: web page, section 'AI Literacy and Student Use'
+
+Many AI apps may use, share or train their systems on user data. Students should use only
+D20-approved enterprise tools that include district-required data protections.
+
+Some apps, including AI companions, may pose significant risks to children and adolescents.
+

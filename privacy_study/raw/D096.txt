@@ -1,0 +1,50 @@
+PDF EXCERPT PAGE 1
+       Kentucky AI in Action Across KY: Data and
+              Student Privacy Passages
+Excerpted verbatim from AI in Action Across KY: Empowering educators and students through responsible,
+human-centered AI integration (Kentucky Department of Education, December 2025). Page numbers refer to the PDF
+pages of the source file. Ellipses (…) mark omitted text. This is a short summary brochure with little detailed privacy
+content.
+
+
+Updating the Kentucky AI Guidance Brief (excerpt)
+Source: PDF page 2
+
+Ongoing refinements to Kentucky’s AI Guidance Brief ensure that districts have current, practical
+direction on safe, secure, and responsible AI adoption.
+
+Statewide Data Collection to Monitor Intentional, Responsible AI Use
+Source: PDF page 2
+
+Kentucky gathers district- and student-level data to understand how AI is being used, encouraged,
+and monitored across the state. These insights guide policy decisions and support targeted
+improvements.
+
+Kentucky’s AI strategy is rooted in the existing KETS framework, ensuring that adoption is grounded
+in equity, security, interoperability, and sustainability.
+
+Professional Learning: AI-Based Efficiency Tools (excerpt)
+Source: PDF page 3
+
+KDE models the use of AI-powered productivity tools that district staff can adopt to improve
+efficiency and streamline administrative tasks while maintaining security and transparency
+
+Early Warning Reporting Tool in Infinite Campus (excerpt)
+Source: PDF page 3
+
+Kentucky’s AI-enabled early warning system identifies students who may need support in
+attendance, engagement, or academic persistence. This helps educators intervene earlier and more
+effectively.
+
+AI Driven Network Monitoring Tools That Strengthen Cybersecurity
+Readiness
+Source: PDF page 4
+
+GoGuardian uses AI and machine learning to help keep students safe online by analyzing browsing
+activity and on-screen content in real time. Its tools identify and block harmful or inappropriate
+content, detect potential safety concerns such as self-harm or violence, and alert school staff so
+adults can review the context and respond appropriately.
+
+The AI is designed to support, not replace, human decision-making, helping create safer digital
+learning experiences.
+

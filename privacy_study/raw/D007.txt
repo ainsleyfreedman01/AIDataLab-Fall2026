@@ -1,0 +1,115 @@
+PDF EXCERPT PAGE 1
+Allentown SD Policy 815.1 (AI): Data and Student
+              Privacy Passages
+Excerpted verbatim from Policy 815.1 - Use of Artificial Intelligence in Education (Allentown School District, Pennsylvania;
+Second Reading, adopted December 19, 2024). Page numbers refer to the PDF pages of the source file. Page numbers
+are PDF page numbers (the BoardDocs print-out footer shows the same numbering, for example 1/7). Ellipses (…) mark
+omitted text. Bracketed legal citation markers that appear in the source text have been left out where they interrupt a
+sentence.
+
+
+Purpose
+Source: page 1
+
+The Board's policy on Artificial Intelligence (AI) aims to ensure the ethical and responsible use of AI
+technologies. This policy is designed to enhance teaching, learning and administrative processes
+while safeguarding student privacy and data security.
+
+It also complies with relevant state and federal laws, regulations, Board policies, administrative
+regulations and school rules, including:
+
+• Family Educational Rights and Privacy Act (FERPA).
+• Individuals with Disabilities Education Act (IDEA).
+• Health Insurance Portability and Accountability Act (HIPAA).
+• Children’s Internet Protection Act (CIPA).
+• Children’s Online Privacy Protection Act (COPPA).
+Additionally, this policy aligns with Board policies on … student and personnel records, … data
+security …
+
+Authority (excerpt)
+Source: page 2
+
+The district shall not be responsible for the dissemination, replication or alteration of information or
+data input by any student or staff into any Generative AI tool or resource.
+
+Delegation of Responsibility (excerpt)
+Source: page 2
+
+The Executive Director of Technology will continually evaluate and authorize Generative AI tools
+and resources used in district schools and programs for age-appropriateness, bias, privacy
+protections, accessibility standards, student and staff safety, and data security.
+
+The Board directs that only district-authorized Generative AI tools and resources may be used on
+district computers and in district schools and programs. Staff shall consult the district’s list of
+authorized Generative AI tools and resources prior to implementation in the educational
+environment. Unauthorized Generative AI tools and resources may not adhere to required data
+privacy, monitoring and security standards.
+
+The district solicitor, in coordination with the Executive Director of Technology, shall evaluate new
+and existing vendor contracts, collective bargaining agreements, and related agreements for
+
+PDF EXCERPT PAGE 2
+impacts related to district use of Generative AI.
+
+Definitions: Open-source AI (excerpt)
+Source: page 2
+
+Open-source AI – AI tools and resources that are built on publicly accessible platforms and use and
+share data among all users who access the platform, both within and outside of the district.
+
+FERPA Compliance
+Source: page 3
+
+All teachers, administrators and staff are required to adhere strictly to the regulations outlined in the
+Family Educational Rights and Privacy Act (FERPA) when utilizing any AI resources.
+
+The district prohibits the use of personally identifiable information of students while using AI
+websites, tools or applications that have not been pre-approved by the Executive Director of
+Technology or his/her designee. The Executive Director of Technology shall establish an efficient
+process by which teachers and administrators can request the approval of new AI resources. The
+Executive Director of Technology or designee shall maintain a public list of all such approved
+resources.
+
+Ethical Considerations (excerpt)
+Source: page 3
+
+The district shall only authorize Generative AI systems and platforms appropriately equipped for
+preventing breach of personally identifiable information and addressing the district’s prohibitions
+against discrimination, harassment, bullying, bias and access to sexually explicit materials, or those
+which are harmful to minors or prohibited by Board policy.
+
+The district’s technology protection measures shall be enforced during use of Generative AI on
+district computers and network resources.
+
+Evaluation and Monitoring of Generative AI (excerpt)
+Source: pages 4–5
+
+Administrators, network supervisors and teaching staff shall establish processes for ongoing
+evaluation and monitoring of Generative AI tools and resources used within the district and on …
+district computers and network resources, including periodic assessments of the impact on student
+learning.
+
+Grading Student Work (excerpt)
+Source: page 5
+
+Teachers shall ensure that personally identifiable student records are kept secure when using such
+grading technology.
+
+PDF EXCERPT PAGE 3
+Professional Development (excerpt)
+Source: pages 5–6
+
+The training should equip educators, administrators and staff with the knowledge and skills
+necessary to integrate AI tools into their roles in the district, while also addressing data privacy,
+legal … compliance and ethical considerations.
+
+Consequences for Inappropriate Use (excerpt)
+Source: page 6
+
+Students and staff must immediately report any violations or suspicious activity to the building
+principal or designee.
+
+Illegal use of Generative AI, intentional modification without permission or damage to files or data
+belonging to others, copyright violations, and theft of services shall be reported to the appropriate
+legal authorities for possible prosecution.
+

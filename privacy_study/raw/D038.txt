@@ -1,0 +1,17 @@
+PDF EXCERPT PAGE 1
+ Charlotte-Mecklenburg AI Policy Press Release:
+       Data and Student Privacy Passages
+Excerpted verbatim from AI Policy Release, Press Release (Charlotte-Mecklenburg Board of Education, October 28, 2025).
+Page numbers refer to the PDF pages of the source file. This is a press release about the policy, not the policy text itself.
+Only the privacy-related passage is quoted (excerpt).
+
+
+Board Vice Chair statement on data privacy (excerpt)
+Source: page 1
+
+“We believe that the policy provides clear direction on developing a committee to continuously
+monitor and audit our systems to ensure data privacy, training staff and students on the responsible
+use of AI for compliance to strict guidelines, and putting in place all needed and appropriate
+parameters to ensure that AI enhances student learning and prepares them for a world in which AI
+will continue to play a significant role.”
+

@@ -1,0 +1,160 @@
+PDF EXCERPT PAGE 1
+         Oklahoma AI Guidance: Data and Student
+                   Privacy Passages
+Excerpted verbatim from Guidance and Considerations for Using Artificial Intelligence in Oklahoma K-12 Schools, Version
+3.0 (Oklahoma State Department of Education, July 2026). Page numbers refer to the PDF pages of the source file. Ellipses
+(…) mark omitted text. Passages that only repeat the same requirement elsewhere in the document (for example, the Roles
+and Responsibilities references to FERPA/COPPA) are quoted once in short form.
+
+
+Executive Summary: Key Principles (excerpt)
+Source: page 3
+
+Safety First Robust protections for student data and well-being.
+
+Legal Compliance Full alignment with (Oklahoma Responsible Technology in Schools Act),
+FERPA, COPPA, IDEA, and Oklahoma laws.
+
+Definitions: Vendor / AI Tool Inventory (excerpt)
+Source: page 6
+
+The district's public maintained record of all AI tools in use, including purpose, type of data
+collected, and the Oklahoma Responsible Technology in Schools Act compliance status.
+
+District Written AI Policy Requirement (excerpt)
+Source: page 8
+
+Every Oklahoma school district must adopt a written AI policy addressing:
+
+• data protection and data minimization
+• incident handling procedures.
+
+District Policy & Compliance Checklist (excerpt)
+Source: page 10
+
+The written district AI policy must address:
+
+• Data protection and minimization requirements
+• Procedure for handling AI tool incidents or violations
+• Procurement and vendor vetting standards
+
+3. Safety, Security, and Regulatory Compliance
+Source: page 10 (table)
+
+Safety, security, and compliance require robust frameworks to protect student data, ensure
+appropriate content filtering, and maintain regulatory adherence.
+
+• [graphic] Low Risk (Green) — AI tools that do not require personally identifiable information
+  (PII). Ensure Responsible Use: Implement data anonymization and security measures. Verify
+  educator-directed use per 70 O.S. § 11-120.
+
+PDF EXCERPT PAGE 2
+• [graphic] Medium Risk (Yellow) — All tools collecting personal data like learning analytics,
+  engagement metrics, or assignment feedback. Use With Caution: Enhanced security protocols
+  and transparent data practices. Confirm the tool cannot autonomously issue grades or discipline.
+• [graphic] High Risk (Red) — All tools collecting sensitive information like student demographics
+  or PII. Use With Extreme Caution: Robust security measures and strict adherence to user
+  consent. Requires administrative approval. Confirm full 70 O.S. § 11-120 and FERPA
+  compliance before use.
+
+4. Disclosure and Transparency Obligations (excerpt)
+Source: page 11
+
+Districts must notify parents and guardians at least annually of all student-facing AI tools in use.
+This notification must include:
+
+• Names and purposes of AI tools used with students.
+• Type of data collected by the AI tools, how it is used, and how it is protected.
+• Clear instructions on how parents can exercise their opt-out rights without academic penalty to
+  the student.
+AI Tool Inventory (Annual Disclosure Required)
+Districts must maintain and publicly disclose an ongoing inventory of all AI tools in use.
+
+[graphic] Tool Name | Purpose | Student-facing? | Data Collected | Vendor Privacy Policy | Review
+Data
+
+[graphic] Example tool | Differentiated drafting | Yes | Learning analytics | [Link} | 07/01/2026
+
+Relevant Regulations: FERPA and COPPA
+Source: page 12
+
+Family Educational Rights and Privacy Act (FERPA)
+• AI systems must protect privacy of student education records
+• Comply with parental consent requirements
+• Ensure AI vendors have appropriate data protection agreements
+Children's Online Privacy Protection Act (COPPA)
+• AI technologies collecting data on children under 13 must adhere to COPPA regulations
+• Require parental consent and data minimization practices
+
+5. Procurement and Vendor Compliance (excerpt)
+Source: page 13
+
+The procurement process must ensure absolute 70 O.S. § 11-120 compliance alongside prior state
+data statutes.
+
+Procurement Checklist
+• Full compliance with FERPA, COPPA, and the Oklahoma Student Data Act.
+
+PDF EXCERPT PAGE 3
+• Explicit written vendor confirmation that student data is not utilized to train public or proprietary AI
+  models without explicit, non-standard consent.
+
+5. Procurement and Vendor Compliance: Vendor Assessment
+Questions (excerpt)
+Source: page 14
+
+• Does the tool maintain a continuous, unalterable audit trail logging AI-generated outputs versus
+  human-confirmed student outcomes?
+
+AI Literacy Components: Data Literacy (excerpt)
+Source: page 16
+
+• Data Literacy: Understanding how data is collected, analyzed, and used by AI
+
+4) Data & Information Privacy
+Source: page 19
+
+• Overview: Generative AI tools introduce severe data privacy risks, as consumer-facing prompts
+  are often retained by vendors to train future models.
+• Oklahoma Risks & Examples: Entering personally identifiable information (PII) into unvetted
+  tools violates student privacy, failing to account for tribal data sovereignty in communities serving
+  tribal citizens.
+• Legal Anchors: FERPA, COPPA, and the Oklahoma Student Data Accessibility, Transparency
+  and Accountability Act.
+• Recommended Practices: Strict prohibition of PII entry into consumer-tier AI; mandate vendor
+  compliance with zero-data-retention terms; perform routine, documented data security audits.
+
+8) Cybersecurity & Agentic AI Risks
+Source: page 21
+
+• Overview: Generative AI amplifies the sophistication of phishing, social engineering, and voice
+  cloning attacks, while agentic AI (systems that act on behalf of a user) increases the system
+  attack surface.
+• Oklahoma Risks & Examples: Connecting over-permissioned AI agents to student information
+  systems (SIS) or shared network drives can lead to data exfiltration or unauthorized system
+  modifications.
+• Legal Anchors: Oklahoma Student Data Act and state cybersecurity compliance frameworks.
+• Recommended Practices: Train staff on AI-enhanced phishing detection, isolate AI agents with
+  read-only permissions, require strict human confirmation before an AI agent performs any
+  system action, and update district incident response plans to include AI-specific attack vectors.
+
+Prohibited Misuse of AI Tools (excerpt)
+Source: page 23
+
+School policies must enforce strict, clear prohibitions regarding the following behaviors:
+
+PDF EXCERPT PAGE 4
+• Using AI to create, alter, or distribute deepfakes or non-consensual sexual imagery.
+• Any automated interaction designed to violate the safety, privacy, or dignity of others.
+
+12. Roles and Responsibilities: District Technology Team (excerpt)
+Source: page 25
+
+• Ensure security and privacy standards (FERPA, COPPA, Oklahoma Student Data Act)
+
+Roles and Responsibilities: Principals and Parents (excerpt)
+Source: page 26
+
+• Communicate AI tool inventory and opt-out process to families annually
+• Receive annual notification of AI tools used in their child's school (70 O.S. § 11-120 right)
+

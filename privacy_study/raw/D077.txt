@@ -1,0 +1,83 @@
+PDF EXCERPT PAGE 1
+        Hilliard City Schools Artificial Intelligence
+       Policy: Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence Policy (Hilliard City Schools, Ohio). The source has no page numbers;
+locations are given by section. Ellipses (…) mark omitted text. The source is a web page with the policy, a draft website
+statement, and internal guidelines.
+
+
+Data Privacy, Management, and Security
+Source: web page, 'Data Privacy, Management, and Security'
+
+The District is committed to protecting the privacy and security of all student and staff data. The
+adoption and implementation of any AI tool must adhere to existing data privacy and security
+policies that include, but are not limited to, Personally Identifiable Information (PII), FERPA, and any
+other relevant state of Ohio and federal laws. AI tools should only access, store, or process data
+that is necessary, and must do so in a secure, transparent, and ethical manner. AI tools and
+systems must be vetted to ensure they meet rigorous standards for data encryption, access control,
+and responsible data use. Users must also follow the terms of service, including appropriate age
+limits.
+
+Procurement and Evaluation of AI-Embedded Tools
+Source: web page, 'Procurement and Evaluation of AI-Embedded Tools'
+
+To accomplish the District’s mission and comply with the law, the District must collect, create and
+store confidential and critical information. The District must maintain and protect this data for
+efficient District operations, compliance with laws mandating confidentiality, and maintaining the
+trust of the District’s stakeholders. Individuals with access to District data are required to follow
+State and Federal law, District policies and procedures created to protect the information.
+
+The adoption of AI-enabled tools should be conducted in accordance with existing procurement
+policies and in alignment to the District’s core values, goals, and priorities. Selection procedures
+must ensure that any AI tool must adhere to data privacy and security policies. Potential vendors
+are required to sign the Ohio Data Privacy Agreement or similar agreement that is in compliance
+with Ohio law. All third-party vendors providing AI tools must comply with District standards, state
+and federal law for data protection, ethical use, and accessibility.
+
+Review of AI Use (excerpt)
+Source: web page, 'Review of AI Use'
+
+The District will regularly review its use of AI tools and recommend updates to the Board that
+address safety, privacy, staff and student needs and other relevant areas.
+
+PDF EXCERPT PAGE 2
+Draft of Data Governance and Protection Statement: Data
+Governance and AI – Statement for Web Site (excerpt)
+Source: web page, draft statement
+
+In addition, Hilliard City Schools is committed to protecting the privacy and security of all student
+and staff data. The adoption and implementation of any AI tool must adhere to existing data privacy
+and security policies that include, but are not limited to, Personally Identifiable Information (PII),
+FERPA, the Ohio Student Data Privacy Agreement (ODPA), and any other relevant state of Ohio
+and federal laws. AI tools should only access, store, or process data that is necessary, and must do
+so in a secure, transparent, and ethical manner. AI systems are vetted to ensure they meet rigorous
+standards for data encryption, access control, and responsible data use. Users must also follow the
+terms of service, including appropriate age limits, and specifically within Hilliard City Schools, Staff
+and Students must sign, and adhere to, the Hilliard City Schools Acceptable Use Policy.
+
+Data Governance and AI – Extended Guidelines (Internal Standard
+Operating Procedures (SOP)) (excerpt)
+Source: web page, draft SOP
+
+Selection procedures ensure that any AI tool must adhere to data privacy and security policies. …
+All third-party vendors providing AI tools must comply with Hilliard City Schools standards, state and
+federal law for data protection, ethical use, and accessibility. High arching means to manage
+Service Providers and Data Protection in Hilliard Schools includes:
+
+• Maintaining a master Service Provider & Data Inventory to evaluate and classify service
+  providers who utilize AI, hold sensitive data, or are responsible for critical IT platforms or
+  processes, to ensure these providers are protecting those platforms and data appropriately.
+• Establish and maintain a Service Provider Management Policy outlining the Service Provider
+  duties and responsibilities to protect student and staff data including compliance with all
+  applicable federal, state, and local privacy laws, rules, and regulations.
+• Establish ongoing reviews of Service Provider products and services, focusing on data
+  governance and protection of student and staff related data. Typical reviews occur upon
+  timeframe of contract renewals.
+• Ensure Data Access Controls and user permissions are applied appropriately for student, staff
+  and parent access to student related information.
+• Enforce Data Retention and Securely dispose of data as appropriate in all applicable systems.
+• Establish and Maintain a Data Classification Scheme for systems deployed at Hilliard City
+  Schools.
+• Training and awareness – Provide ongoing training and awareness PD to educate pertinent
+  employees re: the importance of various components of data protection.
+

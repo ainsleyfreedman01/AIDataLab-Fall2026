@@ -1,0 +1,214 @@
+PDF EXCERPT PAGE 1
+    Richmond Public Schools AI Policy: Data and
+            Student Privacy Passages
+Excerpted verbatim from New Policy: Artificial Intelligence, School Board Policy Revision, Policy Committee Review
+(Second Review), March 16, 2026 (Richmond Public Schools, Virginia; draft policy with Appendix A and Appendix B). Page
+numbers refer to the PDF pages of the source file. This is a draft policy committee document. Its text layer is interleaved
+with margin line numbers and a vertical DRAFT watermark, so passages are marked [graphic] and were transcribed with
+the line numbers and watermark letters removed. Ellipses (…) mark omitted text.
+
+
+Definitions: Personally Identifiable Information (PII)
+Source: PDF page 2 [graphic]
+
+[graphic] Personally Identifiable Information (PII): Any data that could identify an individual, including
+names, student IDs, photographs, or digital identifiers.
+
+Guiding Principles: Safety and Privacy
+Source: PDF page 3 [graphic]
+
+• [graphic] Safety and Privacy: All AI applications shall protect student and staff data in accordance
+  with law and Board policy.
+
+Instructional Use (excerpt)
+Source: PDF page 4 [graphic]
+
+[graphic] The Division encourages the responsible integration of artificial intelligence (AI) into
+instructional practice to enhance curriculum delivery, create differentiated materials, support
+personalized learning, and prepare students for future academic and workforce opportunities to the
+extent it is aligned with the Division’s commitment to equity, inclusion, and data privacy.
+
+Instructional Use: Critical AI Literacy and Safety
+Source: PDF pages 5–6 [graphic]
+
+[graphic] Critical AI Literacy and Safety: Students will receive developmentally appropriate
+instruction on how AI systems collect, retain, and reuse data; where outputs can be inaccurate or
+fabricated; and how AI interactions may introduce social, psychological, civic, or safety risks.
+Instruction shall include strategies for verification, healthy boundaries with AI systems, and reporting
+of harmful or concerning AI outputs. Such instruction shall cover the following:
+
+• [graphic] 1. Data Practices: How AI tools may collect, infer, store, and reuse user inputs and
+  metadata; differences between school-approved tools and public tools; and why students should
+  not enter sensitive personal information.
+• [graphic] 6. Civic and Legal Context: High-level understanding that digital content, prompts, and
+  platform metadata may be disclosed through lawful legal processes. Students shall be instructed
+  in data-minimization practices and safe, appropriate sharing in digital systems.
+
+PDF EXCERPT PAGE 2
+Instructional Use: Equitable Access and Instruction (excerpt)
+Source: PDF page 6 [graphic]
+
+[graphic] … including an understanding of the prohibition of sharing any personally identifiable
+information.
+
+Professional and Administrative Use (excerpt)
+Source: PDF page 7 [graphic]
+
+[graphic] The Division shall provide AI tools that are evidence-based, accessible, and compliant with
+Division standards prior to implementation, and shall publish and annually update a list of approved
+AI tools for staff use.
+
+[graphic] The Division shall provide all certified and instructional staff with an initial mandatory
+training on AI that reviews: … the ethical use of AI, including bias prevention and responsible data
+handling, … and safe and secure use of AI.
+
+Ethics, Data Privacy, and Security
+Source: PDF pages 8–10 [graphic]
+
+[graphic] All users of AI systems are responsible for taking into consideration the broader ethical
+implications associated with these technologies, specifically addressing issues around
+environmental sustainability (e.g., energy consumption of large models), labor practices (e.g., data
+labeling and outsourcing), and compliance with all applicable local, state, and federal laws and
+regulations. Our primary ethical responsibility is harm reduction, which requires continuous
+monitoring of AI outputs to prevent violations of privacy, avoid the perpetuation of misinformation,
+and safeguard against any action that could diminish human oversight or unduly influence critical
+decision-making processes regarding student progress and welfare.
+
+[graphic] The Division shall comply with all applicable local, state, and federal data-privacy laws,
+including the Family Educational Rights and Privacy Act (FERPA), the Children’s Online Privacy
+Protection Act (COPPA), and other relevant Virginia statutes. All practices shall also align with
+recognized national standards such as the National Institute of Standards and Technology (NIST)
+Privacy and Cybersecurity Frameworks, and, where applicable, with international privacy
+frameworks such as the General Data Protection Regulation (GDPR). The Division shall also align
+with the Virginia Department of Education’s Digital Learning Integration Guidelines as they pertain
+to privacy and emerging technologies.
+
+[graphic] The Division shall safeguard and minimize the collection and retention of personally
+identifiable information (PII) and limit access to authorized personnel only. No AI system shall
+collect, store, or transmit PII without prior approval through the Division’s vetting process and a
+signed Data Privacy Agreement that defines permissible uses, retention limits, and security
+standards.
+
+[graphic] Under no circumstances may any personally identifiable information or other confidential
+data be entered into publicly accessible generative AI tools that have not been formally approved by
+the Division. When using approved generative AI tools, users must limit input to the absolute
+minimum amount of data required to complete the task. Anonymized or de-identified data should be
+used whenever possible.
+
+PDF EXCERPT PAGE 3
+[graphic] The Division prohibits the use of AI-generated visuals in any manner that falsely
+represents real students, staff, schools, activities, or events, or that conflicts with Division brand
+standards, accessibility requirements, privacy protections, or public trust obligations. AI image tools
+may not be used where they require the upload, entry, or generation of personally identifiable
+information except through approved tools and approved data practices.
+
+[graphic] AI systems handling student data shall comply with FERPA requirements for consent,
+disclosure, and access rights. AI systems processing staff, parent, or community data shall use
+such data solely for legitimate educational or operational purposes, consistent with division policy.
+
+[graphic] All AI tools and vendors shall implement security-by-design practices that ensure
+encryption, secure hosting, and breach-response procedures consistent with the Division’s
+requirements for AI tools. The Division shall conduct privacy impact assessments for all AI systems
+prior to adoption to evaluate data flow, storage, and potential risks. Any data breach, misuse, or
+unauthorized disclosure involving AI systems shall be promptly investigated and reported in
+accordance with Division and state incident-response procedures.
+
+[graphic] The Division shall ensure approved AI tools use only the minimum data necessary to
+perform their educational or operational function. No AI tool shall transmit or store student or staff
+data to third parties without express Division approval and written contractual privacy assurances.
+
+[graphic] Vendors are prohibited from using Division data for AI model training or algorithm
+development. AI tools shall not reuse, sell, or employ data for model training or secondary purposes
+without explicit written consent from the Division and, when applicable, from parents or guardians.
+For AI systems relying on cloud or generative platforms, data shall be anonymized or de-identified
+to the fullest extent possible.
+
+[graphic] The Division shall maintain and publish a list of approved AI tools and their intended
+purposes.
+
+[graphic] Parents and guardians shall have the right to opt out of student participation in
+AI-supported instructional activities when feasible alternatives are available. Staff and students may
+request that their personal data not be used for AI training or automated decision-making systems.
+Requests for data access, correction, or opt-out shall follow procedures established under FERPA
+and Division data-access protocols.
+
+[graphic] The Division shall obtain verifiable parental consent for any AI tool or service used with
+students under the age of thirteen (13) that collects or processes personal data, in compliance with
+the Children’s Online Privacy Protection Act (COPPA).
+
+[graphic] The Division prohibits any AI use that infringes on student rights, undermines academic
+integrity, or enables unauthorized surveillance. This includes, but is not limited to, the use of AI tools
+for academic dishonesty, discriminatory profiling, unauthorized data collection, or any other
+application that conflicts with Division policy, law, or ethical standards.
+
+[graphic] AI-based monitoring or data analysis for safety or security purposes may be employed only
+when expressly authorized by the Superintendent or their designee, consistent with applicable law
+and Board policy, and limited to the minimum scope necessary to protect student and staff safety.
+
+PDF EXCERPT PAGE 4
+[graphic] Reports of misuse, bias, or data breaches shall be addressed promptly in accordance with
+procedures established by the Superintendent or their designee.
+
+[graphic] Users shall immediately notify the Director of Technology Services, or their designee, of
+any suspected or confirmed data breach, security vulnerability, or accidental transmission of
+personally identifiable information (PII) through a non-approved AI tool. The Division shall follow a
+documented Incident Response Protocol, which includes prompt investigation, mitigation,
+containment, and regulatory notification to affected parties consistent with state and federal law.
+
+[graphic] The Division shall maintain transparency with students, parents, and staff regarding the
+use of AI technologies. The list of approved tools, their intended purposes, and related privacy
+protections shall be published on the Division’s website.
+
+Procurement and Vendor Review
+Source: PDF pages 11–12 [graphic]
+
+[graphic] All AI systems, tools and vendors shall undergo a formal vetting and approval process
+prior to procurement or classroom use. The Division shall evaluate such systems and tools for
+instructional alignment, data security, equity impact, ethical design, and fiscal responsibility. AI tool
+evaluations shall include review by the following departments:
+
+• [graphic] Technology Services – to assess data security, encryption, and access controls.
+• [graphic] Legal Services – to verify compliance with FERPA, COPPA, intellectual-property rights,
+  and liability protections.
+[graphic] The Division shall maintain and publish a list of approved artificial intelligence tools that
+have undergone a formal security, privacy, and instructional review. The use of any AI tool not
+appearing on this list for official Division business or instruction is strictly prohibited. This provision is
+intended to prevent unapproved or “shadow AI” use and to safeguard student and staff data
+
+[graphic] The Director of Technology Services, or their designee, shall ensure that all approved AI
+vendors meet Division security standards, including:
+
+• [graphic] Data Encryption – All data must be encrypted in transit and at rest.
+• [graphic] Access Control – Vendors must use robust, role-based access controls limiting access
+  to authorized personnel.
+• [graphic] Audit and Monitoring – Vendors shall maintain detailed logs of all data access and
+  provide the Division with regular security audit reports
+[graphic] The Division shall discontinue and block use of any AI tool that fails to demonstrate
+compliance with Division standards or intended educational benefit.
+
+[graphic] Detailed procedures for evaluation, adoption, pilot implementation, and annual review of AI
+tools shall be established by the Superintendent or their designee and maintained as the Division’s
+AI Tool Vetting and Vendor Review Procedures.
+
+PDF EXCERPT PAGE 5
+Appendix B: AI Tool Vetting and Vendor Review Procedures, Step 3.
+Data Privacy and Security Review
+Source: PDF pages 15–16 [graphic]
+
+• [graphic] Determine whether the tool collects or stores personally identifiable information (PII).
+• [graphic] If yes, confirm compliance with FERPA, COPPA, HIPAA (for special education or health
+  data), and, where applicable, GDPR.
+• [graphic] Verify that:
+• [graphic] Data are encrypted in transit and at rest.
+• [graphic] Servers are hosted in the United States.
+• [graphic] The vendor provides clear data usage and retention policies.
+• [graphic] Vendor data are not used to train proprietary models or for commercial purposes.
+• [graphic] Tools failing privacy or security standards shall be rejected or flagged for remediation
+  by Technology Services and Legal.
+
+Appendix B: Step 5. IT and Cybersecurity Review (excerpt)
+Source: PDF page 16 [graphic]
+
+• [graphic] Verify compliance with Division Cybersecurity Standards Rubric (referencing the US
+  Department of Education Protecting Student Privacy and Cyber.org K–12 Standards).
+

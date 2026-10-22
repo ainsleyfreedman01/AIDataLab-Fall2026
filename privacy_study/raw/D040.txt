@@ -1,0 +1,65 @@
+PDF EXCERPT PAGE 1
+        Cherokee County School District AI
+     Administrative Guidelines: Data and Student
+                  Privacy Passages
+Excerpted verbatim from CCSD Administrative Guidelines Regarding Internet Acceptable Use (Artificial Intelligence)
+(Cherokee County School District, Georgia; revised July 2026). Page numbers match the document's own page numbering.
+Ellipses (…) mark omitted text, including stray list symbols and page headers from the PDF.
+
+
+Purpose and Scope (excerpt)
+Source: page 1
+
+It complements existing CCSD School Board Policies on technology use (IFBGA), data privacy
+(IFBG), academic integrity (IA) & (JD), and student support (IA).
+
+Guiding Principles for AI Use: Approved Tools Only (excerpt)
+Source: page 1
+
+• Approved Tools Only: Only district-approved AI tools may be used. All tools undergo a District
+  Approval Process to ensure they meet safety, security, age-appropriateness, and instructional
+  standards.
+• A regularly updated list of approved AI tools, including any usage/age restrictions, is maintained
+  on … the Instructional Resource Dashboard on the CCSD SharePoint site for staff to reference
+  and access.
+• Students may use AI-enabled tools only in accordance with district policy, legal requirements,
+  and … based on the tool’s age restrictions.
+
+Security, Privacy, and Safety
+Source: pages 1–2
+
+CCSD will implement safeguards to ensure the integrity, safety, and ethical operation of all AI
+systems used across the district. Protecting personal and confidential information remains a top
+priority. CCSD safeguards include district review and approval of AI tools, configuration of platform
+features when possible, alignment to Board policy, and ongoing review as technologies evolve. Staff
+are expected to use only district-approved tools and features enabled by CCSD.
+
+• Prohibited Data Entry: Staff and students must not input personally identifiable information (PII)
+  or confidential data into AI platforms (CCSD School Board Policy IFBG). Prohibited Data
+  includes Any combination of data that could reasonably identify an individual, such as):
+• Student and/or staff names and initials
+• Student and/or staff ID numbers
+• Dates of Birth
+• Assessment scores or performance data
+• Medical, IEP or ESOL information
+• Images, videos or audio recordings of students
+
+PDF EXCERPT PAGE 2
+• Compliance: All AI usage must comply with data protection laws such as FERPA and COPPA,
+  as well as district privacy policies. (CCSD School Board Policy IFBG).
+• CCSD Safeguards: CCSD will implement safeguards to protect the integrity, safety, and ethical
+  operation of all AI tools used across the district.
+If uncertain, do not input the information into AI tools.
+
+Responsible Academic Use of AI (excerpt)
+Source: pages 2–3
+
+• Approved Tools Only: Utilize software tools that leverage AI only if vetted and approved
+  through the CCSD Instructional Resource Approval Process.
+• Data Privacy: Never input confidential or personally identifiable information into AI platforms.
+• Self-Assessment Questions: These are questions that you should ask each time you generate
+  a prompt or … use an AI tool.
+• Could this prompt reveal the identity of a student or staff member?
+• Am I entering information considered confidential in other contexts?
+• Would I be comfortable sharing this information publicly?
+

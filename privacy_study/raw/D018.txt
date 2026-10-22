@@ -1,0 +1,32 @@
+PDF EXCERPT PAGE 1
+    Ben Hill County Schools (GA) AI Policy IFBG:
+        Data and Student Privacy Passages
+Excerpted verbatim from Artificial Intelligence - Approved Tools, including Board Policy IFBG (3): Artificial Intelligence (Ben
+Hill County Schools, Georgia web page). The source has no page numbers; locations are given by section. Web page; the
+approved-tools table is quoted only where it notes license limits.
+
+
+Approved Tools (excerpt)
+Source: web page, approved tools table
+
+• Canva AI — Education License Only
+• Gemini — Education License Only
+
+III. Guidelines for AI Use (excerpt)
+Source: web page, Board Policy IFBG (3)
+
+A. Legal compliance: Employees must comply with all applicable laws and regulations, including
+copyright, intellectual property rights, and data protection laws.
+
+E. Privacy and data security: Employees must respect the privacy and data security of individuals
+when using generative AI. It is prohibited to provide personally identifiable information of students or
+staff to generative AI tools. It is also prohibited to use generative AI to create content that invades
+the privacy or confidentiality of individuals, or to use data obtained through generative AI in a way
+that violates applicable privacy laws.
+
+IV. Permissible Use of AI Guidelines (excerpt)
+Source: web page, Board Policy IFBG (3)
+
+BHCS permits the use of district approved Artificial Intelligence. The School District is responsible
+for the review, approval, and ongoing management of a list of permissible AI tools.
+
