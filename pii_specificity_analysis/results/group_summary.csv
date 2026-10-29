@@ -1,0 +1,4 @@
+pii_group,districts,with_any_direction,with_training_direction,with_retention_direction,discusses_training,discusses_sharing,discusses_retention,n_with_long_excerpt,any_direction_pct,training_direction_pct,retention_direction_pct,discusses_training_pct,discusses_sharing_pct,discusses_retention_pct
+0 types,56,8,6,4,8,19,5,29,14.3,10.7,7.1,14.3,33.9,8.9
+1-3 types,28,5,4,2,9,14,2,23,17.9,14.3,7.1,32.1,50.0,7.1
+4+ types,26,6,5,2,11,12,5,25,23.1,19.2,7.7,42.3,46.2,19.2

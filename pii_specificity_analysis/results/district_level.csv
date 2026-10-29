@@ -1,0 +1,111 @@
+﻿organization,state,pii_item_count,document_count,max_excerpt_characters,training_direction,retention_direction,discusses_model_training,discusses_sharing_secondary_use,discusses_retention_deletion,pii_group,any_direction,excerpt_at_least_1000_chars
+ABC Unified School District,California,0,1,2463,False,False,False,False,False,0 types,False,True
+Academy District 20,Colorado,0,1,1990,False,False,False,True,False,0 types,False,True
+Ann Arbor Public Schools,Michigan,0,1,1636,True,False,True,False,False,0 types,True,True
+Argyle Independent School District,Texas,0,1,808,False,False,False,False,False,0 types,False,False
+Ascension Parish School Board,Louisiana,0,1,1730,False,False,False,False,False,0 types,False,True
+Atlanta Public Schools,Georgia,0,1,208,False,False,False,False,False,0 types,False,False
+Austin Independent School District,Texas,0,1,134,False,False,False,False,False,0 types,False,False
+Baldwin County Public Schools,Alabama,0,1,2544,False,False,True,False,False,0 types,False,True
+Barrington Public Schools,Rhode Island,0,1,171,False,False,False,False,False,0 types,False,False
+Ben Hill County Schools,Georgia,0,1,862,False,False,False,True,False,0 types,False,False
+Berkeley County Schools,West Virginia,0,1,234,False,False,False,False,False,0 types,False,False
+Brevard Public Schools,Florida,0,1,315,False,False,False,True,False,0 types,False,False
+Canyons School District,Utah,0,1,1045,False,False,False,False,False,0 types,False,True
+Carlsbad Unified School District,California,0,1,276,False,False,False,False,False,0 types,False,False
+Carmel Clay Schools,Indiana,0,1,907,False,False,False,False,False,0 types,False,False
+Charleston County School District,South Carolina,0,1,553,True,False,True,False,False,0 types,True,False
+Cherry Hill Public Schools,New Jersey,0,1,2429,False,False,False,False,False,0 types,False,True
+Christina School District,Delaware,0,1,285,False,False,False,False,False,0 types,False,False
+Clayton County Public Schools,Georgia,0,1,615,False,False,False,True,False,0 types,False,False
+Cutter Morning Star School District,Arkansas,0,2,1364,False,False,False,False,False,0 types,False,True
+Daviess County Public Schools,Kentucky,0,1,2410,True,True,True,True,True,0 types,True,True
+Dinuba Unified School District,California,0,1,2835,False,True,False,True,True,0 types,True,True
+Dothan City Schools,Alabama,0,1,10353,True,True,True,True,True,0 types,True,True
+East Baton Rouge Parish School System,Louisiana,0,1,558,False,False,False,False,False,0 types,False,False
+Edgemont Union Free School District,New York,0,1,2234,False,False,False,False,False,0 types,False,True
+Fargo Public Schools,North Dakota,0,1,450,False,False,False,False,False,0 types,False,False
+Fayette County Public Schools,Kentucky,0,1,1789,False,False,False,False,False,0 types,False,True
+Forsyth County Schools,Georgia,0,1,1813,False,False,False,False,False,0 types,False,True
+Greenville County Schools,South Carolina,0,1,469,False,False,False,True,False,0 types,False,False
+Gwinnett County Public Schools,Georgia,0,1,2248,False,False,False,True,False,0 types,False,True
+Highline Public Schools,Washington,0,1,488,False,False,False,False,False,0 types,False,False
+Hilliard City Schools,Ohio,0,1,4427,False,True,False,True,True,0 types,True,True
+IDEA Public Schools,Texas,0,1,924,False,False,False,False,False,0 types,False,False
+Iowa City Community School District,Iowa,0,2,1651,False,False,False,True,False,0 types,False,True
+Jackson County Schools,West Virginia,0,1,1201,True,False,True,False,False,0 types,True,True
+Jefferson School District,California,0,1,276,False,False,False,False,False,0 types,False,False
+Lodi Unified School District,California,0,1,578,False,False,False,False,False,0 types,False,False
+Long Beach Unified School District,California,0,1,1119,False,False,True,False,False,0 types,False,True
+Loudoun County Public Schools,Virginia,0,1,1244,False,False,False,False,False,0 types,False,True
+Metro Nashville Public Schools,Tennessee,0,2,1979,False,False,False,True,False,0 types,False,True
+Minneapolis Public Schools,Minnesota,0,1,2028,False,False,False,True,False,0 types,False,True
+Mustang Public Schools,Oklahoma,0,1,825,False,False,False,True,False,0 types,False,False
+Naperville Community Unit School District 203,Illinois,0,1,101,False,False,False,False,False,0 types,False,False
+Nemo Vista School District,Arkansas,0,2,1121,False,False,False,False,False,0 types,False,True
+Owasso Public Schools,Oklahoma,0,1,1515,False,False,False,True,False,0 types,False,True
+Palo Alto Unified School District,California,0,1,524,False,False,False,False,False,0 types,False,False
+Peninsula School District,Washington,0,1,108,False,False,False,False,False,0 types,False,False
+Quincy School District,Washington,0,1,131,False,False,False,False,False,0 types,False,False
+Rapides Parish School Board,Louisiana,0,1,1663,False,False,False,False,False,0 types,False,True
+Rochester City School District,New York,0,1,1519,False,False,False,True,True,0 types,False,True
+School District of Lee County,Florida,0,1,412,False,False,False,False,False,0 types,False,False
+Sheridan County School District 2,Wyoming,0,1,502,False,False,False,False,False,0 types,False,False
+Tacoma Public Schools,Washington,0,1,648,False,False,False,True,False,0 types,False,False
+Taliaferro County School District,Georgia,0,1,1644,False,False,False,True,False,0 types,False,True
+Union County Public Schools,Kentucky,0,1,1209,False,False,False,True,False,0 types,False,True
+Washoe County School District,Nevada,0,2,2386,True,False,True,False,False,0 types,True,True
+27J Schools,Colorado,1,2,877,False,False,False,False,False,1-3 types,False,False
+Allentown School District,Pennsylvania,1,1,4260,False,False,False,True,False,1-3 types,False,True
+Bentonville Schools,Arkansas,1,2,5943,True,False,True,False,False,1-3 types,True,True
+Bixby Public Schools,Oklahoma,2,1,1627,False,False,False,True,False,1-3 types,False,True
+Broward County Public Schools,Florida,1,1,16078,True,False,True,True,False,1-3 types,True,True
+Cambridge Public Schools,Massachusetts,3,1,1175,False,False,False,False,False,1-3 types,False,True
+Celina Independent School District,Texas,1,1,1480,False,False,False,False,False,1-3 types,False,True
+Cherry Creek School District,Colorado,1,1,2990,False,False,False,False,False,1-3 types,False,True
+Chicago Public Schools,Illinois,3,1,14895,True,True,True,True,True,1-3 types,True,True
+Elwood Union Free School District,New York,1,1,2002,False,False,False,True,False,1-3 types,False,True
+Falls Church City Public Schools,Virginia,2,1,1148,False,False,False,True,False,1-3 types,False,True
+Fort Bend Independent School District,Texas,3,1,2762,False,True,False,True,True,1-3 types,True,True
+Guilderland Central School District,New York,1,1,5355,False,False,False,True,False,1-3 types,False,True
+Hempfield School District,Pennsylvania,1,1,1937,False,False,False,True,False,1-3 types,False,True
+Hingham Public Schools,Massachusetts,1,1,736,False,False,False,False,False,1-3 types,False,False
+Holliston Public Schools,Massachusetts,3,1,338,False,False,True,False,False,1-3 types,False,False
+Hudson City School District,New York,1,1,3116,True,False,True,True,False,1-3 types,True,True
+Hyde Park Central School District,New York,1,1,1530,False,False,True,True,False,1-3 types,False,True
+Jeffco Public Schools,Colorado,3,2,1501,False,False,False,False,False,1-3 types,False,True
+Moore Public Schools,Oklahoma,3,1,709,False,False,False,False,False,1-3 types,False,False
+New York City Public Schools,New York,1,1,2724,False,False,False,True,False,1-3 types,False,True
+Orange County Public Schools,Florida,1,1,5519,False,False,True,False,False,1-3 types,False,True
+Oxnard Union High School District,California,1,2,1765,False,False,False,False,False,1-3 types,False,True
+Pottsgrove School District,Pennsylvania,1,1,1670,False,False,False,False,False,1-3 types,False,True
+Quaker Valley School District,Pennsylvania,1,1,3207,False,False,True,False,False,1-3 types,False,True
+San Mateo Union High School District,California,2,1,853,False,False,False,False,False,1-3 types,False,False
+Stillwater Public Schools,Oklahoma,1,1,3442,False,False,True,True,False,1-3 types,False,True
+Valley Central School District,New York,1,1,1616,False,False,False,True,False,1-3 types,False,True
+Bellevue School District,Washington,10,1,5782,True,False,True,True,True,4+ types,True,True
+Boston Public Schools,Massachusetts,6,1,4748,True,False,True,False,False,4+ types,True,True
+Campbell County School District 1,Wyoming,6,1,6251,True,False,True,False,False,4+ types,True,True
+Charlotte-Mecklenburg Schools,North Carolina,21,3,8748,False,False,True,False,False,4+ types,False,True
+Cherokee County School District,Georgia,8,1,2629,False,False,False,False,False,4+ types,False,True
+Collier County Public Schools,Florida,5,1,4539,False,False,False,False,False,4+ types,False,True
+Dallas Independent School District,Texas,4,1,3329,False,False,False,False,False,4+ types,False,True
+Fairfax County Public Schools,Virginia,9,2,3495,False,False,False,True,True,4+ types,False,True
+Grant Parish School Board,Louisiana,5,1,5182,False,False,False,True,False,4+ types,False,True
+Houston Independent School District,Texas,4,2,12670,False,False,True,False,False,4+ types,False,True
+Los Angeles Unified School District,California,9,1,4151,False,False,False,True,False,4+ types,False,True
+Manchester School District,New Hampshire,11,2,3243,False,False,False,False,False,4+ types,False,True
+Newton Public Schools,Massachusetts,6,1,2293,False,False,False,False,False,4+ types,False,True
+Ouachita Parish School Board,Louisiana,4,1,2737,False,False,False,False,False,4+ types,False,True
+Pharr-San Juan-Alamo Independent School District,Texas,10,1,4181,False,False,False,False,False,4+ types,False,True
+Plano Independent School District,Texas,8,1,2077,False,False,True,True,False,4+ types,False,True
+Portland Public Schools,Oregon,6,2,5898,False,False,True,True,False,4+ types,False,True
+Richland School District One,South Carolina,9,1,2673,False,False,False,True,False,4+ types,False,True
+Richmond Public Schools,Virginia,5,1,11621,True,True,True,True,True,4+ types,True,True
+School District of Philadelphia,Pennsylvania,11,1,5199,True,False,True,True,False,4+ types,True,True
+Seattle Public Schools,Washington,6,1,1624,False,True,True,True,True,4+ types,True,True
+Seminole County Public Schools,Florida,4,1,1721,False,False,False,True,False,4+ types,False,True
+Sioux Falls School District,South Dakota,4,1,867,False,False,False,False,True,4+ types,False,False
+Spartanburg School District Four,South Carolina,14,1,3019,False,False,False,False,False,4+ types,False,True
+Springfield Public Schools,Missouri,11,1,8179,False,False,True,True,False,4+ types,False,True
+York School District One,South Carolina,7,2,2686,False,False,False,False,False,4+ types,False,True
